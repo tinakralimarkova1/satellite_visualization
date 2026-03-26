@@ -1,6 +1,21 @@
 import { appState } from "./state.js";
 
 let countryYearData = [];
+let countryColorMap = {};
+
+function generateColorMap(countries) {
+  const palette = [
+    "#1f77b4", "#ff7f0e", "#2ca02c", "#d62728",
+    "#9467bd", "#8c564b", "#e377c2", "#7f7f7f",
+    "#bcbd22", "#17becf", "#393b79", "#637939"
+  ];
+
+  countries.forEach((country, index) => {
+    if (!countryColorMap[country]) {
+      countryColorMap[country] = palette[index % palette.length];
+    }
+  });
+}
 
 export async function initializeCountryFilter() {
   const response = await fetch("./data/launches_by_year_country.json");
@@ -20,13 +35,14 @@ export async function initializeCountryFilter() {
   countryYearData.forEach(row => {
     const country = row.country;
     const count = row.count;
-
     countryTotals.set(country, (countryTotals.get(country) || 0) + count);
   });
 
   const sortedCountries = Array.from(countryTotals.entries())
     .sort((a, b) => b[1] - a[1])
     .map(entry => entry[0]);
+
+  generateColorMap(sortedCountries);
 
   const defaultCountries = sortedCountries.slice(0, 8);
   appState.selectedCountries = [...defaultCountries];
@@ -41,13 +57,13 @@ export async function initializeCountryFilter() {
     `;
 
     const checkbox = label.querySelector("input");
-    checkbox.addEventListener("change", () => {
+    checkbox.addEventListener("change", async () => {
       const checkedCountries = Array.from(
         checkboxContainer.querySelectorAll("input:checked")
       ).map(input => input.value);
 
       appState.selectedCountries = checkedCountries;
-      renderCountryStackedChart();
+      await renderCountryStackedChart();
     });
 
     checkboxContainer.appendChild(label);
@@ -63,19 +79,21 @@ export async function renderCountryStackedChart() {
     countryYearData = await response.json();
   }
 
-  const chartEl = document.getElementById("chart-purpose");
+  const chartEl = document.getElementById("chart-launches-countries");
   if (!chartEl) {
-    throw new Error("Could not find #chart-purpose");
+    throw new Error("Could not find #chart-launches-countries");
   }
 
   const selectedCountries = appState.selectedCountries;
+  const [minYear, maxYear] = appState.yearRange;
+
   const filtered = countryYearData.filter(row =>
-    selectedCountries.includes(row.country)
+    selectedCountries.includes(row.country) &&
+    row.year >= minYear &&
+    row.year <= maxYear
   );
 
-  const years = Array.from(
-    new Set(filtered.map(row => row.year))
-  ).sort((a, b) => a - b);
+  const years = Array.from(new Set(filtered.map(row => row.year))).sort((a, b) => a - b);
 
   const traces = selectedCountries.map(country => {
     const countryRows = filtered.filter(row => row.country === country);
@@ -86,7 +104,11 @@ export async function renderCountryStackedChart() {
       y: years.map(year => countMap.get(year) || 0),
       type: "bar",
       name: country,
-      hovertemplate: "Year: %{x}<br>Country: " + country + "<br>Launches: %{y}<extra></extra>"
+      marker: {
+        color: countryColorMap[country]
+      },
+      hovertemplate:
+        "Year: %{x}<br>Country: " + country + "<br>Launches: %{y}<extra></extra>"
     };
   });
 

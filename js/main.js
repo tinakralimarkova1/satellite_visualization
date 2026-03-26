@@ -1,6 +1,6 @@
 import { appState } from "./state.js";
 import { renderLaunchesChart } from "./launches.js";
-import { initializeCountryFilter, renderCountryStackedChart } from "./purpose.js";
+import { initializeCountryFilter, renderCountryStackedChart } from "./launches-countries.js";
 
 function initializeYearSlider() {
   const sliderEl = document.getElementById("year-slider");
@@ -21,7 +21,7 @@ function initializeYearSlider() {
     }
   });
 
-  sliderEl.noUiSlider.on("update", values => {
+  sliderEl.noUiSlider.on("update", async values => {
     const minYear = Math.round(values[0]);
     const maxYear = Math.round(values[1]);
 
@@ -29,6 +29,10 @@ function initializeYearSlider() {
     maxLabel.textContent = maxYear;
 
     appState.yearRange = [minYear, maxYear];
+
+    await renderLaunchesChart();
+    await renderCountryStackedChart();
+    // await renderPurposeChart();
   });
 }
 
@@ -50,6 +54,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         }
 
         await initializeCountryFilter();
+        await renderLaunchesChart();
         await renderCountryStackedChart();
       });
     }
