@@ -1,6 +1,7 @@
 import { appState } from "./state.js";
 import { renderLaunchesChart } from "./launches.js";
 import { initializeCountryFilter, renderCountryStackedChart } from "./launches-countries.js";
+import { renderPurposeStackedChart } from "./launches-by-year-purpose.js";
 
 function initializeYearSlider() {
   const sliderEl = document.getElementById("year-slider");
@@ -32,7 +33,8 @@ function initializeYearSlider() {
 
     await renderLaunchesChart();
     await renderCountryStackedChart();
-    // await renderPurposeChart();
+    await renderPurposeStackedChart();
+
   });
 }
 
@@ -43,6 +45,8 @@ document.addEventListener("DOMContentLoaded", async () => {
     await renderLaunchesChart();
     await initializeCountryFilter();
     await renderCountryStackedChart();
+    await renderPurposeStackedChart();
+
 
     const resetButton = document.getElementById("reset-filters");
     const sliderEl = document.getElementById("year-slider");
@@ -56,6 +60,8 @@ document.addEventListener("DOMContentLoaded", async () => {
         await initializeCountryFilter();
         await renderLaunchesChart();
         await renderCountryStackedChart();
+        await renderPurposeStackedChart();
+
       });
     }
   } catch (error) {

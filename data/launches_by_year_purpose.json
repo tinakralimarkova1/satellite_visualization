@@ -1,0 +1,1577 @@
+[
+  {
+    "year": 1957,
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1958,
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1958,
+    "purpose": "Military",
+    "count": 4
+  },
+  {
+    "year": 1958,
+    "purpose": "Unknown",
+    "count": 5
+  },
+  {
+    "year": 1959,
+    "purpose": "Civil",
+    "count": 11
+  },
+  {
+    "year": 1959,
+    "purpose": "Military",
+    "count": 7
+  },
+  {
+    "year": 1959,
+    "purpose": "Unknown",
+    "count": 5
+  },
+  {
+    "year": 1960,
+    "purpose": "Civil",
+    "count": 28
+  },
+  {
+    "year": 1960,
+    "purpose": "Military",
+    "count": 15
+  },
+  {
+    "year": 1960,
+    "purpose": "Unknown",
+    "count": 9
+  },
+  {
+    "year": 1961,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1961,
+    "purpose": "Civil",
+    "count": 35
+  },
+  {
+    "year": 1961,
+    "purpose": "Military",
+    "count": 364
+  },
+  {
+    "year": 1961,
+    "purpose": "Unknown",
+    "count": 21
+  },
+  {
+    "year": 1962,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1962,
+    "purpose": "Civil",
+    "count": 102
+  },
+  {
+    "year": 1962,
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1962,
+    "purpose": "Military",
+    "count": 67
+  },
+  {
+    "year": 1962,
+    "purpose": "Unknown",
+    "count": 36
+  },
+  {
+    "year": 1963,
+    "purpose": "Civil",
+    "count": 65
+  },
+  {
+    "year": 1963,
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1963,
+    "purpose": "Military",
+    "count": 242
+  },
+  {
+    "year": 1963,
+    "purpose": "Unknown",
+    "count": 34
+  },
+  {
+    "year": 1964,
+    "purpose": "Civil",
+    "count": 121
+  },
+  {
+    "year": 1964,
+    "purpose": "Military",
+    "count": 235
+  },
+  {
+    "year": 1964,
+    "purpose": "Unknown",
+    "count": 45
+  },
+  {
+    "year": 1965,
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 1965,
+    "purpose": "Civil",
+    "count": 336
+  },
+  {
+    "year": 1965,
+    "purpose": "Military",
+    "count": 1135
+  },
+  {
+    "year": 1965,
+    "purpose": "Unknown",
+    "count": 57
+  },
+  {
+    "year": 1966,
+    "purpose": "Civil",
+    "count": 329
+  },
+  {
+    "year": 1966,
+    "purpose": "Military",
+    "count": 367
+  },
+  {
+    "year": 1966,
+    "purpose": "Unknown",
+    "count": 102
+  },
+  {
+    "year": 1967,
+    "purpose": "Civil",
+    "count": 145
+  },
+  {
+    "year": 1967,
+    "purpose": "Military",
+    "count": 263
+  },
+  {
+    "year": 1967,
+    "purpose": "Unknown",
+    "count": 40
+  },
+  {
+    "year": 1968,
+    "purpose": "Civil",
+    "count": 167
+  },
+  {
+    "year": 1968,
+    "purpose": "Military",
+    "count": 499
+  },
+  {
+    "year": 1968,
+    "purpose": "Unknown",
+    "count": 30
+  },
+  {
+    "year": 1969,
+    "purpose": "Civil",
+    "count": 102
+  },
+  {
+    "year": 1969,
+    "purpose": "Military",
+    "count": 508
+  },
+  {
+    "year": 1969,
+    "purpose": "Unknown",
+    "count": 34
+  },
+  {
+    "year": 1970,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "purpose": "Civil",
+    "count": 518
+  },
+  {
+    "year": 1970,
+    "purpose": "Military",
+    "count": 367
+  },
+  {
+    "year": 1970,
+    "purpose": "Unknown",
+    "count": 25
+  },
+  {
+    "year": 1971,
+    "purpose": "Civil",
+    "count": 127
+  },
+  {
+    "year": 1971,
+    "purpose": "Military",
+    "count": 478
+  },
+  {
+    "year": 1971,
+    "purpose": "Unknown",
+    "count": 38
+  },
+  {
+    "year": 1972,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "purpose": "Civil",
+    "count": 333
+  },
+  {
+    "year": 1972,
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "purpose": "Military",
+    "count": 297
+  },
+  {
+    "year": 1972,
+    "purpose": "Unknown",
+    "count": 26
+  },
+  {
+    "year": 1973,
+    "purpose": "Civil",
+    "count": 297
+  },
+  {
+    "year": 1973,
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1973,
+    "purpose": "Military",
+    "count": 557
+  },
+  {
+    "year": 1973,
+    "purpose": "Unknown",
+    "count": 23
+  },
+  {
+    "year": 1974,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1974,
+    "purpose": "Civil",
+    "count": 304
+  },
+  {
+    "year": 1974,
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 1974,
+    "purpose": "Military",
+    "count": 395
+  },
+  {
+    "year": 1974,
+    "purpose": "Unknown",
+    "count": 28
+  },
+  {
+    "year": 1975,
+    "purpose": "Civil",
+    "count": 635
+  },
+  {
+    "year": 1975,
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 1975,
+    "purpose": "Military",
+    "count": 515
+  },
+  {
+    "year": 1975,
+    "purpose": "Unknown",
+    "count": 23
+  },
+  {
+    "year": 1976,
+    "purpose": "Civil",
+    "count": 497
+  },
+  {
+    "year": 1976,
+    "purpose": "Commercial",
+    "count": 14
+  },
+  {
+    "year": 1976,
+    "purpose": "Military",
+    "count": 734
+  },
+  {
+    "year": 1976,
+    "purpose": "Unknown",
+    "count": 20
+  },
+  {
+    "year": 1977,
+    "purpose": "Civil",
+    "count": 371
+  },
+  {
+    "year": 1977,
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 1977,
+    "purpose": "Military",
+    "count": 557
+  },
+  {
+    "year": 1977,
+    "purpose": "Unknown",
+    "count": 21
+  },
+  {
+    "year": 1978,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1978,
+    "purpose": "Civil",
+    "count": 373
+  },
+  {
+    "year": 1978,
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 1978,
+    "purpose": "Military",
+    "count": 388
+  },
+  {
+    "year": 1978,
+    "purpose": "Unknown",
+    "count": 26
+  },
+  {
+    "year": 1979,
+    "purpose": "Civil",
+    "count": 106
+  },
+  {
+    "year": 1979,
+    "purpose": "Commercial",
+    "count": 32
+  },
+  {
+    "year": 1979,
+    "purpose": "Military",
+    "count": 724
+  },
+  {
+    "year": 1979,
+    "purpose": "Unknown",
+    "count": 15
+  },
+  {
+    "year": 1980,
+    "purpose": "Civil",
+    "count": 53
+  },
+  {
+    "year": 1980,
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1980,
+    "purpose": "Military",
+    "count": 577
+  },
+  {
+    "year": 1980,
+    "purpose": "Unknown",
+    "count": 16
+  },
+  {
+    "year": 1981,
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 1981,
+    "purpose": "Civil",
+    "count": 91
+  },
+  {
+    "year": 1981,
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 1981,
+    "purpose": "Military",
+    "count": 1072
+  },
+  {
+    "year": 1981,
+    "purpose": "Unknown",
+    "count": 23
+  },
+  {
+    "year": 1982,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1982,
+    "purpose": "Civil",
+    "count": 2044
+  },
+  {
+    "year": 1982,
+    "purpose": "Commercial",
+    "count": 9
+  },
+  {
+    "year": 1982,
+    "purpose": "Military",
+    "count": 677
+  },
+  {
+    "year": 1982,
+    "purpose": "Unknown",
+    "count": 19
+  },
+  {
+    "year": 1983,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1983,
+    "purpose": "Civil",
+    "count": 145
+  },
+  {
+    "year": 1983,
+    "purpose": "Commercial",
+    "count": 19
+  },
+  {
+    "year": 1983,
+    "purpose": "Military",
+    "count": 702
+  },
+  {
+    "year": 1983,
+    "purpose": "Unknown",
+    "count": 27
+  },
+  {
+    "year": 1984,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "purpose": "Civil",
+    "count": 96
+  },
+  {
+    "year": 1984,
+    "purpose": "Commercial",
+    "count": 52
+  },
+  {
+    "year": 1984,
+    "purpose": "Military",
+    "count": 603
+  },
+  {
+    "year": 1984,
+    "purpose": "Unknown",
+    "count": 19
+  },
+  {
+    "year": 1985,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1985,
+    "purpose": "Civil",
+    "count": 61
+  },
+  {
+    "year": 1985,
+    "purpose": "Commercial",
+    "count": 45
+  },
+  {
+    "year": 1985,
+    "purpose": "Military",
+    "count": 683
+  },
+  {
+    "year": 1985,
+    "purpose": "Unknown",
+    "count": 14
+  },
+  {
+    "year": 1986,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1986,
+    "purpose": "Civil",
+    "count": 363
+  },
+  {
+    "year": 1986,
+    "purpose": "Commercial",
+    "count": 506
+  },
+  {
+    "year": 1986,
+    "purpose": "Military",
+    "count": 477
+  },
+  {
+    "year": 1986,
+    "purpose": "Unknown",
+    "count": 11
+  },
+  {
+    "year": 1987,
+    "purpose": "Civil",
+    "count": 66
+  },
+  {
+    "year": 1987,
+    "purpose": "Commercial",
+    "count": 8
+  },
+  {
+    "year": 1987,
+    "purpose": "Military",
+    "count": 1081
+  },
+  {
+    "year": 1987,
+    "purpose": "Unknown",
+    "count": 12
+  },
+  {
+    "year": 1988,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "purpose": "Civil",
+    "count": 62
+  },
+  {
+    "year": 1988,
+    "purpose": "Commercial",
+    "count": 74
+  },
+  {
+    "year": 1988,
+    "purpose": "Military",
+    "count": 671
+  },
+  {
+    "year": 1988,
+    "purpose": "Unknown",
+    "count": 15
+  },
+  {
+    "year": 1989,
+    "purpose": "Civil",
+    "count": 172
+  },
+  {
+    "year": 1989,
+    "purpose": "Commercial",
+    "count": 129
+  },
+  {
+    "year": 1989,
+    "purpose": "Military",
+    "count": 637
+  },
+  {
+    "year": 1989,
+    "purpose": "Unknown",
+    "count": 16
+  },
+  {
+    "year": 1990,
+    "purpose": "Academic",
+    "count": 5
+  },
+  {
+    "year": 1990,
+    "purpose": "Civil",
+    "count": 195
+  },
+  {
+    "year": 1990,
+    "purpose": "Commercial",
+    "count": 49
+  },
+  {
+    "year": 1990,
+    "purpose": "Military",
+    "count": 435
+  },
+  {
+    "year": 1990,
+    "purpose": "Unknown",
+    "count": 17
+  },
+  {
+    "year": 1991,
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 1991,
+    "purpose": "Civil",
+    "count": 193
+  },
+  {
+    "year": 1991,
+    "purpose": "Commercial",
+    "count": 80
+  },
+  {
+    "year": 1991,
+    "purpose": "Military",
+    "count": 533
+  },
+  {
+    "year": 1991,
+    "purpose": "Unknown",
+    "count": 12
+  },
+  {
+    "year": 1992,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "purpose": "Civil",
+    "count": 88
+  },
+  {
+    "year": 1992,
+    "purpose": "Commercial",
+    "count": 121
+  },
+  {
+    "year": 1992,
+    "purpose": "Military",
+    "count": 534
+  },
+  {
+    "year": 1992,
+    "purpose": "Unknown",
+    "count": 12
+  },
+  {
+    "year": 1993,
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 1993,
+    "purpose": "Civil",
+    "count": 73
+  },
+  {
+    "year": 1993,
+    "purpose": "Commercial",
+    "count": 52
+  },
+  {
+    "year": 1993,
+    "purpose": "Military",
+    "count": 2042
+  },
+  {
+    "year": 1993,
+    "purpose": "Unknown",
+    "count": 9
+  },
+  {
+    "year": 1994,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "purpose": "Civil",
+    "count": 75
+  },
+  {
+    "year": 1994,
+    "purpose": "Commercial",
+    "count": 796
+  },
+  {
+    "year": 1994,
+    "purpose": "Military",
+    "count": 429
+  },
+  {
+    "year": 1994,
+    "purpose": "Unknown",
+    "count": 12
+  },
+  {
+    "year": 1995,
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 1995,
+    "purpose": "Civil",
+    "count": 87
+  },
+  {
+    "year": 1995,
+    "purpose": "Commercial",
+    "count": 49
+  },
+  {
+    "year": 1995,
+    "purpose": "Military",
+    "count": 385
+  },
+  {
+    "year": 1995,
+    "purpose": "Unknown",
+    "count": 18
+  },
+  {
+    "year": 1996,
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 1996,
+    "purpose": "Civil",
+    "count": 60
+  },
+  {
+    "year": 1996,
+    "purpose": "Commercial",
+    "count": 73
+  },
+  {
+    "year": 1996,
+    "purpose": "Military",
+    "count": 100
+  },
+  {
+    "year": 1996,
+    "purpose": "Unknown",
+    "count": 13
+  },
+  {
+    "year": 1997,
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "purpose": "Civil",
+    "count": 76
+  },
+  {
+    "year": 1997,
+    "purpose": "Commercial",
+    "count": 819
+  },
+  {
+    "year": 1997,
+    "purpose": "Military",
+    "count": 120
+  },
+  {
+    "year": 1997,
+    "purpose": "Unknown",
+    "count": 4
+  },
+  {
+    "year": 1998,
+    "purpose": "Academic",
+    "count": 5
+  },
+  {
+    "year": 1998,
+    "purpose": "Civil",
+    "count": 84
+  },
+  {
+    "year": 1998,
+    "purpose": "Commercial",
+    "count": 157
+  },
+  {
+    "year": 1998,
+    "purpose": "Military",
+    "count": 84
+  },
+  {
+    "year": 1998,
+    "purpose": "Unknown",
+    "count": 13
+  },
+  {
+    "year": 1999,
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 1999,
+    "purpose": "Civil",
+    "count": 4049
+  },
+  {
+    "year": 1999,
+    "purpose": "Commercial",
+    "count": 134
+  },
+  {
+    "year": 1999,
+    "purpose": "Military",
+    "count": 108
+  },
+  {
+    "year": 1999,
+    "purpose": "Unknown",
+    "count": 6
+  },
+  {
+    "year": 2000,
+    "purpose": "Academic",
+    "count": 9
+  },
+  {
+    "year": 2000,
+    "purpose": "Civil",
+    "count": 557
+  },
+  {
+    "year": 2000,
+    "purpose": "Commercial",
+    "count": 91
+  },
+  {
+    "year": 2000,
+    "purpose": "Military",
+    "count": 70
+  },
+  {
+    "year": 2000,
+    "purpose": "Unknown",
+    "count": 11
+  },
+  {
+    "year": 2001,
+    "purpose": "Civil",
+    "count": 471
+  },
+  {
+    "year": 2001,
+    "purpose": "Commercial",
+    "count": 57
+  },
+  {
+    "year": 2001,
+    "purpose": "Military",
+    "count": 73
+  },
+  {
+    "year": 2001,
+    "purpose": "Unknown",
+    "count": 17
+  },
+  {
+    "year": 2002,
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2002,
+    "purpose": "Civil",
+    "count": 203
+  },
+  {
+    "year": 2002,
+    "purpose": "Commercial",
+    "count": 74
+  },
+  {
+    "year": 2002,
+    "purpose": "Military",
+    "count": 104
+  },
+  {
+    "year": 2002,
+    "purpose": "Unknown",
+    "count": 11
+  },
+  {
+    "year": 2003,
+    "purpose": "Academic",
+    "count": 6
+  },
+  {
+    "year": 2003,
+    "purpose": "Civil",
+    "count": 79
+  },
+  {
+    "year": 2003,
+    "purpose": "Commercial",
+    "count": 64
+  },
+  {
+    "year": 2003,
+    "purpose": "Military",
+    "count": 84
+  },
+  {
+    "year": 2003,
+    "purpose": "Unknown",
+    "count": 10
+  },
+  {
+    "year": 2004,
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2004,
+    "purpose": "Civil",
+    "count": 96
+  },
+  {
+    "year": 2004,
+    "purpose": "Commercial",
+    "count": 54
+  },
+  {
+    "year": 2004,
+    "purpose": "Military",
+    "count": 55
+  },
+  {
+    "year": 2004,
+    "purpose": "Unknown",
+    "count": 10
+  },
+  {
+    "year": 2005,
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2005,
+    "purpose": "Civil",
+    "count": 97
+  },
+  {
+    "year": 2005,
+    "purpose": "Commercial",
+    "count": 50
+  },
+  {
+    "year": 2005,
+    "purpose": "Military",
+    "count": 39
+  },
+  {
+    "year": 2005,
+    "purpose": "Unknown",
+    "count": 10
+  },
+  {
+    "year": 2006,
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2006,
+    "purpose": "Civil",
+    "count": 260
+  },
+  {
+    "year": 2006,
+    "purpose": "Commercial",
+    "count": 64
+  },
+  {
+    "year": 2006,
+    "purpose": "Military",
+    "count": 835
+  },
+  {
+    "year": 2006,
+    "purpose": "Unknown",
+    "count": 17
+  },
+  {
+    "year": 2007,
+    "purpose": "Academic",
+    "count": 5
+  },
+  {
+    "year": 2007,
+    "purpose": "Civil",
+    "count": 144
+  },
+  {
+    "year": 2007,
+    "purpose": "Commercial",
+    "count": 104
+  },
+  {
+    "year": 2007,
+    "purpose": "Military",
+    "count": 101
+  },
+  {
+    "year": 2007,
+    "purpose": "Unknown",
+    "count": 14
+  },
+  {
+    "year": 2008,
+    "purpose": "Academic",
+    "count": 6
+  },
+  {
+    "year": 2008,
+    "purpose": "Civil",
+    "count": 261
+  },
+  {
+    "year": 2008,
+    "purpose": "Commercial",
+    "count": 72
+  },
+  {
+    "year": 2008,
+    "purpose": "Military",
+    "count": 71
+  },
+  {
+    "year": 2008,
+    "purpose": "Unknown",
+    "count": 12
+  },
+  {
+    "year": 2009,
+    "purpose": "Academic",
+    "count": 13
+  },
+  {
+    "year": 2009,
+    "purpose": "Civil",
+    "count": 214
+  },
+  {
+    "year": 2009,
+    "purpose": "Commercial",
+    "count": 94
+  },
+  {
+    "year": 2009,
+    "purpose": "Military",
+    "count": 62
+  },
+  {
+    "year": 2009,
+    "purpose": "Unknown",
+    "count": 20
+  },
+  {
+    "year": 2010,
+    "purpose": "Academic",
+    "count": 8
+  },
+  {
+    "year": 2010,
+    "purpose": "Civil",
+    "count": 202
+  },
+  {
+    "year": 2010,
+    "purpose": "Commercial",
+    "count": 58
+  },
+  {
+    "year": 2010,
+    "purpose": "Military",
+    "count": 129
+  },
+  {
+    "year": 2010,
+    "purpose": "Unknown",
+    "count": 18
+  },
+  {
+    "year": 2011,
+    "purpose": "Academic",
+    "count": 8
+  },
+  {
+    "year": 2011,
+    "purpose": "Civil",
+    "count": 183
+  },
+  {
+    "year": 2011,
+    "purpose": "Commercial",
+    "count": 56
+  },
+  {
+    "year": 2011,
+    "purpose": "Military",
+    "count": 401
+  },
+  {
+    "year": 2011,
+    "purpose": "Unknown",
+    "count": 22
+  },
+  {
+    "year": 2012,
+    "purpose": "Academic",
+    "count": 16
+  },
+  {
+    "year": 2012,
+    "purpose": "Civil",
+    "count": 346
+  },
+  {
+    "year": 2012,
+    "purpose": "Commercial",
+    "count": 62
+  },
+  {
+    "year": 2012,
+    "purpose": "Military",
+    "count": 40
+  },
+  {
+    "year": 2012,
+    "purpose": "Unknown",
+    "count": 17
+  },
+  {
+    "year": 2013,
+    "purpose": "Academic",
+    "count": 47
+  },
+  {
+    "year": 2013,
+    "purpose": "Civil",
+    "count": 148
+  },
+  {
+    "year": 2013,
+    "purpose": "Commercial",
+    "count": 92
+  },
+  {
+    "year": 2013,
+    "purpose": "Military",
+    "count": 107
+  },
+  {
+    "year": 2013,
+    "purpose": "Unknown",
+    "count": 53
+  },
+  {
+    "year": 2014,
+    "purpose": "Academic",
+    "count": 32
+  },
+  {
+    "year": 2014,
+    "purpose": "Civil",
+    "count": 127
+  },
+  {
+    "year": 2014,
+    "purpose": "Commercial",
+    "count": 270
+  },
+  {
+    "year": 2014,
+    "purpose": "Military",
+    "count": 146
+  },
+  {
+    "year": 2014,
+    "purpose": "Unknown",
+    "count": 27
+  },
+  {
+    "year": 2015,
+    "purpose": "Academic",
+    "count": 30
+  },
+  {
+    "year": 2015,
+    "purpose": "Civil",
+    "count": 130
+  },
+  {
+    "year": 2015,
+    "purpose": "Commercial",
+    "count": 142
+  },
+  {
+    "year": 2015,
+    "purpose": "Military",
+    "count": 72
+  },
+  {
+    "year": 2015,
+    "purpose": "Unknown",
+    "count": 20
+  },
+  {
+    "year": 2016,
+    "purpose": "Academic",
+    "count": 24
+  },
+  {
+    "year": 2016,
+    "purpose": "Civil",
+    "count": 126
+  },
+  {
+    "year": 2016,
+    "purpose": "Commercial",
+    "count": 164
+  },
+  {
+    "year": 2016,
+    "purpose": "Military",
+    "count": 29
+  },
+  {
+    "year": 2016,
+    "purpose": "Unknown",
+    "count": 53
+  },
+  {
+    "year": 2017,
+    "purpose": "Academic",
+    "count": 51
+  },
+  {
+    "year": 2017,
+    "purpose": "Civil",
+    "count": 113
+  },
+  {
+    "year": 2017,
+    "purpose": "Commercial",
+    "count": 326
+  },
+  {
+    "year": 2017,
+    "purpose": "Military",
+    "count": 50
+  },
+  {
+    "year": 2017,
+    "purpose": "Unknown",
+    "count": 34
+  },
+  {
+    "year": 2018,
+    "purpose": "Academic",
+    "count": 66
+  },
+  {
+    "year": 2018,
+    "purpose": "Civil",
+    "count": 349
+  },
+  {
+    "year": 2018,
+    "purpose": "Commercial",
+    "count": 463
+  },
+  {
+    "year": 2018,
+    "purpose": "Military",
+    "count": 69
+  },
+  {
+    "year": 2018,
+    "purpose": "Unknown",
+    "count": 50
+  },
+  {
+    "year": 2019,
+    "purpose": "Academic",
+    "count": 51
+  },
+  {
+    "year": 2019,
+    "purpose": "Civil",
+    "count": 132
+  },
+  {
+    "year": 2019,
+    "purpose": "Commercial",
+    "count": 355
+  },
+  {
+    "year": 2019,
+    "purpose": "Military",
+    "count": 219
+  },
+  {
+    "year": 2019,
+    "purpose": "Unknown",
+    "count": 52
+  },
+  {
+    "year": 2020,
+    "purpose": "Academic",
+    "count": 26
+  },
+  {
+    "year": 2020,
+    "purpose": "Civil",
+    "count": 96
+  },
+  {
+    "year": 2020,
+    "purpose": "Commercial",
+    "count": 1221
+  },
+  {
+    "year": 2020,
+    "purpose": "Military",
+    "count": 81
+  },
+  {
+    "year": 2020,
+    "purpose": "Unknown",
+    "count": 29
+  },
+  {
+    "year": 2021,
+    "purpose": "Academic",
+    "count": 61
+  },
+  {
+    "year": 2021,
+    "purpose": "Civil",
+    "count": 153
+  },
+  {
+    "year": 2021,
+    "purpose": "Commercial",
+    "count": 1673
+  },
+  {
+    "year": 2021,
+    "purpose": "Military",
+    "count": 66
+  },
+  {
+    "year": 2021,
+    "purpose": "Unknown",
+    "count": 83
+  },
+  {
+    "year": 2022,
+    "purpose": "Academic",
+    "count": 82
+  },
+  {
+    "year": 2022,
+    "purpose": "Civil",
+    "count": 984
+  },
+  {
+    "year": 2022,
+    "purpose": "Commercial",
+    "count": 2344
+  },
+  {
+    "year": 2022,
+    "purpose": "Military",
+    "count": 99
+  },
+  {
+    "year": 2022,
+    "purpose": "Unknown",
+    "count": 66
+  },
+  {
+    "year": 2023,
+    "purpose": "Academic",
+    "count": 71
+  },
+  {
+    "year": 2023,
+    "purpose": "Civil",
+    "count": 187
+  },
+  {
+    "year": 2023,
+    "purpose": "Commercial",
+    "count": 2720
+  },
+  {
+    "year": 2023,
+    "purpose": "Military",
+    "count": 99
+  },
+  {
+    "year": 2023,
+    "purpose": "Unknown",
+    "count": 98
+  },
+  {
+    "year": 2024,
+    "purpose": "Academic",
+    "count": 76
+  },
+  {
+    "year": 2024,
+    "purpose": "Civil",
+    "count": 894
+  },
+  {
+    "year": 2024,
+    "purpose": "Commercial",
+    "count": 2488
+  },
+  {
+    "year": 2024,
+    "purpose": "Military",
+    "count": 179
+  },
+  {
+    "year": 2024,
+    "purpose": "Unknown",
+    "count": 70
+  },
+  {
+    "year": 2025,
+    "purpose": "Academic",
+    "count": 68
+  },
+  {
+    "year": 2025,
+    "purpose": "Civil",
+    "count": 331
+  },
+  {
+    "year": 2025,
+    "purpose": "Commercial",
+    "count": 3927
+  },
+  {
+    "year": 2025,
+    "purpose": "Military",
+    "count": 188
+  },
+  {
+    "year": 2025,
+    "purpose": "Unknown",
+    "count": 158
+  },
+  {
+    "year": 2026,
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2026,
+    "purpose": "Civil",
+    "count": 40
+  },
+  {
+    "year": 2026,
+    "purpose": "Commercial",
+    "count": 543
+  },
+  {
+    "year": 2026,
+    "purpose": "Military",
+    "count": 26
+  },
+  {
+    "year": 2026,
+    "purpose": "Unknown",
+    "count": 2
+  }
+]
