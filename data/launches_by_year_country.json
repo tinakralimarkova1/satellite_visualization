@@ -1,0 +1,6442 @@
+[
+  {
+    "year": 1957,
+    "country": "SU",
+    "count": 3
+  },
+  {
+    "year": 1958,
+    "country": "SU",
+    "count": 2
+  },
+  {
+    "year": 1958,
+    "country": "US",
+    "count": 9
+  },
+  {
+    "year": 1959,
+    "country": "SU",
+    "count": 3
+  },
+  {
+    "year": 1959,
+    "country": "US",
+    "count": 20
+  },
+  {
+    "year": 1960,
+    "country": "SU",
+    "count": 13
+  },
+  {
+    "year": 1960,
+    "country": "US",
+    "count": 39
+  },
+  {
+    "year": 1961,
+    "country": "SU",
+    "count": 18
+  },
+  {
+    "year": 1961,
+    "country": "US",
+    "count": 403
+  },
+  {
+    "year": 1962,
+    "country": "CA",
+    "count": 3
+  },
+  {
+    "year": 1962,
+    "country": "SU",
+    "count": 88
+  },
+  {
+    "year": 1962,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 1962,
+    "country": "US",
+    "count": 115
+  },
+  {
+    "year": 1963,
+    "country": "SU",
+    "count": 44
+  },
+  {
+    "year": 1963,
+    "country": "US",
+    "count": 298
+  },
+  {
+    "year": 1964,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 1964,
+    "country": "RU",
+    "count": 15
+  },
+  {
+    "year": 1964,
+    "country": "SU",
+    "count": 224
+  },
+  {
+    "year": 1964,
+    "country": "UK",
+    "count": 2
+  },
+  {
+    "year": 1964,
+    "country": "US",
+    "count": 159
+  },
+  {
+    "year": 1965,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 1965,
+    "country": "F",
+    "count": 9
+  },
+  {
+    "year": 1965,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1965,
+    "country": "SU",
+    "count": 525
+  },
+  {
+    "year": 1965,
+    "country": "US",
+    "count": 994
+  },
+  {
+    "year": 1966,
+    "country": "F",
+    "count": 15
+  },
+  {
+    "year": 1966,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1966,
+    "country": "SU",
+    "count": 225
+  },
+  {
+    "year": 1966,
+    "country": "US",
+    "count": 557
+  },
+  {
+    "year": 1967,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 1967,
+    "country": "F",
+    "count": 27
+  },
+  {
+    "year": 1967,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 1967,
+    "country": "I-INT",
+    "count": 3
+  },
+  {
+    "year": 1967,
+    "country": "RU",
+    "count": 3
+  },
+  {
+    "year": 1967,
+    "country": "SU",
+    "count": 234
+  },
+  {
+    "year": 1967,
+    "country": "UK",
+    "count": 3
+  },
+  {
+    "year": 1967,
+    "country": "US",
+    "count": 176
+  },
+  {
+    "year": 1968,
+    "country": "I-ESRO",
+    "count": 6
+  },
+  {
+    "year": 1968,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1968,
+    "country": "SU",
+    "count": 468
+  },
+  {
+    "year": 1968,
+    "country": "US",
+    "count": 221
+  },
+  {
+    "year": 1969,
+    "country": "CA",
+    "count": 4
+  },
+  {
+    "year": 1969,
+    "country": "D",
+    "count": 5
+  },
+  {
+    "year": 1969,
+    "country": "I-ESRO",
+    "count": 3
+  },
+  {
+    "year": 1969,
+    "country": "I-INT",
+    "count": 3
+  },
+  {
+    "year": 1969,
+    "country": "SU",
+    "count": 232
+  },
+  {
+    "year": 1969,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 1969,
+    "country": "US",
+    "count": 396
+  },
+  {
+    "year": 1970,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "CN",
+    "count": 4
+  },
+  {
+    "year": 1970,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "F",
+    "count": 7
+  },
+  {
+    "year": 1970,
+    "country": "I-INT",
+    "count": 3
+  },
+  {
+    "year": 1970,
+    "country": "I-NATO",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "J",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "RU",
+    "count": 4
+  },
+  {
+    "year": 1970,
+    "country": "SU",
+    "count": 389
+  },
+  {
+    "year": 1970,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "US",
+    "count": 499
+  },
+  {
+    "year": 1971,
+    "country": "CA",
+    "count": 8
+  },
+  {
+    "year": 1971,
+    "country": "CN",
+    "count": 2
+  },
+  {
+    "year": 1971,
+    "country": "F",
+    "count": 12
+  },
+  {
+    "year": 1971,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 1971,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1971,
+    "country": "I-NATO",
+    "count": 1
+  },
+  {
+    "year": 1971,
+    "country": "J",
+    "count": 5
+  },
+  {
+    "year": 1971,
+    "country": "RU",
+    "count": 16
+  },
+  {
+    "year": 1971,
+    "country": "SU",
+    "count": 502
+  },
+  {
+    "year": 1971,
+    "country": "UK",
+    "count": 6
+  },
+  {
+    "year": 1971,
+    "country": "US",
+    "count": 88
+  },
+  {
+    "year": 1972,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "F",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "I-ESRO",
+    "count": 6
+  },
+  {
+    "year": 1972,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1972,
+    "country": "J",
+    "count": 2
+  },
+  {
+    "year": 1972,
+    "country": "RU",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "SU",
+    "count": 324
+  },
+  {
+    "year": 1972,
+    "country": "US",
+    "count": 320
+  },
+  {
+    "year": 1973,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 1973,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1973,
+    "country": "SU",
+    "count": 572
+  },
+  {
+    "year": 1973,
+    "country": "US",
+    "count": 304
+  },
+  {
+    "year": 1974,
+    "country": "D",
+    "count": 4
+  },
+  {
+    "year": 1974,
+    "country": "E",
+    "count": 1
+  },
+  {
+    "year": 1974,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 1974,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1974,
+    "country": "J",
+    "count": 2
+  },
+  {
+    "year": 1974,
+    "country": "NL",
+    "count": 4
+  },
+  {
+    "year": 1974,
+    "country": "RU",
+    "count": 2
+  },
+  {
+    "year": 1974,
+    "country": "SU",
+    "count": 457
+  },
+  {
+    "year": 1974,
+    "country": "UK",
+    "count": 6
+  },
+  {
+    "year": 1974,
+    "country": "US",
+    "count": 253
+  },
+  {
+    "year": 1975,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 1975,
+    "country": "CN",
+    "count": 10
+  },
+  {
+    "year": 1975,
+    "country": "F",
+    "count": 21
+  },
+  {
+    "year": 1975,
+    "country": "I-ESA",
+    "count": 1
+  },
+  {
+    "year": 1975,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1975,
+    "country": "IN",
+    "count": 1
+  },
+  {
+    "year": 1975,
+    "country": "J",
+    "count": 4
+  },
+  {
+    "year": 1975,
+    "country": "RU",
+    "count": 3
+  },
+  {
+    "year": 1975,
+    "country": "SU",
+    "count": 538
+  },
+  {
+    "year": 1975,
+    "country": "US",
+    "count": 595
+  },
+  {
+    "year": 1976,
+    "country": "CA",
+    "count": 3
+  },
+  {
+    "year": 1976,
+    "country": "CN",
+    "count": 5
+  },
+  {
+    "year": 1976,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 1976,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1976,
+    "country": "I-NATO",
+    "count": 1
+  },
+  {
+    "year": 1976,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 1976,
+    "country": "J",
+    "count": 2
+  },
+  {
+    "year": 1976,
+    "country": "RU",
+    "count": 4
+  },
+  {
+    "year": 1976,
+    "country": "SU",
+    "count": 965
+  },
+  {
+    "year": 1976,
+    "country": "US",
+    "count": 282
+  },
+  {
+    "year": 1977,
+    "country": "F",
+    "count": 1
+  },
+  {
+    "year": 1977,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 1977,
+    "country": "I-ESA",
+    "count": 4
+  },
+  {
+    "year": 1977,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1977,
+    "country": "I-NATO",
+    "count": 1
+  },
+  {
+    "year": 1977,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 1977,
+    "country": "J",
+    "count": 16
+  },
+  {
+    "year": 1977,
+    "country": "RU",
+    "count": 30
+  },
+  {
+    "year": 1977,
+    "country": "SU",
+    "count": 636
+  },
+  {
+    "year": 1977,
+    "country": "US",
+    "count": 261
+  },
+  {
+    "year": 1978,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 1978,
+    "country": "CN",
+    "count": 2
+  },
+  {
+    "year": 1978,
+    "country": "CSSR",
+    "count": 1
+  },
+  {
+    "year": 1978,
+    "country": "I-ESA",
+    "count": 2
+  },
+  {
+    "year": 1978,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1978,
+    "country": "I-NATO",
+    "count": 1
+  },
+  {
+    "year": 1978,
+    "country": "J",
+    "count": 15
+  },
+  {
+    "year": 1978,
+    "country": "RU",
+    "count": 23
+  },
+  {
+    "year": 1978,
+    "country": "SU",
+    "count": 376
+  },
+  {
+    "year": 1978,
+    "country": "US",
+    "count": 370
+  },
+  {
+    "year": 1979,
+    "country": "F",
+    "count": 9
+  },
+  {
+    "year": 1979,
+    "country": "I-ESA",
+    "count": 27
+  },
+  {
+    "year": 1979,
+    "country": "IN",
+    "count": 1
+  },
+  {
+    "year": 1979,
+    "country": "J",
+    "count": 8
+  },
+  {
+    "year": 1979,
+    "country": "RU",
+    "count": 109
+  },
+  {
+    "year": 1979,
+    "country": "SU",
+    "count": 360
+  },
+  {
+    "year": 1979,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 1979,
+    "country": "US",
+    "count": 362
+  },
+  {
+    "year": 1980,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1980,
+    "country": "IN",
+    "count": 2
+  },
+  {
+    "year": 1980,
+    "country": "J",
+    "count": 10
+  },
+  {
+    "year": 1980,
+    "country": "RU",
+    "count": 38
+  },
+  {
+    "year": 1980,
+    "country": "SU",
+    "count": 556
+  },
+  {
+    "year": 1980,
+    "country": "US",
+    "count": 40
+  },
+  {
+    "year": 1981,
+    "country": "CN",
+    "count": 10
+  },
+  {
+    "year": 1981,
+    "country": "I-ESA",
+    "count": 9
+  },
+  {
+    "year": 1981,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1981,
+    "country": "IN",
+    "count": 4
+  },
+  {
+    "year": 1981,
+    "country": "J",
+    "count": 9
+  },
+  {
+    "year": 1981,
+    "country": "RU",
+    "count": 258
+  },
+  {
+    "year": 1981,
+    "country": "SU",
+    "count": 838
+  },
+  {
+    "year": 1981,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 1981,
+    "country": "US",
+    "count": 61
+  },
+  {
+    "year": 1982,
+    "country": "CA",
+    "count": 3
+  },
+  {
+    "year": 1982,
+    "country": "CN",
+    "count": 3
+  },
+  {
+    "year": 1982,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1982,
+    "country": "IN",
+    "count": 1
+  },
+  {
+    "year": 1982,
+    "country": "J",
+    "count": 4
+  },
+  {
+    "year": 1982,
+    "country": "RU",
+    "count": 21
+  },
+  {
+    "year": 1982,
+    "country": "SU",
+    "count": 2666
+  },
+  {
+    "year": 1982,
+    "country": "US",
+    "count": 50
+  },
+  {
+    "year": 1983,
+    "country": "CA",
+    "count": 2
+  },
+  {
+    "year": 1983,
+    "country": "CN",
+    "count": 6
+  },
+  {
+    "year": 1983,
+    "country": "D",
+    "count": 2
+  },
+  {
+    "year": 1983,
+    "country": "F",
+    "count": 7
+  },
+  {
+    "year": 1983,
+    "country": "I-ESA",
+    "count": 2
+  },
+  {
+    "year": 1983,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1983,
+    "country": "ID",
+    "count": 2
+  },
+  {
+    "year": 1983,
+    "country": "IN",
+    "count": 8
+  },
+  {
+    "year": 1983,
+    "country": "J",
+    "count": 10
+  },
+  {
+    "year": 1983,
+    "country": "RU",
+    "count": 51
+  },
+  {
+    "year": 1983,
+    "country": "SU",
+    "count": 708
+  },
+  {
+    "year": 1983,
+    "country": "US",
+    "count": 94
+  },
+  {
+    "year": 1984,
+    "country": "CA",
+    "count": 2
+  },
+  {
+    "year": 1984,
+    "country": "CN",
+    "count": 13
+  },
+  {
+    "year": 1984,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "F",
+    "count": 19
+  },
+  {
+    "year": 1984,
+    "country": "I-ESA",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "I-EUT",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1984,
+    "country": "I-NATO",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "ID",
+    "count": 2
+  },
+  {
+    "year": 1984,
+    "country": "J",
+    "count": 14
+  },
+  {
+    "year": 1984,
+    "country": "RU",
+    "count": 80
+  },
+  {
+    "year": 1984,
+    "country": "SU",
+    "count": 540
+  },
+  {
+    "year": 1984,
+    "country": "UK",
+    "count": 2
+  },
+  {
+    "year": 1984,
+    "country": "US",
+    "count": 93
+  },
+  {
+    "year": 1985,
+    "country": "AU",
+    "count": 4
+  },
+  {
+    "year": 1985,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 1985,
+    "country": "CA",
+    "count": 2
+  },
+  {
+    "year": 1985,
+    "country": "CN",
+    "count": 4
+  },
+  {
+    "year": 1985,
+    "country": "F",
+    "count": 19
+  },
+  {
+    "year": 1985,
+    "country": "I-ARAB",
+    "count": 3
+  },
+  {
+    "year": 1985,
+    "country": "I-ESA",
+    "count": 1
+  },
+  {
+    "year": 1985,
+    "country": "I-INT",
+    "count": 3
+  },
+  {
+    "year": 1985,
+    "country": "J",
+    "count": 7
+  },
+  {
+    "year": 1985,
+    "country": "MX",
+    "count": 4
+  },
+  {
+    "year": 1985,
+    "country": "RU",
+    "count": 81
+  },
+  {
+    "year": 1985,
+    "country": "SU",
+    "count": 612
+  },
+  {
+    "year": 1985,
+    "country": "US",
+    "count": 63
+  },
+  {
+    "year": 1986,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 1986,
+    "country": "CN",
+    "count": 12
+  },
+  {
+    "year": 1986,
+    "country": "F",
+    "count": 504
+  },
+  {
+    "year": 1986,
+    "country": "J",
+    "count": 7
+  },
+  {
+    "year": 1986,
+    "country": "RU",
+    "count": 160
+  },
+  {
+    "year": 1986,
+    "country": "S",
+    "count": 2
+  },
+  {
+    "year": 1986,
+    "country": "SU",
+    "count": 625
+  },
+  {
+    "year": 1986,
+    "country": "US",
+    "count": 47
+  },
+  {
+    "year": 1987,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 1987,
+    "country": "CN",
+    "count": 6
+  },
+  {
+    "year": 1987,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 1987,
+    "country": "F",
+    "count": 5
+  },
+  {
+    "year": 1987,
+    "country": "I-EUT",
+    "count": 1
+  },
+  {
+    "year": 1987,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 1987,
+    "country": "J",
+    "count": 15
+  },
+  {
+    "year": 1987,
+    "country": "RU",
+    "count": 302
+  },
+  {
+    "year": 1987,
+    "country": "SU",
+    "count": 787
+  },
+  {
+    "year": 1987,
+    "country": "US",
+    "count": 48
+  },
+  {
+    "year": 1988,
+    "country": "CN",
+    "count": 12
+  },
+  {
+    "year": 1988,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "F",
+    "count": 67
+  },
+  {
+    "year": 1988,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "I-ESA",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "I-EUM",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "I-EUT",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "IL",
+    "count": 2
+  },
+  {
+    "year": 1988,
+    "country": "IN",
+    "count": 2
+  },
+  {
+    "year": 1988,
+    "country": "J",
+    "count": 6
+  },
+  {
+    "year": 1988,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "RU",
+    "count": 131
+  },
+  {
+    "year": 1988,
+    "country": "SU",
+    "count": 503
+  },
+  {
+    "year": 1988,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "US",
+    "count": 92
+  },
+  {
+    "year": 1989,
+    "country": "CSSR",
+    "count": 1
+  },
+  {
+    "year": 1989,
+    "country": "D",
+    "count": 2
+  },
+  {
+    "year": 1989,
+    "country": "F",
+    "count": 111
+  },
+  {
+    "year": 1989,
+    "country": "I-ESA",
+    "count": 3
+  },
+  {
+    "year": 1989,
+    "country": "I-EUM",
+    "count": 1
+  },
+  {
+    "year": 1989,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1989,
+    "country": "J",
+    "count": 19
+  },
+  {
+    "year": 1989,
+    "country": "RU",
+    "count": 173
+  },
+  {
+    "year": 1989,
+    "country": "S",
+    "count": 1
+  },
+  {
+    "year": 1989,
+    "country": "SU",
+    "count": 413
+  },
+  {
+    "year": 1989,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 1989,
+    "country": "US",
+    "count": 227
+  },
+  {
+    "year": 1990,
+    "country": "AR",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "CN",
+    "count": 118
+  },
+  {
+    "year": 1990,
+    "country": "D",
+    "count": 2
+  },
+  {
+    "year": 1990,
+    "country": "F",
+    "count": 11
+  },
+  {
+    "year": 1990,
+    "country": "HKUK",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "I-ESA",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "I-EUT",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "I-INM",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "I-INT",
+    "count": 4
+  },
+  {
+    "year": 1990,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "IL",
+    "count": 2
+  },
+  {
+    "year": 1990,
+    "country": "IN",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "J",
+    "count": 13
+  },
+  {
+    "year": 1990,
+    "country": "PK",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "RU",
+    "count": 30
+  },
+  {
+    "year": 1990,
+    "country": "SU",
+    "count": 353
+  },
+  {
+    "year": 1990,
+    "country": "UK",
+    "count": 6
+  },
+  {
+    "year": 1990,
+    "country": "US",
+    "count": 153
+  },
+  {
+    "year": 1991,
+    "country": "CA",
+    "count": 2
+  },
+  {
+    "year": 1991,
+    "country": "CN",
+    "count": 2
+  },
+  {
+    "year": 1991,
+    "country": "CSFR",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "F",
+    "count": 57
+  },
+  {
+    "year": 1991,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "I-ESA",
+    "count": 10
+  },
+  {
+    "year": 1991,
+    "country": "I-EUM",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "I-EUT",
+    "count": 2
+  },
+  {
+    "year": 1991,
+    "country": "I-INM",
+    "count": 2
+  },
+  {
+    "year": 1991,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1991,
+    "country": "I-NATO",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "IN",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "J",
+    "count": 12
+  },
+  {
+    "year": 1991,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "RU",
+    "count": 206
+  },
+  {
+    "year": 1991,
+    "country": "SU",
+    "count": 344
+  },
+  {
+    "year": 1991,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "US",
+    "count": 173
+  },
+  {
+    "year": 1992,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "CN",
+    "count": 15
+  },
+  {
+    "year": 1992,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "E",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "F",
+    "count": 78
+  },
+  {
+    "year": 1992,
+    "country": "I",
+    "count": 4
+  },
+  {
+    "year": 1992,
+    "country": "I-ARAB",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "I-ESA",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "I-EUT",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "I-INM",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "IN",
+    "count": 3
+  },
+  {
+    "year": 1992,
+    "country": "J",
+    "count": 5
+  },
+  {
+    "year": 1992,
+    "country": "KR",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "RU",
+    "count": 552
+  },
+  {
+    "year": 1992,
+    "country": "S",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "US",
+    "count": 87
+  },
+  {
+    "year": 1993,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "CN",
+    "count": 8
+  },
+  {
+    "year": 1993,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "E",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "F",
+    "count": 15
+  },
+  {
+    "year": 1993,
+    "country": "I",
+    "count": 2
+  },
+  {
+    "year": 1993,
+    "country": "I-ESA",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "I-EUM",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "I-NATO",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "IN",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "J",
+    "count": 8
+  },
+  {
+    "year": 1993,
+    "country": "KR",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "MX",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "P",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "RU",
+    "count": 2057
+  },
+  {
+    "year": 1993,
+    "country": "SU",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "T",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "US",
+    "count": 76
+  },
+  {
+    "year": 1994,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "CN",
+    "count": 11
+  },
+  {
+    "year": 1994,
+    "country": "D",
+    "count": 3
+  },
+  {
+    "year": 1994,
+    "country": "F",
+    "count": 8
+  },
+  {
+    "year": 1994,
+    "country": "HKUK",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1994,
+    "country": "IN",
+    "count": 5
+  },
+  {
+    "year": 1994,
+    "country": "J",
+    "count": 7
+  },
+  {
+    "year": 1994,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "MX",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "RU",
+    "count": 430
+  },
+  {
+    "year": 1994,
+    "country": "T",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "TR",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "UK",
+    "count": 2
+  },
+  {
+    "year": 1994,
+    "country": "US",
+    "count": 838
+  },
+  {
+    "year": 1995,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "CN",
+    "count": 6
+  },
+  {
+    "year": 1995,
+    "country": "CZ",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "E",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "F",
+    "count": 17
+  },
+  {
+    "year": 1995,
+    "country": "HKUK",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "I-ESA",
+    "count": 12
+  },
+  {
+    "year": 1995,
+    "country": "I-EUT",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "I-INT",
+    "count": 3
+  },
+  {
+    "year": 1995,
+    "country": "IL",
+    "count": 2
+  },
+  {
+    "year": 1995,
+    "country": "IN",
+    "count": 2
+  },
+  {
+    "year": 1995,
+    "country": "J",
+    "count": 12
+  },
+  {
+    "year": 1995,
+    "country": "KR",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "RU",
+    "count": 167
+  },
+  {
+    "year": 1995,
+    "country": "S",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "UA",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "US",
+    "count": 309
+  },
+  {
+    "year": 1996,
+    "country": "AR",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "CN",
+    "count": 6
+  },
+  {
+    "year": 1996,
+    "country": "CZ",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "F",
+    "count": 18
+  },
+  {
+    "year": 1996,
+    "country": "HKUK",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "I",
+    "count": 3
+  },
+  {
+    "year": 1996,
+    "country": "I-ARAB",
+    "count": 2
+  },
+  {
+    "year": 1996,
+    "country": "I-EUT",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "I-INM",
+    "count": 3
+  },
+  {
+    "year": 1996,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1996,
+    "country": "ID",
+    "count": 2
+  },
+  {
+    "year": 1996,
+    "country": "IL",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "IN",
+    "count": 4
+  },
+  {
+    "year": 1996,
+    "country": "J",
+    "count": 4
+  },
+  {
+    "year": 1996,
+    "country": "KR",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "MX",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "MY",
+    "count": 2
+  },
+  {
+    "year": 1996,
+    "country": "RU",
+    "count": 100
+  },
+  {
+    "year": 1996,
+    "country": "TR",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "US",
+    "count": 92
+  },
+  {
+    "year": 1997,
+    "country": "AR",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "CN",
+    "count": 20
+  },
+  {
+    "year": 1997,
+    "country": "D",
+    "count": 3
+  },
+  {
+    "year": 1997,
+    "country": "E",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "F",
+    "count": 16
+  },
+  {
+    "year": 1997,
+    "country": "HK",
+    "count": 2
+  },
+  {
+    "year": 1997,
+    "country": "I-ESA",
+    "count": 4
+  },
+  {
+    "year": 1997,
+    "country": "I-EUM",
+    "count": 2
+  },
+  {
+    "year": 1997,
+    "country": "I-EUT",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "I-INM",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "I-INT",
+    "count": 4
+  },
+  {
+    "year": 1997,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "IN",
+    "count": 3
+  },
+  {
+    "year": 1997,
+    "country": "J",
+    "count": 15
+  },
+  {
+    "year": 1997,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "N",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "PH",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "RU",
+    "count": 107
+  },
+  {
+    "year": 1997,
+    "country": "S",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "T",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "US",
+    "count": 834
+  },
+  {
+    "year": 1998,
+    "country": "AR",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "BR",
+    "count": 2
+  },
+  {
+    "year": 1998,
+    "country": "CL",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "CN",
+    "count": 28
+  },
+  {
+    "year": 1998,
+    "country": "D",
+    "count": 3
+  },
+  {
+    "year": 1998,
+    "country": "EG",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "F",
+    "count": 24
+  },
+  {
+    "year": 1998,
+    "country": "I-ESA",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "I-EUT",
+    "count": 3
+  },
+  {
+    "year": 1998,
+    "country": "I-INM",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1998,
+    "country": "IL",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "J",
+    "count": 8
+  },
+  {
+    "year": 1998,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "MX",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "N",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "RU",
+    "count": 91
+  },
+  {
+    "year": 1998,
+    "country": "S",
+    "count": 2
+  },
+  {
+    "year": 1998,
+    "country": "SG",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "T",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "US",
+    "count": 167
+  },
+  {
+    "year": 1999,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "CA",
+    "count": 2
+  },
+  {
+    "year": 1999,
+    "country": "CN",
+    "count": 3983
+  },
+  {
+    "year": 1999,
+    "country": "CYM",
+    "count": 2
+  },
+  {
+    "year": 1999,
+    "country": "D",
+    "count": 2
+  },
+  {
+    "year": 1999,
+    "country": "DK",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "F",
+    "count": 12
+  },
+  {
+    "year": 1999,
+    "country": "HK",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "I-ARAB",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "I-ESA",
+    "count": 2
+  },
+  {
+    "year": 1999,
+    "country": "I-EUT",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "IN",
+    "count": 3
+  },
+  {
+    "year": 1999,
+    "country": "J",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "KR",
+    "count": 3
+  },
+  {
+    "year": 1999,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "RU",
+    "count": 98
+  },
+  {
+    "year": 1999,
+    "country": "TW",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "UK",
+    "count": 2
+  },
+  {
+    "year": 1999,
+    "country": "US",
+    "count": 180
+  },
+  {
+    "year": 1999,
+    "country": "ZA",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "AR",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "CN",
+    "count": 12
+  },
+  {
+    "year": 2000,
+    "country": "CYM",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "D",
+    "count": 2
+  },
+  {
+    "year": 2000,
+    "country": "E",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "EG",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "F",
+    "count": 18
+  },
+  {
+    "year": 2000,
+    "country": "I",
+    "count": 3
+  },
+  {
+    "year": 2000,
+    "country": "I-ESA",
+    "count": 4
+  },
+  {
+    "year": 2000,
+    "country": "I-EUT",
+    "count": 3
+  },
+  {
+    "year": 2000,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "IL",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "IN",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "J",
+    "count": 3
+  },
+  {
+    "year": 2000,
+    "country": "L",
+    "count": 2
+  },
+  {
+    "year": 2000,
+    "country": "MY",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "RU",
+    "count": 113
+  },
+  {
+    "year": 2000,
+    "country": "S",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "SA",
+    "count": 2
+  },
+  {
+    "year": 2000,
+    "country": "UAE",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "UK",
+    "count": 4
+  },
+  {
+    "year": 2000,
+    "country": "US",
+    "count": 560
+  },
+  {
+    "year": 2001,
+    "country": "CN",
+    "count": 3
+  },
+  {
+    "year": 2001,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "F",
+    "count": 13
+  },
+  {
+    "year": 2001,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "I-ESA",
+    "count": 2
+  },
+  {
+    "year": 2001,
+    "country": "I-EUT",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "IN",
+    "count": 375
+  },
+  {
+    "year": 2001,
+    "country": "J",
+    "count": 4
+  },
+  {
+    "year": 2001,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "MA",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "PK",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "RU",
+    "count": 143
+  },
+  {
+    "year": 2001,
+    "country": "S",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "TR",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "UK",
+    "count": 2
+  },
+  {
+    "year": 2001,
+    "country": "US",
+    "count": 67
+  },
+  {
+    "year": 2002,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "CN",
+    "count": 22
+  },
+  {
+    "year": 2002,
+    "country": "D",
+    "count": 3
+  },
+  {
+    "year": 2002,
+    "country": "DZ",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "E",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "F",
+    "count": 19
+  },
+  {
+    "year": 2002,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "I-ESA",
+    "count": 2
+  },
+  {
+    "year": 2002,
+    "country": "I-EUM",
+    "count": 3
+  },
+  {
+    "year": 2002,
+    "country": "IL",
+    "count": 2
+  },
+  {
+    "year": 2002,
+    "country": "IN",
+    "count": 3
+  },
+  {
+    "year": 2002,
+    "country": "J",
+    "count": 22
+  },
+  {
+    "year": 2002,
+    "country": "L",
+    "count": 2
+  },
+  {
+    "year": 2002,
+    "country": "NL",
+    "count": 2
+  },
+  {
+    "year": 2002,
+    "country": "RU",
+    "count": 134
+  },
+  {
+    "year": 2002,
+    "country": "SA",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "US",
+    "count": 175
+  },
+  {
+    "year": 2003,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "CA",
+    "count": 3
+  },
+  {
+    "year": 2003,
+    "country": "CN",
+    "count": 29
+  },
+  {
+    "year": 2003,
+    "country": "CZ",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "DK",
+    "count": 2
+  },
+  {
+    "year": 2003,
+    "country": "F",
+    "count": 9
+  },
+  {
+    "year": 2003,
+    "country": "GR",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "HK",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "I-ESA",
+    "count": 2
+  },
+  {
+    "year": 2003,
+    "country": "IL",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "IN",
+    "count": 6
+  },
+  {
+    "year": 2003,
+    "country": "J",
+    "count": 12
+  },
+  {
+    "year": 2003,
+    "country": "KR",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "NG",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "RU",
+    "count": 91
+  },
+  {
+    "year": 2003,
+    "country": "TR",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "UAE",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "US",
+    "count": 79
+  },
+  {
+    "year": 2004,
+    "country": "BR",
+    "count": 2
+  },
+  {
+    "year": 2004,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "CN",
+    "count": 55
+  },
+  {
+    "year": 2004,
+    "country": "E",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "F",
+    "count": 18
+  },
+  {
+    "year": 2004,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "I-ESA",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "IN",
+    "count": 2
+  },
+  {
+    "year": 2004,
+    "country": "J",
+    "count": 2
+  },
+  {
+    "year": 2004,
+    "country": "RU",
+    "count": 80
+  },
+  {
+    "year": 2004,
+    "country": "SA",
+    "count": 3
+  },
+  {
+    "year": 2004,
+    "country": "TW",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "UA",
+    "count": 2
+  },
+  {
+    "year": 2004,
+    "country": "US",
+    "count": 48
+  },
+  {
+    "year": 2005,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "CN",
+    "count": 34
+  },
+  {
+    "year": 2005,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "F",
+    "count": 6
+  },
+  {
+    "year": 2005,
+    "country": "HK",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "I-ESA",
+    "count": 10
+  },
+  {
+    "year": 2005,
+    "country": "I-EUM",
+    "count": 3
+  },
+  {
+    "year": 2005,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "IN",
+    "count": 7
+  },
+  {
+    "year": 2005,
+    "country": "IR",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "J",
+    "count": 7
+  },
+  {
+    "year": 2005,
+    "country": "N",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "RU",
+    "count": 80
+  },
+  {
+    "year": 2005,
+    "country": "T",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "UK",
+    "count": 3
+  },
+  {
+    "year": 2005,
+    "country": "US",
+    "count": 43
+  },
+  {
+    "year": 2006,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "CN",
+    "count": 39
+  },
+  {
+    "year": 2006,
+    "country": "D",
+    "count": 3
+  },
+  {
+    "year": 2006,
+    "country": "E",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "F",
+    "count": 15
+  },
+  {
+    "year": 2006,
+    "country": "I-ARAB",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "I-EUM",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "IL",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "J",
+    "count": 62
+  },
+  {
+    "year": 2006,
+    "country": "KR",
+    "count": 2
+  },
+  {
+    "year": 2006,
+    "country": "KZ",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "MX",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "MY",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "RU",
+    "count": 722
+  },
+  {
+    "year": 2006,
+    "country": "T",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "TW",
+    "count": 8
+  },
+  {
+    "year": 2006,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "US",
+    "count": 316
+  },
+  {
+    "year": 2007,
+    "country": "AR",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "CA",
+    "count": 2
+  },
+  {
+    "year": 2007,
+    "country": "CN",
+    "count": 72
+  },
+  {
+    "year": 2007,
+    "country": "CO",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "D",
+    "count": 3
+  },
+  {
+    "year": 2007,
+    "country": "EG",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "F",
+    "count": 13
+  },
+  {
+    "year": 2007,
+    "country": "I",
+    "count": 3
+  },
+  {
+    "year": 2007,
+    "country": "I-RASC",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "IL",
+    "count": 2
+  },
+  {
+    "year": 2007,
+    "country": "IN",
+    "count": 7
+  },
+  {
+    "year": 2007,
+    "country": "J",
+    "count": 23
+  },
+  {
+    "year": 2007,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "NG",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "RU",
+    "count": 117
+  },
+  {
+    "year": 2007,
+    "country": "S",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "SA",
+    "count": 6
+  },
+  {
+    "year": 2007,
+    "country": "UK",
+    "count": 2
+  },
+  {
+    "year": 2007,
+    "country": "US",
+    "count": 108
+  },
+  {
+    "year": 2008,
+    "country": "BM",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "CA",
+    "count": 4
+  },
+  {
+    "year": 2008,
+    "country": "CN",
+    "count": 85
+  },
+  {
+    "year": 2008,
+    "country": "D",
+    "count": 8
+  },
+  {
+    "year": 2008,
+    "country": "DK",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "F",
+    "count": 14
+  },
+  {
+    "year": 2008,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "I-ARAB",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "I-ESA",
+    "count": 5
+  },
+  {
+    "year": 2008,
+    "country": "IL",
+    "count": 2
+  },
+  {
+    "year": 2008,
+    "country": "IN",
+    "count": 8
+  },
+  {
+    "year": 2008,
+    "country": "J",
+    "count": 6
+  },
+  {
+    "year": 2008,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "N",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "NL",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "RU",
+    "count": 228
+  },
+  {
+    "year": 2008,
+    "country": "T",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "TR",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "UAE",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "UK",
+    "count": 3
+  },
+  {
+    "year": 2008,
+    "country": "US",
+    "count": 46
+  },
+  {
+    "year": 2008,
+    "country": "VE",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "VN",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "BM",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "CA",
+    "count": 2
+  },
+  {
+    "year": 2009,
+    "country": "CH",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "CN",
+    "count": 31
+  },
+  {
+    "year": 2009,
+    "country": "D",
+    "count": 3
+  },
+  {
+    "year": 2009,
+    "country": "E",
+    "count": 2
+  },
+  {
+    "year": 2009,
+    "country": "F",
+    "count": 19
+  },
+  {
+    "year": 2009,
+    "country": "HK",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "I-ESA",
+    "count": 5
+  },
+  {
+    "year": 2009,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "IN",
+    "count": 5
+  },
+  {
+    "year": 2009,
+    "country": "IR",
+    "count": 2
+  },
+  {
+    "year": 2009,
+    "country": "J",
+    "count": 38
+  },
+  {
+    "year": 2009,
+    "country": "MY",
+    "count": 2
+  },
+  {
+    "year": 2009,
+    "country": "N",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "RU",
+    "count": 187
+  },
+  {
+    "year": 2009,
+    "country": "TR",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "UAE",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "UK",
+    "count": 3
+  },
+  {
+    "year": 2009,
+    "country": "US",
+    "count": 93
+  },
+  {
+    "year": 2009,
+    "country": "ZA",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "CH",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "CN",
+    "count": 153
+  },
+  {
+    "year": 2010,
+    "country": "D",
+    "count": 2
+  },
+  {
+    "year": 2010,
+    "country": "DZ",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "E",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "EG",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "F",
+    "count": 15
+  },
+  {
+    "year": 2010,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "I-ARAB",
+    "count": 2
+  },
+  {
+    "year": 2010,
+    "country": "I-ESA",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "I-RASC",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "IL",
+    "count": 2
+  },
+  {
+    "year": 2010,
+    "country": "IN",
+    "count": 4
+  },
+  {
+    "year": 2010,
+    "country": "J",
+    "count": 14
+  },
+  {
+    "year": 2010,
+    "country": "KR",
+    "count": 2
+  },
+  {
+    "year": 2010,
+    "country": "N",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "RU",
+    "count": 154
+  },
+  {
+    "year": 2010,
+    "country": "S",
+    "count": 2
+  },
+  {
+    "year": 2010,
+    "country": "UK",
+    "count": 3
+  },
+  {
+    "year": 2010,
+    "country": "US",
+    "count": 54
+  },
+  {
+    "year": 2011,
+    "country": "AR",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "CA",
+    "count": 2
+  },
+  {
+    "year": 2011,
+    "country": "CL",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "CN",
+    "count": 113
+  },
+  {
+    "year": 2011,
+    "country": "F",
+    "count": 17
+  },
+  {
+    "year": 2011,
+    "country": "HK",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "I-ARAB",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "I-ESA",
+    "count": 3
+  },
+  {
+    "year": 2011,
+    "country": "IL",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "IN",
+    "count": 10
+  },
+  {
+    "year": 2011,
+    "country": "IR",
+    "count": 2
+  },
+  {
+    "year": 2011,
+    "country": "J",
+    "count": 8
+  },
+  {
+    "year": 2011,
+    "country": "KZ",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "L",
+    "count": 2
+  },
+  {
+    "year": 2011,
+    "country": "MU",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "NG",
+    "count": 3
+  },
+  {
+    "year": 2011,
+    "country": "PK",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "RU",
+    "count": 436
+  },
+  {
+    "year": 2011,
+    "country": "SG",
+    "count": 2
+  },
+  {
+    "year": 2011,
+    "country": "TR",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "UA",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "UAE",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "UK",
+    "count": 3
+  },
+  {
+    "year": 2011,
+    "country": "US",
+    "count": 56
+  },
+  {
+    "year": 2012,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "BY",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "CA",
+    "count": 2
+  },
+  {
+    "year": 2012,
+    "country": "CN",
+    "count": 120
+  },
+  {
+    "year": 2012,
+    "country": "D",
+    "count": 2
+  },
+  {
+    "year": 2012,
+    "country": "E",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "F",
+    "count": 18
+  },
+  {
+    "year": 2012,
+    "country": "HK",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "HU",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "I",
+    "count": 5
+  },
+  {
+    "year": 2012,
+    "country": "I-ESA",
+    "count": 3
+  },
+  {
+    "year": 2012,
+    "country": "I-EUM",
+    "count": 4
+  },
+  {
+    "year": 2012,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "IN",
+    "count": 5
+  },
+  {
+    "year": 2012,
+    "country": "IR",
+    "count": 2
+  },
+  {
+    "year": 2012,
+    "country": "J",
+    "count": 52
+  },
+  {
+    "year": 2012,
+    "country": "KP",
+    "count": 4
+  },
+  {
+    "year": 2012,
+    "country": "KR",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "L",
+    "count": 2
+  },
+  {
+    "year": 2012,
+    "country": "MX",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "PL",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "RO",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "RU",
+    "count": 189
+  },
+  {
+    "year": 2012,
+    "country": "S",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "TR",
+    "count": 2
+  },
+  {
+    "year": 2012,
+    "country": "UAE",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "UK",
+    "count": 3
+  },
+  {
+    "year": 2012,
+    "country": "US",
+    "count": 53
+  },
+  {
+    "year": 2012,
+    "country": "VE",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "VN",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "AR",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "AT",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "AZ",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "BO",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "CA",
+    "count": 6
+  },
+  {
+    "year": 2013,
+    "country": "CN",
+    "count": 65
+  },
+  {
+    "year": 2013,
+    "country": "D",
+    "count": 6
+  },
+  {
+    "year": 2013,
+    "country": "DK",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "E",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "EC",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "EE",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "F",
+    "count": 8
+  },
+  {
+    "year": 2013,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "I-ESA",
+    "count": 14
+  },
+  {
+    "year": 2013,
+    "country": "IL",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "IN",
+    "count": 9
+  },
+  {
+    "year": 2013,
+    "country": "J",
+    "count": 12
+  },
+  {
+    "year": 2013,
+    "country": "KR",
+    "count": 7
+  },
+  {
+    "year": 2013,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "MX",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "N",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "NL",
+    "count": 3
+  },
+  {
+    "year": 2013,
+    "country": "PE",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "PK",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "PL",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "QA",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "RU",
+    "count": 154
+  },
+  {
+    "year": 2013,
+    "country": "SG",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "TR",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "UAE",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "UK",
+    "count": 9
+  },
+  {
+    "year": 2013,
+    "country": "US",
+    "count": 124
+  },
+  {
+    "year": 2013,
+    "country": "VN",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "ZA",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "AR",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "B",
+    "count": 3
+  },
+  {
+    "year": 2014,
+    "country": "BR",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "CA",
+    "count": 4
+  },
+  {
+    "year": 2014,
+    "country": "CN",
+    "count": 68
+  },
+  {
+    "year": 2014,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "DK",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "E",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "EG",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "F",
+    "count": 13
+  },
+  {
+    "year": 2014,
+    "country": "HK",
+    "count": 3
+  },
+  {
+    "year": 2014,
+    "country": "I",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "I-ESA",
+    "count": 10
+  },
+  {
+    "year": 2014,
+    "country": "I-EU",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "IL",
+    "count": 3
+  },
+  {
+    "year": 2014,
+    "country": "IN",
+    "count": 8
+  },
+  {
+    "year": 2014,
+    "country": "J",
+    "count": 30
+  },
+  {
+    "year": 2014,
+    "country": "KZ",
+    "count": 3
+  },
+  {
+    "year": 2014,
+    "country": "L",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "LT",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "MY",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "N",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "PE",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "PL",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "RU",
+    "count": 157
+  },
+  {
+    "year": 2014,
+    "country": "SA",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "SG",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "T",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "TR",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "UA",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "UK",
+    "count": 10
+  },
+  {
+    "year": 2014,
+    "country": "US",
+    "count": 260
+  },
+  {
+    "year": 2014,
+    "country": "UY",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "ZA",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "AR",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "BR",
+    "count": 3
+  },
+  {
+    "year": 2015,
+    "country": "CA",
+    "count": 2
+  },
+  {
+    "year": 2015,
+    "country": "CN",
+    "count": 71
+  },
+  {
+    "year": 2015,
+    "country": "DK",
+    "count": 2
+  },
+  {
+    "year": 2015,
+    "country": "F",
+    "count": 15
+  },
+  {
+    "year": 2015,
+    "country": "HK",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "I-ARAB",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "I-ESA",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "I-EU",
+    "count": 7
+  },
+  {
+    "year": 2015,
+    "country": "I-EUM",
+    "count": 3
+  },
+  {
+    "year": 2015,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "IN",
+    "count": 9
+  },
+  {
+    "year": 2015,
+    "country": "IR",
+    "count": 2
+  },
+  {
+    "year": 2015,
+    "country": "J",
+    "count": 9
+  },
+  {
+    "year": 2015,
+    "country": "KR",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "LA",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "MC",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "MX",
+    "count": 3
+  },
+  {
+    "year": 2015,
+    "country": "N",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "PG",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "RU",
+    "count": 106
+  },
+  {
+    "year": 2015,
+    "country": "SG",
+    "count": 6
+  },
+  {
+    "year": 2015,
+    "country": "TR",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "UK",
+    "count": 7
+  },
+  {
+    "year": 2015,
+    "country": "US",
+    "count": 136
+  },
+  {
+    "year": 2016,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "B",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "BR",
+    "count": 2
+  },
+  {
+    "year": 2016,
+    "country": "BY",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "CA",
+    "count": 3
+  },
+  {
+    "year": 2016,
+    "country": "CN",
+    "count": 93
+  },
+  {
+    "year": 2016,
+    "country": "D",
+    "count": 2
+  },
+  {
+    "year": 2016,
+    "country": "DK",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "DZ",
+    "count": 3
+  },
+  {
+    "year": 2016,
+    "country": "E",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "F",
+    "count": 21
+  },
+  {
+    "year": 2016,
+    "country": "HK",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "I",
+    "count": 2
+  },
+  {
+    "year": 2016,
+    "country": "I-ESA",
+    "count": 2
+  },
+  {
+    "year": 2016,
+    "country": "I-EU",
+    "count": 8
+  },
+  {
+    "year": 2016,
+    "country": "ID",
+    "count": 2
+  },
+  {
+    "year": 2016,
+    "country": "IL",
+    "count": 3
+  },
+  {
+    "year": 2016,
+    "country": "IN",
+    "count": 21
+  },
+  {
+    "year": 2016,
+    "country": "J",
+    "count": 33
+  },
+  {
+    "year": 2016,
+    "country": "KP",
+    "count": 2
+  },
+  {
+    "year": 2016,
+    "country": "MX",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "PE",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "PH",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "RU",
+    "count": 36
+  },
+  {
+    "year": 2016,
+    "country": "T",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "TR",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "US",
+    "count": 149
+  },
+  {
+    "year": 2016,
+    "country": "UY",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "AO",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "AT",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "AU",
+    "count": 4
+  },
+  {
+    "year": 2017,
+    "country": "BD",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "BG",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "BR",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "CL",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "CN",
+    "count": 71
+  },
+  {
+    "year": 2017,
+    "country": "CZ",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "D",
+    "count": 4
+  },
+  {
+    "year": 2017,
+    "country": "DZ",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "E",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "F",
+    "count": 16
+  },
+  {
+    "year": 2017,
+    "country": "FI",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "GH",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "GR",
+    "count": 3
+  },
+  {
+    "year": 2017,
+    "country": "HK",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "I",
+    "count": 5
+  },
+  {
+    "year": 2017,
+    "country": "I-ESA",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "I-EU",
+    "count": 6
+  },
+  {
+    "year": 2017,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "IE",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "IL",
+    "count": 4
+  },
+  {
+    "year": 2017,
+    "country": "IN",
+    "count": 17
+  },
+  {
+    "year": 2017,
+    "country": "J",
+    "count": 20
+  },
+  {
+    "year": 2017,
+    "country": "KR",
+    "count": 5
+  },
+  {
+    "year": 2017,
+    "country": "KZ",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "L",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "LT",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "LV",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "MA",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "MN",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "N",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "NG",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "NL",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "PR",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "RU",
+    "count": 59
+  },
+  {
+    "year": 2017,
+    "country": "S",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "SK",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "TR",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "TW",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "UA",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "UAE",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "UK",
+    "count": 8
+  },
+  {
+    "year": 2017,
+    "country": "US",
+    "count": 309
+  },
+  {
+    "year": 2017,
+    "country": "UY",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "VE",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "ZA",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "AR",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "AU",
+    "count": 6
+  },
+  {
+    "year": 2018,
+    "country": "AZ",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "BD",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "BGN",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "BR",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "BT",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "BY",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "CA",
+    "count": 5
+  },
+  {
+    "year": 2018,
+    "country": "CH",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "CN",
+    "count": 194
+  },
+  {
+    "year": 2018,
+    "country": "CO",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "CR",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "CZ",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "D",
+    "count": 9
+  },
+  {
+    "year": 2018,
+    "country": "DK",
+    "count": 3
+  },
+  {
+    "year": 2018,
+    "country": "E",
+    "count": 5
+  },
+  {
+    "year": 2018,
+    "country": "F",
+    "count": 12
+  },
+  {
+    "year": 2018,
+    "country": "FI",
+    "count": 4
+  },
+  {
+    "year": 2018,
+    "country": "HK",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "I-ESA",
+    "count": 3
+  },
+  {
+    "year": 2018,
+    "country": "I-EU",
+    "count": 5
+  },
+  {
+    "year": 2018,
+    "country": "I-EUM",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "IN",
+    "count": 18
+  },
+  {
+    "year": 2018,
+    "country": "J",
+    "count": 155
+  },
+  {
+    "year": 2018,
+    "country": "JO",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "KE",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "KR",
+    "count": 11
+  },
+  {
+    "year": 2018,
+    "country": "KZ",
+    "count": 3
+  },
+  {
+    "year": 2018,
+    "country": "L",
+    "count": 11
+  },
+  {
+    "year": 2018,
+    "country": "MA",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "MY",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "NL",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "NZ",
+    "count": 6
+  },
+  {
+    "year": 2018,
+    "country": "PH",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "PK",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "PL",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "QA",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "RU",
+    "count": 52
+  },
+  {
+    "year": 2018,
+    "country": "SA",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "T",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "TR",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "UAE",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "UK",
+    "count": 12
+  },
+  {
+    "year": 2018,
+    "country": "US",
+    "count": 445
+  },
+  {
+    "year": 2018,
+    "country": "UY",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "ZA",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "B",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "BR",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "CA",
+    "count": 3
+  },
+  {
+    "year": 2019,
+    "country": "CH",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "CN",
+    "count": 162
+  },
+  {
+    "year": 2019,
+    "country": "CZ",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "D",
+    "count": 9
+  },
+  {
+    "year": 2019,
+    "country": "E",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "EC",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "EE",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "EG",
+    "count": 4
+  },
+  {
+    "year": 2019,
+    "country": "ET",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "F",
+    "count": 16
+  },
+  {
+    "year": 2019,
+    "country": "FI",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "GR",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "HU",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "I",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "I-ARAB",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "I-ESA",
+    "count": 3
+  },
+  {
+    "year": 2019,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "IL",
+    "count": 5
+  },
+  {
+    "year": 2019,
+    "country": "IN",
+    "count": 143
+  },
+  {
+    "year": 2019,
+    "country": "J",
+    "count": 15
+  },
+  {
+    "year": 2019,
+    "country": "L",
+    "count": 4
+  },
+  {
+    "year": 2019,
+    "country": "LK",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "LT",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "MX",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "NP",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "NZ",
+    "count": 13
+  },
+  {
+    "year": 2019,
+    "country": "PL",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "RU",
+    "count": 87
+  },
+  {
+    "year": 2019,
+    "country": "RW",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "S",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "SD",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "SG",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "T",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "TW",
+    "count": 6
+  },
+  {
+    "year": 2019,
+    "country": "UK",
+    "count": 13
+  },
+  {
+    "year": 2019,
+    "country": "US",
+    "count": 293
+  },
+  {
+    "year": 2019,
+    "country": "VN",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "AR",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "AU",
+    "count": 3
+  },
+  {
+    "year": 2020,
+    "country": "B",
+    "count": 2
+  },
+  {
+    "year": 2020,
+    "country": "CA",
+    "count": 6
+  },
+  {
+    "year": 2020,
+    "country": "CN",
+    "count": 127
+  },
+  {
+    "year": 2020,
+    "country": "D",
+    "count": 5
+  },
+  {
+    "year": 2020,
+    "country": "E",
+    "count": 3
+  },
+  {
+    "year": 2020,
+    "country": "EE",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "ET",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "F",
+    "count": 11
+  },
+  {
+    "year": 2020,
+    "country": "FI",
+    "count": 2
+  },
+  {
+    "year": 2020,
+    "country": "GT",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "I-ESA",
+    "count": 2
+  },
+  {
+    "year": 2020,
+    "country": "I-EU",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "IL",
+    "count": 4
+  },
+  {
+    "year": 2020,
+    "country": "IN",
+    "count": 5
+  },
+  {
+    "year": 2020,
+    "country": "IR",
+    "count": 2
+  },
+  {
+    "year": 2020,
+    "country": "J",
+    "count": 12
+  },
+  {
+    "year": 2020,
+    "country": "KR",
+    "count": 2
+  },
+  {
+    "year": 2020,
+    "country": "L",
+    "count": 8
+  },
+  {
+    "year": 2020,
+    "country": "LT",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "MC",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "NZ",
+    "count": 19
+  },
+  {
+    "year": 2020,
+    "country": "RU",
+    "count": 36
+  },
+  {
+    "year": 2020,
+    "country": "SI",
+    "count": 2
+  },
+  {
+    "year": 2020,
+    "country": "T",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "UAE",
+    "count": 3
+  },
+  {
+    "year": 2020,
+    "country": "UK",
+    "count": 105
+  },
+  {
+    "year": 2020,
+    "country": "US",
+    "count": 1072
+  },
+  {
+    "year": 2020,
+    "country": "UY",
+    "count": 13
+  },
+  {
+    "year": 2021,
+    "country": "AR",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "AU",
+    "count": 8
+  },
+  {
+    "year": 2021,
+    "country": "B",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "BGN",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "BR",
+    "count": 3
+  },
+  {
+    "year": 2021,
+    "country": "CA",
+    "count": 11
+  },
+  {
+    "year": 2021,
+    "country": "CH",
+    "count": 10
+  },
+  {
+    "year": 2021,
+    "country": "CN",
+    "count": 190
+  },
+  {
+    "year": 2021,
+    "country": "D",
+    "count": 10
+  },
+  {
+    "year": 2021,
+    "country": "E",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "F",
+    "count": 15
+  },
+  {
+    "year": 2021,
+    "country": "FI",
+    "count": 8
+  },
+  {
+    "year": 2021,
+    "country": "HU",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "I",
+    "count": 9
+  },
+  {
+    "year": 2021,
+    "country": "I-ESA",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "I-EU",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "IL",
+    "count": 4
+  },
+  {
+    "year": 2021,
+    "country": "IN",
+    "count": 6
+  },
+  {
+    "year": 2021,
+    "country": "J",
+    "count": 28
+  },
+  {
+    "year": 2021,
+    "country": "KR",
+    "count": 3
+  },
+  {
+    "year": 2021,
+    "country": "KW",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "L",
+    "count": 12
+  },
+  {
+    "year": 2021,
+    "country": "LT",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "MU",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "MX",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "MYM",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "N",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "NL",
+    "count": 3
+  },
+  {
+    "year": 2021,
+    "country": "NZ",
+    "count": 15
+  },
+  {
+    "year": 2021,
+    "country": "PH",
+    "count": 3
+  },
+  {
+    "year": 2021,
+    "country": "PL",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "PR",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "PY",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "RU",
+    "count": 44
+  },
+  {
+    "year": 2021,
+    "country": "SA",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "SK",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "T",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "TN",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "TR",
+    "count": 3
+  },
+  {
+    "year": 2021,
+    "country": "TW",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "UAE",
+    "count": 4
+  },
+  {
+    "year": 2021,
+    "country": "UK",
+    "count": 289
+  },
+  {
+    "year": 2021,
+    "country": "US",
+    "count": 1324
+  },
+  {
+    "year": 2021,
+    "country": "UY",
+    "count": 4
+  },
+  {
+    "year": 2021,
+    "country": "VN",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "AM",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "AO",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "AR",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "AU",
+    "count": 3
+  },
+  {
+    "year": 2022,
+    "country": "BGN",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "BR",
+    "count": 5
+  },
+  {
+    "year": 2022,
+    "country": "BT",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "CA",
+    "count": 9
+  },
+  {
+    "year": 2022,
+    "country": "CH",
+    "count": 6
+  },
+  {
+    "year": 2022,
+    "country": "CL",
+    "count": 3
+  },
+  {
+    "year": 2022,
+    "country": "CN",
+    "count": 1079
+  },
+  {
+    "year": 2022,
+    "country": "CZ",
+    "count": 3
+  },
+  {
+    "year": 2022,
+    "country": "D",
+    "count": 4
+  },
+  {
+    "year": 2022,
+    "country": "E",
+    "count": 13
+  },
+  {
+    "year": 2022,
+    "country": "EG",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "F",
+    "count": 15
+  },
+  {
+    "year": 2022,
+    "country": "FI",
+    "count": 4
+  },
+  {
+    "year": 2022,
+    "country": "I",
+    "count": 10
+  },
+  {
+    "year": 2022,
+    "country": "I-ESA",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "I-EUM",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "IL",
+    "count": 11
+  },
+  {
+    "year": 2022,
+    "country": "IN",
+    "count": 14
+  },
+  {
+    "year": 2022,
+    "country": "IR",
+    "count": 3
+  },
+  {
+    "year": 2022,
+    "country": "J",
+    "count": 14
+  },
+  {
+    "year": 2022,
+    "country": "KR",
+    "count": 10
+  },
+  {
+    "year": 2022,
+    "country": "L",
+    "count": 13
+  },
+  {
+    "year": 2022,
+    "country": "LT",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "MD",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "MY",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "N",
+    "count": 3
+  },
+  {
+    "year": 2022,
+    "country": "NL",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "NP",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "NZ",
+    "count": 31
+  },
+  {
+    "year": 2022,
+    "country": "PL",
+    "count": 5
+  },
+  {
+    "year": 2022,
+    "country": "RU",
+    "count": 71
+  },
+  {
+    "year": 2022,
+    "country": "S",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "SG",
+    "count": 4
+  },
+  {
+    "year": 2022,
+    "country": "SI",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "TR",
+    "count": 2
+  },
+  {
+    "year": 2022,
+    "country": "TW",
+    "count": 2
+  },
+  {
+    "year": 2022,
+    "country": "UA",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "UAE",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "UG",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "UK",
+    "count": 115
+  },
+  {
+    "year": 2022,
+    "country": "US",
+    "count": 2091
+  },
+  {
+    "year": 2022,
+    "country": "UY",
+    "count": 9
+  },
+  {
+    "year": 2022,
+    "country": "ZA",
+    "count": 3
+  },
+  {
+    "year": 2022,
+    "country": "ZW",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "AM",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "AR",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "AT",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "AU",
+    "count": 11
+  },
+  {
+    "year": 2023,
+    "country": "B",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "BGN",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "BM",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "BR",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "BY",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "CA",
+    "count": 18
+  },
+  {
+    "year": 2023,
+    "country": "CH",
+    "count": 4
+  },
+  {
+    "year": 2023,
+    "country": "CN",
+    "count": 306
+  },
+  {
+    "year": 2023,
+    "country": "CO",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "CZ",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "D",
+    "count": 12
+  },
+  {
+    "year": 2023,
+    "country": "DJ",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "DK",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "E",
+    "count": 13
+  },
+  {
+    "year": 2023,
+    "country": "EG",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "F",
+    "count": 14
+  },
+  {
+    "year": 2023,
+    "country": "FI",
+    "count": 6
+  },
+  {
+    "year": 2023,
+    "country": "HU",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "I",
+    "count": 21
+  },
+  {
+    "year": 2023,
+    "country": "I-ARAB",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "I-ESA",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "ID",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "IE",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "IL",
+    "count": 6
+  },
+  {
+    "year": 2023,
+    "country": "IN",
+    "count": 19
+  },
+  {
+    "year": 2023,
+    "country": "IR",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "J",
+    "count": 17
+  },
+  {
+    "year": 2023,
+    "country": "KE",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "KP",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "KR",
+    "count": 13
+  },
+  {
+    "year": 2023,
+    "country": "KW",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "L",
+    "count": 17
+  },
+  {
+    "year": 2023,
+    "country": "LT",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "MC",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "MY",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "N",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "NL",
+    "count": 4
+  },
+  {
+    "year": 2023,
+    "country": "NZ",
+    "count": 17
+  },
+  {
+    "year": 2023,
+    "country": "PH",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "PL",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "RO",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "RU",
+    "count": 92
+  },
+  {
+    "year": 2023,
+    "country": "SG",
+    "count": 10
+  },
+  {
+    "year": 2023,
+    "country": "SK",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "T",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "TR",
+    "count": 10
+  },
+  {
+    "year": 2023,
+    "country": "TW",
+    "count": 6
+  },
+  {
+    "year": 2023,
+    "country": "UA",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "UAE",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "UK",
+    "count": 150
+  },
+  {
+    "year": 2023,
+    "country": "US",
+    "count": 2343
+  },
+  {
+    "year": 2023,
+    "country": "UY",
+    "count": 13
+  },
+  {
+    "year": 2024,
+    "country": "AU",
+    "count": 9
+  },
+  {
+    "year": 2024,
+    "country": "B",
+    "count": 4
+  },
+  {
+    "year": 2024,
+    "country": "BR",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "CA",
+    "count": 4
+  },
+  {
+    "year": 2024,
+    "country": "CL",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "CN",
+    "count": 1046
+  },
+  {
+    "year": 2024,
+    "country": "CZ",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "D",
+    "count": 5
+  },
+  {
+    "year": 2024,
+    "country": "DJ",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "E",
+    "count": 7
+  },
+  {
+    "year": 2024,
+    "country": "EG",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "F",
+    "count": 21
+  },
+  {
+    "year": 2024,
+    "country": "FI",
+    "count": 4
+  },
+  {
+    "year": 2024,
+    "country": "HR",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "HU",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "I",
+    "count": 11
+  },
+  {
+    "year": 2024,
+    "country": "I-ESA",
+    "count": 6
+  },
+  {
+    "year": 2024,
+    "country": "I-EU",
+    "count": 6
+  },
+  {
+    "year": 2024,
+    "country": "ID",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "IN",
+    "count": 14
+  },
+  {
+    "year": 2024,
+    "country": "IR",
+    "count": 19
+  },
+  {
+    "year": 2024,
+    "country": "J",
+    "count": 31
+  },
+  {
+    "year": 2024,
+    "country": "KR",
+    "count": 5
+  },
+  {
+    "year": 2024,
+    "country": "L",
+    "count": 7
+  },
+  {
+    "year": 2024,
+    "country": "MA",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "MN",
+    "count": 12
+  },
+  {
+    "year": 2024,
+    "country": "N",
+    "count": 3
+  },
+  {
+    "year": 2024,
+    "country": "NZ",
+    "count": 28
+  },
+  {
+    "year": 2024,
+    "country": "OM",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "P",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "PK",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "PL",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "RU",
+    "count": 113
+  },
+  {
+    "year": 2024,
+    "country": "RW",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "S",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "SK",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "SN",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "TR",
+    "count": 5
+  },
+  {
+    "year": 2024,
+    "country": "TW",
+    "count": 5
+  },
+  {
+    "year": 2024,
+    "country": "UAE",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "UK",
+    "count": 31
+  },
+  {
+    "year": 2024,
+    "country": "US",
+    "count": 2281
+  },
+  {
+    "year": 2024,
+    "country": "UY",
+    "count": 4
+  },
+  {
+    "year": 2024,
+    "country": "ZW",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "AU",
+    "count": 12
+  },
+  {
+    "year": 2025,
+    "country": "AZ",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "B",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "BGN",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "BH",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "BW",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "BY",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "CA",
+    "count": 6
+  },
+  {
+    "year": 2025,
+    "country": "CH",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "CN",
+    "count": 464
+  },
+  {
+    "year": 2025,
+    "country": "CZ",
+    "count": 3
+  },
+  {
+    "year": 2025,
+    "country": "D",
+    "count": 19
+  },
+  {
+    "year": 2025,
+    "country": "DK",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "E",
+    "count": 15
+  },
+  {
+    "year": 2025,
+    "country": "EC",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "EG",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "F",
+    "count": 26
+  },
+  {
+    "year": 2025,
+    "country": "FI",
+    "count": 13
+  },
+  {
+    "year": 2025,
+    "country": "GR",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "HU",
+    "count": 3
+  },
+  {
+    "year": 2025,
+    "country": "I",
+    "count": 31
+  },
+  {
+    "year": 2025,
+    "country": "I-ESA",
+    "count": 3
+  },
+  {
+    "year": 2025,
+    "country": "I-EU",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "I-EUM",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "ID",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "IE",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "IL",
+    "count": 10
+  },
+  {
+    "year": 2025,
+    "country": "IN",
+    "count": 16
+  },
+  {
+    "year": 2025,
+    "country": "IR",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "J",
+    "count": 36
+  },
+  {
+    "year": 2025,
+    "country": "KR",
+    "count": 24
+  },
+  {
+    "year": 2025,
+    "country": "KW",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "L",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "ME",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "MX",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "MY",
+    "count": 3
+  },
+  {
+    "year": 2025,
+    "country": "N",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "NP",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "NZ",
+    "count": 38
+  },
+  {
+    "year": 2025,
+    "country": "P",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "PK",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "PL",
+    "count": 7
+  },
+  {
+    "year": 2025,
+    "country": "QA",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "RU",
+    "count": 101
+  },
+  {
+    "year": 2025,
+    "country": "RW",
+    "count": 5
+  },
+  {
+    "year": 2025,
+    "country": "SA",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "SB",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "SG",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "T",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "TN",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "TR",
+    "count": 22
+  },
+  {
+    "year": 2025,
+    "country": "TW",
+    "count": 9
+  },
+  {
+    "year": 2025,
+    "country": "UAE",
+    "count": 13
+  },
+  {
+    "year": 2025,
+    "country": "UK",
+    "count": 11
+  },
+  {
+    "year": 2025,
+    "country": "US",
+    "count": 3720
+  },
+  {
+    "year": 2025,
+    "country": "UY",
+    "count": 4
+  },
+  {
+    "year": 2026,
+    "country": "CA",
+    "count": 10
+  },
+  {
+    "year": 2026,
+    "country": "CN",
+    "count": 44
+  },
+  {
+    "year": 2026,
+    "country": "D",
+    "count": 2
+  },
+  {
+    "year": 2026,
+    "country": "DZ",
+    "count": 2
+  },
+  {
+    "year": 2026,
+    "country": "E",
+    "count": 3
+  },
+  {
+    "year": 2026,
+    "country": "FI",
+    "count": 2
+  },
+  {
+    "year": 2026,
+    "country": "HK",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "IR",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "KR",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "L",
+    "count": 8
+  },
+  {
+    "year": 2026,
+    "country": "NZ",
+    "count": 4
+  },
+  {
+    "year": 2026,
+    "country": "PK",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "RU",
+    "count": 11
+  },
+  {
+    "year": 2026,
+    "country": "TR",
+    "count": 4
+  },
+  {
+    "year": 2026,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "US",
+    "count": 519
+  }
+]

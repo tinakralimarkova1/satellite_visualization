@@ -1,27 +1,20 @@
 import { renderLaunchesChart } from "./launches.js";
+import { initializeCountryFilter, renderCountryStackedChart } from "./purpose.js";
 
 document.addEventListener("DOMContentLoaded", async () => {
   try {
     await renderLaunchesChart();
-  } catch (error) {
-    console.error("Error rendering launches chart:", error);
+    await initializeCountryFilter();
+    await renderCountryStackedChart();
 
-    const chartEl = document.getElementById("chart-launches");
-    if (chartEl) {
-      chartEl.innerHTML = `
-        <div style="
-          display:flex;
-          align-items:center;
-          justify-content:center;
-          height:100%;
-          color:#6b7280;
-          font-size:0.95rem;
-          text-align:center;
-          padding:20px;
-        ">
-          Failed to load chart data.
-        </div>
-      `;
+    const resetButton = document.getElementById("reset-filters");
+    if (resetButton) {
+      resetButton.addEventListener("click", async () => {
+        await initializeCountryFilter();
+        await renderCountryStackedChart();
+      });
     }
+  } catch (error) {
+    console.error("Error initializing app:", error);
   }
 });

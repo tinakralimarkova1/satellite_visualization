@@ -33,5 +33,40 @@ def main() -> None:
 
     print(f"Wrote {len(output)} rows to {OUTPUT_JSON}")
 
+    OUTPUT_JSON_COUNTRY = BASE_DIR / "data" / "launches_by_year_country.json"
+
+    # --- Launches per year per country ---
+
+    # IMPORTANT: change this if your column name is different
+    country_col = "State"
+
+    df_filtered = df.dropna(subset=["Year", country_col])
+
+    launches_by_country = (
+        df_filtered
+        .groupby(["Year", country_col])
+        .size()
+        .reset_index(name="count")
+    )
+
+    launches_by_country["Year"] = launches_by_country["Year"].astype(int)
+
+    output_country = [
+        {
+            "year": int(row["Year"]),
+            "country": str(row[country_col]),
+            "count": int(row["count"])
+        }
+        for _, row in launches_by_country.iterrows()
+    ]
+
+    with open(OUTPUT_JSON_COUNTRY, "w", encoding="utf-8") as f:
+        json.dump(output_country, f, indent=2)
+
+    print(f"Wrote {len(output_country)} rows to {OUTPUT_JSON_COUNTRY}")
+
+
+
+
 if __name__ == "__main__":
     main()
