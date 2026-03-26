@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Satellite Data Visualizations</title>
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <h1>Satellite Data Visualizations</h1>
+      <p>
+        Explore historical satellite launch trends through interactive charts.
+      </p>
+    </header>
+
+    <aside class="filters">
+      <div class="filter-card">
+        <h2>Filters</h2>
+
+        <div class="filter-group">
+          <label for="year-range">Year Range</label>
+          <div id="year-range" class="filter-placeholder">
+            Slider goes here later
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label>Countries</label>
+          <div id="country-checkboxes" class="checkbox-list">
+            <label><input type="checkbox" checked /> United States</label>
+            <label><input type="checkbox" checked /> Russia</label>
+            <label><input type="checkbox" checked /> China</label>
+          </div>
+        </div>
+
+        <button id="reset-filters" class="reset-button">Reset Filters</button>
+      </div>
+    </aside>
+
+    <main class="content">
+      <section class="chart-card">
+        <div class="card-header">
+          <h2>Launches Over Time</h2>
+          <p>Total number of launches by year.</p>
+        </div>
+        <div id="chart-launches" class="chart"></div>
+      </section>
+
+      <section class="chart-card">
+        <div class="card-header">
+          <h2>Launches by Purpose</h2>
+          <p>Stacked launch totals by year and satellite purpose.</p>
+        </div>
+        <div id="chart-purpose" class="chart"></div>
+      </section>
+
+      <section class="chart-card">
+        <div class="card-header">
+          <h2>Geographical Distribution</h2>
+          <p>Total launches by country.</p>
+        </div>
+        <div id="chart-geo" class="chart"></div>
+      </section>
+    </main>
+  </div>
+
+  <script type="module" src="./js/main.js"></script>
+</body>
+</html>
