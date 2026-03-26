@@ -2,6 +2,10 @@ import { appState } from "./state.js";
 
 let countryYearData = [];
 let countryColorMap = {};
+let allCountries = [];
+
+const OTHER_LABEL = "Other";
+const OTHER_COLOR = "#9ca3af";
 
 function generateColorMap(countries) {
   const palette = [
@@ -15,6 +19,35 @@ function generateColorMap(countries) {
       countryColorMap[country] = palette[index % palette.length];
     }
   });
+
+  countryColorMap[OTHER_LABEL] = OTHER_COLOR;
+}
+
+function getCheckedCountries(container) {
+  return Array.from(container.querySelectorAll('input[type="checkbox"]:checked'))
+    .map(input => input.value);
+}
+
+function renderCountryCheckboxes(container, countries, selectedCountries) {
+  container.innerHTML = "";
+
+  countries.forEach(country => {
+    const label = document.createElement("label");
+    label.className = "country-option";
+
+    label.innerHTML = `
+      <input type="checkbox" value="${country}" ${selectedCountries.includes(country) ? "checked" : ""} />
+      <span>${country}</span>
+    `;
+
+    const checkbox = label.querySelector("input");
+    checkbox.addEventListener("change", async () => {
+      appState.selectedCountries = getCheckedCountries(container);
+      await renderCountryStackedChart();
+    });
+
+    container.appendChild(label);
+  });
 }
 
 export async function initializeCountryFilter() {
@@ -26,6 +59,8 @@ export async function initializeCountryFilter() {
   countryYearData = await response.json();
 
   const checkboxContainer = document.getElementById("country-checkboxes");
+  const controlsContainer = document.getElementById("country-filter-controls");
+
   if (!checkboxContainer) {
     throw new Error("Could not find #country-checkboxes");
   }
@@ -42,32 +77,91 @@ export async function initializeCountryFilter() {
     .sort((a, b) => b[1] - a[1])
     .map(entry => entry[0]);
 
-  generateColorMap(sortedCountries);
+  allCountries = [...sortedCountries];
 
-  const defaultCountries = sortedCountries.slice(0, 8);
+  generateColorMap(allCountries);
+
+  // default = top 8 only
+  const defaultCountries = allCountries.slice(0, 8);
   appState.selectedCountries = [...defaultCountries];
 
-  checkboxContainer.innerHTML = "";
-
-  sortedCountries.forEach(country => {
-    const label = document.createElement("label");
-    label.innerHTML = `
-      <input type="checkbox" value="${country}" ${defaultCountries.includes(country) ? "checked" : ""} />
-      ${country}
+  if (controlsContainer) {
+    controlsContainer.innerHTML = `
+      <input
+        type="text"
+        id="country-search"
+        placeholder="Search countries..."
+      />
+      <div class="country-filter-buttons">
+        <button id="select-all-countries" type="button">Select All</button>
+        <button id="deselect-all-countries" type="button">Deselect All</button>
+      </div>
     `;
 
-    const checkbox = label.querySelector("input");
-    checkbox.addEventListener("change", async () => {
-      const checkedCountries = Array.from(
-        checkboxContainer.querySelectorAll("input:checked")
-      ).map(input => input.value);
+    const searchInput = document.getElementById("country-search");
+    const selectAllBtn = document.getElementById("select-all-countries");
+    const deselectAllBtn = document.getElementById("deselect-all-countries");
 
-      appState.selectedCountries = checkedCountries;
+    renderCountryCheckboxes(
+      checkboxContainer,
+      allCountries,
+      appState.selectedCountries
+    );
+
+    searchInput.addEventListener("input", () => {
+      const query = searchInput.value.trim().toLowerCase();
+
+      const filteredCountries = allCountries.filter(country =>
+        country.toLowerCase().includes(query)
+      );
+
+      renderCountryCheckboxes(
+        checkboxContainer,
+        filteredCountries,
+        appState.selectedCountries
+      );
+    });
+
+    selectAllBtn.addEventListener("click", async () => {
+      appState.selectedCountries = [...allCountries];
+
+      const query = searchInput.value.trim().toLowerCase();
+      const filteredCountries = allCountries.filter(country =>
+        country.toLowerCase().includes(query)
+      );
+
+      renderCountryCheckboxes(
+        checkboxContainer,
+        filteredCountries,
+        appState.selectedCountries
+      );
+
       await renderCountryStackedChart();
     });
 
-    checkboxContainer.appendChild(label);
-  });
+    deselectAllBtn.addEventListener("click", async () => {
+      appState.selectedCountries = [];
+
+      const query = searchInput.value.trim().toLowerCase();
+      const filteredCountries = allCountries.filter(country =>
+        country.toLowerCase().includes(query)
+      );
+
+      renderCountryCheckboxes(
+        checkboxContainer,
+        filteredCountries,
+        appState.selectedCountries
+      );
+
+      await renderCountryStackedChart();
+    });
+  } else {
+    renderCountryCheckboxes(
+      checkboxContainer,
+      allCountries,
+      appState.selectedCountries
+    );
+  }
 }
 
 export async function renderCountryStackedChart() {
@@ -84,22 +178,25 @@ export async function renderCountryStackedChart() {
     throw new Error("Could not find #chart-launches-countries");
   }
 
-  const selectedCountries = appState.selectedCountries;
+  const selectedCountries = appState.selectedCountries || [];
   const [minYear, maxYear] = appState.yearRange;
 
-  const filtered = countryYearData.filter(row =>
-    selectedCountries.includes(row.country) &&
-    row.year >= minYear &&
-    row.year <= maxYear
+  const yearFiltered = countryYearData.filter(row =>
+    row.year >= minYear && row.year <= maxYear
   );
 
-  const years = Array.from(new Set(filtered.map(row => row.year))).sort((a, b) => a - b);
+  const years = Array.from(
+    new Set(yearFiltered.map(row => row.year))
+  ).sort((a, b) => a - b);
 
-  const traces = selectedCountries.map(country => {
-    const countryRows = filtered.filter(row => row.country === country);
+  const traces = [];
+
+  // Selected country traces
+  selectedCountries.forEach(country => {
+    const countryRows = yearFiltered.filter(row => row.country === country);
     const countMap = new Map(countryRows.map(row => [row.year, row.count]));
 
-    return {
+    traces.push({
       x: years,
       y: years.map(year => countMap.get(year) || 0),
       type: "bar",
@@ -109,8 +206,40 @@ export async function renderCountryStackedChart() {
       },
       hovertemplate:
         "Year: %{x}<br>Country: " + country + "<br>Launches: %{y}<extra></extra>"
-    };
+    });
   });
+
+  // Other trace = all unselected countries combined
+  const unselectedCountries = allCountries.filter(
+    country => !selectedCountries.includes(country)
+  );
+
+  if (unselectedCountries.length > 0) {
+    const otherRows = yearFiltered.filter(row =>
+      unselectedCountries.includes(row.country)
+    );
+
+    const otherCountMap = new Map();
+
+    otherRows.forEach(row => {
+      otherCountMap.set(
+        row.year,
+        (otherCountMap.get(row.year) || 0) + row.count
+      );
+    });
+
+    traces.push({
+      x: years,
+      y: years.map(year => otherCountMap.get(year) || 0),
+      type: "bar",
+      name: OTHER_LABEL,
+      marker: {
+        color: OTHER_COLOR
+      },
+      hovertemplate:
+        "Year: %{x}<br>Country: Other<br>Launches: %{y}<extra></extra>"
+    });
+  }
 
   Plotly.newPlot(
     chartEl,
@@ -120,7 +249,7 @@ export async function renderCountryStackedChart() {
       barmode: "stack",
       paper_bgcolor: "white",
       plot_bgcolor: "white",
-      margin: { t: 50, r: 20, b: 60, l: 60 },
+      margin: { t: 150, r: 20, b: 60, l: 60 },
       font: {
         family: "Inter, Arial, sans-serif",
         color: "#1f2937"

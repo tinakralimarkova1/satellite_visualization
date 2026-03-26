@@ -233,3 +233,48 @@
   .noUi-handle::after {
     display: none;
   }
+
+  #country-filter-controls {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 12px;
+  }
+  
+  #country-search {
+    padding: 8px 10px;
+    font-size: 14px;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+  }
+  
+  .country-filter-buttons {
+    display: flex;
+    gap: 8px;
+  }
+  
+  .country-filter-buttons button {
+    padding: 8px 12px;
+    border: 1px solid #d1d5db;
+    background: white;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .country-filter-buttons button:hover {
+    background: #f3f4f6;
+  }
+  
+  #country-checkboxes {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    max-height: 250px;
+    overflow-y: auto;
+  }
+  
+  .country-option {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
