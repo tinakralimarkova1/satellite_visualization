@@ -6,6 +6,7 @@
   <title>Satellite Data Visualizations</title>
   <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
   <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nouislider@15.8.1/dist/nouislider.min.css" />
 </head>
 <body>
   <div class="page">
@@ -21,10 +22,15 @@
         <h2>Filters</h2>
 
         <div class="filter-group">
-          <label for="year-range">Year Range</label>
-          <div id="year-range" class="filter-placeholder">
-            Slider goes here later
+          <label for="year-slider">Year Range</label>
+        
+          <div class="year-range-display">
+            <span id="year-min-label">1957</span>
+            <span>–</span>
+            <span id="year-max-label">2026</span>
           </div>
+        
+          <div id="year-slider"></div>
         </div>
 
         <div class="filter-group">
@@ -62,7 +68,7 @@
       </section>
     </main>
   </div>
-
+  <script src="https://cdn.jsdelivr.net/npm/nouislider@15.8.1/dist/nouislider.min.js"></script>
   <script type="module" src="./js/main.js"></script>
 </body>
 </html>

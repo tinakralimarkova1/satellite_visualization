@@ -190,3 +190,46 @@
     color: var(--text);
     font-size: 0.95rem;
   }
+
+  .year-range-display {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text);
+  }
+  
+  #year-slider {
+    margin: 10px 4px 4px;
+  }
+  
+  .noUi-target {
+    border: 1px solid var(--border);
+    box-shadow: none;
+    background: #e5e7eb;
+    border-radius: 999px;
+    height: 8px;
+  }
+  
+  .noUi-connect {
+    background: #2563eb;
+  }
+  
+  .noUi-horizontal .noUi-handle {
+    width: 18px;
+    height: 18px;
+    right: -9px;
+    top: -6px;
+    border-radius: 50%;
+    border: 2px solid #2563eb;
+    background: white;
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.18);
+    cursor: pointer;
+  }
+  
+  .noUi-handle::before,
+  .noUi-handle::after {
+    display: none;
+  }

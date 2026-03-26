@@ -1,3 +1,4 @@
 export const appState = {
-    selectedCountries: []
+    selectedCountries: [],
+    yearRange: [1957, 2026]
   };
