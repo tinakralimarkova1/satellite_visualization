@@ -2,17 +2,17 @@
   {
     "year": 1957,
     "country": "SU",
-    "count": 3
-  },
-  {
-    "year": 1958,
-    "country": "SU",
     "count": 2
   },
   {
     "year": 1958,
+    "country": "SU",
+    "count": 1
+  },
+  {
+    "year": 1958,
     "country": "US",
-    "count": 9
+    "count": 7
   },
   {
     "year": 1959,
@@ -22,37 +22,37 @@
   {
     "year": 1959,
     "country": "US",
-    "count": 20
+    "count": 12
   },
   {
     "year": 1960,
     "country": "SU",
-    "count": 13
+    "count": 3
   },
   {
     "year": 1960,
     "country": "US",
-    "count": 39
-  },
-  {
-    "year": 1961,
-    "country": "SU",
     "count": 18
   },
   {
     "year": 1961,
+    "country": "SU",
+    "count": 6
+  },
+  {
+    "year": 1961,
     "country": "US",
-    "count": 403
+    "count": 37
   },
   {
     "year": 1962,
     "country": "CA",
-    "count": 3
+    "count": 1
   },
   {
     "year": 1962,
     "country": "SU",
-    "count": 88
+    "count": 20
   },
   {
     "year": 1962,
@@ -62,87 +62,82 @@
   {
     "year": 1962,
     "country": "US",
-    "count": 115
+    "count": 60
   },
   {
     "year": 1963,
+    "country": "SU",
+    "count": 17
+  },
+  {
+    "year": 1963,
+    "country": "US",
+    "count": 58
+  },
+  {
+    "year": 1964,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 1964,
+    "country": "SU",
+    "count": 35
+  },
+  {
+    "year": 1964,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 1964,
+    "country": "US",
+    "count": 71
+  },
+  {
+    "year": 1965,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 1965,
+    "country": "F",
+    "count": 2
+  },
+  {
+    "year": 1965,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1965,
+    "country": "SU",
+    "count": 64
+  },
+  {
+    "year": 1965,
+    "country": "US",
+    "count": 98
+  },
+  {
+    "year": 1966,
+    "country": "F",
+    "count": 1
+  },
+  {
+    "year": 1966,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1966,
     "country": "SU",
     "count": 44
   },
   {
-    "year": 1963,
-    "country": "US",
-    "count": 298
-  },
-  {
-    "year": 1964,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 1964,
-    "country": "RU",
-    "count": 15
-  },
-  {
-    "year": 1964,
-    "country": "SU",
-    "count": 224
-  },
-  {
-    "year": 1964,
-    "country": "UK",
-    "count": 2
-  },
-  {
-    "year": 1964,
-    "country": "US",
-    "count": 159
-  },
-  {
-    "year": 1965,
-    "country": "CA",
-    "count": 1
-  },
-  {
-    "year": 1965,
-    "country": "F",
-    "count": 9
-  },
-  {
-    "year": 1965,
-    "country": "I-INT",
-    "count": 1
-  },
-  {
-    "year": 1965,
-    "country": "SU",
-    "count": 525
-  },
-  {
-    "year": 1965,
-    "country": "US",
-    "count": 994
-  },
-  {
-    "year": 1966,
-    "country": "F",
-    "count": 15
-  },
-  {
-    "year": 1966,
-    "country": "I-INT",
-    "count": 1
-  },
-  {
-    "year": 1966,
-    "country": "SU",
-    "count": 225
-  },
-  {
     "year": 1966,
     "country": "US",
-    "count": 557
+    "count": 99
   },
   {
     "year": 1967,
@@ -152,272 +147,252 @@
   {
     "year": 1967,
     "country": "F",
+    "count": 2
+  },
+  {
+    "year": 1967,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 1967,
+    "country": "I-INT",
+    "count": 3
+  },
+  {
+    "year": 1967,
+    "country": "SU",
+    "count": 66
+  },
+  {
+    "year": 1967,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 1967,
+    "country": "US",
+    "count": 86
+  },
+  {
+    "year": 1968,
+    "country": "I-ESRO",
+    "count": 3
+  },
+  {
+    "year": 1968,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1968,
+    "country": "SU",
+    "count": 76
+  },
+  {
+    "year": 1968,
+    "country": "US",
+    "count": 68
+  },
+  {
+    "year": 1969,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 1969,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 1969,
+    "country": "I-ESRO",
+    "count": 1
+  },
+  {
+    "year": 1969,
+    "country": "I-INT",
+    "count": 3
+  },
+  {
+    "year": 1969,
+    "country": "SU",
+    "count": 70
+  },
+  {
+    "year": 1969,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 1969,
+    "country": "US",
+    "count": 67
+  },
+  {
+    "year": 1970,
+    "country": "AU",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "CN",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "F",
+    "count": 2
+  },
+  {
+    "year": 1970,
+    "country": "I-INT",
+    "count": 3
+  },
+  {
+    "year": 1970,
+    "country": "I-NATO",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "J",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "SU",
+    "count": 91
+  },
+  {
+    "year": 1970,
+    "country": "UK",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "US",
+    "count": 32
+  },
+  {
+    "year": 1971,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 1971,
+    "country": "CN",
+    "count": 1
+  },
+  {
+    "year": 1971,
+    "country": "F",
+    "count": 2
+  },
+  {
+    "year": 1971,
+    "country": "I",
+    "count": 1
+  },
+  {
+    "year": 1971,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1971,
+    "country": "I-NATO",
+    "count": 1
+  },
+  {
+    "year": 1971,
+    "country": "J",
+    "count": 2
+  },
+  {
+    "year": 1971,
+    "country": "SU",
+    "count": 103
+  },
+  {
+    "year": 1971,
+    "country": "UK",
+    "count": 2
+  },
+  {
+    "year": 1971,
+    "country": "US",
+    "count": 46
+  },
+  {
+    "year": 1972,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "D",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "F",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "I-ESRO",
+    "count": 3
+  },
+  {
+    "year": 1972,
+    "country": "I-INT",
+    "count": 2
+  },
+  {
+    "year": 1972,
+    "country": "J",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "SU",
+    "count": 97
+  },
+  {
+    "year": 1972,
+    "country": "US",
+    "count": 34
+  },
+  {
+    "year": 1973,
+    "country": "CA",
+    "count": 1
+  },
+  {
+    "year": 1973,
+    "country": "I-INT",
+    "count": 1
+  },
+  {
+    "year": 1973,
+    "country": "SU",
+    "count": 115
+  },
+  {
+    "year": 1973,
+    "country": "US",
     "count": 27
-  },
-  {
-    "year": 1967,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 1967,
-    "country": "I-INT",
-    "count": 3
-  },
-  {
-    "year": 1967,
-    "country": "RU",
-    "count": 3
-  },
-  {
-    "year": 1967,
-    "country": "SU",
-    "count": 234
-  },
-  {
-    "year": 1967,
-    "country": "UK",
-    "count": 3
-  },
-  {
-    "year": 1967,
-    "country": "US",
-    "count": 176
-  },
-  {
-    "year": 1968,
-    "country": "I-ESRO",
-    "count": 6
-  },
-  {
-    "year": 1968,
-    "country": "I-INT",
-    "count": 1
-  },
-  {
-    "year": 1968,
-    "country": "SU",
-    "count": 468
-  },
-  {
-    "year": 1968,
-    "country": "US",
-    "count": 221
-  },
-  {
-    "year": 1969,
-    "country": "CA",
-    "count": 4
-  },
-  {
-    "year": 1969,
-    "country": "D",
-    "count": 5
-  },
-  {
-    "year": 1969,
-    "country": "I-ESRO",
-    "count": 3
-  },
-  {
-    "year": 1969,
-    "country": "I-INT",
-    "count": 3
-  },
-  {
-    "year": 1969,
-    "country": "SU",
-    "count": 232
-  },
-  {
-    "year": 1969,
-    "country": "UK",
-    "count": 1
-  },
-  {
-    "year": 1969,
-    "country": "US",
-    "count": 396
-  },
-  {
-    "year": 1970,
-    "country": "AU",
-    "count": 1
-  },
-  {
-    "year": 1970,
-    "country": "CN",
-    "count": 4
-  },
-  {
-    "year": 1970,
-    "country": "D",
-    "count": 1
-  },
-  {
-    "year": 1970,
-    "country": "F",
-    "count": 7
-  },
-  {
-    "year": 1970,
-    "country": "I-INT",
-    "count": 3
-  },
-  {
-    "year": 1970,
-    "country": "I-NATO",
-    "count": 1
-  },
-  {
-    "year": 1970,
-    "country": "J",
-    "count": 1
-  },
-  {
-    "year": 1970,
-    "country": "RU",
-    "count": 4
-  },
-  {
-    "year": 1970,
-    "country": "SU",
-    "count": 389
-  },
-  {
-    "year": 1970,
-    "country": "UK",
-    "count": 1
-  },
-  {
-    "year": 1970,
-    "country": "US",
-    "count": 499
-  },
-  {
-    "year": 1971,
-    "country": "CA",
-    "count": 8
-  },
-  {
-    "year": 1971,
-    "country": "CN",
-    "count": 2
-  },
-  {
-    "year": 1971,
-    "country": "F",
-    "count": 12
-  },
-  {
-    "year": 1971,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 1971,
-    "country": "I-INT",
-    "count": 2
-  },
-  {
-    "year": 1971,
-    "country": "I-NATO",
-    "count": 1
-  },
-  {
-    "year": 1971,
-    "country": "J",
-    "count": 5
-  },
-  {
-    "year": 1971,
-    "country": "RU",
-    "count": 16
-  },
-  {
-    "year": 1971,
-    "country": "SU",
-    "count": 502
-  },
-  {
-    "year": 1971,
-    "country": "UK",
-    "count": 6
-  },
-  {
-    "year": 1971,
-    "country": "US",
-    "count": 88
-  },
-  {
-    "year": 1972,
-    "country": "CA",
-    "count": 1
-  },
-  {
-    "year": 1972,
-    "country": "D",
-    "count": 1
-  },
-  {
-    "year": 1972,
-    "country": "F",
-    "count": 1
-  },
-  {
-    "year": 1972,
-    "country": "I-ESRO",
-    "count": 6
-  },
-  {
-    "year": 1972,
-    "country": "I-INT",
-    "count": 2
-  },
-  {
-    "year": 1972,
-    "country": "J",
-    "count": 2
-  },
-  {
-    "year": 1972,
-    "country": "RU",
-    "count": 1
-  },
-  {
-    "year": 1972,
-    "country": "SU",
-    "count": 324
-  },
-  {
-    "year": 1972,
-    "country": "US",
-    "count": 320
-  },
-  {
-    "year": 1973,
-    "country": "CA",
-    "count": 1
-  },
-  {
-    "year": 1973,
-    "country": "I-INT",
-    "count": 1
-  },
-  {
-    "year": 1973,
-    "country": "SU",
-    "count": 572
-  },
-  {
-    "year": 1973,
-    "country": "US",
-    "count": 304
   },
   {
     "year": 1974,
     "country": "D",
-    "count": 4
+    "count": 3
   },
   {
     "year": 1974,
@@ -437,32 +412,27 @@
   {
     "year": 1974,
     "country": "J",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1974,
     "country": "NL",
-    "count": 4
-  },
-  {
-    "year": 1974,
-    "country": "RU",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1974,
     "country": "SU",
-    "count": 457
+    "count": 100
   },
   {
     "year": 1974,
     "country": "UK",
-    "count": 6
+    "count": 4
   },
   {
     "year": 1974,
     "country": "US",
-    "count": 253
+    "count": 19
   },
   {
     "year": 1975,
@@ -472,12 +442,12 @@
   {
     "year": 1975,
     "country": "CN",
-    "count": 10
+    "count": 3
   },
   {
     "year": 1975,
     "country": "F",
-    "count": 21
+    "count": 6
   },
   {
     "year": 1975,
@@ -497,32 +467,27 @@
   {
     "year": 1975,
     "country": "J",
-    "count": 4
-  },
-  {
-    "year": 1975,
-    "country": "RU",
-    "count": 3
+    "count": 2
   },
   {
     "year": 1975,
     "country": "SU",
-    "count": 538
+    "count": 121
   },
   {
     "year": 1975,
     "country": "US",
-    "count": 595
+    "count": 30
   },
   {
     "year": 1976,
     "country": "CA",
-    "count": 3
+    "count": 1
   },
   {
     "year": 1976,
     "country": "CN",
-    "count": 5
+    "count": 2
   },
   {
     "year": 1976,
@@ -547,22 +512,17 @@
   {
     "year": 1976,
     "country": "J",
-    "count": 2
-  },
-  {
-    "year": 1976,
-    "country": "RU",
-    "count": 4
+    "count": 1
   },
   {
     "year": 1976,
     "country": "SU",
-    "count": 965
+    "count": 168
   },
   {
     "year": 1976,
     "country": "US",
-    "count": 282
+    "count": 30
   },
   {
     "year": 1977,
@@ -577,7 +537,7 @@
   {
     "year": 1977,
     "country": "I-ESA",
-    "count": 4
+    "count": 3
   },
   {
     "year": 1977,
@@ -597,22 +557,17 @@
   {
     "year": 1977,
     "country": "J",
-    "count": 16
-  },
-  {
-    "year": 1977,
-    "country": "RU",
-    "count": 30
+    "count": 4
   },
   {
     "year": 1977,
     "country": "SU",
-    "count": 636
+    "count": 153
   },
   {
     "year": 1977,
     "country": "US",
-    "count": 261
+    "count": 20
   },
   {
     "year": 1978,
@@ -622,7 +577,7 @@
   {
     "year": 1978,
     "country": "CN",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1978,
@@ -647,32 +602,22 @@
   {
     "year": 1978,
     "country": "J",
-    "count": 15
-  },
-  {
-    "year": 1978,
-    "country": "RU",
-    "count": 23
+    "count": 4
   },
   {
     "year": 1978,
     "country": "SU",
-    "count": 376
+    "count": 134
   },
   {
     "year": 1978,
     "country": "US",
-    "count": 370
-  },
-  {
-    "year": 1979,
-    "country": "F",
-    "count": 9
+    "count": 33
   },
   {
     "year": 1979,
     "country": "I-ESA",
-    "count": 27
+    "count": 1
   },
   {
     "year": 1979,
@@ -682,17 +627,12 @@
   {
     "year": 1979,
     "country": "J",
-    "count": 8
-  },
-  {
-    "year": 1979,
-    "country": "RU",
-    "count": 109
+    "count": 2
   },
   {
     "year": 1979,
     "country": "SU",
-    "count": 360
+    "count": 131
   },
   {
     "year": 1979,
@@ -702,7 +642,7 @@
   {
     "year": 1979,
     "country": "US",
-    "count": 362
+    "count": 17
   },
   {
     "year": 1980,
@@ -712,37 +652,32 @@
   {
     "year": 1980,
     "country": "IN",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1980,
     "country": "J",
-    "count": 10
-  },
-  {
-    "year": 1980,
-    "country": "RU",
-    "count": 38
+    "count": 2
   },
   {
     "year": 1980,
     "country": "SU",
-    "count": 556
+    "count": 157
   },
   {
     "year": 1980,
     "country": "US",
-    "count": 40
+    "count": 16
   },
   {
     "year": 1981,
     "country": "CN",
-    "count": 10
+    "count": 3
   },
   {
     "year": 1981,
     "country": "I-ESA",
-    "count": 9
+    "count": 4
   },
   {
     "year": 1981,
@@ -752,22 +687,17 @@
   {
     "year": 1981,
     "country": "IN",
-    "count": 4
+    "count": 3
   },
   {
     "year": 1981,
     "country": "J",
-    "count": 9
-  },
-  {
-    "year": 1981,
-    "country": "RU",
-    "count": 258
+    "count": 3
   },
   {
     "year": 1981,
     "country": "SU",
-    "count": 838
+    "count": 150
   },
   {
     "year": 1981,
@@ -777,17 +707,17 @@
   {
     "year": 1981,
     "country": "US",
-    "count": 61
+    "count": 17
   },
   {
     "year": 1982,
     "country": "CA",
-    "count": 3
+    "count": 2
   },
   {
     "year": 1982,
     "country": "CN",
-    "count": 3
+    "count": 1
   },
   {
     "year": 1982,
@@ -802,42 +732,32 @@
   {
     "year": 1982,
     "country": "J",
-    "count": 4
-  },
-  {
-    "year": 1982,
-    "country": "RU",
-    "count": 21
+    "count": 1
   },
   {
     "year": 1982,
     "country": "SU",
-    "count": 2666
+    "count": 188
   },
   {
     "year": 1982,
     "country": "US",
-    "count": 50
+    "count": 18
   },
   {
     "year": 1983,
     "country": "CA",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1983,
     "country": "CN",
-    "count": 6
+    "count": 1
   },
   {
     "year": 1983,
     "country": "D",
     "count": 2
-  },
-  {
-    "year": 1983,
-    "country": "F",
-    "count": 7
   },
   {
     "year": 1983,
@@ -852,42 +772,37 @@
   {
     "year": 1983,
     "country": "ID",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1983,
     "country": "IN",
-    "count": 8
+    "count": 2
   },
   {
     "year": 1983,
     "country": "J",
-    "count": 10
-  },
-  {
-    "year": 1983,
-    "country": "RU",
-    "count": 51
+    "count": 3
   },
   {
     "year": 1983,
     "country": "SU",
-    "count": 708
+    "count": 190
   },
   {
     "year": 1983,
     "country": "US",
-    "count": 94
+    "count": 29
   },
   {
     "year": 1984,
     "country": "CA",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1984,
     "country": "CN",
-    "count": 13
+    "count": 3
   },
   {
     "year": 1984,
@@ -897,7 +812,7 @@
   {
     "year": 1984,
     "country": "F",
-    "count": 19
+    "count": 1
   },
   {
     "year": 1984,
@@ -922,22 +837,17 @@
   {
     "year": 1984,
     "country": "ID",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1984,
     "country": "J",
-    "count": 14
-  },
-  {
-    "year": 1984,
-    "country": "RU",
-    "count": 80
+    "count": 3
   },
   {
     "year": 1984,
     "country": "SU",
-    "count": 540
+    "count": 143
   },
   {
     "year": 1984,
@@ -947,12 +857,12 @@
   {
     "year": 1984,
     "country": "US",
-    "count": 93
+    "count": 34
   },
   {
     "year": 1985,
     "country": "AU",
-    "count": 4
+    "count": 2
   },
   {
     "year": 1985,
@@ -962,22 +872,22 @@
   {
     "year": 1985,
     "country": "CA",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1985,
     "country": "CN",
-    "count": 4
+    "count": 1
   },
   {
     "year": 1985,
     "country": "F",
-    "count": 19
+    "count": 1
   },
   {
     "year": 1985,
     "country": "I-ARAB",
-    "count": 3
+    "count": 2
   },
   {
     "year": 1985,
@@ -992,27 +902,22 @@
   {
     "year": 1985,
     "country": "J",
-    "count": 7
+    "count": 2
   },
   {
     "year": 1985,
     "country": "MX",
-    "count": 4
-  },
-  {
-    "year": 1985,
-    "country": "RU",
-    "count": 81
+    "count": 2
   },
   {
     "year": 1985,
     "country": "SU",
-    "count": 612
+    "count": 143
   },
   {
     "year": 1985,
     "country": "US",
-    "count": 63
+    "count": 31
   },
   {
     "year": 1986,
@@ -1022,37 +927,37 @@
   {
     "year": 1986,
     "country": "CN",
-    "count": 12
-  },
-  {
-    "year": 1986,
-    "country": "F",
-    "count": 504
-  },
-  {
-    "year": 1986,
-    "country": "J",
-    "count": 7
-  },
-  {
-    "year": 1986,
-    "country": "RU",
-    "count": 160
-  },
-  {
-    "year": 1986,
-    "country": "S",
     "count": 2
   },
   {
     "year": 1986,
+    "country": "F",
+    "count": 1
+  },
+  {
+    "year": 1986,
+    "country": "J",
+    "count": 4
+  },
+  {
+    "year": 1986,
+    "country": "RU",
+    "count": 1
+  },
+  {
+    "year": 1986,
+    "country": "S",
+    "count": 1
+  },
+  {
+    "year": 1986,
     "country": "SU",
-    "count": 625
+    "count": 139
   },
   {
     "year": 1986,
     "country": "US",
-    "count": 47
+    "count": 12
   },
   {
     "year": 1987,
@@ -1062,17 +967,12 @@
   {
     "year": 1987,
     "country": "CN",
-    "count": 6
+    "count": 2
   },
   {
     "year": 1987,
     "country": "D",
     "count": 1
-  },
-  {
-    "year": 1987,
-    "country": "F",
-    "count": 5
   },
   {
     "year": 1987,
@@ -1087,27 +987,22 @@
   {
     "year": 1987,
     "country": "J",
-    "count": 15
-  },
-  {
-    "year": 1987,
-    "country": "RU",
-    "count": 302
+    "count": 3
   },
   {
     "year": 1987,
     "country": "SU",
-    "count": 787
+    "count": 118
   },
   {
     "year": 1987,
     "country": "US",
-    "count": 48
+    "count": 12
   },
   {
     "year": 1988,
     "country": "CN",
-    "count": 12
+    "count": 5
   },
   {
     "year": 1988,
@@ -1117,16 +1012,11 @@
   {
     "year": 1988,
     "country": "F",
-    "count": 67
+    "count": 2
   },
   {
     "year": 1988,
     "country": "I",
-    "count": 1
-  },
-  {
-    "year": 1988,
-    "country": "I-ESA",
     "count": 1
   },
   {
@@ -1147,7 +1037,7 @@
   {
     "year": 1988,
     "country": "IL",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1988,
@@ -1157,7 +1047,7 @@
   {
     "year": 1988,
     "country": "J",
-    "count": 6
+    "count": 2
   },
   {
     "year": 1988,
@@ -1166,13 +1056,8 @@
   },
   {
     "year": 1988,
-    "country": "RU",
-    "count": 131
-  },
-  {
-    "year": 1988,
     "country": "SU",
-    "count": 503
+    "count": 165
   },
   {
     "year": 1988,
@@ -1182,7 +1067,7 @@
   {
     "year": 1988,
     "country": "US",
-    "count": 92
+    "count": 22
   },
   {
     "year": 1989,
@@ -1196,13 +1081,8 @@
   },
   {
     "year": 1989,
-    "country": "F",
-    "count": 111
-  },
-  {
-    "year": 1989,
     "country": "I-ESA",
-    "count": 3
+    "count": 2
   },
   {
     "year": 1989,
@@ -1217,12 +1097,7 @@
   {
     "year": 1989,
     "country": "J",
-    "count": 19
-  },
-  {
-    "year": 1989,
-    "country": "RU",
-    "count": 173
+    "count": 4
   },
   {
     "year": 1989,
@@ -1232,7 +1107,7 @@
   {
     "year": 1989,
     "country": "SU",
-    "count": 413
+    "count": 146
   },
   {
     "year": 1989,
@@ -1242,7 +1117,7 @@
   {
     "year": 1989,
     "country": "US",
-    "count": 227
+    "count": 24
   },
   {
     "year": 1990,
@@ -1257,7 +1132,7 @@
   {
     "year": 1990,
     "country": "CN",
-    "count": 118
+    "count": 5
   },
   {
     "year": 1990,
@@ -1267,7 +1142,7 @@
   {
     "year": 1990,
     "country": "F",
-    "count": 11
+    "count": 2
   },
   {
     "year": 1990,
@@ -1292,7 +1167,7 @@
   {
     "year": 1990,
     "country": "I-INT",
-    "count": 4
+    "count": 2
   },
   {
     "year": 1990,
@@ -1302,7 +1177,7 @@
   {
     "year": 1990,
     "country": "IL",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1990,
@@ -1312,7 +1187,7 @@
   {
     "year": 1990,
     "country": "J",
-    "count": 13
+    "count": 7
   },
   {
     "year": 1990,
@@ -1322,22 +1197,22 @@
   {
     "year": 1990,
     "country": "RU",
-    "count": 30
+    "count": 17
   },
   {
     "year": 1990,
     "country": "SU",
-    "count": 353
+    "count": 129
   },
   {
     "year": 1990,
     "country": "UK",
-    "count": 6
+    "count": 5
   },
   {
     "year": 1990,
     "country": "US",
-    "count": 153
+    "count": 39
   },
   {
     "year": 1991,
@@ -1347,7 +1222,7 @@
   {
     "year": 1991,
     "country": "CN",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1991,
@@ -1362,7 +1237,7 @@
   {
     "year": 1991,
     "country": "F",
-    "count": 57
+    "count": 2
   },
   {
     "year": 1991,
@@ -1372,7 +1247,7 @@
   {
     "year": 1991,
     "country": "I-ESA",
-    "count": 10
+    "count": 1
   },
   {
     "year": 1991,
@@ -1407,7 +1282,7 @@
   {
     "year": 1991,
     "country": "J",
-    "count": 12
+    "count": 2
   },
   {
     "year": 1991,
@@ -1416,13 +1291,8 @@
   },
   {
     "year": 1991,
-    "country": "RU",
-    "count": 206
-  },
-  {
-    "year": 1991,
     "country": "SU",
-    "count": 344
+    "count": 84
   },
   {
     "year": 1991,
@@ -1432,7 +1302,7 @@
   {
     "year": 1991,
     "country": "US",
-    "count": 173
+    "count": 35
   },
   {
     "year": 1992,
@@ -1447,7 +1317,7 @@
   {
     "year": 1992,
     "country": "CN",
-    "count": 15
+    "count": 2
   },
   {
     "year": 1992,
@@ -1462,12 +1332,12 @@
   {
     "year": 1992,
     "country": "F",
-    "count": 78
+    "count": 2
   },
   {
     "year": 1992,
     "country": "I",
-    "count": 4
+    "count": 1
   },
   {
     "year": 1992,
@@ -1502,12 +1372,12 @@
   {
     "year": 1992,
     "country": "IN",
-    "count": 3
+    "count": 2
   },
   {
     "year": 1992,
     "country": "J",
-    "count": 5
+    "count": 4
   },
   {
     "year": 1992,
@@ -1517,7 +1387,7 @@
   {
     "year": 1992,
     "country": "RU",
-    "count": 552
+    "count": 80
   },
   {
     "year": 1992,
@@ -1527,7 +1397,7 @@
   {
     "year": 1992,
     "country": "US",
-    "count": 87
+    "count": 28
   },
   {
     "year": 1993,
@@ -1537,7 +1407,7 @@
   {
     "year": 1993,
     "country": "CN",
-    "count": 8
+    "count": 2
   },
   {
     "year": 1993,
@@ -1552,17 +1422,12 @@
   {
     "year": 1993,
     "country": "F",
-    "count": 15
+    "count": 3
   },
   {
     "year": 1993,
     "country": "I",
     "count": 2
-  },
-  {
-    "year": 1993,
-    "country": "I-ESA",
-    "count": 1
   },
   {
     "year": 1993,
@@ -1587,7 +1452,7 @@
   {
     "year": 1993,
     "country": "J",
-    "count": 8
+    "count": 1
   },
   {
     "year": 1993,
@@ -1612,12 +1477,7 @@
   {
     "year": 1993,
     "country": "RU",
-    "count": 2057
-  },
-  {
-    "year": 1993,
-    "country": "SU",
-    "count": 1
+    "count": 58
   },
   {
     "year": 1993,
@@ -1627,7 +1487,7 @@
   {
     "year": 1993,
     "country": "US",
-    "count": 76
+    "count": 32
   },
   {
     "year": 1994,
@@ -1642,17 +1502,12 @@
   {
     "year": 1994,
     "country": "CN",
-    "count": 11
+    "count": 4
   },
   {
     "year": 1994,
     "country": "D",
     "count": 3
-  },
-  {
-    "year": 1994,
-    "country": "F",
-    "count": 8
   },
   {
     "year": 1994,
@@ -1667,12 +1522,12 @@
   {
     "year": 1994,
     "country": "IN",
-    "count": 5
+    "count": 2
   },
   {
     "year": 1994,
     "country": "J",
-    "count": 7
+    "count": 4
   },
   {
     "year": 1994,
@@ -1687,7 +1542,7 @@
   {
     "year": 1994,
     "country": "RU",
-    "count": 430
+    "count": 63
   },
   {
     "year": 1994,
@@ -1707,7 +1562,7 @@
   {
     "year": 1994,
     "country": "US",
-    "count": 838
+    "count": 37
   },
   {
     "year": 1995,
@@ -1718,11 +1573,6 @@
     "year": 1995,
     "country": "CA",
     "count": 1
-  },
-  {
-    "year": 1995,
-    "country": "CN",
-    "count": 6
   },
   {
     "year": 1995,
@@ -1742,7 +1592,7 @@
   {
     "year": 1995,
     "country": "F",
-    "count": 17
+    "count": 3
   },
   {
     "year": 1995,
@@ -1752,7 +1602,7 @@
   {
     "year": 1995,
     "country": "I-ESA",
-    "count": 12
+    "count": 3
   },
   {
     "year": 1995,
@@ -1767,7 +1617,7 @@
   {
     "year": 1995,
     "country": "IL",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1995,
@@ -1777,7 +1627,7 @@
   {
     "year": 1995,
     "country": "J",
-    "count": 12
+    "count": 4
   },
   {
     "year": 1995,
@@ -1792,7 +1642,7 @@
   {
     "year": 1995,
     "country": "RU",
-    "count": 167
+    "count": 55
   },
   {
     "year": 1995,
@@ -1807,7 +1657,7 @@
   {
     "year": 1995,
     "country": "US",
-    "count": 309
+    "count": 38
   },
   {
     "year": 1996,
@@ -1822,7 +1672,7 @@
   {
     "year": 1996,
     "country": "CN",
-    "count": 6
+    "count": 2
   },
   {
     "year": 1996,
@@ -1837,7 +1687,7 @@
   {
     "year": 1996,
     "country": "F",
-    "count": 18
+    "count": 1
   },
   {
     "year": 1996,
@@ -1882,12 +1732,12 @@
   {
     "year": 1996,
     "country": "IN",
-    "count": 4
+    "count": 1
   },
   {
     "year": 1996,
     "country": "J",
-    "count": 4
+    "count": 3
   },
   {
     "year": 1996,
@@ -1912,7 +1762,7 @@
   {
     "year": 1996,
     "country": "RU",
-    "count": 100
+    "count": 28
   },
   {
     "year": 1996,
@@ -1922,7 +1772,7 @@
   {
     "year": 1996,
     "country": "US",
-    "count": 92
+    "count": 39
   },
   {
     "year": 1997,
@@ -1932,7 +1782,7 @@
   {
     "year": 1997,
     "country": "CN",
-    "count": 20
+    "count": 4
   },
   {
     "year": 1997,
@@ -1946,23 +1796,18 @@
   },
   {
     "year": 1997,
-    "country": "F",
-    "count": 16
-  },
-  {
-    "year": 1997,
     "country": "HK",
     "count": 2
   },
   {
     "year": 1997,
     "country": "I-ESA",
-    "count": 4
+    "count": 3
   },
   {
     "year": 1997,
     "country": "I-EUM",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1997,
@@ -1987,12 +1832,12 @@
   {
     "year": 1997,
     "country": "IN",
-    "count": 3
+    "count": 2
   },
   {
     "year": 1997,
     "country": "J",
-    "count": 15
+    "count": 7
   },
   {
     "year": 1997,
@@ -2012,7 +1857,7 @@
   {
     "year": 1997,
     "country": "RU",
-    "count": 107
+    "count": 27
   },
   {
     "year": 1997,
@@ -2027,7 +1872,7 @@
   {
     "year": 1997,
     "country": "US",
-    "count": 834
+    "count": 88
   },
   {
     "year": 1998,
@@ -2052,7 +1897,7 @@
   {
     "year": 1998,
     "country": "CN",
-    "count": 28
+    "count": 2
   },
   {
     "year": 1998,
@@ -2067,7 +1912,7 @@
   {
     "year": 1998,
     "country": "F",
-    "count": 24
+    "count": 2
   },
   {
     "year": 1998,
@@ -2097,7 +1942,7 @@
   {
     "year": 1998,
     "country": "J",
-    "count": 8
+    "count": 3
   },
   {
     "year": 1998,
@@ -2117,7 +1962,7 @@
   {
     "year": 1998,
     "country": "RU",
-    "count": 91
+    "count": 27
   },
   {
     "year": 1998,
@@ -2142,7 +1987,7 @@
   {
     "year": 1998,
     "country": "US",
-    "count": 167
+    "count": 98
   },
   {
     "year": 1999,
@@ -2152,17 +1997,12 @@
   {
     "year": 1999,
     "country": "CA",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1999,
     "country": "CN",
-    "count": 3983
-  },
-  {
-    "year": 1999,
-    "country": "CYM",
-    "count": 2
+    "count": 5
   },
   {
     "year": 1999,
@@ -2177,7 +2017,7 @@
   {
     "year": 1999,
     "country": "F",
-    "count": 12
+    "count": 2
   },
   {
     "year": 1999,
@@ -2197,7 +2037,7 @@
   {
     "year": 1999,
     "country": "I-ESA",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1999,
@@ -2212,7 +2052,7 @@
   {
     "year": 1999,
     "country": "IN",
-    "count": 3
+    "count": 2
   },
   {
     "year": 1999,
@@ -2232,7 +2072,7 @@
   {
     "year": 1999,
     "country": "RU",
-    "count": 98
+    "count": 15
   },
   {
     "year": 1999,
@@ -2247,7 +2087,7 @@
   {
     "year": 1999,
     "country": "US",
-    "count": 180
+    "count": 83
   },
   {
     "year": 1999,
@@ -2272,12 +2112,7 @@
   {
     "year": 2000,
     "country": "CN",
-    "count": 12
-  },
-  {
-    "year": 2000,
-    "country": "CYM",
-    "count": 1
+    "count": 6
   },
   {
     "year": 2000,
@@ -2297,7 +2132,7 @@
   {
     "year": 2000,
     "country": "F",
-    "count": 18
+    "count": 1
   },
   {
     "year": 2000,
@@ -2347,7 +2182,7 @@
   {
     "year": 2000,
     "country": "RU",
-    "count": 113
+    "count": 24
   },
   {
     "year": 2000,
@@ -2372,12 +2207,12 @@
   {
     "year": 2000,
     "country": "US",
-    "count": 560
+    "count": 53
   },
   {
     "year": 2001,
     "country": "CN",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2001,
@@ -2387,7 +2222,7 @@
   {
     "year": 2001,
     "country": "F",
-    "count": 13
+    "count": 2
   },
   {
     "year": 2001,
@@ -2412,12 +2247,12 @@
   {
     "year": 2001,
     "country": "IN",
-    "count": 375
+    "count": 2
   },
   {
     "year": 2001,
     "country": "J",
-    "count": 4
+    "count": 2
   },
   {
     "year": 2001,
@@ -2437,7 +2272,7 @@
   {
     "year": 2001,
     "country": "RU",
-    "count": 143
+    "count": 31
   },
   {
     "year": 2001,
@@ -2457,7 +2292,7 @@
   {
     "year": 2001,
     "country": "US",
-    "count": 67
+    "count": 34
   },
   {
     "year": 2002,
@@ -2472,7 +2307,7 @@
   {
     "year": 2002,
     "country": "CN",
-    "count": 22
+    "count": 7
   },
   {
     "year": 2002,
@@ -2492,7 +2327,7 @@
   {
     "year": 2002,
     "country": "F",
-    "count": 19
+    "count": 5
   },
   {
     "year": 2002,
@@ -2507,22 +2342,22 @@
   {
     "year": 2002,
     "country": "I-EUM",
-    "count": 3
+    "count": 1
   },
   {
     "year": 2002,
     "country": "IL",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2002,
     "country": "IN",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2002,
     "country": "J",
-    "count": 22
+    "count": 10
   },
   {
     "year": 2002,
@@ -2537,7 +2372,7 @@
   {
     "year": 2002,
     "country": "RU",
-    "count": 134
+    "count": 18
   },
   {
     "year": 2002,
@@ -2547,7 +2382,7 @@
   {
     "year": 2002,
     "country": "US",
-    "count": 175
+    "count": 31
   },
   {
     "year": 2003,
@@ -2562,7 +2397,7 @@
   {
     "year": 2003,
     "country": "CN",
-    "count": 29
+    "count": 8
   },
   {
     "year": 2003,
@@ -2577,7 +2412,7 @@
   {
     "year": 2003,
     "country": "F",
-    "count": 9
+    "count": 1
   },
   {
     "year": 2003,
@@ -2602,12 +2437,12 @@
   {
     "year": 2003,
     "country": "IN",
-    "count": 6
+    "count": 4
   },
   {
     "year": 2003,
     "country": "J",
-    "count": 12
+    "count": 7
   },
   {
     "year": 2003,
@@ -2622,7 +2457,7 @@
   {
     "year": 2003,
     "country": "RU",
-    "count": 91
+    "count": 22
   },
   {
     "year": 2003,
@@ -2642,7 +2477,7 @@
   {
     "year": 2003,
     "country": "US",
-    "count": 79
+    "count": 29
   },
   {
     "year": 2004,
@@ -2657,7 +2492,7 @@
   {
     "year": 2004,
     "country": "CN",
-    "count": 55
+    "count": 10
   },
   {
     "year": 2004,
@@ -2667,7 +2502,7 @@
   {
     "year": 2004,
     "country": "F",
-    "count": 18
+    "count": 8
   },
   {
     "year": 2004,
@@ -2682,7 +2517,7 @@
   {
     "year": 2004,
     "country": "IN",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2004,
@@ -2692,7 +2527,7 @@
   {
     "year": 2004,
     "country": "RU",
-    "count": 80
+    "count": 19
   },
   {
     "year": 2004,
@@ -2712,7 +2547,7 @@
   {
     "year": 2004,
     "country": "US",
-    "count": 48
+    "count": 20
   },
   {
     "year": 2005,
@@ -2722,7 +2557,7 @@
   {
     "year": 2005,
     "country": "CN",
-    "count": 34
+    "count": 6
   },
   {
     "year": 2005,
@@ -2732,7 +2567,7 @@
   {
     "year": 2005,
     "country": "F",
-    "count": 6
+    "count": 1
   },
   {
     "year": 2005,
@@ -2742,12 +2577,12 @@
   {
     "year": 2005,
     "country": "I-ESA",
-    "count": 10
+    "count": 4
   },
   {
     "year": 2005,
     "country": "I-EUM",
-    "count": 3
+    "count": 1
   },
   {
     "year": 2005,
@@ -2757,7 +2592,7 @@
   {
     "year": 2005,
     "country": "IN",
-    "count": 7
+    "count": 3
   },
   {
     "year": 2005,
@@ -2767,7 +2602,7 @@
   {
     "year": 2005,
     "country": "J",
-    "count": 7
+    "count": 5
   },
   {
     "year": 2005,
@@ -2777,7 +2612,7 @@
   {
     "year": 2005,
     "country": "RU",
-    "count": 80
+    "count": 19
   },
   {
     "year": 2005,
@@ -2792,7 +2627,7 @@
   {
     "year": 2005,
     "country": "US",
-    "count": 43
+    "count": 22
   },
   {
     "year": 2006,
@@ -2802,12 +2637,12 @@
   {
     "year": 2006,
     "country": "CN",
-    "count": 39
+    "count": 7
   },
   {
     "year": 2006,
     "country": "D",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2006,
@@ -2817,7 +2652,7 @@
   {
     "year": 2006,
     "country": "F",
-    "count": 15
+    "count": 5
   },
   {
     "year": 2006,
@@ -2837,7 +2672,7 @@
   {
     "year": 2006,
     "country": "J",
-    "count": 62
+    "count": 12
   },
   {
     "year": 2006,
@@ -2867,7 +2702,7 @@
   {
     "year": 2006,
     "country": "RU",
-    "count": 722
+    "count": 16
   },
   {
     "year": 2006,
@@ -2877,7 +2712,7 @@
   {
     "year": 2006,
     "country": "TW",
-    "count": 8
+    "count": 6
   },
   {
     "year": 2006,
@@ -2887,7 +2722,7 @@
   {
     "year": 2006,
     "country": "US",
-    "count": 316
+    "count": 32
   },
   {
     "year": 2007,
@@ -2912,7 +2747,7 @@
   {
     "year": 2007,
     "country": "CN",
-    "count": 72
+    "count": 9
   },
   {
     "year": 2007,
@@ -2928,11 +2763,6 @@
     "year": 2007,
     "country": "EG",
     "count": 1
-  },
-  {
-    "year": 2007,
-    "country": "F",
-    "count": 13
   },
   {
     "year": 2007,
@@ -2952,17 +2782,17 @@
   {
     "year": 2007,
     "country": "IL",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2007,
     "country": "IN",
-    "count": 7
+    "count": 4
   },
   {
     "year": 2007,
     "country": "J",
-    "count": 23
+    "count": 6
   },
   {
     "year": 2007,
@@ -2977,7 +2807,7 @@
   {
     "year": 2007,
     "country": "RU",
-    "count": 117
+    "count": 18
   },
   {
     "year": 2007,
@@ -2997,7 +2827,7 @@
   {
     "year": 2007,
     "country": "US",
-    "count": 108
+    "count": 46
   },
   {
     "year": 2008,
@@ -3017,7 +2847,7 @@
   {
     "year": 2008,
     "country": "CN",
-    "count": 85
+    "count": 15
   },
   {
     "year": 2008,
@@ -3032,7 +2862,7 @@
   {
     "year": 2008,
     "country": "F",
-    "count": 14
+    "count": 3
   },
   {
     "year": 2008,
@@ -3047,7 +2877,7 @@
   {
     "year": 2008,
     "country": "I-ESA",
-    "count": 5
+    "count": 2
   },
   {
     "year": 2008,
@@ -3057,12 +2887,12 @@
   {
     "year": 2008,
     "country": "IN",
-    "count": 8
+    "count": 3
   },
   {
     "year": 2008,
     "country": "J",
-    "count": 6
+    "count": 4
   },
   {
     "year": 2008,
@@ -3082,7 +2912,7 @@
   {
     "year": 2008,
     "country": "RU",
-    "count": 228
+    "count": 21
   },
   {
     "year": 2008,
@@ -3107,7 +2937,7 @@
   {
     "year": 2008,
     "country": "US",
-    "count": 46
+    "count": 24
   },
   {
     "year": 2008,
@@ -3147,7 +2977,7 @@
   {
     "year": 2009,
     "country": "CN",
-    "count": 31
+    "count": 6
   },
   {
     "year": 2009,
@@ -3162,7 +2992,7 @@
   {
     "year": 2009,
     "country": "F",
-    "count": 19
+    "count": 6
   },
   {
     "year": 2009,
@@ -3187,17 +3017,17 @@
   {
     "year": 2009,
     "country": "IN",
-    "count": 5
+    "count": 3
   },
   {
     "year": 2009,
     "country": "IR",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2009,
     "country": "J",
-    "count": 38
+    "count": 13
   },
   {
     "year": 2009,
@@ -3212,7 +3042,7 @@
   {
     "year": 2009,
     "country": "RU",
-    "count": 187
+    "count": 29
   },
   {
     "year": 2009,
@@ -3232,7 +3062,7 @@
   {
     "year": 2009,
     "country": "US",
-    "count": 93
+    "count": 38
   },
   {
     "year": 2009,
@@ -3247,7 +3077,7 @@
   {
     "year": 2010,
     "country": "CN",
-    "count": 153
+    "count": 21
   },
   {
     "year": 2010,
@@ -3272,7 +3102,7 @@
   {
     "year": 2010,
     "country": "F",
-    "count": 15
+    "count": 3
   },
   {
     "year": 2010,
@@ -3297,17 +3127,17 @@
   {
     "year": 2010,
     "country": "IL",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2010,
     "country": "IN",
-    "count": 4
+    "count": 2
   },
   {
     "year": 2010,
     "country": "J",
-    "count": 14
+    "count": 9
   },
   {
     "year": 2010,
@@ -3322,7 +3152,7 @@
   {
     "year": 2010,
     "country": "RU",
-    "count": 154
+    "count": 23
   },
   {
     "year": 2010,
@@ -3337,7 +3167,7 @@
   {
     "year": 2010,
     "country": "US",
-    "count": 54
+    "count": 44
   },
   {
     "year": 2011,
@@ -3362,12 +3192,12 @@
   {
     "year": 2011,
     "country": "CN",
-    "count": 113
+    "count": 18
   },
   {
     "year": 2011,
     "country": "F",
-    "count": 17
+    "count": 7
   },
   {
     "year": 2011,
@@ -3397,17 +3227,17 @@
   {
     "year": 2011,
     "country": "IN",
-    "count": 10
+    "count": 7
   },
   {
     "year": 2011,
     "country": "IR",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2011,
     "country": "J",
-    "count": 8
+    "count": 4
   },
   {
     "year": 2011,
@@ -3437,7 +3267,7 @@
   {
     "year": 2011,
     "country": "RU",
-    "count": 436
+    "count": 25
   },
   {
     "year": 2011,
@@ -3467,7 +3297,7 @@
   {
     "year": 2011,
     "country": "US",
-    "count": 56
+    "count": 38
   },
   {
     "year": 2012,
@@ -3487,12 +3317,12 @@
   {
     "year": 2012,
     "country": "CN",
-    "count": 120
+    "count": 25
   },
   {
     "year": 2012,
     "country": "D",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2012,
@@ -3502,7 +3332,7 @@
   {
     "year": 2012,
     "country": "F",
-    "count": 18
+    "count": 5
   },
   {
     "year": 2012,
@@ -3527,7 +3357,7 @@
   {
     "year": 2012,
     "country": "I-EUM",
-    "count": 4
+    "count": 2
   },
   {
     "year": 2012,
@@ -3537,22 +3367,22 @@
   {
     "year": 2012,
     "country": "IN",
-    "count": 5
-  },
-  {
-    "year": 2012,
-    "country": "IR",
     "count": 2
   },
   {
     "year": 2012,
+    "country": "IR",
+    "count": 1
+  },
+  {
+    "year": 2012,
     "country": "J",
-    "count": 52
+    "count": 9
   },
   {
     "year": 2012,
     "country": "KP",
-    "count": 4
+    "count": 1
   },
   {
     "year": 2012,
@@ -3582,7 +3412,7 @@
   {
     "year": 2012,
     "country": "RU",
-    "count": 189
+    "count": 22
   },
   {
     "year": 2012,
@@ -3592,7 +3422,7 @@
   {
     "year": 2012,
     "country": "TR",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2012,
@@ -3607,7 +3437,7 @@
   {
     "year": 2012,
     "country": "US",
-    "count": 53
+    "count": 36
   },
   {
     "year": 2012,
@@ -3647,12 +3477,12 @@
   {
     "year": 2013,
     "country": "CA",
-    "count": 6
+    "count": 4
   },
   {
     "year": 2013,
     "country": "CN",
-    "count": 65
+    "count": 19
   },
   {
     "year": 2013,
@@ -3682,7 +3512,7 @@
   {
     "year": 2013,
     "country": "F",
-    "count": 8
+    "count": 1
   },
   {
     "year": 2013,
@@ -3692,7 +3522,7 @@
   {
     "year": 2013,
     "country": "I-ESA",
-    "count": 14
+    "count": 6
   },
   {
     "year": 2013,
@@ -3702,17 +3532,17 @@
   {
     "year": 2013,
     "country": "IN",
-    "count": 9
+    "count": 5
   },
   {
     "year": 2013,
     "country": "J",
-    "count": 12
+    "count": 5
   },
   {
     "year": 2013,
     "country": "KR",
-    "count": 7
+    "count": 6
   },
   {
     "year": 2013,
@@ -3757,7 +3587,7 @@
   {
     "year": 2013,
     "country": "RU",
-    "count": 154
+    "count": 29
   },
   {
     "year": 2013,
@@ -3782,7 +3612,7 @@
   {
     "year": 2013,
     "country": "US",
-    "count": 124
+    "count": 87
   },
   {
     "year": 2013,
@@ -3822,7 +3652,7 @@
   {
     "year": 2014,
     "country": "CN",
-    "count": 68
+    "count": 22
   },
   {
     "year": 2014,
@@ -3847,7 +3677,7 @@
   {
     "year": 2014,
     "country": "F",
-    "count": 13
+    "count": 3
   },
   {
     "year": 2014,
@@ -3862,7 +3692,7 @@
   {
     "year": 2014,
     "country": "I-ESA",
-    "count": 10
+    "count": 2
   },
   {
     "year": 2014,
@@ -3872,17 +3702,17 @@
   {
     "year": 2014,
     "country": "IL",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2014,
     "country": "IN",
-    "count": 8
+    "count": 4
   },
   {
     "year": 2014,
     "country": "J",
-    "count": 30
+    "count": 24
   },
   {
     "year": 2014,
@@ -3922,7 +3752,7 @@
   {
     "year": 2014,
     "country": "RU",
-    "count": 157
+    "count": 34
   },
   {
     "year": 2014,
@@ -3957,7 +3787,7 @@
   {
     "year": 2014,
     "country": "US",
-    "count": 260
+    "count": 111
   },
   {
     "year": 2014,
@@ -3992,7 +3822,7 @@
   {
     "year": 2015,
     "country": "CN",
-    "count": 71
+    "count": 37
   },
   {
     "year": 2015,
@@ -4002,7 +3832,7 @@
   {
     "year": 2015,
     "country": "F",
-    "count": 15
+    "count": 1
   },
   {
     "year": 2015,
@@ -4032,7 +3862,7 @@
   {
     "year": 2015,
     "country": "I-EUM",
-    "count": 3
+    "count": 1
   },
   {
     "year": 2015,
@@ -4042,17 +3872,17 @@
   {
     "year": 2015,
     "country": "IN",
-    "count": 9
+    "count": 4
   },
   {
     "year": 2015,
     "country": "IR",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2015,
     "country": "J",
-    "count": 9
+    "count": 4
   },
   {
     "year": 2015,
@@ -4087,7 +3917,7 @@
   {
     "year": 2015,
     "country": "RU",
-    "count": 106
+    "count": 27
   },
   {
     "year": 2015,
@@ -4107,7 +3937,7 @@
   {
     "year": 2015,
     "country": "US",
-    "count": 136
+    "count": 114
   },
   {
     "year": 2016,
@@ -4137,7 +3967,7 @@
   {
     "year": 2016,
     "country": "CN",
-    "count": 93
+    "count": 38
   },
   {
     "year": 2016,
@@ -4162,7 +3992,7 @@
   {
     "year": 2016,
     "country": "F",
-    "count": 21
+    "count": 4
   },
   {
     "year": 2016,
@@ -4177,7 +4007,7 @@
   {
     "year": 2016,
     "country": "I-ESA",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2016,
@@ -4192,22 +4022,22 @@
   {
     "year": 2016,
     "country": "IL",
-    "count": 3
+    "count": 1
   },
   {
     "year": 2016,
     "country": "IN",
-    "count": 21
+    "count": 12
   },
   {
     "year": 2016,
     "country": "J",
-    "count": 33
+    "count": 16
   },
   {
     "year": 2016,
     "country": "KP",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2016,
@@ -4227,7 +4057,7 @@
   {
     "year": 2016,
     "country": "RU",
-    "count": 36
+    "count": 15
   },
   {
     "year": 2016,
@@ -4247,7 +4077,7 @@
   {
     "year": 2016,
     "country": "US",
-    "count": 149
+    "count": 92
   },
   {
     "year": 2016,
@@ -4297,7 +4127,7 @@
   {
     "year": 2017,
     "country": "CN",
-    "count": 71
+    "count": 35
   },
   {
     "year": 2017,
@@ -4322,7 +4152,7 @@
   {
     "year": 2017,
     "country": "F",
-    "count": 16
+    "count": 4
   },
   {
     "year": 2017,
@@ -4347,12 +4177,7 @@
   {
     "year": 2017,
     "country": "I",
-    "count": 5
-  },
-  {
-    "year": 2017,
-    "country": "I-ESA",
-    "count": 1
+    "count": 4
   },
   {
     "year": 2017,
@@ -4377,12 +4202,12 @@
   {
     "year": 2017,
     "country": "IN",
-    "count": 17
+    "count": 9
   },
   {
     "year": 2017,
     "country": "J",
-    "count": 20
+    "count": 11
   },
   {
     "year": 2017,
@@ -4442,7 +4267,7 @@
   {
     "year": 2017,
     "country": "RU",
-    "count": 59
+    "count": 24
   },
   {
     "year": 2017,
@@ -4482,7 +4307,7 @@
   {
     "year": 2017,
     "country": "US",
-    "count": 309
+    "count": 280
   },
   {
     "year": 2017,
@@ -4552,7 +4377,7 @@
   {
     "year": 2018,
     "country": "CN",
-    "count": 194
+    "count": 95
   },
   {
     "year": 2018,
@@ -4587,7 +4412,7 @@
   {
     "year": 2018,
     "country": "F",
-    "count": 12
+    "count": 2
   },
   {
     "year": 2018,
@@ -4627,12 +4452,12 @@
   {
     "year": 2018,
     "country": "IN",
-    "count": 18
+    "count": 10
   },
   {
     "year": 2018,
     "country": "J",
-    "count": 155
+    "count": 14
   },
   {
     "year": 2018,
@@ -4677,7 +4502,7 @@
   {
     "year": 2018,
     "country": "NZ",
-    "count": 6
+    "count": 2
   },
   {
     "year": 2018,
@@ -4702,7 +4527,7 @@
   {
     "year": 2018,
     "country": "RU",
-    "count": 52
+    "count": 27
   },
   {
     "year": 2018,
@@ -4732,7 +4557,7 @@
   {
     "year": 2018,
     "country": "US",
-    "count": 445
+    "count": 197
   },
   {
     "year": 2018,
@@ -4772,7 +4597,7 @@
   {
     "year": 2019,
     "country": "CN",
-    "count": 162
+    "count": 72
   },
   {
     "year": 2019,
@@ -4812,7 +4637,7 @@
   {
     "year": 2019,
     "country": "F",
-    "count": 16
+    "count": 7
   },
   {
     "year": 2019,
@@ -4857,12 +4682,12 @@
   {
     "year": 2019,
     "country": "IN",
-    "count": 143
+    "count": 9
   },
   {
     "year": 2019,
     "country": "J",
-    "count": 15
+    "count": 13
   },
   {
     "year": 2019,
@@ -4891,18 +4716,13 @@
   },
   {
     "year": 2019,
-    "country": "NZ",
-    "count": 13
-  },
-  {
-    "year": 2019,
     "country": "PL",
     "count": 2
   },
   {
     "year": 2019,
     "country": "RU",
-    "count": 87
+    "count": 31
   },
   {
     "year": 2019,
@@ -4942,7 +4762,7 @@
   {
     "year": 2019,
     "country": "US",
-    "count": 293
+    "count": 266
   },
   {
     "year": 2019,
@@ -4972,7 +4792,7 @@
   {
     "year": 2020,
     "country": "CN",
-    "count": 127
+    "count": 72
   },
   {
     "year": 2020,
@@ -4997,7 +4817,7 @@
   {
     "year": 2020,
     "country": "F",
-    "count": 11
+    "count": 5
   },
   {
     "year": 2020,
@@ -5017,7 +4837,7 @@
   {
     "year": 2020,
     "country": "I-ESA",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2020,
@@ -5027,22 +4847,22 @@
   {
     "year": 2020,
     "country": "IL",
-    "count": 4
+    "count": 3
   },
   {
     "year": 2020,
     "country": "IN",
-    "count": 5
+    "count": 3
   },
   {
     "year": 2020,
     "country": "IR",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2020,
     "country": "J",
-    "count": 12
+    "count": 9
   },
   {
     "year": 2020,
@@ -5067,12 +4887,12 @@
   {
     "year": 2020,
     "country": "NZ",
-    "count": 19
+    "count": 8
   },
   {
     "year": 2020,
     "country": "RU",
-    "count": 36
+    "count": 22
   },
   {
     "year": 2020,
@@ -5097,7 +4917,7 @@
   {
     "year": 2020,
     "country": "US",
-    "count": 1072
+    "count": 962
   },
   {
     "year": 2020,
@@ -5142,7 +4962,7 @@
   {
     "year": 2021,
     "country": "CN",
-    "count": 190
+    "count": 112
   },
   {
     "year": 2021,
@@ -5157,7 +4977,7 @@
   {
     "year": 2021,
     "country": "F",
-    "count": 15
+    "count": 9
   },
   {
     "year": 2021,
@@ -5176,11 +4996,6 @@
   },
   {
     "year": 2021,
-    "country": "I-ESA",
-    "count": 2
-  },
-  {
-    "year": 2021,
     "country": "I-EU",
     "count": 2
   },
@@ -5192,12 +5007,12 @@
   {
     "year": 2021,
     "country": "IN",
-    "count": 6
+    "count": 5
   },
   {
     "year": 2021,
     "country": "J",
-    "count": 28
+    "count": 24
   },
   {
     "year": 2021,
@@ -5247,7 +5062,7 @@
   {
     "year": 2021,
     "country": "NZ",
-    "count": 15
+    "count": 4
   },
   {
     "year": 2021,
@@ -5272,7 +5087,7 @@
   {
     "year": 2021,
     "country": "RU",
-    "count": 44
+    "count": 21
   },
   {
     "year": 2021,
@@ -5317,7 +5132,7 @@
   {
     "year": 2021,
     "country": "US",
-    "count": 1324
+    "count": 1228
   },
   {
     "year": 2021,
@@ -5382,7 +5197,7 @@
   {
     "year": 2022,
     "country": "CN",
-    "count": 1079
+    "count": 190
   },
   {
     "year": 2022,
@@ -5407,7 +5222,7 @@
   {
     "year": 2022,
     "country": "F",
-    "count": 15
+    "count": 10
   },
   {
     "year": 2022,
@@ -5418,11 +5233,6 @@
     "year": 2022,
     "country": "I",
     "count": 10
-  },
-  {
-    "year": 2022,
-    "country": "I-ESA",
-    "count": 1
   },
   {
     "year": 2022,
@@ -5442,22 +5252,22 @@
   {
     "year": 2022,
     "country": "IN",
-    "count": 14
+    "count": 10
   },
   {
     "year": 2022,
     "country": "IR",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2022,
     "country": "J",
-    "count": 14
+    "count": 11
   },
   {
     "year": 2022,
     "country": "KR",
-    "count": 10
+    "count": 9
   },
   {
     "year": 2022,
@@ -5497,7 +5307,7 @@
   {
     "year": 2022,
     "country": "NZ",
-    "count": 31
+    "count": 14
   },
   {
     "year": 2022,
@@ -5507,7 +5317,7 @@
   {
     "year": 2022,
     "country": "RU",
-    "count": 71
+    "count": 51
   },
   {
     "year": 2022,
@@ -5557,7 +5367,7 @@
   {
     "year": 2022,
     "country": "US",
-    "count": 2091
+    "count": 1906
   },
   {
     "year": 2022,
@@ -5632,7 +5442,7 @@
   {
     "year": 2023,
     "country": "CN",
-    "count": 306
+    "count": 212
   },
   {
     "year": 2023,
@@ -5672,7 +5482,7 @@
   {
     "year": 2023,
     "country": "F",
-    "count": 14
+    "count": 11
   },
   {
     "year": 2023,
@@ -5712,22 +5522,22 @@
   {
     "year": 2023,
     "country": "IL",
-    "count": 6
+    "count": 5
   },
   {
     "year": 2023,
     "country": "IN",
-    "count": 19
+    "count": 8
   },
   {
     "year": 2023,
     "country": "IR",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2023,
     "country": "J",
-    "count": 17
+    "count": 10
   },
   {
     "year": 2023,
@@ -5737,12 +5547,12 @@
   {
     "year": 2023,
     "country": "KP",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2023,
     "country": "KR",
-    "count": 13
+    "count": 11
   },
   {
     "year": 2023,
@@ -5781,11 +5591,6 @@
   },
   {
     "year": 2023,
-    "country": "NZ",
-    "count": 17
-  },
-  {
-    "year": 2023,
     "country": "PH",
     "count": 2
   },
@@ -5802,7 +5607,7 @@
   {
     "year": 2023,
     "country": "RU",
-    "count": 92
+    "count": 67
   },
   {
     "year": 2023,
@@ -5847,7 +5652,7 @@
   {
     "year": 2023,
     "country": "US",
-    "count": 2343
+    "count": 2232
   },
   {
     "year": 2023,
@@ -5882,7 +5687,7 @@
   {
     "year": 2024,
     "country": "CN",
-    "count": 1046
+    "count": 265
   },
   {
     "year": 2024,
@@ -5952,17 +5757,17 @@
   {
     "year": 2024,
     "country": "IN",
-    "count": 14
+    "count": 10
   },
   {
     "year": 2024,
     "country": "IR",
-    "count": 19
+    "count": 11
   },
   {
     "year": 2024,
     "country": "J",
-    "count": 31
+    "count": 25
   },
   {
     "year": 2024,
@@ -5991,11 +5796,6 @@
   },
   {
     "year": 2024,
-    "country": "NZ",
-    "count": 28
-  },
-  {
-    "year": 2024,
     "country": "OM",
     "count": 1
   },
@@ -6017,7 +5817,7 @@
   {
     "year": 2024,
     "country": "RU",
-    "count": 113
+    "count": 99
   },
   {
     "year": 2024,
@@ -6062,7 +5862,7 @@
   {
     "year": 2024,
     "country": "US",
-    "count": 2281
+    "count": 2244
   },
   {
     "year": 2024,
@@ -6122,7 +5922,7 @@
   {
     "year": 2025,
     "country": "CN",
-    "count": 464
+    "count": 372
   },
   {
     "year": 2025,
@@ -6157,7 +5957,7 @@
   {
     "year": 2025,
     "country": "F",
-    "count": 26
+    "count": 25
   },
   {
     "year": 2025,
@@ -6207,12 +6007,12 @@
   {
     "year": 2025,
     "country": "IL",
-    "count": 10
+    "count": 9
   },
   {
     "year": 2025,
     "country": "IN",
-    "count": 16
+    "count": 12
   },
   {
     "year": 2025,
@@ -6222,12 +6022,12 @@
   {
     "year": 2025,
     "country": "J",
-    "count": 36
+    "count": 34
   },
   {
     "year": 2025,
     "country": "KR",
-    "count": 24
+    "count": 23
   },
   {
     "year": 2025,
@@ -6267,7 +6067,7 @@
   {
     "year": 2025,
     "country": "NZ",
-    "count": 38
+    "count": 1
   },
   {
     "year": 2025,
@@ -6277,7 +6077,7 @@
   {
     "year": 2025,
     "country": "PK",
-    "count": 4
+    "count": 3
   },
   {
     "year": 2025,
@@ -6292,7 +6092,7 @@
   {
     "year": 2025,
     "country": "RU",
-    "count": 101
+    "count": 86
   },
   {
     "year": 2025,
@@ -6347,7 +6147,7 @@
   {
     "year": 2025,
     "country": "US",
-    "count": 3720
+    "count": 3704
   },
   {
     "year": 2025,
@@ -6362,7 +6162,7 @@
   {
     "year": 2026,
     "country": "CN",
-    "count": 44
+    "count": 29
   },
   {
     "year": 2026,
@@ -6411,11 +6211,6 @@
   },
   {
     "year": 2026,
-    "country": "NZ",
-    "count": 4
-  },
-  {
-    "year": 2026,
     "country": "PK",
     "count": 1
   },
@@ -6437,6 +6232,6 @@
   {
     "year": 2026,
     "country": "US",
-    "count": 519
+    "count": 516
   }
 ]

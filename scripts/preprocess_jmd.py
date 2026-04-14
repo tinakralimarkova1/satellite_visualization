@@ -73,6 +73,13 @@ def main() -> None:
     df = clean_main_satcat(df)
     psatcat_df = clean_psatcat(psatcat_df)
 
+    # Make sure keys match
+    df["#JCAT"] = df["#JCAT"].astype(str).str.strip()
+    psatcat_df["#JCAT"] = psatcat_df["#JCAT"].astype(str).str.strip()
+
+    # GLOBAL FILTER: only keep items in both datasets
+    df = df.merge(psatcat_df, how="inner", on="#JCAT")
+
     # ----------------------------
     # 1) Launches per year
     # ----------------------------
@@ -131,15 +138,10 @@ def main() -> None:
     # Join JMD_satcat -> psatcat on #JCAT
     # Use psatcat.Class instead of orgs database
     # ----------------------------
-    df_merged = df.merge(
-        psatcat_df,
-        how="inner", #only keep items in both databases
-        on="#JCAT",
-    )
 
-    df_merged["purpose"] = df_merged["Class"].apply(map_class_label)
+    df["purpose"] = df["Class"].apply(map_class_label)
 
-    df_purpose = df_merged.dropna(subset=["Year"])
+    df_purpose = df.dropna(subset=["Year"])
 
     launches_by_purpose = (
         df_purpose
