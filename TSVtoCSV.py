@@ -1,8 +1,8 @@
 import csv
 
-with open('orgs.tsv', 'r', newline='', encoding='utf-8') as tsv_file:
+with open('psatcat.tsv', 'r', newline='', encoding='utf-8') as tsv_file:
     tsv_reader = csv.reader(tsv_file, delimiter='\t')
     
-    with open('JMD_orgs.csv', 'w', newline='', encoding='utf-8') as csv_file:
+    with open('JMD_psatcat.csv', 'w', newline='', encoding='utf-8') as csv_file:
         csv_writer = csv.writer(csv_file)
         csv_writer.writerows(tsv_reader)

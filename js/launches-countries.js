@@ -6,6 +6,28 @@ let allCountries = [];
 
 const OTHER_LABEL = "Other";
 const OTHER_COLOR = "#9ca3af";
+const COUNTRY_MAP = {
+  US: "United States",
+  PRC: "China",
+  RU: "Russia",
+  SU: "Russia",   // 👈 merge Soviet Union into Russia
+  IND: "India",
+  JPN: "Japan",
+  ESA: "European Space Agency",
+  FRA: "France",
+  UK: "United Kingdom",
+  GER: "Germany",
+  CAN: "Canada",
+  ITA: "Italy",
+  ISR: "Israel",
+  IRN: "Iran",
+  KOR: "South Korea",
+  BRA: "Brazil"
+};
+
+function normalizeCountry(code) {
+  return COUNTRY_MAP[code] || code;
+}
 
 function generateColorMap(countries) {
   const palette = [
@@ -56,7 +78,10 @@ export async function initializeCountryFilter() {
     throw new Error(`Failed to load country-year data: ${response.status}`);
   }
 
-  countryYearData = await response.json();
+  countryYearData = (await response.json()).map(row => ({
+    ...row,
+    country: normalizeCountry(row.country)
+  }));
 
   const checkboxContainer = document.getElementById("country-checkboxes");
   const controlsContainer = document.getElementById("country-filter-controls");
@@ -170,7 +195,10 @@ export async function renderCountryStackedChart() {
     if (!response.ok) {
       throw new Error(`Failed to load country-year data: ${response.status}`);
     }
-    countryYearData = await response.json();
+    countryYearData = (await response.json()).map(row => ({
+      ...row,
+      country: normalizeCountry(row.country)
+    }));
   }
 
   const chartEl = document.getElementById("chart-launches-countries");

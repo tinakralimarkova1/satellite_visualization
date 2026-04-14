@@ -6,31 +6,81 @@ import pandas as pd
 BASE_DIR = Path(__file__).resolve().parents[1]
 
 INPUT_CSV = BASE_DIR / "data" / "JMD_satcat.csv"
-INPUT_ORGS_CSV = BASE_DIR / "data" / "JMD_orgs.csv"
+INPUT_PSATCAT_CSV = BASE_DIR / "data" / "JMD_psatcat.csv"
 
 OUTPUT_JSON = BASE_DIR / "data" / "launches_by_year.json"
 OUTPUT_JSON_COUNTRY = BASE_DIR / "data" / "launches_by_year_country.json"
 OUTPUT_JSON_PURPOSE = BASE_DIR / "data" / "launches_by_year_purpose.json"
 
 
-def main() -> None:
-    df = pd.read_csv(INPUT_CSV)
-    orgs_df = pd.read_csv(INPUT_ORGS_CSV)
+def clean_main_satcat(df: pd.DataFrame) -> pd.DataFrame:
+    df = df.copy()
 
-    # ----------------------------
-    # Common date cleaning
-    # ----------------------------
+    # Remove metadata row like "# Updated 2026 ..."
+    df = df[df["#JCAT"].astype(str).str.startswith("S", na=False)].copy()
+
     df["LDate"] = pd.to_datetime(df["LDate"], errors="coerce")
     df["Year"] = df["LDate"].dt.year
+
+    return df
+
+
+def clean_psatcat(df: pd.DataFrame) -> pd.DataFrame:
+    df = df.copy()
+
+    # Remove metadata row like "# Updated 2026 ..."
+    df = df[df["#JCAT"].astype(str).str.startswith("S", na=False)].copy()
+
+    # Keep only what we need for the join
+    df = df[["#JCAT", "Class"]].copy()
+
+    # Remove duplicates just in case
+    df = df.drop_duplicates(subset=["#JCAT"])
+
+    return df
+
+
+def map_class_label(class_value: str) -> str:
+    class_map = {
+        "A": "Academic",
+        "B": "Commercial",
+        "C": "Civil",
+        "D": "Military",
+    }
+
+    if pd.isna(class_value):
+        return "Unknown"
+
+    value = str(class_value).strip()
+
+    # Exact single-letter match
+    if value in class_map:
+        return class_map[value]
+
+    # Handle combined classes like CD, BD, CB, etc.
+    labels = []
+    for ch in value:
+        if ch in class_map and class_map[ch] not in labels:
+            labels.append(class_map[ch])
+
+    return " + ".join(labels) if labels else "Unknown"
+
+
+def main() -> None:
+    df = pd.read_csv(INPUT_CSV, low_memory=False)
+    psatcat_df = pd.read_csv(INPUT_PSATCAT_CSV, low_memory=False)
+
+    df = clean_main_satcat(df)
+    psatcat_df = clean_psatcat(psatcat_df)
 
     # ----------------------------
     # 1) Launches per year
     # ----------------------------
     launches_per_year = (
         df.dropna(subset=["Year"])
-          .groupby("Year")
-          .size()
-          .reset_index(name="count")
+        .groupby("Year")
+        .size()
+        .reset_index(name="count")
     )
 
     launches_per_year["Year"] = launches_per_year["Year"].astype(int)
@@ -66,7 +116,7 @@ def main() -> None:
         {
             "year": int(row["Year"]),
             "country": str(row[country_col]),
-            "count": int(row["count"])
+            "count": int(row["count"]),
         }
         for _, row in launches_by_country.iterrows()
     ]
@@ -78,37 +128,16 @@ def main() -> None:
 
     # ----------------------------
     # 3) Launches per year per purpose
-    # Join satcat.Owner -> orgs.Code
-    # Class letters:
-    # A = Academic
-    # B = Commercial
-    # C = Civil
-    # D = Military
+    # Join JMD_satcat -> psatcat on #JCAT
+    # Use psatcat.Class instead of orgs database
     # ----------------------------
-
-    class_map = {
-        "A": "Academic",
-        "B": "Commercial",
-        "C": "Civil",
-        "D": "Military"
-    }
-
-    # Keep only needed org columns
-    orgs_lookup = orgs_df[["Code", "Class"]].copy()
-
-    # Merge satcat with orgs
     df_merged = df.merge(
-        orgs_lookup,
-        how="left",
-        left_on="Owner",
-        right_on="Code"
+        psatcat_df,
+        how="inner", #only keep items in both databases
+        on="#JCAT",
     )
 
-    # Map class letters to readable names
-    df_merged["purpose"] = df_merged["Class"].map(class_map)
-
-    # Optional: keep unknowns instead of dropping them
-    df_merged["purpose"] = df_merged["purpose"].fillna("Unknown")
+    df_merged["purpose"] = df_merged["Class"].apply(map_class_label)
 
     df_purpose = df_merged.dropna(subset=["Year"])
 
@@ -125,7 +154,7 @@ def main() -> None:
         {
             "year": int(row["Year"]),
             "purpose": str(row["purpose"]),
-            "count": int(row["count"])
+            "count": int(row["count"]),
         }
         for _, row in launches_by_purpose.iterrows()
     ]
