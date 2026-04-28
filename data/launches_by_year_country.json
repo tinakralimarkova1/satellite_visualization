@@ -1,2198 +1,2168 @@
 [
   {
     "year": 1957,
-    "country": "SU",
+    "country": "Russia",
     "count": 2
   },
   {
     "year": 1958,
-    "country": "SU",
+    "country": "Russia",
     "count": 1
   },
   {
     "year": 1958,
-    "country": "US",
+    "country": "United States",
     "count": 7
   },
   {
     "year": 1959,
-    "country": "SU",
+    "country": "Russia",
     "count": 3
   },
   {
     "year": 1959,
-    "country": "US",
+    "country": "United States",
     "count": 12
   },
   {
     "year": 1960,
-    "country": "SU",
+    "country": "Russia",
     "count": 3
   },
   {
     "year": 1960,
-    "country": "US",
+    "country": "United States",
     "count": 18
   },
   {
     "year": 1961,
-    "country": "SU",
+    "country": "Russia",
     "count": 6
   },
   {
     "year": 1961,
-    "country": "US",
+    "country": "United States",
     "count": 37
   },
   {
     "year": 1962,
-    "country": "CA",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 1962,
-    "country": "SU",
+    "country": "Russia",
     "count": 20
   },
   {
     "year": 1962,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 1
   },
   {
     "year": 1962,
-    "country": "US",
+    "country": "United States",
     "count": 60
   },
   {
     "year": 1963,
-    "country": "SU",
+    "country": "Russia",
     "count": 17
   },
   {
     "year": 1963,
-    "country": "US",
+    "country": "United States",
     "count": 58
   },
   {
     "year": 1964,
-    "country": "I",
+    "country": "Italy",
     "count": 1
   },
   {
     "year": 1964,
-    "country": "SU",
+    "country": "Russia",
     "count": 35
   },
   {
     "year": 1964,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 1
   },
   {
     "year": 1964,
-    "country": "US",
+    "country": "United States",
     "count": 71
   },
   {
     "year": 1965,
-    "country": "CA",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 1965,
-    "country": "F",
+    "country": "France",
     "count": 2
   },
   {
     "year": 1965,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 1
   },
   {
     "year": 1965,
-    "country": "SU",
+    "country": "Russia",
     "count": 64
   },
   {
     "year": 1965,
-    "country": "US",
+    "country": "United States",
     "count": 98
   },
   {
     "year": 1966,
-    "country": "F",
+    "country": "France",
     "count": 1
   },
   {
     "year": 1966,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 1
   },
   {
     "year": 1966,
-    "country": "SU",
+    "country": "Russia",
     "count": 44
   },
   {
     "year": 1966,
-    "country": "US",
+    "country": "United States",
     "count": 99
   },
   {
     "year": 1967,
-    "country": "AU",
+    "country": "Australia",
     "count": 1
   },
   {
     "year": 1967,
-    "country": "F",
+    "country": "France",
     "count": 2
   },
   {
     "year": 1967,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 1967,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 3
   },
   {
     "year": 1967,
-    "country": "SU",
+    "country": "Italy",
+    "count": 1
+  },
+  {
+    "year": 1967,
+    "country": "Russia",
     "count": 66
   },
   {
     "year": 1967,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 1
   },
   {
     "year": 1967,
-    "country": "US",
+    "country": "United States",
     "count": 86
   },
   {
     "year": 1968,
-    "country": "I-ESRO",
+    "country": "ESRO",
     "count": 3
   },
   {
     "year": 1968,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 1
   },
   {
     "year": 1968,
-    "country": "SU",
+    "country": "Russia",
     "count": 76
   },
   {
     "year": 1968,
-    "country": "US",
+    "country": "United States",
     "count": 68
   },
   {
     "year": 1969,
-    "country": "CA",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 1969,
-    "country": "D",
+    "country": "ESRO",
     "count": 1
   },
   {
     "year": 1969,
-    "country": "I-ESRO",
+    "country": "Germany",
     "count": 1
   },
   {
     "year": 1969,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 3
   },
   {
     "year": 1969,
-    "country": "SU",
+    "country": "Russia",
     "count": 70
   },
   {
     "year": 1969,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 1
   },
   {
     "year": 1969,
-    "country": "US",
+    "country": "United States",
     "count": 67
   },
   {
     "year": 1970,
-    "country": "AU",
+    "country": "Australia",
     "count": 1
   },
   {
     "year": 1970,
-    "country": "CN",
+    "country": "China",
     "count": 1
   },
   {
     "year": 1970,
-    "country": "D",
-    "count": 1
-  },
-  {
-    "year": 1970,
-    "country": "F",
+    "country": "France",
     "count": 2
   },
   {
     "year": 1970,
-    "country": "I-INT",
+    "country": "Germany",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "INTELSAT",
     "count": 3
   },
   {
     "year": 1970,
-    "country": "I-NATO",
+    "country": "Japan",
     "count": 1
   },
   {
     "year": 1970,
-    "country": "J",
+    "country": "NATO",
     "count": 1
   },
   {
     "year": 1970,
-    "country": "SU",
+    "country": "Russia",
     "count": 91
   },
   {
     "year": 1970,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 1
   },
   {
     "year": 1970,
-    "country": "US",
+    "country": "United States",
     "count": 32
   },
   {
     "year": 1971,
-    "country": "CA",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 1971,
-    "country": "CN",
+    "country": "China",
     "count": 1
   },
   {
     "year": 1971,
-    "country": "F",
+    "country": "France",
     "count": 2
   },
   {
     "year": 1971,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 1971,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 2
   },
   {
     "year": 1971,
-    "country": "I-NATO",
+    "country": "Italy",
     "count": 1
   },
   {
     "year": 1971,
-    "country": "J",
+    "country": "Japan",
     "count": 2
   },
   {
     "year": 1971,
-    "country": "SU",
+    "country": "NATO",
+    "count": 1
+  },
+  {
+    "year": 1971,
+    "country": "Russia",
     "count": 103
   },
   {
     "year": 1971,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 2
   },
   {
     "year": 1971,
-    "country": "US",
+    "country": "United States",
     "count": 46
   },
   {
     "year": 1972,
-    "country": "CA",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 1972,
-    "country": "D",
-    "count": 1
-  },
-  {
-    "year": 1972,
-    "country": "F",
-    "count": 1
-  },
-  {
-    "year": 1972,
-    "country": "I-ESRO",
+    "country": "ESRO",
     "count": 3
   },
   {
     "year": 1972,
-    "country": "I-INT",
-    "count": 2
-  },
-  {
-    "year": 1972,
-    "country": "J",
+    "country": "France",
     "count": 1
   },
   {
     "year": 1972,
-    "country": "SU",
+    "country": "Germany",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "INTELSAT",
+    "count": 2
+  },
+  {
+    "year": 1972,
+    "country": "Japan",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "Russia",
     "count": 97
   },
   {
     "year": 1972,
-    "country": "US",
+    "country": "United States",
     "count": 34
   },
   {
     "year": 1973,
-    "country": "CA",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 1973,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 1
   },
   {
     "year": 1973,
-    "country": "SU",
+    "country": "Russia",
     "count": 115
   },
   {
     "year": 1973,
-    "country": "US",
+    "country": "United States",
     "count": 27
   },
   {
     "year": 1974,
-    "country": "D",
+    "country": "Germany",
     "count": 3
   },
   {
     "year": 1974,
-    "country": "E",
+    "country": "INTELSAT",
     "count": 1
   },
   {
     "year": 1974,
-    "country": "I",
+    "country": "Italy",
     "count": 1
   },
   {
     "year": 1974,
-    "country": "I-INT",
+    "country": "Japan",
     "count": 1
   },
   {
     "year": 1974,
-    "country": "J",
+    "country": "Netherlands",
     "count": 1
   },
   {
     "year": 1974,
-    "country": "NL",
-    "count": 1
-  },
-  {
-    "year": 1974,
-    "country": "SU",
+    "country": "Russia",
     "count": 100
   },
   {
     "year": 1974,
-    "country": "UK",
+    "country": "Spain",
+    "count": 1
+  },
+  {
+    "year": 1974,
+    "country": "United Kingdom",
     "count": 4
   },
   {
     "year": 1974,
-    "country": "US",
+    "country": "United States",
     "count": 19
   },
   {
     "year": 1975,
-    "country": "CA",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 1975,
-    "country": "CN",
+    "country": "China",
     "count": 3
   },
   {
     "year": 1975,
-    "country": "F",
+    "country": "ESA",
+    "count": 1
+  },
+  {
+    "year": 1975,
+    "country": "France",
     "count": 6
   },
   {
     "year": 1975,
-    "country": "I-ESA",
-    "count": 1
-  },
-  {
-    "year": 1975,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 2
   },
   {
     "year": 1975,
-    "country": "IN",
+    "country": "India",
     "count": 1
   },
   {
     "year": 1975,
-    "country": "J",
+    "country": "Japan",
     "count": 2
   },
   {
     "year": 1975,
-    "country": "SU",
+    "country": "Russia",
     "count": 121
   },
   {
     "year": 1975,
-    "country": "US",
+    "country": "United States",
     "count": 30
   },
   {
     "year": 1976,
-    "country": "CA",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 1976,
-    "country": "CN",
+    "country": "China",
     "count": 2
   },
   {
     "year": 1976,
-    "country": "D",
+    "country": "Germany",
     "count": 1
   },
   {
     "year": 1976,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 1
   },
   {
     "year": 1976,
-    "country": "I-NATO",
+    "country": "Indonesia",
     "count": 1
   },
   {
     "year": 1976,
-    "country": "ID",
+    "country": "Japan",
     "count": 1
   },
   {
     "year": 1976,
-    "country": "J",
+    "country": "NATO",
     "count": 1
   },
   {
     "year": 1976,
-    "country": "SU",
+    "country": "Russia",
     "count": 168
   },
   {
     "year": 1976,
-    "country": "US",
+    "country": "United States",
     "count": 30
   },
   {
     "year": 1977,
-    "country": "F",
-    "count": 1
-  },
-  {
-    "year": 1977,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 1977,
-    "country": "I-ESA",
+    "country": "ESA",
     "count": 3
   },
   {
     "year": 1977,
-    "country": "I-INT",
+    "country": "France",
     "count": 1
   },
   {
     "year": 1977,
-    "country": "I-NATO",
+    "country": "INTELSAT",
     "count": 1
   },
   {
     "year": 1977,
-    "country": "ID",
+    "country": "Indonesia",
     "count": 1
   },
   {
     "year": 1977,
-    "country": "J",
+    "country": "Italy",
+    "count": 1
+  },
+  {
+    "year": 1977,
+    "country": "Japan",
     "count": 4
   },
   {
     "year": 1977,
-    "country": "SU",
+    "country": "NATO",
+    "count": 1
+  },
+  {
+    "year": 1977,
+    "country": "Russia",
     "count": 153
   },
   {
     "year": 1977,
-    "country": "US",
+    "country": "United States",
     "count": 20
   },
   {
     "year": 1978,
-    "country": "CA",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 1978,
-    "country": "CN",
+    "country": "China",
     "count": 1
   },
   {
     "year": 1978,
-    "country": "CSSR",
+    "country": "Czech Republic",
     "count": 1
   },
   {
     "year": 1978,
-    "country": "I-ESA",
+    "country": "ESA",
     "count": 2
   },
   {
     "year": 1978,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 2
   },
   {
     "year": 1978,
-    "country": "I-NATO",
-    "count": 1
-  },
-  {
-    "year": 1978,
-    "country": "J",
+    "country": "Japan",
     "count": 4
   },
   {
     "year": 1978,
-    "country": "SU",
+    "country": "NATO",
+    "count": 1
+  },
+  {
+    "year": 1978,
+    "country": "Russia",
     "count": 134
   },
   {
     "year": 1978,
-    "country": "US",
+    "country": "United States",
     "count": 33
   },
   {
     "year": 1979,
-    "country": "I-ESA",
+    "country": "ESA",
     "count": 1
   },
   {
     "year": 1979,
-    "country": "IN",
+    "country": "India",
     "count": 1
   },
   {
     "year": 1979,
-    "country": "J",
+    "country": "Japan",
     "count": 2
   },
   {
     "year": 1979,
-    "country": "SU",
+    "country": "Russia",
     "count": 131
   },
   {
     "year": 1979,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 1
   },
   {
     "year": 1979,
-    "country": "US",
+    "country": "United States",
     "count": 17
   },
   {
     "year": 1980,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 1
   },
   {
     "year": 1980,
-    "country": "IN",
+    "country": "India",
     "count": 1
   },
   {
     "year": 1980,
-    "country": "J",
+    "country": "Japan",
     "count": 2
   },
   {
     "year": 1980,
-    "country": "SU",
+    "country": "Russia",
     "count": 157
   },
   {
     "year": 1980,
-    "country": "US",
+    "country": "United States",
     "count": 16
   },
   {
     "year": 1981,
-    "country": "CN",
+    "country": "China",
     "count": 3
   },
   {
     "year": 1981,
-    "country": "I-ESA",
+    "country": "ESA",
     "count": 4
   },
   {
     "year": 1981,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 2
   },
   {
     "year": 1981,
-    "country": "IN",
+    "country": "India",
     "count": 3
   },
   {
     "year": 1981,
-    "country": "J",
+    "country": "Japan",
     "count": 3
   },
   {
     "year": 1981,
-    "country": "SU",
+    "country": "Russia",
     "count": 150
   },
   {
     "year": 1981,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 1
   },
   {
     "year": 1981,
-    "country": "US",
+    "country": "United States",
     "count": 17
   },
   {
     "year": 1982,
-    "country": "CA",
+    "country": "Canada",
     "count": 2
   },
   {
     "year": 1982,
-    "country": "CN",
+    "country": "China",
     "count": 1
   },
   {
     "year": 1982,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 2
   },
   {
     "year": 1982,
-    "country": "IN",
+    "country": "India",
     "count": 1
   },
   {
     "year": 1982,
-    "country": "J",
+    "country": "Japan",
     "count": 1
   },
   {
     "year": 1982,
-    "country": "SU",
+    "country": "Russia",
     "count": 188
   },
   {
     "year": 1982,
-    "country": "US",
+    "country": "United States",
     "count": 18
   },
   {
     "year": 1983,
-    "country": "CA",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 1983,
-    "country": "CN",
+    "country": "China",
     "count": 1
   },
   {
     "year": 1983,
-    "country": "D",
+    "country": "ESA",
     "count": 2
   },
   {
     "year": 1983,
-    "country": "I-ESA",
+    "country": "Germany",
     "count": 2
   },
   {
     "year": 1983,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 2
   },
   {
     "year": 1983,
-    "country": "ID",
+    "country": "India",
+    "count": 2
+  },
+  {
+    "year": 1983,
+    "country": "Indonesia",
     "count": 1
   },
   {
     "year": 1983,
-    "country": "IN",
-    "count": 2
-  },
-  {
-    "year": 1983,
-    "country": "J",
+    "country": "Japan",
     "count": 3
   },
   {
     "year": 1983,
-    "country": "SU",
+    "country": "Russia",
     "count": 190
   },
   {
     "year": 1983,
-    "country": "US",
+    "country": "United States",
     "count": 29
   },
   {
     "year": 1984,
-    "country": "CA",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 1984,
-    "country": "CN",
+    "country": "China",
     "count": 3
   },
   {
     "year": 1984,
-    "country": "D",
+    "country": "ESA",
     "count": 1
   },
   {
     "year": 1984,
-    "country": "F",
+    "country": "EUTELSAT",
     "count": 1
   },
   {
     "year": 1984,
-    "country": "I-ESA",
+    "country": "France",
     "count": 1
   },
   {
     "year": 1984,
-    "country": "I-EUT",
+    "country": "Germany",
     "count": 1
   },
   {
     "year": 1984,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 2
   },
   {
     "year": 1984,
-    "country": "I-NATO",
+    "country": "Indonesia",
     "count": 1
   },
   {
     "year": 1984,
-    "country": "ID",
-    "count": 1
-  },
-  {
-    "year": 1984,
-    "country": "J",
+    "country": "Japan",
     "count": 3
   },
   {
     "year": 1984,
-    "country": "SU",
+    "country": "NATO",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "Russia",
     "count": 143
   },
   {
     "year": 1984,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 2
   },
   {
     "year": 1984,
-    "country": "US",
+    "country": "United States",
     "count": 34
   },
   {
     "year": 1985,
-    "country": "AU",
+    "country": "ARABSAT",
     "count": 2
   },
   {
     "year": 1985,
-    "country": "BR",
-    "count": 1
-  },
-  {
-    "year": 1985,
-    "country": "CA",
-    "count": 1
-  },
-  {
-    "year": 1985,
-    "country": "CN",
-    "count": 1
-  },
-  {
-    "year": 1985,
-    "country": "F",
-    "count": 1
-  },
-  {
-    "year": 1985,
-    "country": "I-ARAB",
+    "country": "Australia",
     "count": 2
   },
   {
     "year": 1985,
-    "country": "I-ESA",
+    "country": "Brazil",
     "count": 1
   },
   {
     "year": 1985,
-    "country": "I-INT",
+    "country": "Canada",
+    "count": 1
+  },
+  {
+    "year": 1985,
+    "country": "China",
+    "count": 1
+  },
+  {
+    "year": 1985,
+    "country": "ESA",
+    "count": 1
+  },
+  {
+    "year": 1985,
+    "country": "France",
+    "count": 1
+  },
+  {
+    "year": 1985,
+    "country": "INTELSAT",
     "count": 3
   },
   {
     "year": 1985,
-    "country": "J",
+    "country": "Japan",
     "count": 2
   },
   {
     "year": 1985,
-    "country": "MX",
+    "country": "Mexico",
     "count": 2
   },
   {
     "year": 1985,
-    "country": "SU",
+    "country": "Russia",
     "count": 143
   },
   {
     "year": 1985,
-    "country": "US",
+    "country": "United States",
     "count": 31
   },
   {
     "year": 1986,
-    "country": "BR",
+    "country": "Brazil",
     "count": 1
   },
   {
     "year": 1986,
-    "country": "CN",
+    "country": "China",
     "count": 2
   },
   {
     "year": 1986,
-    "country": "F",
+    "country": "France",
     "count": 1
   },
   {
     "year": 1986,
-    "country": "J",
+    "country": "Japan",
     "count": 4
   },
   {
     "year": 1986,
-    "country": "RU",
+    "country": "Russia",
+    "count": 140
+  },
+  {
+    "year": 1986,
+    "country": "Sweden",
     "count": 1
   },
   {
     "year": 1986,
-    "country": "S",
-    "count": 1
-  },
-  {
-    "year": 1986,
-    "country": "SU",
-    "count": 139
-  },
-  {
-    "year": 1986,
-    "country": "US",
+    "country": "United States",
     "count": 12
   },
   {
     "year": 1987,
-    "country": "AU",
+    "country": "Australia",
     "count": 1
   },
   {
     "year": 1987,
-    "country": "CN",
+    "country": "China",
     "count": 2
   },
   {
     "year": 1987,
-    "country": "D",
+    "country": "EUTELSAT",
     "count": 1
   },
   {
     "year": 1987,
-    "country": "I-EUT",
+    "country": "Germany",
     "count": 1
   },
   {
     "year": 1987,
-    "country": "ID",
+    "country": "Indonesia",
     "count": 1
   },
   {
     "year": 1987,
-    "country": "J",
+    "country": "Japan",
     "count": 3
   },
   {
     "year": 1987,
-    "country": "SU",
+    "country": "Russia",
     "count": 118
   },
   {
     "year": 1987,
-    "country": "US",
+    "country": "United States",
     "count": 12
   },
   {
     "year": 1988,
-    "country": "CN",
+    "country": "China",
     "count": 5
   },
   {
     "year": 1988,
-    "country": "D",
+    "country": "EUMETSAT",
     "count": 1
   },
   {
     "year": 1988,
-    "country": "F",
+    "country": "EUTELSAT",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "France",
     "count": 2
   },
   {
     "year": 1988,
-    "country": "I",
+    "country": "Germany",
     "count": 1
   },
   {
     "year": 1988,
-    "country": "I-EUM",
+    "country": "INTELSAT",
     "count": 1
   },
   {
     "year": 1988,
-    "country": "I-EUT",
-    "count": 1
-  },
-  {
-    "year": 1988,
-    "country": "I-INT",
-    "count": 1
-  },
-  {
-    "year": 1988,
-    "country": "IL",
-    "count": 1
-  },
-  {
-    "year": 1988,
-    "country": "IN",
+    "country": "India",
     "count": 2
   },
   {
     "year": 1988,
-    "country": "J",
-    "count": 2
-  },
-  {
-    "year": 1988,
-    "country": "L",
+    "country": "Israel",
     "count": 1
   },
   {
     "year": 1988,
-    "country": "SU",
+    "country": "Italy",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "Japan",
+    "count": 2
+  },
+  {
+    "year": 1988,
+    "country": "Luxembourg",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "Russia",
     "count": 165
   },
   {
     "year": 1988,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 1
   },
   {
     "year": 1988,
-    "country": "US",
+    "country": "United States",
     "count": 22
   },
   {
     "year": 1989,
-    "country": "CSSR",
+    "country": "Czech Republic",
     "count": 1
   },
   {
     "year": 1989,
-    "country": "D",
+    "country": "ESA",
     "count": 2
   },
   {
     "year": 1989,
-    "country": "I-ESA",
-    "count": 2
-  },
-  {
-    "year": 1989,
-    "country": "I-EUM",
+    "country": "EUMETSAT",
     "count": 1
   },
   {
     "year": 1989,
-    "country": "I-INT",
+    "country": "Germany",
     "count": 2
   },
   {
     "year": 1989,
-    "country": "J",
+    "country": "INTELSAT",
+    "count": 2
+  },
+  {
+    "year": 1989,
+    "country": "Japan",
     "count": 4
   },
   {
     "year": 1989,
-    "country": "S",
-    "count": 1
-  },
-  {
-    "year": 1989,
-    "country": "SU",
+    "country": "Russia",
     "count": 146
   },
   {
     "year": 1989,
-    "country": "UK",
+    "country": "Sweden",
     "count": 1
   },
   {
     "year": 1989,
-    "country": "US",
+    "country": "United Kingdom",
+    "count": 1
+  },
+  {
+    "year": 1989,
+    "country": "United States",
     "count": 24
   },
   {
     "year": 1990,
-    "country": "AR",
+    "country": "Argentina",
     "count": 1
   },
   {
     "year": 1990,
-    "country": "BR",
+    "country": "Brazil",
     "count": 1
   },
   {
     "year": 1990,
-    "country": "CN",
+    "country": "China",
     "count": 5
   },
   {
     "year": 1990,
-    "country": "D",
+    "country": "ESA",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "EUTELSAT",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "France",
     "count": 2
   },
   {
     "year": 1990,
-    "country": "F",
+    "country": "Germany",
     "count": 2
   },
   {
     "year": 1990,
-    "country": "HKUK",
+    "country": "INMARSAT",
     "count": 1
   },
   {
     "year": 1990,
-    "country": "I-ESA",
-    "count": 1
-  },
-  {
-    "year": 1990,
-    "country": "I-EUT",
-    "count": 1
-  },
-  {
-    "year": 1990,
-    "country": "I-INM",
-    "count": 1
-  },
-  {
-    "year": 1990,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 2
   },
   {
     "year": 1990,
-    "country": "ID",
+    "country": "India",
     "count": 1
   },
   {
     "year": 1990,
-    "country": "IL",
+    "country": "Indonesia",
     "count": 1
   },
   {
     "year": 1990,
-    "country": "IN",
+    "country": "Israel",
     "count": 1
   },
   {
     "year": 1990,
-    "country": "J",
+    "country": "Japan",
     "count": 7
   },
   {
     "year": 1990,
-    "country": "PK",
+    "country": "Pakistan",
     "count": 1
   },
   {
     "year": 1990,
-    "country": "RU",
-    "count": 17
+    "country": "Russia",
+    "count": 146
   },
   {
     "year": 1990,
-    "country": "SU",
-    "count": 129
+    "country": "United Kingdom",
+    "count": 6
   },
   {
     "year": 1990,
-    "country": "UK",
-    "count": 5
-  },
-  {
-    "year": 1990,
-    "country": "US",
+    "country": "United States",
     "count": 39
   },
   {
     "year": 1991,
-    "country": "CA",
+    "country": "Canada",
     "count": 2
   },
   {
     "year": 1991,
-    "country": "CN",
+    "country": "China",
     "count": 1
   },
   {
     "year": 1991,
-    "country": "CSFR",
+    "country": "Czech Republic",
     "count": 1
   },
   {
     "year": 1991,
-    "country": "D",
+    "country": "ESA",
     "count": 1
   },
   {
     "year": 1991,
-    "country": "F",
+    "country": "EUMETSAT",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "EUTELSAT",
     "count": 2
   },
   {
     "year": 1991,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 1991,
-    "country": "I-ESA",
-    "count": 1
-  },
-  {
-    "year": 1991,
-    "country": "I-EUM",
-    "count": 1
-  },
-  {
-    "year": 1991,
-    "country": "I-EUT",
+    "country": "France",
     "count": 2
   },
   {
     "year": 1991,
-    "country": "I-INM",
-    "count": 2
-  },
-  {
-    "year": 1991,
-    "country": "I-INT",
-    "count": 2
-  },
-  {
-    "year": 1991,
-    "country": "I-NATO",
+    "country": "Germany",
     "count": 1
   },
   {
     "year": 1991,
-    "country": "IN",
-    "count": 1
-  },
-  {
-    "year": 1991,
-    "country": "J",
+    "country": "INMARSAT",
     "count": 2
   },
   {
     "year": 1991,
-    "country": "L",
+    "country": "INTELSAT",
+    "count": 2
+  },
+  {
+    "year": 1991,
+    "country": "India",
     "count": 1
   },
   {
     "year": 1991,
-    "country": "SU",
+    "country": "Italy",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "Japan",
+    "count": 2
+  },
+  {
+    "year": 1991,
+    "country": "Luxembourg",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "NATO",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "Russia",
     "count": 84
   },
   {
     "year": 1991,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 1
   },
   {
     "year": 1991,
-    "country": "US",
+    "country": "United States",
     "count": 35
   },
   {
     "year": 1992,
-    "country": "AU",
+    "country": "ARABSAT",
     "count": 1
   },
   {
     "year": 1992,
-    "country": "CA",
+    "country": "Australia",
     "count": 1
   },
   {
     "year": 1992,
-    "country": "CN",
+    "country": "Canada",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "China",
     "count": 2
   },
   {
     "year": 1992,
-    "country": "D",
+    "country": "ESA",
     "count": 1
   },
   {
     "year": 1992,
-    "country": "E",
+    "country": "EUTELSAT",
     "count": 1
   },
   {
     "year": 1992,
-    "country": "F",
+    "country": "France",
     "count": 2
   },
   {
     "year": 1992,
-    "country": "I",
+    "country": "Germany",
     "count": 1
   },
   {
     "year": 1992,
-    "country": "I-ARAB",
+    "country": "INMARSAT",
     "count": 1
   },
   {
     "year": 1992,
-    "country": "I-ESA",
+    "country": "INTELSAT",
     "count": 1
   },
   {
     "year": 1992,
-    "country": "I-EUT",
-    "count": 1
-  },
-  {
-    "year": 1992,
-    "country": "I-INM",
-    "count": 1
-  },
-  {
-    "year": 1992,
-    "country": "I-INT",
-    "count": 1
-  },
-  {
-    "year": 1992,
-    "country": "ID",
-    "count": 1
-  },
-  {
-    "year": 1992,
-    "country": "IN",
+    "country": "India",
     "count": 2
   },
   {
     "year": 1992,
-    "country": "J",
+    "country": "Indonesia",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "Italy",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "Japan",
     "count": 4
   },
   {
     "year": 1992,
-    "country": "KR",
-    "count": 1
-  },
-  {
-    "year": 1992,
-    "country": "RU",
+    "country": "Russia",
     "count": 80
   },
   {
     "year": 1992,
-    "country": "S",
+    "country": "South Korea",
     "count": 1
   },
   {
     "year": 1992,
-    "country": "US",
+    "country": "Spain",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "Sweden",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "United States",
     "count": 28
   },
   {
     "year": 1993,
-    "country": "BR",
+    "country": "Brazil",
     "count": 1
   },
   {
     "year": 1993,
-    "country": "CN",
+    "country": "China",
     "count": 2
   },
   {
     "year": 1993,
-    "country": "D",
+    "country": "EUMETSAT",
     "count": 1
   },
   {
     "year": 1993,
-    "country": "E",
-    "count": 1
-  },
-  {
-    "year": 1993,
-    "country": "F",
+    "country": "France",
     "count": 3
   },
   {
     "year": 1993,
-    "country": "I",
+    "country": "Germany",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "INTELSAT",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "India",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "Italy",
     "count": 2
   },
   {
     "year": 1993,
-    "country": "I-EUM",
+    "country": "Japan",
     "count": 1
   },
   {
     "year": 1993,
-    "country": "I-INT",
+    "country": "Luxembourg",
     "count": 1
   },
   {
     "year": 1993,
-    "country": "I-NATO",
+    "country": "Mexico",
     "count": 1
   },
   {
     "year": 1993,
-    "country": "IN",
+    "country": "NATO",
     "count": 1
   },
   {
     "year": 1993,
-    "country": "J",
+    "country": "Portugal",
     "count": 1
   },
   {
     "year": 1993,
-    "country": "KR",
-    "count": 1
-  },
-  {
-    "year": 1993,
-    "country": "L",
-    "count": 1
-  },
-  {
-    "year": 1993,
-    "country": "MX",
-    "count": 1
-  },
-  {
-    "year": 1993,
-    "country": "P",
-    "count": 1
-  },
-  {
-    "year": 1993,
-    "country": "RU",
+    "country": "Russia",
     "count": 58
   },
   {
     "year": 1993,
-    "country": "T",
+    "country": "South Korea",
     "count": 1
   },
   {
     "year": 1993,
-    "country": "US",
+    "country": "Spain",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "Thailand",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "United States",
     "count": 32
   },
   {
     "year": 1994,
-    "country": "AU",
+    "country": "Australia",
     "count": 1
   },
   {
     "year": 1994,
-    "country": "BR",
+    "country": "Brazil",
     "count": 1
   },
   {
     "year": 1994,
-    "country": "CN",
+    "country": "China",
     "count": 4
   },
   {
     "year": 1994,
-    "country": "D",
+    "country": "Germany",
     "count": 3
   },
   {
     "year": 1994,
-    "country": "HKUK",
-    "count": 1
-  },
-  {
-    "year": 1994,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 2
   },
   {
     "year": 1994,
-    "country": "IN",
+    "country": "India",
     "count": 2
   },
   {
     "year": 1994,
-    "country": "J",
+    "country": "Japan",
     "count": 4
   },
   {
     "year": 1994,
-    "country": "L",
+    "country": "Luxembourg",
     "count": 1
   },
   {
     "year": 1994,
-    "country": "MX",
+    "country": "Mexico",
     "count": 1
   },
   {
     "year": 1994,
-    "country": "RU",
+    "country": "Russia",
     "count": 63
   },
   {
     "year": 1994,
-    "country": "T",
+    "country": "Thailand",
     "count": 1
   },
   {
     "year": 1994,
-    "country": "TR",
+    "country": "Turkey",
     "count": 1
   },
   {
     "year": 1994,
-    "country": "UK",
-    "count": 2
+    "country": "United Kingdom",
+    "count": 3
   },
   {
     "year": 1994,
-    "country": "US",
+    "country": "United States",
     "count": 37
   },
   {
     "year": 1995,
-    "country": "BR",
+    "country": "Brazil",
     "count": 1
   },
   {
     "year": 1995,
-    "country": "CA",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 1995,
-    "country": "CZ",
+    "country": "Czech Republic",
     "count": 1
   },
   {
     "year": 1995,
-    "country": "D",
-    "count": 1
-  },
-  {
-    "year": 1995,
-    "country": "E",
-    "count": 1
-  },
-  {
-    "year": 1995,
-    "country": "F",
+    "country": "ESA",
     "count": 3
   },
   {
     "year": 1995,
-    "country": "HKUK",
+    "country": "EUTELSAT",
     "count": 1
   },
   {
     "year": 1995,
-    "country": "I-ESA",
+    "country": "France",
     "count": 3
   },
   {
     "year": 1995,
-    "country": "I-EUT",
+    "country": "Germany",
     "count": 1
   },
   {
     "year": 1995,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 3
   },
   {
     "year": 1995,
-    "country": "IL",
-    "count": 1
-  },
-  {
-    "year": 1995,
-    "country": "IN",
+    "country": "India",
     "count": 2
   },
   {
     "year": 1995,
-    "country": "J",
+    "country": "Israel",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "Japan",
     "count": 4
   },
   {
     "year": 1995,
-    "country": "KR",
+    "country": "Luxembourg",
     "count": 1
   },
   {
     "year": 1995,
-    "country": "L",
-    "count": 1
-  },
-  {
-    "year": 1995,
-    "country": "RU",
+    "country": "Russia",
     "count": 55
   },
   {
     "year": 1995,
-    "country": "S",
+    "country": "South Korea",
     "count": 1
   },
   {
     "year": 1995,
-    "country": "UA",
+    "country": "Spain",
     "count": 1
   },
   {
     "year": 1995,
-    "country": "US",
+    "country": "Sweden",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "Ukraine",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "United Kingdom",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "United States",
     "count": 38
   },
   {
     "year": 1996,
-    "country": "AR",
-    "count": 1
-  },
-  {
-    "year": 1996,
-    "country": "CA",
-    "count": 1
-  },
-  {
-    "year": 1996,
-    "country": "CN",
+    "country": "ARABSAT",
     "count": 2
   },
   {
     "year": 1996,
-    "country": "CZ",
+    "country": "Argentina",
     "count": 1
   },
   {
     "year": 1996,
-    "country": "D",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 1996,
-    "country": "F",
+    "country": "China",
+    "count": 2
+  },
+  {
+    "year": 1996,
+    "country": "Czech Republic",
     "count": 1
   },
   {
     "year": 1996,
-    "country": "HKUK",
+    "country": "EUTELSAT",
     "count": 1
   },
   {
     "year": 1996,
-    "country": "I",
+    "country": "France",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "Germany",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "INMARSAT",
     "count": 3
   },
   {
     "year": 1996,
-    "country": "I-ARAB",
+    "country": "INTELSAT",
     "count": 2
   },
   {
     "year": 1996,
-    "country": "I-EUT",
+    "country": "India",
     "count": 1
   },
   {
     "year": 1996,
-    "country": "I-INM",
+    "country": "Indonesia",
+    "count": 2
+  },
+  {
+    "year": 1996,
+    "country": "Israel",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "Italy",
     "count": 3
   },
   {
     "year": 1996,
-    "country": "I-INT",
-    "count": 2
-  },
-  {
-    "year": 1996,
-    "country": "ID",
-    "count": 2
-  },
-  {
-    "year": 1996,
-    "country": "IL",
-    "count": 1
-  },
-  {
-    "year": 1996,
-    "country": "IN",
-    "count": 1
-  },
-  {
-    "year": 1996,
-    "country": "J",
+    "country": "Japan",
     "count": 3
   },
   {
     "year": 1996,
-    "country": "KR",
+    "country": "Luxembourg",
     "count": 1
   },
   {
     "year": 1996,
-    "country": "L",
-    "count": 1
-  },
-  {
-    "year": 1996,
-    "country": "MX",
-    "count": 1
-  },
-  {
-    "year": 1996,
-    "country": "MY",
+    "country": "Malaysia",
     "count": 2
   },
   {
     "year": 1996,
-    "country": "RU",
+    "country": "Mexico",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "Russia",
     "count": 28
   },
   {
     "year": 1996,
-    "country": "TR",
+    "country": "South Korea",
     "count": 1
   },
   {
     "year": 1996,
-    "country": "US",
+    "country": "Turkey",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "United Kingdom",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "United States",
     "count": 39
   },
   {
     "year": 1997,
-    "country": "AR",
+    "country": "Argentina",
     "count": 1
   },
   {
     "year": 1997,
-    "country": "CN",
-    "count": 4
+    "country": "China",
+    "count": 6
   },
   {
     "year": 1997,
-    "country": "D",
+    "country": "ESA",
     "count": 3
   },
   {
     "year": 1997,
-    "country": "E",
+    "country": "EUMETSAT",
     "count": 1
   },
   {
     "year": 1997,
-    "country": "HK",
-    "count": 2
+    "country": "EUTELSAT",
+    "count": 1
   },
   {
     "year": 1997,
-    "country": "I-ESA",
+    "country": "Germany",
     "count": 3
   },
   {
     "year": 1997,
-    "country": "I-EUM",
+    "country": "INMARSAT",
     "count": 1
   },
   {
     "year": 1997,
-    "country": "I-EUT",
-    "count": 1
-  },
-  {
-    "year": 1997,
-    "country": "I-INM",
-    "count": 1
-  },
-  {
-    "year": 1997,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 4
   },
   {
     "year": 1997,
-    "country": "ID",
-    "count": 1
-  },
-  {
-    "year": 1997,
-    "country": "IN",
+    "country": "India",
     "count": 2
   },
   {
     "year": 1997,
-    "country": "J",
+    "country": "Indonesia",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "Japan",
     "count": 7
   },
   {
     "year": 1997,
-    "country": "L",
+    "country": "Luxembourg",
     "count": 1
   },
   {
     "year": 1997,
-    "country": "N",
+    "country": "Norway",
     "count": 1
   },
   {
     "year": 1997,
-    "country": "PH",
+    "country": "Phillipines",
     "count": 1
   },
   {
     "year": 1997,
-    "country": "RU",
+    "country": "Russia",
     "count": 27
   },
   {
     "year": 1997,
-    "country": "S",
+    "country": "Spain",
     "count": 1
   },
   {
     "year": 1997,
-    "country": "T",
+    "country": "Sweden",
     "count": 1
   },
   {
     "year": 1997,
-    "country": "US",
+    "country": "Thailand",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "United States",
     "count": 88
   },
   {
     "year": 1998,
-    "country": "AR",
+    "country": "Argentina",
     "count": 1
   },
   {
     "year": 1998,
-    "country": "AU",
+    "country": "Australia",
     "count": 1
   },
   {
     "year": 1998,
-    "country": "BR",
+    "country": "Brazil",
     "count": 2
   },
   {
     "year": 1998,
-    "country": "CL",
+    "country": "Chile",
     "count": 1
   },
   {
     "year": 1998,
-    "country": "CN",
+    "country": "China",
     "count": 2
   },
   {
     "year": 1998,
-    "country": "D",
+    "country": "ESA",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "EUTELSAT",
     "count": 3
   },
   {
     "year": 1998,
-    "country": "EG",
+    "country": "Egypt",
     "count": 1
   },
   {
     "year": 1998,
-    "country": "F",
+    "country": "France",
     "count": 2
   },
   {
     "year": 1998,
-    "country": "I-ESA",
-    "count": 1
-  },
-  {
-    "year": 1998,
-    "country": "I-EUT",
+    "country": "Germany",
     "count": 3
   },
   {
     "year": 1998,
-    "country": "I-INM",
+    "country": "INMARSAT",
     "count": 1
   },
   {
     "year": 1998,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 2
   },
   {
     "year": 1998,
-    "country": "IL",
+    "country": "Israel",
     "count": 1
   },
   {
     "year": 1998,
-    "country": "J",
+    "country": "Japan",
     "count": 3
   },
   {
     "year": 1998,
-    "country": "L",
+    "country": "Luxembourg",
     "count": 1
   },
   {
     "year": 1998,
-    "country": "MX",
+    "country": "Mexico",
     "count": 1
   },
   {
     "year": 1998,
-    "country": "N",
+    "country": "Norway",
     "count": 1
   },
   {
     "year": 1998,
-    "country": "RU",
+    "country": "Russia",
     "count": 27
   },
   {
     "year": 1998,
-    "country": "S",
+    "country": "Singapore",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "Sweden",
     "count": 2
   },
   {
     "year": 1998,
-    "country": "SG",
+    "country": "Thailand",
     "count": 1
   },
   {
     "year": 1998,
-    "country": "T",
+    "country": "United Kingdom",
     "count": 1
   },
   {
     "year": 1998,
-    "country": "UK",
-    "count": 1
-  },
-  {
-    "year": 1998,
-    "country": "US",
+    "country": "United States",
     "count": 98
   },
   {
     "year": 1999,
-    "country": "BR",
+    "country": "ARABSAT",
     "count": 1
   },
   {
     "year": 1999,
-    "country": "CA",
+    "country": "Brazil",
     "count": 1
   },
   {
     "year": 1999,
-    "country": "CN",
-    "count": 5
+    "country": "Canada",
+    "count": 1
   },
   {
     "year": 1999,
-    "country": "D",
+    "country": "China",
+    "count": 6
+  },
+  {
+    "year": 1999,
+    "country": "Denmark",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "ESA",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "EUTELSAT",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "France",
     "count": 2
   },
   {
     "year": 1999,
-    "country": "DK",
-    "count": 1
-  },
-  {
-    "year": 1999,
-    "country": "F",
+    "country": "Germany",
     "count": 2
   },
   {
     "year": 1999,
-    "country": "HK",
-    "count": 1
-  },
-  {
-    "year": 1999,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 1999,
-    "country": "I-ARAB",
-    "count": 1
-  },
-  {
-    "year": 1999,
-    "country": "I-ESA",
-    "count": 1
-  },
-  {
-    "year": 1999,
-    "country": "I-EUT",
-    "count": 1
-  },
-  {
-    "year": 1999,
-    "country": "ID",
-    "count": 1
-  },
-  {
-    "year": 1999,
-    "country": "IN",
+    "country": "India",
     "count": 2
   },
   {
     "year": 1999,
-    "country": "J",
+    "country": "Indonesia",
     "count": 1
   },
   {
     "year": 1999,
-    "country": "KR",
-    "count": 3
-  },
-  {
-    "year": 1999,
-    "country": "L",
+    "country": "Italy",
     "count": 1
   },
   {
     "year": 1999,
-    "country": "RU",
+    "country": "Japan",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "Luxembourg",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "Russia",
     "count": 15
   },
   {
     "year": 1999,
-    "country": "TW",
+    "country": "South Africa",
     "count": 1
   },
   {
     "year": 1999,
-    "country": "UK",
+    "country": "South Korea",
+    "count": 3
+  },
+  {
+    "year": 1999,
+    "country": "Taiwan",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "United Kingdom",
     "count": 2
   },
   {
     "year": 1999,
-    "country": "US",
+    "country": "United States",
     "count": 83
   },
   {
-    "year": 1999,
-    "country": "ZA",
+    "year": 2000,
+    "country": "Argentina",
     "count": 1
   },
   {
     "year": 2000,
-    "country": "AR",
+    "country": "Brazil",
     "count": 1
   },
   {
     "year": 2000,
-    "country": "BR",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 2000,
-    "country": "CA",
-    "count": 1
-  },
-  {
-    "year": 2000,
-    "country": "CN",
+    "country": "China",
     "count": 6
   },
   {
     "year": 2000,
-    "country": "D",
-    "count": 2
-  },
-  {
-    "year": 2000,
-    "country": "E",
-    "count": 1
-  },
-  {
-    "year": 2000,
-    "country": "EG",
-    "count": 1
-  },
-  {
-    "year": 2000,
-    "country": "F",
-    "count": 1
-  },
-  {
-    "year": 2000,
-    "country": "I",
-    "count": 3
-  },
-  {
-    "year": 2000,
-    "country": "I-ESA",
+    "country": "ESA",
     "count": 4
   },
   {
     "year": 2000,
-    "country": "I-EUT",
+    "country": "EUTELSAT",
     "count": 3
   },
   {
     "year": 2000,
-    "country": "ID",
+    "country": "Egypt",
     "count": 1
   },
   {
     "year": 2000,
-    "country": "IL",
+    "country": "France",
     "count": 1
   },
   {
     "year": 2000,
-    "country": "IN",
-    "count": 1
-  },
-  {
-    "year": 2000,
-    "country": "J",
-    "count": 3
-  },
-  {
-    "year": 2000,
-    "country": "L",
+    "country": "Germany",
     "count": 2
   },
   {
     "year": 2000,
-    "country": "MY",
+    "country": "India",
     "count": 1
   },
   {
     "year": 2000,
-    "country": "RU",
+    "country": "Indonesia",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Israel",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Italy",
+    "count": 3
+  },
+  {
+    "year": 2000,
+    "country": "Japan",
+    "count": 3
+  },
+  {
+    "year": 2000,
+    "country": "Luxembourg",
+    "count": 2
+  },
+  {
+    "year": 2000,
+    "country": "Malaysia",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Russia",
     "count": 24
   },
   {
     "year": 2000,
-    "country": "S",
+    "country": "Saudi Arabia",
+    "count": 2
+  },
+  {
+    "year": 2000,
+    "country": "Spain",
     "count": 1
   },
   {
     "year": 2000,
-    "country": "SA",
-    "count": 2
+    "country": "Sweden",
+    "count": 1
   },
   {
     "year": 2000,
@@ -2201,267 +2171,262 @@
   },
   {
     "year": 2000,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 4
   },
   {
     "year": 2000,
-    "country": "US",
+    "country": "United States",
     "count": 53
   },
   {
     "year": 2001,
-    "country": "CN",
+    "country": "China",
     "count": 2
   },
   {
     "year": 2001,
-    "country": "D",
-    "count": 1
-  },
-  {
-    "year": 2001,
-    "country": "F",
+    "country": "ESA",
     "count": 2
   },
   {
     "year": 2001,
-    "country": "I",
+    "country": "EUTELSAT",
     "count": 1
   },
   {
     "year": 2001,
-    "country": "I-ESA",
+    "country": "France",
     "count": 2
   },
   {
     "year": 2001,
-    "country": "I-EUT",
+    "country": "Germany",
     "count": 1
   },
   {
     "year": 2001,
-    "country": "I-INT",
+    "country": "INTELSAT",
     "count": 1
   },
   {
     "year": 2001,
-    "country": "IN",
+    "country": "India",
     "count": 2
   },
   {
     "year": 2001,
-    "country": "J",
+    "country": "Italy",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "Japan",
     "count": 2
   },
   {
     "year": 2001,
-    "country": "L",
+    "country": "Luxembourg",
     "count": 1
   },
   {
     "year": 2001,
-    "country": "MA",
+    "country": "Morocco",
     "count": 1
   },
   {
     "year": 2001,
-    "country": "PK",
+    "country": "Pakistan",
     "count": 1
   },
   {
     "year": 2001,
-    "country": "RU",
+    "country": "Russia",
     "count": 31
   },
   {
     "year": 2001,
-    "country": "S",
+    "country": "Sweden",
     "count": 1
   },
   {
     "year": 2001,
-    "country": "TR",
+    "country": "Turkey",
     "count": 1
   },
   {
     "year": 2001,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 2
   },
   {
     "year": 2001,
-    "country": "US",
+    "country": "United States",
     "count": 34
   },
   {
     "year": 2002,
-    "country": "AU",
+    "country": "Algeria",
     "count": 1
   },
   {
     "year": 2002,
-    "country": "CA",
+    "country": "Australia",
     "count": 1
   },
   {
     "year": 2002,
-    "country": "CN",
+    "country": "Canada",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "China",
     "count": 7
   },
   {
     "year": 2002,
-    "country": "D",
-    "count": 3
+    "country": "ESA",
+    "count": 2
   },
   {
     "year": 2002,
-    "country": "DZ",
+    "country": "EUMETSAT",
     "count": 1
   },
   {
     "year": 2002,
-    "country": "E",
-    "count": 1
-  },
-  {
-    "year": 2002,
-    "country": "F",
+    "country": "France",
     "count": 5
   },
   {
     "year": 2002,
-    "country": "I",
-    "count": 1
+    "country": "Germany",
+    "count": 3
   },
   {
     "year": 2002,
-    "country": "I-ESA",
+    "country": "India",
     "count": 2
   },
   {
     "year": 2002,
-    "country": "I-EUM",
+    "country": "Israel",
     "count": 1
   },
   {
     "year": 2002,
-    "country": "IL",
+    "country": "Italy",
     "count": 1
   },
   {
     "year": 2002,
-    "country": "IN",
-    "count": 2
-  },
-  {
-    "year": 2002,
-    "country": "J",
+    "country": "Japan",
     "count": 10
   },
   {
     "year": 2002,
-    "country": "L",
+    "country": "Luxembourg",
     "count": 2
   },
   {
     "year": 2002,
-    "country": "NL",
+    "country": "Netherlands",
     "count": 2
   },
   {
     "year": 2002,
-    "country": "RU",
+    "country": "Russia",
     "count": 18
   },
   {
     "year": 2002,
-    "country": "SA",
+    "country": "Saudi Arabia",
     "count": 1
   },
   {
     "year": 2002,
-    "country": "US",
+    "country": "Spain",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "United States",
     "count": 31
   },
   {
     "year": 2003,
-    "country": "AU",
+    "country": "Australia",
     "count": 1
   },
   {
     "year": 2003,
-    "country": "CA",
+    "country": "Canada",
     "count": 3
   },
   {
     "year": 2003,
-    "country": "CN",
-    "count": 8
+    "country": "China",
+    "count": 9
   },
   {
     "year": 2003,
-    "country": "CZ",
+    "country": "Czech Republic",
     "count": 1
   },
   {
     "year": 2003,
-    "country": "DK",
+    "country": "Denmark",
     "count": 2
   },
   {
     "year": 2003,
-    "country": "F",
-    "count": 1
-  },
-  {
-    "year": 2003,
-    "country": "GR",
-    "count": 1
-  },
-  {
-    "year": 2003,
-    "country": "HK",
-    "count": 1
-  },
-  {
-    "year": 2003,
-    "country": "I-ESA",
+    "country": "ESA",
     "count": 2
   },
   {
     "year": 2003,
-    "country": "IL",
+    "country": "France",
     "count": 1
   },
   {
     "year": 2003,
-    "country": "IN",
+    "country": "Greece",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "India",
     "count": 4
   },
   {
     "year": 2003,
-    "country": "J",
+    "country": "Israel",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "Japan",
     "count": 7
   },
   {
     "year": 2003,
-    "country": "KR",
+    "country": "Nigeria",
     "count": 1
   },
   {
     "year": 2003,
-    "country": "NG",
-    "count": 1
-  },
-  {
-    "year": 2003,
-    "country": "RU",
+    "country": "Russia",
     "count": 22
   },
   {
     "year": 2003,
-    "country": "TR",
+    "country": "South Korea",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "Turkey",
     "count": 1
   },
   {
@@ -2471,457 +2436,452 @@
   },
   {
     "year": 2003,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 1
   },
   {
     "year": 2003,
-    "country": "US",
+    "country": "United States",
     "count": 29
   },
   {
     "year": 2004,
-    "country": "BR",
+    "country": "Brazil",
     "count": 2
   },
   {
     "year": 2004,
-    "country": "CA",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 2004,
-    "country": "CN",
+    "country": "China",
     "count": 10
   },
   {
     "year": 2004,
-    "country": "E",
+    "country": "ESA",
     "count": 1
   },
   {
     "year": 2004,
-    "country": "F",
+    "country": "France",
     "count": 8
   },
   {
     "year": 2004,
-    "country": "I",
+    "country": "India",
     "count": 1
   },
   {
     "year": 2004,
-    "country": "I-ESA",
+    "country": "Italy",
     "count": 1
   },
   {
     "year": 2004,
-    "country": "IN",
-    "count": 1
-  },
-  {
-    "year": 2004,
-    "country": "J",
+    "country": "Japan",
     "count": 2
   },
   {
     "year": 2004,
-    "country": "RU",
+    "country": "Russia",
     "count": 19
   },
   {
     "year": 2004,
-    "country": "SA",
+    "country": "Saudi Arabia",
     "count": 3
   },
   {
     "year": 2004,
-    "country": "TW",
+    "country": "Spain",
     "count": 1
   },
   {
     "year": 2004,
-    "country": "UA",
+    "country": "Taiwan",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "Ukraine",
     "count": 2
   },
   {
     "year": 2004,
-    "country": "US",
+    "country": "United States",
     "count": 20
   },
   {
     "year": 2005,
-    "country": "CA",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 2005,
-    "country": "CN",
-    "count": 6
+    "country": "China",
+    "count": 7
   },
   {
     "year": 2005,
-    "country": "D",
-    "count": 1
-  },
-  {
-    "year": 2005,
-    "country": "F",
-    "count": 1
-  },
-  {
-    "year": 2005,
-    "country": "HK",
-    "count": 1
-  },
-  {
-    "year": 2005,
-    "country": "I-ESA",
+    "country": "ESA",
     "count": 4
   },
   {
     "year": 2005,
-    "country": "I-EUM",
+    "country": "EUMETSAT",
     "count": 1
   },
   {
     "year": 2005,
-    "country": "ID",
+    "country": "France",
     "count": 1
   },
   {
     "year": 2005,
-    "country": "IN",
+    "country": "Germany",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "India",
     "count": 3
   },
   {
     "year": 2005,
-    "country": "IR",
+    "country": "Indonesia",
     "count": 1
   },
   {
     "year": 2005,
-    "country": "J",
+    "country": "Iran",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "Japan",
     "count": 5
   },
   {
     "year": 2005,
-    "country": "N",
+    "country": "Norway",
     "count": 1
   },
   {
     "year": 2005,
-    "country": "RU",
+    "country": "Russia",
     "count": 19
   },
   {
     "year": 2005,
-    "country": "T",
+    "country": "Thailand",
     "count": 1
   },
   {
     "year": 2005,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 3
   },
   {
     "year": 2005,
-    "country": "US",
+    "country": "United States",
     "count": 22
   },
   {
     "year": 2006,
-    "country": "AU",
+    "country": "ARABSAT",
     "count": 1
   },
   {
     "year": 2006,
-    "country": "CN",
+    "country": "Australia",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "China",
     "count": 7
   },
   {
     "year": 2006,
-    "country": "D",
-    "count": 2
-  },
-  {
-    "year": 2006,
-    "country": "E",
+    "country": "EUMETSAT",
     "count": 1
   },
   {
     "year": 2006,
-    "country": "F",
+    "country": "France",
     "count": 5
   },
   {
     "year": 2006,
-    "country": "I-ARAB",
-    "count": 1
-  },
-  {
-    "year": 2006,
-    "country": "I-EUM",
-    "count": 1
-  },
-  {
-    "year": 2006,
-    "country": "IL",
-    "count": 1
-  },
-  {
-    "year": 2006,
-    "country": "J",
-    "count": 12
-  },
-  {
-    "year": 2006,
-    "country": "KR",
+    "country": "Germany",
     "count": 2
   },
   {
     "year": 2006,
-    "country": "KZ",
+    "country": "Israel",
     "count": 1
   },
   {
     "year": 2006,
-    "country": "L",
+    "country": "Japan",
+    "count": 12
+  },
+  {
+    "year": 2006,
+    "country": "Kazakhstan",
     "count": 1
   },
   {
     "year": 2006,
-    "country": "MX",
+    "country": "Luxembourg",
     "count": 1
   },
   {
     "year": 2006,
-    "country": "MY",
+    "country": "Malaysia",
     "count": 1
   },
   {
     "year": 2006,
-    "country": "RU",
+    "country": "Mexico",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "Russia",
     "count": 16
   },
   {
     "year": 2006,
-    "country": "T",
+    "country": "South Korea",
+    "count": 2
+  },
+  {
+    "year": 2006,
+    "country": "Spain",
     "count": 1
   },
   {
     "year": 2006,
-    "country": "TW",
+    "country": "Taiwan",
     "count": 6
   },
   {
     "year": 2006,
-    "country": "UK",
+    "country": "Thailand",
     "count": 1
   },
   {
     "year": 2006,
-    "country": "US",
+    "country": "United Kingdom",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "United States",
     "count": 32
   },
   {
     "year": 2007,
-    "country": "AR",
+    "country": "Argentina",
     "count": 1
   },
   {
     "year": 2007,
-    "country": "AU",
+    "country": "Australia",
     "count": 1
   },
   {
     "year": 2007,
-    "country": "BR",
+    "country": "Brazil",
     "count": 1
   },
   {
     "year": 2007,
-    "country": "CA",
+    "country": "Canada",
     "count": 2
   },
   {
     "year": 2007,
-    "country": "CN",
+    "country": "China",
     "count": 9
   },
   {
     "year": 2007,
-    "country": "CO",
+    "country": "Colombia",
     "count": 1
   },
   {
     "year": 2007,
-    "country": "D",
+    "country": "Egypt",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Germany",
     "count": 3
   },
   {
     "year": 2007,
-    "country": "EG",
-    "count": 1
-  },
-  {
-    "year": 2007,
-    "country": "I",
-    "count": 3
-  },
-  {
-    "year": 2007,
-    "country": "I-RASC",
-    "count": 1
-  },
-  {
-    "year": 2007,
-    "country": "ID",
-    "count": 1
-  },
-  {
-    "year": 2007,
-    "country": "IL",
-    "count": 1
-  },
-  {
-    "year": 2007,
-    "country": "IN",
+    "country": "India",
     "count": 4
   },
   {
     "year": 2007,
-    "country": "J",
+    "country": "Indonesia",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Israel",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Italy",
+    "count": 3
+  },
+  {
+    "year": 2007,
+    "country": "Japan",
     "count": 6
   },
   {
     "year": 2007,
-    "country": "L",
+    "country": "Luxembourg",
     "count": 1
   },
   {
     "year": 2007,
-    "country": "NG",
+    "country": "Nigeria",
     "count": 1
   },
   {
     "year": 2007,
-    "country": "RU",
+    "country": "RASCOM",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Russia",
     "count": 18
   },
   {
     "year": 2007,
-    "country": "S",
-    "count": 1
-  },
-  {
-    "year": 2007,
-    "country": "SA",
+    "country": "Saudi Arabia",
     "count": 6
   },
   {
     "year": 2007,
-    "country": "UK",
+    "country": "Sweden",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "United Kingdom",
     "count": 2
   },
   {
     "year": 2007,
-    "country": "US",
+    "country": "United States",
     "count": 46
   },
   {
     "year": 2008,
-    "country": "BM",
+    "country": "ARABSAT",
     "count": 1
   },
   {
     "year": 2008,
-    "country": "BR",
+    "country": "Bermuda",
     "count": 1
   },
   {
     "year": 2008,
-    "country": "CA",
+    "country": "Brazil",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Canada",
     "count": 4
   },
   {
     "year": 2008,
-    "country": "CN",
+    "country": "China",
     "count": 15
   },
   {
     "year": 2008,
-    "country": "D",
+    "country": "Denmark",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "ESA",
+    "count": 2
+  },
+  {
+    "year": 2008,
+    "country": "France",
+    "count": 3
+  },
+  {
+    "year": 2008,
+    "country": "Germany",
     "count": 8
   },
   {
     "year": 2008,
-    "country": "DK",
-    "count": 1
-  },
-  {
-    "year": 2008,
-    "country": "F",
+    "country": "India",
     "count": 3
   },
   {
     "year": 2008,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 2008,
-    "country": "I-ARAB",
-    "count": 1
-  },
-  {
-    "year": 2008,
-    "country": "I-ESA",
+    "country": "Israel",
     "count": 2
   },
   {
     "year": 2008,
-    "country": "IL",
-    "count": 2
+    "country": "Italy",
+    "count": 1
   },
   {
     "year": 2008,
-    "country": "IN",
-    "count": 3
-  },
-  {
-    "year": 2008,
-    "country": "J",
+    "country": "Japan",
     "count": 4
   },
   {
     "year": 2008,
-    "country": "L",
+    "country": "Luxembourg",
     "count": 1
   },
   {
     "year": 2008,
-    "country": "N",
+    "country": "Netherlands",
     "count": 1
   },
   {
     "year": 2008,
-    "country": "NL",
+    "country": "Norway",
     "count": 1
   },
   {
     "year": 2008,
-    "country": "RU",
+    "country": "Russia",
     "count": 21
   },
   {
     "year": 2008,
-    "country": "T",
+    "country": "Thailand",
     "count": 1
   },
   {
     "year": 2008,
-    "country": "TR",
+    "country": "Turkey",
     "count": 1
   },
   {
@@ -2931,122 +2891,122 @@
   },
   {
     "year": 2008,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 3
   },
   {
     "year": 2008,
-    "country": "US",
+    "country": "United States",
     "count": 24
   },
   {
     "year": 2008,
-    "country": "VE",
+    "country": "Venezuela",
     "count": 1
   },
   {
     "year": 2008,
-    "country": "VN",
+    "country": "Vietnam",
     "count": 1
   },
   {
     "year": 2009,
-    "country": "AU",
+    "country": "Australia",
     "count": 1
   },
   {
     "year": 2009,
-    "country": "BM",
+    "country": "Bermuda",
     "count": 1
   },
   {
     "year": 2009,
-    "country": "BR",
+    "country": "Brazil",
     "count": 1
   },
   {
     "year": 2009,
-    "country": "CA",
+    "country": "Canada",
     "count": 2
   },
   {
     "year": 2009,
-    "country": "CH",
-    "count": 1
+    "country": "China",
+    "count": 7
   },
   {
     "year": 2009,
-    "country": "CN",
-    "count": 6
-  },
-  {
-    "year": 2009,
-    "country": "D",
-    "count": 3
-  },
-  {
-    "year": 2009,
-    "country": "E",
-    "count": 2
-  },
-  {
-    "year": 2009,
-    "country": "F",
-    "count": 6
-  },
-  {
-    "year": 2009,
-    "country": "HK",
-    "count": 1
-  },
-  {
-    "year": 2009,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 2009,
-    "country": "I-ESA",
+    "country": "ESA",
     "count": 5
   },
   {
     "year": 2009,
-    "country": "ID",
-    "count": 1
+    "country": "France",
+    "count": 6
   },
   {
     "year": 2009,
-    "country": "IN",
+    "country": "Germany",
     "count": 3
   },
   {
     "year": 2009,
-    "country": "IR",
+    "country": "India",
+    "count": 3
+  },
+  {
+    "year": 2009,
+    "country": "Indonesia",
     "count": 1
   },
   {
     "year": 2009,
-    "country": "J",
+    "country": "Iran",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Italy",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Japan",
     "count": 13
   },
   {
     "year": 2009,
-    "country": "MY",
+    "country": "Malaysia",
     "count": 2
   },
   {
     "year": 2009,
-    "country": "N",
+    "country": "Norway",
     "count": 1
   },
   {
     "year": 2009,
-    "country": "RU",
+    "country": "Russia",
     "count": 29
   },
   {
     "year": 2009,
-    "country": "TR",
+    "country": "South Africa",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Spain",
+    "count": 2
+  },
+  {
+    "year": 2009,
+    "country": "Switzerland",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Turkey",
     "count": 1
   },
   {
@@ -3056,232 +3016,217 @@
   },
   {
     "year": 2009,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 3
   },
   {
     "year": 2009,
-    "country": "US",
+    "country": "United States",
     "count": 38
   },
   {
-    "year": 2009,
-    "country": "ZA",
+    "year": 2010,
+    "country": "ARABSAT",
+    "count": 2
+  },
+  {
+    "year": 2010,
+    "country": "Algeria",
     "count": 1
   },
   {
     "year": 2010,
-    "country": "CH",
-    "count": 1
-  },
-  {
-    "year": 2010,
-    "country": "CN",
+    "country": "China",
     "count": 21
   },
   {
     "year": 2010,
-    "country": "D",
-    "count": 2
-  },
-  {
-    "year": 2010,
-    "country": "DZ",
+    "country": "ESA",
     "count": 1
   },
   {
     "year": 2010,
-    "country": "E",
+    "country": "Egypt",
     "count": 1
   },
   {
     "year": 2010,
-    "country": "EG",
-    "count": 1
-  },
-  {
-    "year": 2010,
-    "country": "F",
+    "country": "France",
     "count": 3
   },
   {
     "year": 2010,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 2010,
-    "country": "I-ARAB",
+    "country": "Germany",
     "count": 2
   },
   {
     "year": 2010,
-    "country": "I-ESA",
-    "count": 1
-  },
-  {
-    "year": 2010,
-    "country": "I-RASC",
-    "count": 1
-  },
-  {
-    "year": 2010,
-    "country": "IL",
-    "count": 1
-  },
-  {
-    "year": 2010,
-    "country": "IN",
+    "country": "India",
     "count": 2
   },
   {
     "year": 2010,
-    "country": "J",
+    "country": "Israel",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "Italy",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "Japan",
     "count": 9
   },
   {
     "year": 2010,
-    "country": "KR",
-    "count": 2
-  },
-  {
-    "year": 2010,
-    "country": "N",
+    "country": "Norway",
     "count": 1
   },
   {
     "year": 2010,
-    "country": "RU",
+    "country": "RASCOM",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "Russia",
     "count": 23
   },
   {
     "year": 2010,
-    "country": "S",
+    "country": "South Korea",
     "count": 2
   },
   {
     "year": 2010,
-    "country": "UK",
+    "country": "Spain",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "Sweden",
+    "count": 2
+  },
+  {
+    "year": 2010,
+    "country": "Switzerland",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "United Kingdom",
     "count": 3
   },
   {
     "year": 2010,
-    "country": "US",
+    "country": "United States",
     "count": 44
   },
   {
     "year": 2011,
-    "country": "AR",
+    "country": "ARABSAT",
     "count": 1
   },
   {
     "year": 2011,
-    "country": "BR",
+    "country": "Argentina",
     "count": 1
   },
   {
     "year": 2011,
-    "country": "CA",
+    "country": "Brazil",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Canada",
     "count": 2
   },
   {
     "year": 2011,
-    "country": "CL",
+    "country": "Chile",
     "count": 1
   },
   {
     "year": 2011,
-    "country": "CN",
-    "count": 18
+    "country": "China",
+    "count": 19
   },
   {
     "year": 2011,
-    "country": "F",
-    "count": 7
-  },
-  {
-    "year": 2011,
-    "country": "HK",
-    "count": 1
-  },
-  {
-    "year": 2011,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 2011,
-    "country": "I-ARAB",
-    "count": 1
-  },
-  {
-    "year": 2011,
-    "country": "I-ESA",
+    "country": "ESA",
     "count": 3
   },
   {
     "year": 2011,
-    "country": "IL",
-    "count": 1
-  },
-  {
-    "year": 2011,
-    "country": "IN",
+    "country": "France",
     "count": 7
   },
   {
     "year": 2011,
-    "country": "IR",
+    "country": "India",
+    "count": 7
+  },
+  {
+    "year": 2011,
+    "country": "Iran",
     "count": 1
   },
   {
     "year": 2011,
-    "country": "J",
+    "country": "Israel",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Italy",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Japan",
     "count": 4
   },
   {
     "year": 2011,
-    "country": "KZ",
+    "country": "Kazakhstan",
     "count": 1
   },
   {
     "year": 2011,
-    "country": "L",
+    "country": "Luxembourg",
     "count": 2
   },
   {
     "year": 2011,
-    "country": "MU",
+    "country": "Mauritius",
     "count": 1
   },
   {
     "year": 2011,
-    "country": "NG",
+    "country": "Nigeria",
     "count": 3
   },
   {
     "year": 2011,
-    "country": "PK",
+    "country": "Pakistan",
     "count": 1
   },
   {
     "year": 2011,
-    "country": "RU",
+    "country": "Russia",
     "count": 25
   },
   {
     "year": 2011,
-    "country": "SG",
+    "country": "Singapore",
     "count": 2
   },
   {
     "year": 2011,
-    "country": "TR",
-    "count": 1
-  },
-  {
-    "year": 2011,
-    "country": "UA",
+    "country": "Turkey",
     "count": 1
   },
   {
@@ -3291,137 +3236,137 @@
   },
   {
     "year": 2011,
-    "country": "UK",
+    "country": "Ukraine",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "United Kingdom",
     "count": 3
   },
   {
     "year": 2011,
-    "country": "US",
+    "country": "United States",
     "count": 38
   },
   {
     "year": 2012,
-    "country": "BR",
+    "country": "Belarus",
     "count": 1
   },
   {
     "year": 2012,
-    "country": "BY",
+    "country": "Brazil",
     "count": 1
   },
   {
     "year": 2012,
-    "country": "CA",
+    "country": "Canada",
     "count": 2
   },
   {
     "year": 2012,
-    "country": "CN",
-    "count": 25
+    "country": "China",
+    "count": 26
   },
   {
     "year": 2012,
-    "country": "D",
-    "count": 1
-  },
-  {
-    "year": 2012,
-    "country": "E",
-    "count": 1
-  },
-  {
-    "year": 2012,
-    "country": "F",
-    "count": 5
-  },
-  {
-    "year": 2012,
-    "country": "HK",
-    "count": 1
-  },
-  {
-    "year": 2012,
-    "country": "HU",
-    "count": 1
-  },
-  {
-    "year": 2012,
-    "country": "I",
-    "count": 5
-  },
-  {
-    "year": 2012,
-    "country": "I-ESA",
+    "country": "ESA",
     "count": 3
   },
   {
     "year": 2012,
-    "country": "I-EUM",
+    "country": "EUMETSAT",
     "count": 2
   },
   {
     "year": 2012,
-    "country": "ID",
+    "country": "France",
+    "count": 5
+  },
+  {
+    "year": 2012,
+    "country": "Germany",
     "count": 1
   },
   {
     "year": 2012,
-    "country": "IN",
+    "country": "Hungary",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "India",
     "count": 2
   },
   {
     "year": 2012,
-    "country": "IR",
+    "country": "Indonesia",
     "count": 1
   },
   {
     "year": 2012,
-    "country": "J",
+    "country": "Iran",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Italy",
+    "count": 5
+  },
+  {
+    "year": 2012,
+    "country": "Japan",
     "count": 9
   },
   {
     "year": 2012,
-    "country": "KP",
-    "count": 1
-  },
-  {
-    "year": 2012,
-    "country": "KR",
-    "count": 1
-  },
-  {
-    "year": 2012,
-    "country": "L",
+    "country": "Luxembourg",
     "count": 2
   },
   {
     "year": 2012,
-    "country": "MX",
+    "country": "Mexico",
     "count": 1
   },
   {
     "year": 2012,
-    "country": "PL",
+    "country": "North Korea",
     "count": 1
   },
   {
     "year": 2012,
-    "country": "RO",
+    "country": "Poland",
     "count": 1
   },
   {
     "year": 2012,
-    "country": "RU",
+    "country": "Romania",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Russia",
     "count": 22
   },
   {
     "year": 2012,
-    "country": "S",
+    "country": "South Korea",
     "count": 1
   },
   {
     "year": 2012,
-    "country": "TR",
+    "country": "Spain",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Sweden",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Turkey",
     "count": 1
   },
   {
@@ -3431,172 +3376,177 @@
   },
   {
     "year": 2012,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 3
   },
   {
     "year": 2012,
-    "country": "US",
+    "country": "United States",
     "count": 36
   },
   {
     "year": 2012,
-    "country": "VE",
+    "country": "Venezuela",
     "count": 1
   },
   {
     "year": 2012,
-    "country": "VN",
+    "country": "Vietnam",
     "count": 2
   },
   {
     "year": 2013,
-    "country": "AR",
+    "country": "Argentina",
     "count": 2
   },
   {
     "year": 2013,
-    "country": "AT",
+    "country": "Austria",
     "count": 2
   },
   {
     "year": 2013,
-    "country": "AZ",
+    "country": "Azerbaijan",
     "count": 1
   },
   {
     "year": 2013,
-    "country": "BO",
+    "country": "Bolivia",
     "count": 1
   },
   {
     "year": 2013,
-    "country": "BR",
+    "country": "Brazil",
     "count": 1
   },
   {
     "year": 2013,
-    "country": "CA",
+    "country": "Canada",
     "count": 4
   },
   {
     "year": 2013,
-    "country": "CN",
+    "country": "China",
     "count": 19
   },
   {
     "year": 2013,
-    "country": "D",
+    "country": "Denmark",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "ESA",
     "count": 6
   },
   {
     "year": 2013,
-    "country": "DK",
+    "country": "Ecuador",
     "count": 2
   },
   {
     "year": 2013,
-    "country": "E",
-    "count": 2
-  },
-  {
-    "year": 2013,
-    "country": "EC",
-    "count": 2
-  },
-  {
-    "year": 2013,
-    "country": "EE",
+    "country": "Estonia",
     "count": 1
   },
   {
     "year": 2013,
-    "country": "F",
+    "country": "France",
     "count": 1
   },
   {
     "year": 2013,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 2013,
-    "country": "I-ESA",
+    "country": "Germany",
     "count": 6
   },
   {
     "year": 2013,
-    "country": "IL",
-    "count": 1
-  },
-  {
-    "year": 2013,
-    "country": "IN",
+    "country": "India",
     "count": 5
   },
   {
     "year": 2013,
-    "country": "J",
+    "country": "Israel",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Italy",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Japan",
     "count": 5
   },
   {
     "year": 2013,
-    "country": "KR",
-    "count": 6
-  },
-  {
-    "year": 2013,
-    "country": "L",
+    "country": "Luxembourg",
     "count": 1
   },
   {
     "year": 2013,
-    "country": "MX",
+    "country": "Mexico",
     "count": 1
   },
   {
     "year": 2013,
-    "country": "N",
-    "count": 1
-  },
-  {
-    "year": 2013,
-    "country": "NL",
+    "country": "Netherlands",
     "count": 3
   },
   {
     "year": 2013,
-    "country": "PE",
+    "country": "Norway",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Pakistan",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Peru",
     "count": 2
   },
   {
     "year": 2013,
-    "country": "PK",
+    "country": "Poland",
     "count": 1
   },
   {
     "year": 2013,
-    "country": "PL",
+    "country": "Qatar",
     "count": 1
   },
   {
     "year": 2013,
-    "country": "QA",
-    "count": 1
-  },
-  {
-    "year": 2013,
-    "country": "RU",
+    "country": "Russia",
     "count": 29
   },
   {
     "year": 2013,
-    "country": "SG",
+    "country": "Singapore",
     "count": 1
   },
   {
     "year": 2013,
-    "country": "TR",
+    "country": "South Africa",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "South Korea",
+    "count": 6
+  },
+  {
+    "year": 2013,
+    "country": "Spain",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "Turkey",
     "count": 1
   },
   {
@@ -3606,693 +3556,668 @@
   },
   {
     "year": 2013,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 9
   },
   {
     "year": 2013,
-    "country": "US",
+    "country": "United States",
     "count": 87
   },
   {
     "year": 2013,
-    "country": "VN",
-    "count": 2
-  },
-  {
-    "year": 2013,
-    "country": "ZA",
-    "count": 1
-  },
-  {
-    "year": 2014,
-    "country": "AR",
+    "country": "Vietnam",
     "count": 2
   },
   {
     "year": 2014,
-    "country": "AU",
+    "country": "Argentina",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "Australia",
     "count": 1
   },
   {
     "year": 2014,
-    "country": "B",
+    "country": "Belgium",
     "count": 3
   },
   {
     "year": 2014,
-    "country": "BR",
+    "country": "Brazil",
     "count": 2
   },
   {
     "year": 2014,
-    "country": "CA",
+    "country": "Canada",
     "count": 4
   },
   {
     "year": 2014,
-    "country": "CN",
-    "count": 22
+    "country": "China",
+    "count": 25
   },
   {
     "year": 2014,
-    "country": "D",
+    "country": "Denmark",
     "count": 1
   },
   {
     "year": 2014,
-    "country": "DK",
+    "country": "ESA",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "EU",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "Egypt",
     "count": 1
   },
   {
     "year": 2014,
-    "country": "E",
-    "count": 1
-  },
-  {
-    "year": 2014,
-    "country": "EG",
-    "count": 1
-  },
-  {
-    "year": 2014,
-    "country": "F",
+    "country": "France",
     "count": 3
   },
   {
     "year": 2014,
-    "country": "HK",
-    "count": 3
+    "country": "Germany",
+    "count": 1
   },
   {
     "year": 2014,
-    "country": "I",
-    "count": 2
-  },
-  {
-    "year": 2014,
-    "country": "I-ESA",
-    "count": 2
-  },
-  {
-    "year": 2014,
-    "country": "I-EU",
-    "count": 2
-  },
-  {
-    "year": 2014,
-    "country": "IL",
-    "count": 2
-  },
-  {
-    "year": 2014,
-    "country": "IN",
+    "country": "India",
     "count": 4
   },
   {
     "year": 2014,
-    "country": "J",
+    "country": "Israel",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "Italy",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "Japan",
     "count": 24
   },
   {
     "year": 2014,
-    "country": "KZ",
+    "country": "Kazakhstan",
     "count": 3
   },
   {
     "year": 2014,
-    "country": "L",
+    "country": "Lithuania",
     "count": 2
   },
   {
     "year": 2014,
-    "country": "LT",
+    "country": "Luxembourg",
     "count": 2
   },
   {
     "year": 2014,
-    "country": "MY",
+    "country": "Malaysia",
     "count": 1
   },
   {
     "year": 2014,
-    "country": "N",
+    "country": "Norway",
     "count": 1
   },
   {
     "year": 2014,
-    "country": "PE",
+    "country": "Peru",
     "count": 2
   },
   {
     "year": 2014,
-    "country": "PL",
+    "country": "Poland",
     "count": 1
   },
   {
     "year": 2014,
-    "country": "RU",
+    "country": "Russia",
     "count": 34
   },
   {
     "year": 2014,
-    "country": "SA",
+    "country": "Saudi Arabia",
     "count": 1
   },
   {
     "year": 2014,
-    "country": "SG",
+    "country": "Singapore",
     "count": 2
   },
   {
     "year": 2014,
-    "country": "T",
+    "country": "South Africa",
     "count": 1
   },
   {
     "year": 2014,
-    "country": "TR",
+    "country": "Spain",
     "count": 1
   },
   {
     "year": 2014,
-    "country": "UA",
+    "country": "Thailand",
     "count": 1
   },
   {
     "year": 2014,
-    "country": "UK",
+    "country": "Turkey",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Ukraine",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "United Kingdom",
     "count": 10
   },
   {
     "year": 2014,
-    "country": "US",
+    "country": "United States",
     "count": 111
   },
   {
     "year": 2014,
-    "country": "UY",
-    "count": 1
-  },
-  {
-    "year": 2014,
-    "country": "ZA",
+    "country": "Uruguay",
     "count": 1
   },
   {
     "year": 2015,
-    "country": "AR",
+    "country": "ARABSAT",
     "count": 1
   },
   {
     "year": 2015,
-    "country": "AU",
+    "country": "Argentina",
     "count": 1
   },
   {
     "year": 2015,
-    "country": "BR",
+    "country": "Australia",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Brazil",
     "count": 3
   },
   {
     "year": 2015,
-    "country": "CA",
+    "country": "Canada",
     "count": 2
   },
   {
     "year": 2015,
-    "country": "CN",
-    "count": 37
+    "country": "China",
+    "count": 38
   },
   {
     "year": 2015,
-    "country": "DK",
+    "country": "Denmark",
     "count": 2
   },
   {
     "year": 2015,
-    "country": "F",
+    "country": "ESA",
     "count": 1
   },
   {
     "year": 2015,
-    "country": "HK",
-    "count": 1
-  },
-  {
-    "year": 2015,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 2015,
-    "country": "I-ARAB",
-    "count": 1
-  },
-  {
-    "year": 2015,
-    "country": "I-ESA",
-    "count": 1
-  },
-  {
-    "year": 2015,
-    "country": "I-EU",
+    "country": "EU",
     "count": 7
   },
   {
     "year": 2015,
-    "country": "I-EUM",
+    "country": "EUMETSAT",
     "count": 1
   },
   {
     "year": 2015,
-    "country": "ID",
+    "country": "France",
     "count": 1
   },
   {
     "year": 2015,
-    "country": "IN",
+    "country": "India",
     "count": 4
   },
   {
     "year": 2015,
-    "country": "IR",
+    "country": "Indonesia",
     "count": 1
   },
   {
     "year": 2015,
-    "country": "J",
+    "country": "Iran",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Italy",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Japan",
     "count": 4
   },
   {
     "year": 2015,
-    "country": "KR",
+    "country": "Laos",
     "count": 1
   },
   {
     "year": 2015,
-    "country": "LA",
-    "count": 1
-  },
-  {
-    "year": 2015,
-    "country": "MC",
-    "count": 1
-  },
-  {
-    "year": 2015,
-    "country": "MX",
+    "country": "Mexico",
     "count": 3
   },
   {
     "year": 2015,
-    "country": "N",
+    "country": "Monaco",
     "count": 1
   },
   {
     "year": 2015,
-    "country": "PG",
+    "country": "Norway",
     "count": 1
   },
   {
     "year": 2015,
-    "country": "RU",
+    "country": "Papua New Guinea",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Russia",
     "count": 27
   },
   {
     "year": 2015,
-    "country": "SG",
+    "country": "Singapore",
     "count": 6
   },
   {
     "year": 2015,
-    "country": "TR",
+    "country": "South Korea",
     "count": 1
   },
   {
     "year": 2015,
-    "country": "UK",
+    "country": "Turkey",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "United Kingdom",
     "count": 7
   },
   {
     "year": 2015,
-    "country": "US",
+    "country": "United States",
     "count": 114
   },
   {
     "year": 2016,
-    "country": "AU",
-    "count": 1
-  },
-  {
-    "year": 2016,
-    "country": "B",
-    "count": 1
-  },
-  {
-    "year": 2016,
-    "country": "BR",
-    "count": 2
-  },
-  {
-    "year": 2016,
-    "country": "BY",
-    "count": 1
-  },
-  {
-    "year": 2016,
-    "country": "CA",
+    "country": "Algeria",
     "count": 3
   },
   {
     "year": 2016,
-    "country": "CN",
-    "count": 38
-  },
-  {
-    "year": 2016,
-    "country": "D",
-    "count": 2
-  },
-  {
-    "year": 2016,
-    "country": "DK",
+    "country": "Australia",
     "count": 1
   },
   {
     "year": 2016,
-    "country": "DZ",
+    "country": "Belarus",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Belgium",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Brazil",
+    "count": 2
+  },
+  {
+    "year": 2016,
+    "country": "Canada",
     "count": 3
   },
   {
     "year": 2016,
-    "country": "E",
+    "country": "China",
+    "count": 39
+  },
+  {
+    "year": 2016,
+    "country": "Denmark",
     "count": 1
   },
   {
     "year": 2016,
-    "country": "F",
-    "count": 4
-  },
-  {
-    "year": 2016,
-    "country": "HK",
+    "country": "ESA",
     "count": 1
   },
   {
     "year": 2016,
-    "country": "I",
-    "count": 2
-  },
-  {
-    "year": 2016,
-    "country": "I-ESA",
-    "count": 1
-  },
-  {
-    "year": 2016,
-    "country": "I-EU",
+    "country": "EU",
     "count": 8
   },
   {
     "year": 2016,
-    "country": "ID",
+    "country": "France",
+    "count": 4
+  },
+  {
+    "year": 2016,
+    "country": "Germany",
     "count": 2
   },
   {
     "year": 2016,
-    "country": "IL",
-    "count": 1
-  },
-  {
-    "year": 2016,
-    "country": "IN",
+    "country": "India",
     "count": 12
   },
   {
     "year": 2016,
-    "country": "J",
+    "country": "Indonesia",
+    "count": 2
+  },
+  {
+    "year": 2016,
+    "country": "Israel",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Italy",
+    "count": 2
+  },
+  {
+    "year": 2016,
+    "country": "Japan",
     "count": 16
   },
   {
     "year": 2016,
-    "country": "KP",
+    "country": "Mexico",
     "count": 1
   },
   {
     "year": 2016,
-    "country": "MX",
+    "country": "North Korea",
     "count": 1
   },
   {
     "year": 2016,
-    "country": "PE",
+    "country": "Peru",
     "count": 1
   },
   {
     "year": 2016,
-    "country": "PH",
+    "country": "Phillipines",
     "count": 1
   },
   {
     "year": 2016,
-    "country": "RU",
+    "country": "Russia",
     "count": 15
   },
   {
     "year": 2016,
-    "country": "T",
+    "country": "Spain",
     "count": 1
   },
   {
     "year": 2016,
-    "country": "TR",
+    "country": "Thailand",
     "count": 1
   },
   {
     "year": 2016,
-    "country": "UK",
+    "country": "Turkey",
     "count": 1
   },
   {
     "year": 2016,
-    "country": "US",
+    "country": "United Kingdom",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "United States",
     "count": 92
   },
   {
     "year": 2016,
-    "country": "UY",
+    "country": "Uruguay",
     "count": 2
   },
   {
     "year": 2017,
-    "country": "AO",
+    "country": "Algeria",
     "count": 1
   },
   {
     "year": 2017,
-    "country": "AT",
-    "count": 2
+    "country": "Angola",
+    "count": 1
   },
   {
     "year": 2017,
-    "country": "AU",
+    "country": "Australia",
     "count": 4
   },
   {
     "year": 2017,
-    "country": "BD",
-    "count": 1
-  },
-  {
-    "year": 2017,
-    "country": "BG",
-    "count": 1
-  },
-  {
-    "year": 2017,
-    "country": "BR",
+    "country": "Austria",
     "count": 2
   },
   {
     "year": 2017,
-    "country": "CA",
+    "country": "Bangladesh",
     "count": 1
   },
   {
     "year": 2017,
-    "country": "CL",
-    "count": 1
-  },
-  {
-    "year": 2017,
-    "country": "CN",
-    "count": 35
-  },
-  {
-    "year": 2017,
-    "country": "CZ",
-    "count": 1
-  },
-  {
-    "year": 2017,
-    "country": "D",
-    "count": 4
-  },
-  {
-    "year": 2017,
-    "country": "DZ",
-    "count": 1
-  },
-  {
-    "year": 2017,
-    "country": "E",
+    "country": "Brazil",
     "count": 2
   },
   {
     "year": 2017,
-    "country": "F",
-    "count": 4
-  },
-  {
-    "year": 2017,
-    "country": "FI",
-    "count": 2
-  },
-  {
-    "year": 2017,
-    "country": "GH",
+    "country": "Bulgaria",
     "count": 1
   },
   {
     "year": 2017,
-    "country": "GR",
-    "count": 3
-  },
-  {
-    "year": 2017,
-    "country": "HK",
+    "country": "Canada",
     "count": 1
   },
   {
     "year": 2017,
-    "country": "I",
-    "count": 4
+    "country": "Chile",
+    "count": 1
   },
   {
     "year": 2017,
-    "country": "I-EU",
+    "country": "China",
+    "count": 36
+  },
+  {
+    "year": 2017,
+    "country": "Czech Republic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "EU",
     "count": 6
   },
   {
     "year": 2017,
-    "country": "ID",
-    "count": 1
+    "country": "Finland",
+    "count": 2
   },
   {
     "year": 2017,
-    "country": "IE",
-    "count": 1
-  },
-  {
-    "year": 2017,
-    "country": "IL",
+    "country": "France",
     "count": 4
   },
   {
     "year": 2017,
-    "country": "IN",
+    "country": "Germany",
+    "count": 4
+  },
+  {
+    "year": 2017,
+    "country": "Ghana",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Greece",
+    "count": 3
+  },
+  {
+    "year": 2017,
+    "country": "India",
     "count": 9
   },
   {
     "year": 2017,
-    "country": "J",
+    "country": "Indonesia",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Ireland",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Israel",
+    "count": 4
+  },
+  {
+    "year": 2017,
+    "country": "Italy",
+    "count": 4
+  },
+  {
+    "year": 2017,
+    "country": "Japan",
     "count": 11
   },
   {
     "year": 2017,
-    "country": "KR",
-    "count": 5
-  },
-  {
-    "year": 2017,
-    "country": "KZ",
+    "country": "Kazakhstan",
     "count": 1
   },
   {
     "year": 2017,
-    "country": "L",
+    "country": "Latvia",
     "count": 1
   },
   {
     "year": 2017,
-    "country": "LT",
+    "country": "Lithuania",
     "count": 1
   },
   {
     "year": 2017,
-    "country": "LV",
+    "country": "Luxembourg",
     "count": 1
   },
   {
     "year": 2017,
-    "country": "MA",
+    "country": "Mongolia",
     "count": 1
   },
   {
     "year": 2017,
-    "country": "MN",
+    "country": "Morocco",
     "count": 1
   },
   {
     "year": 2017,
-    "country": "N",
+    "country": "Netherlands",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Nigeria",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Norway",
     "count": 2
   },
   {
     "year": 2017,
-    "country": "NG",
+    "country": "Puerto Rico",
     "count": 1
   },
   {
     "year": 2017,
-    "country": "NL",
-    "count": 1
-  },
-  {
-    "year": 2017,
-    "country": "PR",
-    "count": 1
-  },
-  {
-    "year": 2017,
-    "country": "RU",
+    "country": "Russia",
     "count": 24
   },
   {
     "year": 2017,
-    "country": "S",
+    "country": "Slovakia",
     "count": 1
   },
   {
     "year": 2017,
-    "country": "SK",
-    "count": 1
-  },
-  {
-    "year": 2017,
-    "country": "TR",
+    "country": "South Africa",
     "count": 2
   },
   {
     "year": 2017,
-    "country": "TW",
+    "country": "South Korea",
+    "count": 5
+  },
+  {
+    "year": 2017,
+    "country": "Spain",
     "count": 2
   },
   {
     "year": 2017,
-    "country": "UA",
+    "country": "Sweden",
     "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Taiwan",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "Turkey",
+    "count": 2
   },
   {
     "year": 2017,
@@ -4301,247 +4226,247 @@
   },
   {
     "year": 2017,
-    "country": "UK",
+    "country": "Ukraine",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "United Kingdom",
     "count": 8
   },
   {
     "year": 2017,
-    "country": "US",
+    "country": "United States",
     "count": 280
   },
   {
     "year": 2017,
-    "country": "UY",
+    "country": "Uruguay",
     "count": 1
   },
   {
     "year": 2017,
-    "country": "VE",
-    "count": 1
-  },
-  {
-    "year": 2017,
-    "country": "ZA",
-    "count": 2
-  },
-  {
-    "year": 2018,
-    "country": "AR",
+    "country": "Venezuela",
     "count": 1
   },
   {
     "year": 2018,
-    "country": "AU",
+    "country": "Argentina",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Australia",
     "count": 6
   },
   {
     "year": 2018,
-    "country": "AZ",
+    "country": "Azerbaijan",
     "count": 1
   },
   {
     "year": 2018,
-    "country": "BD",
+    "country": "Bangladesh",
     "count": 1
   },
   {
     "year": 2018,
-    "country": "BGN",
+    "country": "Belarus",
     "count": 1
   },
   {
     "year": 2018,
-    "country": "BR",
+    "country": "Bhutan",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Brazil",
     "count": 2
   },
   {
     "year": 2018,
-    "country": "BT",
+    "country": "Bulgaria",
     "count": 1
   },
   {
     "year": 2018,
-    "country": "BY",
-    "count": 1
-  },
-  {
-    "year": 2018,
-    "country": "CA",
+    "country": "Canada",
     "count": 5
   },
   {
     "year": 2018,
-    "country": "CH",
+    "country": "China",
+    "count": 96
+  },
+  {
+    "year": 2018,
+    "country": "Colombia",
     "count": 1
   },
   {
     "year": 2018,
-    "country": "CN",
-    "count": 95
-  },
-  {
-    "year": 2018,
-    "country": "CO",
+    "country": "Costa Rica",
     "count": 1
   },
   {
     "year": 2018,
-    "country": "CR",
+    "country": "Czech Republic",
     "count": 1
   },
   {
     "year": 2018,
-    "country": "CZ",
-    "count": 1
-  },
-  {
-    "year": 2018,
-    "country": "D",
-    "count": 9
-  },
-  {
-    "year": 2018,
-    "country": "DK",
+    "country": "Denmark",
     "count": 3
   },
   {
     "year": 2018,
-    "country": "E",
+    "country": "ESA",
+    "count": 3
+  },
+  {
+    "year": 2018,
+    "country": "EU",
     "count": 5
   },
   {
     "year": 2018,
-    "country": "F",
-    "count": 2
+    "country": "EUMETSAT",
+    "count": 1
   },
   {
     "year": 2018,
-    "country": "FI",
+    "country": "Finland",
     "count": 4
   },
   {
     "year": 2018,
-    "country": "HK",
-    "count": 1
+    "country": "France",
+    "count": 2
   },
   {
     "year": 2018,
-    "country": "I",
-    "count": 1
+    "country": "Germany",
+    "count": 9
   },
   {
     "year": 2018,
-    "country": "I-ESA",
-    "count": 3
-  },
-  {
-    "year": 2018,
-    "country": "I-EU",
-    "count": 5
-  },
-  {
-    "year": 2018,
-    "country": "I-EUM",
-    "count": 1
-  },
-  {
-    "year": 2018,
-    "country": "ID",
-    "count": 1
-  },
-  {
-    "year": 2018,
-    "country": "IN",
+    "country": "India",
     "count": 10
   },
   {
     "year": 2018,
-    "country": "J",
+    "country": "Indonesia",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Italy",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Japan",
     "count": 14
   },
   {
     "year": 2018,
-    "country": "JO",
+    "country": "Jordan",
     "count": 1
   },
   {
     "year": 2018,
-    "country": "KE",
-    "count": 1
-  },
-  {
-    "year": 2018,
-    "country": "KR",
-    "count": 11
-  },
-  {
-    "year": 2018,
-    "country": "KZ",
+    "country": "Kazakhstan",
     "count": 3
   },
   {
     "year": 2018,
-    "country": "L",
+    "country": "Kenya",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Luxembourg",
     "count": 11
   },
   {
     "year": 2018,
-    "country": "MA",
+    "country": "Malaysia",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "Morocco",
     "count": 1
   },
   {
     "year": 2018,
-    "country": "MY",
+    "country": "Netherlands",
     "count": 2
   },
   {
     "year": 2018,
-    "country": "NL",
+    "country": "New Zealand",
     "count": 2
   },
   {
     "year": 2018,
-    "country": "NZ",
+    "country": "Pakistan",
     "count": 2
   },
   {
     "year": 2018,
-    "country": "PH",
+    "country": "Phillipines",
     "count": 2
   },
   {
     "year": 2018,
-    "country": "PK",
-    "count": 2
-  },
-  {
-    "year": 2018,
-    "country": "PL",
+    "country": "Poland",
     "count": 1
   },
   {
     "year": 2018,
-    "country": "QA",
+    "country": "Qatar",
     "count": 1
   },
   {
     "year": 2018,
-    "country": "RU",
+    "country": "Russia",
     "count": 27
   },
   {
     "year": 2018,
-    "country": "SA",
+    "country": "Saudi Arabia",
     "count": 2
   },
   {
     "year": 2018,
-    "country": "T",
+    "country": "South Africa",
     "count": 1
   },
   {
     "year": 2018,
-    "country": "TR",
+    "country": "South Korea",
+    "count": 11
+  },
+  {
+    "year": 2018,
+    "country": "Spain",
+    "count": 5
+  },
+  {
+    "year": 2018,
+    "country": "Switzerland",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Thailand",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Turkey",
     "count": 1
   },
   {
@@ -4551,357 +4476,352 @@
   },
   {
     "year": 2018,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 12
   },
   {
     "year": 2018,
-    "country": "US",
+    "country": "United States",
     "count": 197
   },
   {
     "year": 2018,
-    "country": "UY",
+    "country": "Uruguay",
     "count": 2
   },
   {
-    "year": 2018,
-    "country": "ZA",
+    "year": 2019,
+    "country": "ARABSAT",
     "count": 1
   },
   {
     "year": 2019,
-    "country": "AU",
+    "country": "Australia",
     "count": 1
   },
   {
     "year": 2019,
-    "country": "B",
+    "country": "Belgium",
     "count": 1
   },
   {
     "year": 2019,
-    "country": "BR",
+    "country": "Brazil",
     "count": 1
   },
   {
     "year": 2019,
-    "country": "CA",
+    "country": "Canada",
     "count": 3
   },
   {
     "year": 2019,
-    "country": "CH",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "country": "CN",
+    "country": "China",
     "count": 72
   },
   {
     "year": 2019,
-    "country": "CZ",
+    "country": "Czech Republic",
     "count": 1
   },
   {
     "year": 2019,
-    "country": "D",
-    "count": 9
-  },
-  {
-    "year": 2019,
-    "country": "E",
-    "count": 2
-  },
-  {
-    "year": 2019,
-    "country": "EC",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "country": "EE",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "country": "EG",
-    "count": 4
-  },
-  {
-    "year": 2019,
-    "country": "ET",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "country": "F",
-    "count": 7
-  },
-  {
-    "year": 2019,
-    "country": "FI",
-    "count": 2
-  },
-  {
-    "year": 2019,
-    "country": "GR",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "country": "HU",
-    "count": 2
-  },
-  {
-    "year": 2019,
-    "country": "I",
-    "count": 2
-  },
-  {
-    "year": 2019,
-    "country": "I-ARAB",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "country": "I-ESA",
+    "country": "ESA",
     "count": 3
   },
   {
     "year": 2019,
-    "country": "ID",
+    "country": "Ecuador",
     "count": 1
   },
   {
     "year": 2019,
-    "country": "IL",
-    "count": 5
-  },
-  {
-    "year": 2019,
-    "country": "IN",
-    "count": 9
-  },
-  {
-    "year": 2019,
-    "country": "J",
-    "count": 13
-  },
-  {
-    "year": 2019,
-    "country": "L",
+    "country": "Egypt",
     "count": 4
   },
   {
     "year": 2019,
-    "country": "LK",
+    "country": "Estonia",
     "count": 1
   },
   {
     "year": 2019,
-    "country": "LT",
+    "country": "Ethiopia",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Finland",
     "count": 2
   },
   {
     "year": 2019,
-    "country": "MX",
+    "country": "France",
+    "count": 7
+  },
+  {
+    "year": 2019,
+    "country": "Germany",
+    "count": 9
+  },
+  {
+    "year": 2019,
+    "country": "Greece",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Hungary",
     "count": 2
   },
   {
     "year": 2019,
-    "country": "NP",
+    "country": "India",
+    "count": 9
+  },
+  {
+    "year": 2019,
+    "country": "Indonesia",
     "count": 1
   },
   {
     "year": 2019,
-    "country": "PL",
+    "country": "Israel",
+    "count": 5
+  },
+  {
+    "year": 2019,
+    "country": "Italy",
     "count": 2
   },
   {
     "year": 2019,
-    "country": "RU",
-    "count": 31
-  },
-  {
-    "year": 2019,
-    "country": "RW",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "country": "S",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "country": "SD",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "country": "SG",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "country": "T",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "country": "TW",
-    "count": 6
-  },
-  {
-    "year": 2019,
-    "country": "UK",
+    "country": "Japan",
     "count": 13
   },
   {
     "year": 2019,
-    "country": "US",
+    "country": "Lithuania",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "Luxembourg",
+    "count": 4
+  },
+  {
+    "year": 2019,
+    "country": "Mexico",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "Nepal",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Poland",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "Russia",
+    "count": 31
+  },
+  {
+    "year": 2019,
+    "country": "Rwanda",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Singapore",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Spain",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "Sri Lanka",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Sudan",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Sweden",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Switzerland",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Taiwan",
+    "count": 6
+  },
+  {
+    "year": 2019,
+    "country": "Thailand",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "United Kingdom",
+    "count": 13
+  },
+  {
+    "year": 2019,
+    "country": "United States",
     "count": 266
   },
   {
     "year": 2019,
-    "country": "VN",
+    "country": "Vietnam",
     "count": 1
   },
   {
     "year": 2020,
-    "country": "AR",
+    "country": "Argentina",
     "count": 1
   },
   {
     "year": 2020,
-    "country": "AU",
+    "country": "Australia",
     "count": 3
   },
   {
     "year": 2020,
-    "country": "B",
+    "country": "Belgium",
     "count": 2
   },
   {
     "year": 2020,
-    "country": "CA",
+    "country": "Canada",
     "count": 6
   },
   {
     "year": 2020,
-    "country": "CN",
+    "country": "China",
     "count": 72
   },
   {
     "year": 2020,
-    "country": "D",
-    "count": 5
-  },
-  {
-    "year": 2020,
-    "country": "E",
-    "count": 3
-  },
-  {
-    "year": 2020,
-    "country": "EE",
+    "country": "ESA",
     "count": 1
   },
   {
     "year": 2020,
-    "country": "ET",
+    "country": "EU",
     "count": 1
   },
   {
     "year": 2020,
-    "country": "F",
-    "count": 5
+    "country": "Estonia",
+    "count": 1
   },
   {
     "year": 2020,
-    "country": "FI",
+    "country": "Ethiopia",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Finland",
     "count": 2
   },
   {
     "year": 2020,
-    "country": "GT",
+    "country": "France",
+    "count": 5
+  },
+  {
+    "year": 2020,
+    "country": "Germany",
+    "count": 5
+  },
+  {
+    "year": 2020,
+    "country": "Guatemala",
     "count": 1
   },
   {
     "year": 2020,
-    "country": "I",
-    "count": 1
-  },
-  {
-    "year": 2020,
-    "country": "I-ESA",
-    "count": 1
-  },
-  {
-    "year": 2020,
-    "country": "I-EU",
-    "count": 1
-  },
-  {
-    "year": 2020,
-    "country": "IL",
+    "country": "India",
     "count": 3
   },
   {
     "year": 2020,
-    "country": "IN",
-    "count": 3
-  },
-  {
-    "year": 2020,
-    "country": "IR",
+    "country": "Iran",
     "count": 1
   },
   {
     "year": 2020,
-    "country": "J",
+    "country": "Israel",
+    "count": 3
+  },
+  {
+    "year": 2020,
+    "country": "Italy",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Japan",
     "count": 9
   },
   {
     "year": 2020,
-    "country": "KR",
-    "count": 2
-  },
-  {
-    "year": 2020,
-    "country": "L",
-    "count": 8
-  },
-  {
-    "year": 2020,
-    "country": "LT",
+    "country": "Lithuania",
     "count": 1
   },
   {
     "year": 2020,
-    "country": "MC",
-    "count": 1
-  },
-  {
-    "year": 2020,
-    "country": "NZ",
+    "country": "Luxembourg",
     "count": 8
   },
   {
     "year": 2020,
-    "country": "RU",
+    "country": "Monaco",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "New Zealand",
+    "count": 8
+  },
+  {
+    "year": 2020,
+    "country": "Russia",
     "count": 22
   },
   {
     "year": 2020,
-    "country": "SI",
+    "country": "Slovenia",
     "count": 2
   },
   {
     "year": 2020,
-    "country": "T",
+    "country": "South Korea",
+    "count": 2
+  },
+  {
+    "year": 2020,
+    "country": "Spain",
+    "count": 3
+  },
+  {
+    "year": 2020,
+    "country": "Thailand",
     "count": 1
   },
   {
@@ -4911,213 +4831,213 @@
   },
   {
     "year": 2020,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 105
   },
   {
     "year": 2020,
-    "country": "US",
+    "country": "United States",
     "count": 962
   },
   {
     "year": 2020,
-    "country": "UY",
+    "country": "Uruguay",
     "count": 13
   },
   {
     "year": 2021,
-    "country": "AR",
+    "country": "Argentina",
     "count": 1
   },
   {
     "year": 2021,
-    "country": "AU",
+    "country": "Australia",
     "count": 8
   },
   {
     "year": 2021,
-    "country": "B",
+    "country": "Belgium",
     "count": 1
   },
   {
     "year": 2021,
-    "country": "BGN",
-    "count": 1
-  },
-  {
-    "year": 2021,
-    "country": "BR",
+    "country": "Brazil",
     "count": 3
   },
   {
     "year": 2021,
-    "country": "CA",
+    "country": "Bulgaria",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Canada",
     "count": 11
   },
   {
     "year": 2021,
-    "country": "CH",
-    "count": 10
-  },
-  {
-    "year": 2021,
-    "country": "CN",
+    "country": "China",
     "count": 112
   },
   {
     "year": 2021,
-    "country": "D",
-    "count": 10
+    "country": "EU",
+    "count": 2
   },
   {
     "year": 2021,
-    "country": "E",
-    "count": 1
-  },
-  {
-    "year": 2021,
-    "country": "F",
-    "count": 9
-  },
-  {
-    "year": 2021,
-    "country": "FI",
+    "country": "Finland",
     "count": 8
   },
   {
     "year": 2021,
-    "country": "HU",
-    "count": 2
-  },
-  {
-    "year": 2021,
-    "country": "I",
+    "country": "France",
     "count": 9
   },
   {
     "year": 2021,
-    "country": "I-EU",
+    "country": "Germany",
+    "count": 10
+  },
+  {
+    "year": 2021,
+    "country": "Hungary",
     "count": 2
   },
   {
     "year": 2021,
-    "country": "IL",
-    "count": 4
-  },
-  {
-    "year": 2021,
-    "country": "IN",
+    "country": "India",
     "count": 5
   },
   {
     "year": 2021,
-    "country": "J",
+    "country": "Israel",
+    "count": 4
+  },
+  {
+    "year": 2021,
+    "country": "Italy",
+    "count": 9
+  },
+  {
+    "year": 2021,
+    "country": "Japan",
     "count": 24
   },
   {
     "year": 2021,
-    "country": "KR",
-    "count": 3
-  },
-  {
-    "year": 2021,
-    "country": "KW",
+    "country": "Kuwait",
     "count": 1
   },
   {
     "year": 2021,
-    "country": "L",
+    "country": "Lithuania",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Luxembourg",
     "count": 12
   },
   {
     "year": 2021,
-    "country": "LT",
+    "country": "Mauritius",
     "count": 1
   },
   {
     "year": 2021,
-    "country": "MU",
-    "count": 1
-  },
-  {
-    "year": 2021,
-    "country": "MX",
+    "country": "Mexico",
     "count": 2
   },
   {
     "year": 2021,
-    "country": "MYM",
+    "country": "Myanmar",
     "count": 1
   },
   {
     "year": 2021,
-    "country": "N",
-    "count": 1
-  },
-  {
-    "year": 2021,
-    "country": "NL",
+    "country": "Netherlands",
     "count": 3
   },
   {
     "year": 2021,
-    "country": "NZ",
+    "country": "New Zealand",
     "count": 4
   },
   {
     "year": 2021,
-    "country": "PH",
+    "country": "Norway",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Paraguay",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Phillipines",
     "count": 3
   },
   {
     "year": 2021,
-    "country": "PL",
+    "country": "Poland",
     "count": 2
   },
   {
     "year": 2021,
-    "country": "PR",
+    "country": "Puerto Rico",
     "count": 1
   },
   {
     "year": 2021,
-    "country": "PY",
-    "count": 1
-  },
-  {
-    "year": 2021,
-    "country": "RU",
+    "country": "Russia",
     "count": 21
   },
   {
     "year": 2021,
-    "country": "SA",
+    "country": "Saudi Arabia",
     "count": 2
   },
   {
     "year": 2021,
-    "country": "SK",
+    "country": "Slovakia",
     "count": 1
   },
   {
     "year": 2021,
-    "country": "T",
-    "count": 2
-  },
-  {
-    "year": 2021,
-    "country": "TN",
-    "count": 1
-  },
-  {
-    "year": 2021,
-    "country": "TR",
+    "country": "South Korea",
     "count": 3
   },
   {
     "year": 2021,
-    "country": "TW",
+    "country": "Spain",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Switzerland",
+    "count": 10
+  },
+  {
+    "year": 2021,
+    "country": "Taiwan",
     "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "Thailand",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "Tunisia",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Turkey",
+    "count": 3
   },
   {
     "year": 2021,
@@ -5126,228 +5046,228 @@
   },
   {
     "year": 2021,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 289
   },
   {
     "year": 2021,
-    "country": "US",
+    "country": "United States",
     "count": 1228
   },
   {
     "year": 2021,
-    "country": "UY",
+    "country": "Uruguay",
     "count": 4
   },
   {
     "year": 2021,
-    "country": "VN",
+    "country": "Vietnam",
     "count": 1
   },
   {
     "year": 2022,
-    "country": "AM",
+    "country": "Angola",
     "count": 1
   },
   {
     "year": 2022,
-    "country": "AO",
+    "country": "Argentina",
     "count": 1
   },
   {
     "year": 2022,
-    "country": "AR",
+    "country": "Armenia",
     "count": 1
   },
   {
     "year": 2022,
-    "country": "AU",
+    "country": "Australia",
     "count": 3
   },
   {
     "year": 2022,
-    "country": "BGN",
+    "country": "Bhutan",
     "count": 1
   },
   {
     "year": 2022,
-    "country": "BR",
+    "country": "Brazil",
     "count": 5
   },
   {
     "year": 2022,
-    "country": "BT",
+    "country": "Bulgaria",
     "count": 1
   },
   {
     "year": 2022,
-    "country": "CA",
+    "country": "Canada",
     "count": 9
   },
   {
     "year": 2022,
-    "country": "CH",
-    "count": 6
-  },
-  {
-    "year": 2022,
-    "country": "CL",
+    "country": "Chile",
     "count": 3
   },
   {
     "year": 2022,
-    "country": "CN",
+    "country": "China",
     "count": 190
   },
   {
     "year": 2022,
-    "country": "CZ",
+    "country": "Czech Republic",
     "count": 3
   },
   {
     "year": 2022,
-    "country": "D",
+    "country": "EUMETSAT",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Egypt",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Finland",
     "count": 4
   },
   {
     "year": 2022,
-    "country": "E",
-    "count": 13
-  },
-  {
-    "year": 2022,
-    "country": "EG",
-    "count": 1
-  },
-  {
-    "year": 2022,
-    "country": "F",
+    "country": "France",
     "count": 10
   },
   {
     "year": 2022,
-    "country": "FI",
+    "country": "Germany",
     "count": 4
   },
   {
     "year": 2022,
-    "country": "I",
+    "country": "India",
     "count": 10
   },
   {
     "year": 2022,
-    "country": "I-EUM",
+    "country": "Indonesia",
     "count": 1
   },
   {
     "year": 2022,
-    "country": "ID",
-    "count": 1
-  },
-  {
-    "year": 2022,
-    "country": "IL",
-    "count": 11
-  },
-  {
-    "year": 2022,
-    "country": "IN",
-    "count": 10
-  },
-  {
-    "year": 2022,
-    "country": "IR",
+    "country": "Iran",
     "count": 2
   },
   {
     "year": 2022,
-    "country": "J",
+    "country": "Israel",
     "count": 11
   },
   {
     "year": 2022,
-    "country": "KR",
-    "count": 9
+    "country": "Italy",
+    "count": 10
   },
   {
     "year": 2022,
-    "country": "L",
+    "country": "Japan",
+    "count": 11
+  },
+  {
+    "year": 2022,
+    "country": "Lithuania",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Luxembourg",
     "count": 13
   },
   {
     "year": 2022,
-    "country": "LT",
+    "country": "Malaysia",
     "count": 1
   },
   {
     "year": 2022,
-    "country": "MD",
+    "country": "Moldova",
     "count": 1
   },
   {
     "year": 2022,
-    "country": "MY",
+    "country": "Nepal",
     "count": 1
   },
   {
     "year": 2022,
-    "country": "N",
-    "count": 3
-  },
-  {
-    "year": 2022,
-    "country": "NL",
+    "country": "Netherlands",
     "count": 1
   },
   {
     "year": 2022,
-    "country": "NP",
-    "count": 1
-  },
-  {
-    "year": 2022,
-    "country": "NZ",
+    "country": "New Zealand",
     "count": 14
   },
   {
     "year": 2022,
-    "country": "PL",
+    "country": "Norway",
+    "count": 3
+  },
+  {
+    "year": 2022,
+    "country": "Poland",
     "count": 5
   },
   {
     "year": 2022,
-    "country": "RU",
+    "country": "Russia",
     "count": 51
   },
   {
     "year": 2022,
-    "country": "S",
-    "count": 1
-  },
-  {
-    "year": 2022,
-    "country": "SG",
+    "country": "Singapore",
     "count": 4
   },
   {
     "year": 2022,
-    "country": "SI",
+    "country": "Slovenia",
     "count": 1
   },
   {
     "year": 2022,
-    "country": "TR",
-    "count": 2
+    "country": "South Africa",
+    "count": 3
   },
   {
     "year": 2022,
-    "country": "TW",
-    "count": 2
+    "country": "South Korea",
+    "count": 9
   },
   {
     "year": 2022,
-    "country": "UA",
+    "country": "Spain",
+    "count": 13
+  },
+  {
+    "year": 2022,
+    "country": "Sweden",
     "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Switzerland",
+    "count": 6
+  },
+  {
+    "year": 2022,
+    "country": "Taiwan",
+    "count": 2
+  },
+  {
+    "year": 2022,
+    "country": "Turkey",
+    "count": 2
   },
   {
     "year": 2022,
@@ -5356,288 +5276,283 @@
   },
   {
     "year": 2022,
-    "country": "UG",
+    "country": "Uganda",
     "count": 1
   },
   {
     "year": 2022,
-    "country": "UK",
+    "country": "Ukraine",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "United Kingdom",
     "count": 115
   },
   {
     "year": 2022,
-    "country": "US",
+    "country": "United States",
     "count": 1906
   },
   {
     "year": 2022,
-    "country": "UY",
+    "country": "Uruguay",
     "count": 9
   },
   {
     "year": 2022,
-    "country": "ZA",
-    "count": 3
-  },
-  {
-    "year": 2022,
-    "country": "ZW",
+    "country": "Zimbabwe",
     "count": 1
   },
   {
     "year": 2023,
-    "country": "AM",
+    "country": "ARABSAT",
     "count": 1
   },
   {
     "year": 2023,
-    "country": "AR",
+    "country": "Argentina",
     "count": 3
   },
   {
     "year": 2023,
-    "country": "AT",
+    "country": "Armenia",
     "count": 1
   },
   {
     "year": 2023,
-    "country": "AU",
+    "country": "Australia",
     "count": 11
   },
   {
     "year": 2023,
-    "country": "B",
-    "count": 2
-  },
-  {
-    "year": 2023,
-    "country": "BGN",
-    "count": 2
-  },
-  {
-    "year": 2023,
-    "country": "BM",
+    "country": "Austria",
     "count": 1
   },
   {
     "year": 2023,
-    "country": "BR",
-    "count": 2
-  },
-  {
-    "year": 2023,
-    "country": "BY",
+    "country": "Belarus",
     "count": 1
   },
   {
     "year": 2023,
-    "country": "CA",
+    "country": "Belgium",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Bermuda",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Brazil",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Bulgaria",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Canada",
     "count": 18
   },
   {
     "year": 2023,
-    "country": "CH",
-    "count": 4
-  },
-  {
-    "year": 2023,
-    "country": "CN",
+    "country": "China",
     "count": 212
   },
   {
     "year": 2023,
-    "country": "CO",
+    "country": "Colombia",
     "count": 1
   },
   {
     "year": 2023,
-    "country": "CZ",
+    "country": "Czech Republic",
     "count": 1
   },
   {
     "year": 2023,
-    "country": "D",
-    "count": 12
-  },
-  {
-    "year": 2023,
-    "country": "DJ",
-    "count": 1
-  },
-  {
-    "year": 2023,
-    "country": "DK",
+    "country": "Denmark",
     "count": 2
   },
   {
     "year": 2023,
-    "country": "E",
-    "count": 13
+    "country": "Djibouti",
+    "count": 1
   },
   {
     "year": 2023,
-    "country": "EG",
+    "country": "ESA",
     "count": 3
   },
   {
     "year": 2023,
-    "country": "F",
-    "count": 11
+    "country": "Egypt",
+    "count": 3
   },
   {
     "year": 2023,
-    "country": "FI",
+    "country": "Finland",
     "count": 6
   },
   {
     "year": 2023,
-    "country": "HU",
-    "count": 2
-  },
-  {
-    "year": 2023,
-    "country": "I",
-    "count": 21
-  },
-  {
-    "year": 2023,
-    "country": "I-ARAB",
-    "count": 1
-  },
-  {
-    "year": 2023,
-    "country": "I-ESA",
-    "count": 3
-  },
-  {
-    "year": 2023,
-    "country": "ID",
-    "count": 1
-  },
-  {
-    "year": 2023,
-    "country": "IE",
-    "count": 1
-  },
-  {
-    "year": 2023,
-    "country": "IL",
-    "count": 5
-  },
-  {
-    "year": 2023,
-    "country": "IN",
-    "count": 8
-  },
-  {
-    "year": 2023,
-    "country": "IR",
-    "count": 1
-  },
-  {
-    "year": 2023,
-    "country": "J",
-    "count": 10
-  },
-  {
-    "year": 2023,
-    "country": "KE",
-    "count": 1
-  },
-  {
-    "year": 2023,
-    "country": "KP",
-    "count": 1
-  },
-  {
-    "year": 2023,
-    "country": "KR",
+    "country": "France",
     "count": 11
   },
   {
     "year": 2023,
-    "country": "KW",
+    "country": "Germany",
+    "count": 12
+  },
+  {
+    "year": 2023,
+    "country": "Hungary",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "India",
+    "count": 8
+  },
+  {
+    "year": 2023,
+    "country": "Indonesia",
     "count": 1
   },
   {
     "year": 2023,
-    "country": "L",
+    "country": "Iran",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Ireland",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Israel",
+    "count": 5
+  },
+  {
+    "year": 2023,
+    "country": "Italy",
+    "count": 21
+  },
+  {
+    "year": 2023,
+    "country": "Japan",
+    "count": 10
+  },
+  {
+    "year": 2023,
+    "country": "Kenya",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Kuwait",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Lithuania",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "Luxembourg",
     "count": 17
   },
   {
     "year": 2023,
-    "country": "LT",
-    "count": 3
-  },
-  {
-    "year": 2023,
-    "country": "MC",
-    "count": 1
-  },
-  {
-    "year": 2023,
-    "country": "MY",
+    "country": "Malaysia",
     "count": 2
   },
   {
     "year": 2023,
-    "country": "N",
+    "country": "Monaco",
     "count": 1
   },
   {
     "year": 2023,
-    "country": "NL",
+    "country": "Netherlands",
     "count": 4
   },
   {
     "year": 2023,
-    "country": "PH",
-    "count": 2
-  },
-  {
-    "year": 2023,
-    "country": "PL",
-    "count": 2
-  },
-  {
-    "year": 2023,
-    "country": "RO",
+    "country": "North Korea",
     "count": 1
   },
   {
     "year": 2023,
-    "country": "RU",
+    "country": "Norway",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Phillipines",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Poland",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Romania",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Russia",
     "count": 67
   },
   {
     "year": 2023,
-    "country": "SG",
+    "country": "Singapore",
     "count": 10
   },
   {
     "year": 2023,
-    "country": "SK",
+    "country": "Slovakia",
     "count": 1
   },
   {
     "year": 2023,
-    "country": "T",
-    "count": 1
+    "country": "South Korea",
+    "count": 11
   },
   {
     "year": 2023,
-    "country": "TR",
-    "count": 10
+    "country": "Spain",
+    "count": 13
   },
   {
     "year": 2023,
-    "country": "TW",
+    "country": "Switzerland",
+    "count": 4
+  },
+  {
+    "year": 2023,
+    "country": "Taiwan",
     "count": 6
   },
   {
     "year": 2023,
-    "country": "UA",
+    "country": "Thailand",
     "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Turkey",
+    "count": 10
   },
   {
     "year": 2023,
@@ -5646,207 +5561,212 @@
   },
   {
     "year": 2023,
-    "country": "UK",
+    "country": "Ukraine",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "United Kingdom",
     "count": 150
   },
   {
     "year": 2023,
-    "country": "US",
+    "country": "United States",
     "count": 2232
   },
   {
     "year": 2023,
-    "country": "UY",
+    "country": "Uruguay",
     "count": 13
   },
   {
     "year": 2024,
-    "country": "AU",
+    "country": "Australia",
     "count": 9
   },
   {
     "year": 2024,
-    "country": "B",
+    "country": "Belgium",
     "count": 4
   },
   {
     "year": 2024,
-    "country": "BR",
+    "country": "Brazil",
     "count": 2
   },
   {
     "year": 2024,
-    "country": "CA",
+    "country": "Canada",
     "count": 4
   },
   {
     "year": 2024,
-    "country": "CL",
+    "country": "Chile",
     "count": 1
   },
   {
     "year": 2024,
-    "country": "CN",
+    "country": "China",
     "count": 265
   },
   {
     "year": 2024,
-    "country": "CZ",
+    "country": "Croatia",
     "count": 1
   },
   {
     "year": 2024,
-    "country": "D",
-    "count": 5
-  },
-  {
-    "year": 2024,
-    "country": "DJ",
+    "country": "Czech Republic",
     "count": 1
   },
   {
     "year": 2024,
-    "country": "E",
-    "count": 7
-  },
-  {
-    "year": 2024,
-    "country": "EG",
+    "country": "Djibouti",
     "count": 1
   },
   {
     "year": 2024,
-    "country": "F",
+    "country": "ESA",
+    "count": 6
+  },
+  {
+    "year": 2024,
+    "country": "EU",
+    "count": 6
+  },
+  {
+    "year": 2024,
+    "country": "Egypt",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Finland",
+    "count": 4
+  },
+  {
+    "year": 2024,
+    "country": "France",
     "count": 21
   },
   {
     "year": 2024,
-    "country": "FI",
-    "count": 4
-  },
-  {
-    "year": 2024,
-    "country": "HR",
-    "count": 1
-  },
-  {
-    "year": 2024,
-    "country": "HU",
-    "count": 1
-  },
-  {
-    "year": 2024,
-    "country": "I",
-    "count": 11
-  },
-  {
-    "year": 2024,
-    "country": "I-ESA",
-    "count": 6
-  },
-  {
-    "year": 2024,
-    "country": "I-EU",
-    "count": 6
-  },
-  {
-    "year": 2024,
-    "country": "ID",
-    "count": 2
-  },
-  {
-    "year": 2024,
-    "country": "IN",
-    "count": 10
-  },
-  {
-    "year": 2024,
-    "country": "IR",
-    "count": 11
-  },
-  {
-    "year": 2024,
-    "country": "J",
-    "count": 25
-  },
-  {
-    "year": 2024,
-    "country": "KR",
+    "country": "Germany",
     "count": 5
   },
   {
     "year": 2024,
-    "country": "L",
-    "count": 7
-  },
-  {
-    "year": 2024,
-    "country": "MA",
-    "count": 2
-  },
-  {
-    "year": 2024,
-    "country": "MN",
-    "count": 12
-  },
-  {
-    "year": 2024,
-    "country": "N",
-    "count": 3
-  },
-  {
-    "year": 2024,
-    "country": "OM",
+    "country": "Hungary",
     "count": 1
   },
   {
     "year": 2024,
-    "country": "P",
+    "country": "India",
+    "count": 10
+  },
+  {
+    "year": 2024,
+    "country": "Indonesia",
     "count": 2
   },
   {
     "year": 2024,
-    "country": "PK",
+    "country": "Iran",
+    "count": 11
+  },
+  {
+    "year": 2024,
+    "country": "Italy",
+    "count": 11
+  },
+  {
+    "year": 2024,
+    "country": "Japan",
+    "count": 25
+  },
+  {
+    "year": 2024,
+    "country": "Luxembourg",
+    "count": 7
+  },
+  {
+    "year": 2024,
+    "country": "Mongolia",
+    "count": 12
+  },
+  {
+    "year": 2024,
+    "country": "Morocco",
     "count": 2
   },
   {
     "year": 2024,
-    "country": "PL",
+    "country": "Norway",
+    "count": 3
+  },
+  {
+    "year": 2024,
+    "country": "Oman",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Pakistan",
     "count": 2
   },
   {
     "year": 2024,
-    "country": "RU",
+    "country": "Poland",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "Portugal",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "Russia",
     "count": 99
   },
   {
     "year": 2024,
-    "country": "RW",
+    "country": "Rwanda",
     "count": 1
   },
   {
     "year": 2024,
-    "country": "S",
-    "count": 2
-  },
-  {
-    "year": 2024,
-    "country": "SK",
+    "country": "Senegal",
     "count": 1
   },
   {
     "year": 2024,
-    "country": "SN",
+    "country": "Slovakia",
     "count": 1
   },
   {
     "year": 2024,
-    "country": "TR",
+    "country": "South Korea",
     "count": 5
   },
   {
     "year": 2024,
-    "country": "TW",
+    "country": "Spain",
+    "count": 7
+  },
+  {
+    "year": 2024,
+    "country": "Sweden",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "Taiwan",
+    "count": 5
+  },
+  {
+    "year": 2024,
+    "country": "Turkey",
     "count": 5
   },
   {
@@ -5856,283 +5776,283 @@
   },
   {
     "year": 2024,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 31
   },
   {
     "year": 2024,
-    "country": "US",
+    "country": "United States",
     "count": 2244
   },
   {
     "year": 2024,
-    "country": "UY",
+    "country": "Uruguay",
     "count": 4
   },
   {
     "year": 2024,
-    "country": "ZW",
+    "country": "Zimbabwe",
     "count": 1
   },
   {
     "year": 2025,
-    "country": "AU",
+    "country": "Australia",
     "count": 12
   },
   {
     "year": 2025,
-    "country": "AZ",
+    "country": "Azerbaijan",
     "count": 1
   },
   {
     "year": 2025,
-    "country": "B",
+    "country": "Bahrain",
     "count": 1
   },
   {
     "year": 2025,
-    "country": "BGN",
-    "count": 1
-  },
-  {
-    "year": 2025,
-    "country": "BH",
-    "count": 1
-  },
-  {
-    "year": 2025,
-    "country": "BW",
-    "count": 1
-  },
-  {
-    "year": 2025,
-    "country": "BY",
+    "country": "Belarus",
     "count": 2
   },
   {
     "year": 2025,
-    "country": "CA",
+    "country": "Belgium",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Botswana",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Bulgaria",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Canada",
     "count": 6
   },
   {
     "year": 2025,
-    "country": "CH",
-    "count": 4
-  },
-  {
-    "year": 2025,
-    "country": "CN",
+    "country": "China",
     "count": 372
   },
   {
     "year": 2025,
-    "country": "CZ",
+    "country": "Czech Republic",
     "count": 3
   },
   {
     "year": 2025,
-    "country": "D",
-    "count": 19
-  },
-  {
-    "year": 2025,
-    "country": "DK",
+    "country": "Denmark",
     "count": 2
   },
   {
     "year": 2025,
-    "country": "E",
-    "count": 15
+    "country": "ESA",
+    "count": 3
   },
   {
     "year": 2025,
-    "country": "EC",
+    "country": "EU",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "EUMETSAT",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "Ecuador",
     "count": 1
   },
   {
     "year": 2025,
-    "country": "EG",
+    "country": "Egypt",
     "count": 1
   },
   {
     "year": 2025,
-    "country": "F",
-    "count": 25
-  },
-  {
-    "year": 2025,
-    "country": "FI",
+    "country": "Finland",
     "count": 13
   },
   {
     "year": 2025,
-    "country": "GR",
+    "country": "France",
+    "count": 25
+  },
+  {
+    "year": 2025,
+    "country": "Germany",
+    "count": 19
+  },
+  {
+    "year": 2025,
+    "country": "Greece",
     "count": 4
   },
   {
     "year": 2025,
-    "country": "HU",
+    "country": "Hungary",
     "count": 3
   },
   {
     "year": 2025,
-    "country": "I",
-    "count": 31
-  },
-  {
-    "year": 2025,
-    "country": "I-ESA",
-    "count": 3
-  },
-  {
-    "year": 2025,
-    "country": "I-EU",
-    "count": 4
-  },
-  {
-    "year": 2025,
-    "country": "I-EUM",
-    "count": 2
-  },
-  {
-    "year": 2025,
-    "country": "ID",
-    "count": 2
-  },
-  {
-    "year": 2025,
-    "country": "IE",
-    "count": 1
-  },
-  {
-    "year": 2025,
-    "country": "IL",
-    "count": 9
-  },
-  {
-    "year": 2025,
-    "country": "IN",
+    "country": "India",
     "count": 12
   },
   {
     "year": 2025,
-    "country": "IR",
+    "country": "Indonesia",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "Iran",
     "count": 4
   },
   {
     "year": 2025,
-    "country": "J",
+    "country": "Ireland",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Israel",
+    "count": 9
+  },
+  {
+    "year": 2025,
+    "country": "Italy",
+    "count": 31
+  },
+  {
+    "year": 2025,
+    "country": "Japan",
     "count": 34
   },
   {
     "year": 2025,
-    "country": "KR",
-    "count": 23
-  },
-  {
-    "year": 2025,
-    "country": "KW",
+    "country": "Kuwait",
     "count": 1
   },
   {
     "year": 2025,
-    "country": "L",
+    "country": "Luxembourg",
     "count": 4
   },
   {
     "year": 2025,
-    "country": "ME",
-    "count": 1
-  },
-  {
-    "year": 2025,
-    "country": "MX",
-    "count": 1
-  },
-  {
-    "year": 2025,
-    "country": "MY",
+    "country": "Malaysia",
     "count": 3
   },
   {
     "year": 2025,
-    "country": "N",
+    "country": "Mexico",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Montenegro",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Nepal",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "New Zealand",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Norway",
     "count": 4
   },
   {
     "year": 2025,
-    "country": "NP",
-    "count": 1
-  },
-  {
-    "year": 2025,
-    "country": "NZ",
-    "count": 1
-  },
-  {
-    "year": 2025,
-    "country": "P",
-    "count": 2
-  },
-  {
-    "year": 2025,
-    "country": "PK",
+    "country": "Pakistan",
     "count": 3
   },
   {
     "year": 2025,
-    "country": "PL",
+    "country": "Poland",
     "count": 7
   },
   {
     "year": 2025,
-    "country": "QA",
+    "country": "Portugal",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "Qatar",
     "count": 1
   },
   {
     "year": 2025,
-    "country": "RU",
+    "country": "Russia",
     "count": 86
   },
   {
     "year": 2025,
-    "country": "RW",
+    "country": "Rwanda",
     "count": 5
   },
   {
     "year": 2025,
-    "country": "SA",
+    "country": "Saudi Arabia",
     "count": 2
   },
   {
     "year": 2025,
-    "country": "SB",
+    "country": "Singapore",
     "count": 1
   },
   {
     "year": 2025,
-    "country": "SG",
+    "country": "Solomon Is.",
     "count": 1
   },
   {
     "year": 2025,
-    "country": "T",
-    "count": 2
+    "country": "South Korea",
+    "count": 23
   },
   {
     "year": 2025,
-    "country": "TN",
-    "count": 1
+    "country": "Spain",
+    "count": 15
   },
   {
     "year": 2025,
-    "country": "TR",
-    "count": 22
+    "country": "Switzerland",
+    "count": 4
   },
   {
     "year": 2025,
-    "country": "TW",
+    "country": "Taiwan",
     "count": 9
+  },
+  {
+    "year": 2025,
+    "country": "Thailand",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "Tunisia",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Turkey",
+    "count": 22
   },
   {
     "year": 2025,
@@ -6141,97 +6061,92 @@
   },
   {
     "year": 2025,
-    "country": "UK",
+    "country": "United Kingdom",
     "count": 11
   },
   {
     "year": 2025,
-    "country": "US",
+    "country": "United States",
     "count": 3704
   },
   {
     "year": 2025,
-    "country": "UY",
+    "country": "Uruguay",
     "count": 4
   },
   {
     "year": 2026,
-    "country": "CA",
+    "country": "Algeria",
+    "count": 2
+  },
+  {
+    "year": 2026,
+    "country": "Canada",
     "count": 10
   },
   {
     "year": 2026,
-    "country": "CN",
-    "count": 29
+    "country": "China",
+    "count": 30
   },
   {
     "year": 2026,
-    "country": "D",
+    "country": "Finland",
     "count": 2
   },
   {
     "year": 2026,
-    "country": "DZ",
+    "country": "Germany",
     "count": 2
   },
   {
     "year": 2026,
-    "country": "E",
-    "count": 3
-  },
-  {
-    "year": 2026,
-    "country": "FI",
-    "count": 2
-  },
-  {
-    "year": 2026,
-    "country": "HK",
+    "country": "Iran",
     "count": 1
   },
   {
     "year": 2026,
-    "country": "I",
+    "country": "Italy",
     "count": 1
   },
   {
     "year": 2026,
-    "country": "IR",
-    "count": 1
-  },
-  {
-    "year": 2026,
-    "country": "KR",
-    "count": 1
-  },
-  {
-    "year": 2026,
-    "country": "L",
+    "country": "Luxembourg",
     "count": 8
   },
   {
     "year": 2026,
-    "country": "PK",
+    "country": "Pakistan",
     "count": 1
   },
   {
     "year": 2026,
-    "country": "RU",
+    "country": "Russia",
     "count": 11
   },
   {
     "year": 2026,
-    "country": "TR",
-    "count": 4
-  },
-  {
-    "year": 2026,
-    "country": "UK",
+    "country": "South Korea",
     "count": 1
   },
   {
     "year": 2026,
-    "country": "US",
+    "country": "Spain",
+    "count": 3
+  },
+  {
+    "year": 2026,
+    "country": "Turkey",
+    "count": 4
+  },
+  {
+    "year": 2026,
+    "country": "United Kingdom",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "United States",
     "count": 516
   }
 ]

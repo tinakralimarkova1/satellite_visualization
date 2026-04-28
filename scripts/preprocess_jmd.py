@@ -7,6 +7,7 @@ BASE_DIR = Path(__file__).resolve().parents[1]
 
 INPUT_CSV = BASE_DIR / "data" / "JMD_satcat.csv"
 INPUT_PSATCAT_CSV = BASE_DIR / "data" / "JMD_psatcat.csv"
+INPUT_ORGS_CSV = BASE_DIR / "data" / "JMD_orgs.csv"
 
 OUTPUT_JSON = BASE_DIR / "data" / "launches_by_year.json"
 OUTPUT_JSON_COUNTRY = BASE_DIR / "data" / "launches_by_year_country.json"
@@ -31,13 +32,66 @@ def clean_psatcat(df: pd.DataFrame) -> pd.DataFrame:
     # Remove metadata row like "# Updated 2026 ..."
     df = df[df["#JCAT"].astype(str).str.startswith("S", na=False)].copy()
 
-    # Keep only what we need for the join
-    df = df[["#JCAT", "Class"]].copy()
-
     # Remove duplicates just in case
     df = df.drop_duplicates(subset=["#JCAT"])
 
     return df
+
+def clean_orgs(df: pd.DataFrame) -> pd.DataFrame:
+    df = df.copy()
+
+    # Keep only mapping columns needed for display labels
+    df = df[["Code", "StateCode", "Type", "ShortEName", "EName"]].copy()
+
+    # Clean strings
+    df["Code"] = df["Code"].astype(str).str.strip()
+    df["StateCode"] = df["StateCode"].astype(str).str.strip()
+    df["Type"] = df["Type"].astype(str).str.strip()
+    df["ShortEName"] = df["ShortEName"].astype(str).str.strip()
+    df["EName"] = df["EName"].astype(str).str.strip()
+
+    # Remove blank lookup keys
+    df = df[(df["Code"] != "") & (df["Code"] != "nan")]
+    df = df[(df["StateCode"] != "") & (df["StateCode"] != "nan")]
+
+    return df
+
+
+def build_code_to_state_code(orgs_df: pd.DataFrame) -> dict[str, str]:
+    code_to_state_code: dict[str, str] = {}
+
+    for _, row in orgs_df.iterrows():
+        code_to_state_code.setdefault(row["Code"], row["StateCode"])
+
+    return code_to_state_code
+
+
+def build_state_code_to_english_name(orgs_df: pd.DataFrame) -> dict[str, str]:
+    state_code_to_name: dict[str, str] = {}
+
+    canonical_state_rows = orgs_df[orgs_df["Code"] == orgs_df["StateCode"]]
+
+    english_name_overrides = {
+        "US": "United States",
+        "UK": "United Kingdom",
+        "SU": "Russia",
+        "RU": "Russia",
+    }
+
+    for _, row in canonical_state_rows.iterrows():
+        short_english_name = row["ShortEName"]
+        english_name = short_english_name if short_english_name and short_english_name != "-" else row["EName"]
+
+        if english_name and english_name != "-":
+            state_code = row["StateCode"]
+            state_code_to_name.setdefault(
+                state_code,
+                english_name_overrides.get(state_code, english_name)
+            )
+
+    state_code_to_name["SU"] = "Russia"
+
+    return state_code_to_name
 
 
 def map_class_label(class_value: str) -> str:
@@ -73,12 +127,25 @@ def main() -> None:
     df = clean_main_satcat(df)
     psatcat_df = clean_psatcat(psatcat_df)
 
+    orgs_df = pd.read_csv(INPUT_ORGS_CSV, low_memory=False)
+    orgs_df = clean_orgs(orgs_df)
+
+    code_to_state_code = build_code_to_state_code(orgs_df)
+    state_code_to_name = build_state_code_to_english_name(orgs_df)
+
     # Make sure keys match
     df["#JCAT"] = df["#JCAT"].astype(str).str.strip()
     psatcat_df["#JCAT"] = psatcat_df["#JCAT"].astype(str).str.strip()
 
     # GLOBAL FILTER: only keep items in both datasets
     df = df.merge(psatcat_df, how="inner", on="#JCAT")
+
+
+    #Map country names to codes 
+    df["State"] = df["State"].astype(str).str.strip()
+    df["country_state_code"] = df["State"].map(code_to_state_code).fillna(df["State"])
+    df["country_state_code"] = df["country_state_code"].replace({"SU": "RU"})
+    df["country_name"] = df["country_state_code"].map(state_code_to_name).fillna(df["country_state_code"])
 
     # ----------------------------
     # 1) Launches per year
@@ -106,7 +173,7 @@ def main() -> None:
     # ----------------------------
     # 2) Launches per year per country
     # ----------------------------
-    country_col = "State"
+    country_col = "country_name"
 
     df_country = df.dropna(subset=["Year", country_col])
 
