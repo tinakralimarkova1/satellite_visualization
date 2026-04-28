@@ -5,7 +5,7 @@ let geoData = [];
 async function loadGeoData() {
   if (geoData.length > 0) return;
 
-  const response = await fetch("./data/launches_geo.json");
+  const response = await fetch("./data/launches_by_year_country.json");
   if (!response.ok) {
     throw new Error(`Failed to load geo data: ${response.status}`);
   }
@@ -48,12 +48,16 @@ export async function renderGeoLaunchMap() {
         locations: countries,
         z: counts,
         text: countries,
-        colorscale: "Blues",
-        reversescale: true,
+        colorscale: [
+          [0, "#dbeafe"],
+          [0.35, "#93c5fd"],
+          [0.7, "#3b82f6"],
+          [1, "#1d4ed8"]
+        ],
         marker: {
           line: {
-            color: "white",
-            width: 0.5
+            color: "#ffffff",
+            width: 0.7
           }
         },
         colorbar: {
@@ -67,7 +71,7 @@ export async function renderGeoLaunchMap() {
       title: `Satellite Launches by Country (${minYear}–${maxYear})`,
       paper_bgcolor: "white",
       plot_bgcolor: "white",
-      margin: { t: 50, r: 20, b: 20, l: 20 },
+      margin: { t: 56, r: 24, b: 12, l: 24 },
       font: {
         family: "Inter, Arial, sans-serif",
         color: "#1f2937"
@@ -78,7 +82,9 @@ export async function renderGeoLaunchMap() {
         },
         showframe: false,
         showcoastlines: true,
-        coastlinecolor: "#d1d5db",
+        coastlinecolor: "#cbd5e1",
+        showcountries: true,
+        countrycolor: "#ffffff",
         bgcolor: "white"
       }
     },

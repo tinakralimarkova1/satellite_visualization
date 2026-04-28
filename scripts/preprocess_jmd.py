@@ -95,6 +95,60 @@ def build_state_code_to_english_name(orgs_df: pd.DataFrame) -> dict[str, str]:
     return state_code_to_name
 
 
+def normalize_state_code(state_code: str) -> str:
+    if pd.isna(state_code):
+        return ""
+
+    value = str(state_code).strip()
+
+    if value == "SU":
+        return "RU"
+
+    return value
+
+
+def parse_org_codes(value: str) -> list[str]:
+    if pd.isna(value):
+        return []
+
+    return [
+        part.strip()
+        for part in str(value).split("/")
+        if part.strip() and part.strip() != "-"
+    ]
+
+
+def resolve_country_state_code(
+    state_value: str,
+    owner_value: str,
+    manufacturer_value: str,
+    code_to_state_code: dict[str, str],
+) -> str:
+    default_state_code = normalize_state_code(
+        code_to_state_code.get(str(state_value).strip(), str(state_value).strip())
+    )
+
+    owner_states = {
+        normalize_state_code(code_to_state_code.get(code, code))
+        for code in parse_org_codes(owner_value)
+    }
+    owner_states = {state for state in owner_states if state}
+
+    if len(owner_states) <= 1:
+        return default_state_code
+
+    manufacturer_states = [
+        normalize_state_code(code_to_state_code.get(code, code))
+        for code in parse_org_codes(manufacturer_value)
+    ]
+    manufacturer_states = [state for state in manufacturer_states if state]
+
+    if len(set(manufacturer_states)) == 1:
+        return manufacturer_states[0]
+
+    return default_state_code
+
+
 def map_class_label(class_value: str) -> str:
     class_map = {
         "A": "Academic",
@@ -142,10 +196,19 @@ def main() -> None:
     df = df.merge(psatcat_df, how="inner", on="#JCAT")
 
 
-    #Map country names to codes 
+    # Attribute cross-country multi-owner payloads to the manufacturer country.
     df["State"] = df["State"].astype(str).str.strip()
-    df["country_state_code"] = df["State"].map(code_to_state_code).fillna(df["State"])
-    df["country_state_code"] = df["country_state_code"].replace({"SU": "RU"})
+    df["Owner"] = df["Owner"].astype(str).str.strip()
+    df["Manufacturer"] = df["Manufacturer"].astype(str).str.strip()
+    df["country_state_code"] = df.apply(
+        lambda row: resolve_country_state_code(
+            state_value=row["State"],
+            owner_value=row["Owner"],
+            manufacturer_value=row["Manufacturer"],
+            code_to_state_code=code_to_state_code,
+        ),
+        axis=1,
+    )
     df["country_name"] = df["country_state_code"].map(state_code_to_name).fillna(df["country_state_code"])
 
     # ----------------------------

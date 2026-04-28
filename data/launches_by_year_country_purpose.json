@@ -673,9 +673,15 @@
   },
   {
     "year": 1974,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1974,
     "country": "Germany",
     "purpose": "Civil",
-    "count": 3
+    "count": 2
   },
   {
     "year": 1974,
@@ -1017,7 +1023,7 @@
     "year": 1978,
     "country": "Russia",
     "purpose": "Military",
-    "count": 110
+    "count": 109
   },
   {
     "year": 1978,
@@ -1042,6 +1048,12 @@
     "country": "United States",
     "purpose": "Military",
     "count": 15
+  },
+  {
+    "year": 1978,
+    "country": "VNIEM?",
+    "purpose": "Military",
+    "count": 1
   },
   {
     "year": 1979,
@@ -2541,7 +2553,7 @@
     "year": 1994,
     "country": "Russia",
     "purpose": "Civil",
-    "count": 18
+    "count": 16
   },
   {
     "year": 1994,
@@ -2560,6 +2572,12 @@
     "country": "Turkey",
     "purpose": "Civil",
     "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "Ukraine",
+    "purpose": "Civil",
+    "count": 2
   },
   {
     "year": 1994,
@@ -3099,7 +3117,7 @@
     "year": 1998,
     "country": "China",
     "purpose": "Commercial",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1998,
@@ -3129,6 +3147,12 @@
     "year": 1998,
     "country": "France",
     "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "France",
+    "purpose": "Commercial",
     "count": 1
   },
   {
@@ -3363,7 +3387,7 @@
     "year": 1999,
     "country": "Russia",
     "purpose": "Civil",
-    "count": 7
+    "count": 6
   },
   {
     "year": 1999,
@@ -3392,6 +3416,12 @@
   {
     "year": 1999,
     "country": "Taiwan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "Ukraine",
     "purpose": "Civil",
     "count": 1
   },
@@ -3663,7 +3693,7 @@
     "year": 2001,
     "country": "France",
     "purpose": "Commercial",
-    "count": 1
+    "count": 2
   },
   {
     "year": 2001,
@@ -3721,6 +3751,12 @@
   },
   {
     "year": 2001,
+    "country": "OSCD?",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2001,
     "country": "Pakistan",
     "purpose": "Civil",
     "count": 1
@@ -3735,7 +3771,7 @@
     "year": 2001,
     "country": "Russia",
     "purpose": "Civil",
-    "count": 15
+    "count": 14
   },
   {
     "year": 2001,
@@ -3757,8 +3793,8 @@
   },
   {
     "year": 2001,
-    "country": "Turkey",
-    "purpose": "Commercial",
+    "country": "Ukraine",
+    "purpose": "Civil",
     "count": 1
   },
   {
@@ -3789,7 +3825,7 @@
     "year": 2001,
     "country": "United States",
     "purpose": "Commercial",
-    "count": 7
+    "count": 6
   },
   {
     "year": 2001,
@@ -4131,7 +4167,7 @@
     "year": 2004,
     "country": "Brazil",
     "purpose": "Commercial",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2004,
@@ -4183,6 +4219,12 @@
   },
   {
     "year": 2004,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2004,
     "country": "India",
     "purpose": "Civil",
     "count": 1
@@ -4197,7 +4239,7 @@
     "year": 2004,
     "country": "Japan",
     "purpose": "Commercial",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2004,
@@ -4257,7 +4299,7 @@
     "year": 2004,
     "country": "United States",
     "purpose": "Commercial",
-    "count": 10
+    "count": 11
   },
   {
     "year": 2004,
@@ -4669,6 +4711,12 @@
   },
   {
     "year": 2007,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2007,
     "country": "Germany",
     "purpose": "Civil + Commercial",
     "count": 1
@@ -4742,12 +4790,6 @@
   {
     "year": 2007,
     "country": "Nigeria",
-    "purpose": "Civil",
-    "count": 1
-  },
-  {
-    "year": 2007,
-    "country": "RASCOM",
     "purpose": "Civil",
     "count": 1
   },
@@ -5059,12 +5101,6 @@
   },
   {
     "year": 2009,
-    "country": "Brazil",
-    "purpose": "Commercial",
-    "count": 1
-  },
-  {
-    "year": 2009,
     "country": "Canada",
     "purpose": "Commercial",
     "count": 2
@@ -5097,7 +5133,7 @@
     "year": 2009,
     "country": "France",
     "purpose": "Commercial",
-    "count": 3
+    "count": 4
   },
   {
     "year": 2009,
@@ -5259,7 +5295,7 @@
     "year": 2009,
     "country": "United Kingdom",
     "purpose": "Commercial",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2009,
@@ -5277,7 +5313,7 @@
     "year": 2009,
     "country": "United States",
     "purpose": "Commercial",
-    "count": 9
+    "count": 10
   },
   {
     "year": 2009,
@@ -5331,7 +5367,7 @@
     "year": 2010,
     "country": "France",
     "purpose": "Civil",
-    "count": 1
+    "count": 2
   },
   {
     "year": 2010,
@@ -5396,12 +5432,6 @@
   {
     "year": 2010,
     "country": "Norway",
-    "purpose": "Civil",
-    "count": 1
-  },
-  {
-    "year": 2010,
-    "country": "RASCOM",
     "purpose": "Civil",
     "count": 1
   },
@@ -5911,12 +5941,6 @@
   },
   {
     "year": 2012,
-    "country": "Sweden",
-    "purpose": "Commercial",
-    "count": 1
-  },
-  {
-    "year": 2012,
     "country": "Turkey",
     "purpose": "Military",
     "count": 1
@@ -5955,7 +5979,7 @@
     "year": 2012,
     "country": "United States",
     "purpose": "Commercial",
-    "count": 10
+    "count": 11
   },
   {
     "year": 2012,
@@ -5997,7 +6021,7 @@
     "year": 2013,
     "country": "Austria",
     "purpose": "Academic",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2013,
@@ -6013,8 +6037,8 @@
   },
   {
     "year": 2013,
-    "country": "Brazil",
-    "purpose": "Commercial",
+    "country": "Canada",
+    "purpose": "Academic",
     "count": 1
   },
   {
@@ -6075,6 +6099,12 @@
     "year": 2013,
     "country": "Estonia",
     "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "France",
+    "purpose": "Civil + Commercial",
     "count": 1
   },
   {
@@ -6187,12 +6217,6 @@
   },
   {
     "year": 2013,
-    "country": "Qatar",
-    "purpose": "Commercial",
-    "count": 1
-  },
-  {
-    "year": 2013,
     "country": "Russia",
     "purpose": "Academic",
     "count": 2
@@ -6266,12 +6290,6 @@
   {
     "year": 2013,
     "country": "United Kingdom",
-    "purpose": "Civil + Commercial",
-    "count": 1
-  },
-  {
-    "year": 2013,
-    "country": "United Kingdom",
     "purpose": "Commercial",
     "count": 8
   },
@@ -6291,7 +6309,7 @@
     "year": 2013,
     "country": "United States",
     "purpose": "Commercial",
-    "count": 19
+    "count": 21
   },
   {
     "year": 2013,
@@ -6321,18 +6339,12 @@
     "year": 2014,
     "country": "Belgium",
     "purpose": "Academic",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2014,
     "country": "Brazil",
     "purpose": "Civil",
-    "count": 1
-  },
-  {
-    "year": 2014,
-    "country": "Brazil",
-    "purpose": "Commercial",
     "count": 1
   },
   {
@@ -6559,6 +6571,12 @@
   },
   {
     "year": 2014,
+    "country": "Taiwan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2014,
     "country": "Thailand",
     "purpose": "Commercial",
     "count": 1
@@ -6603,7 +6621,7 @@
     "year": 2014,
     "country": "United States",
     "purpose": "Commercial",
-    "count": 84
+    "count": 85
   },
   {
     "year": 2014,
@@ -6663,7 +6681,7 @@
     "year": 2015,
     "country": "China",
     "purpose": "Civil",
-    "count": 4
+    "count": 5
   },
   {
     "year": 2015,
@@ -6699,7 +6717,7 @@
     "year": 2015,
     "country": "EU",
     "purpose": "Civil",
-    "count": 7
+    "count": 6
   },
   {
     "year": 2015,
@@ -6711,6 +6729,12 @@
     "year": 2015,
     "country": "France",
     "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2015,
+    "country": "Germany",
+    "purpose": "Civil",
     "count": 1
   },
   {
@@ -6763,12 +6787,6 @@
   },
   {
     "year": 2015,
-    "country": "Laos",
-    "purpose": "Civil",
-    "count": 1
-  },
-  {
-    "year": 2015,
     "country": "Mexico",
     "purpose": "Civil",
     "count": 1
@@ -6776,12 +6794,6 @@
   {
     "year": 2015,
     "country": "Mexico",
-    "purpose": "Commercial",
-    "count": 2
-  },
-  {
-    "year": 2015,
-    "country": "Monaco",
     "purpose": "Commercial",
     "count": 1
   },
@@ -6867,7 +6879,7 @@
     "year": 2015,
     "country": "United States",
     "purpose": "Commercial",
-    "count": 66
+    "count": 67
   },
   {
     "year": 2015,
@@ -6969,13 +6981,13 @@
     "year": 2016,
     "country": "EU",
     "purpose": "Civil",
-    "count": 8
+    "count": 6
   },
   {
     "year": 2016,
     "country": "France",
     "purpose": "Civil",
-    "count": 2
+    "count": 4
   },
   {
     "year": 2016,
@@ -7178,12 +7190,6 @@
   {
     "year": 2017,
     "country": "Brazil",
-    "purpose": "Commercial",
-    "count": 1
-  },
-  {
-    "year": 2017,
-    "country": "Brazil",
     "purpose": "Military",
     "count": 1
   },
@@ -7192,6 +7198,12 @@
     "country": "Bulgaria",
     "purpose": "Commercial",
     "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "CAST?",
+    "purpose": "Military",
+    "count": 2
   },
   {
     "year": 2017,
@@ -7227,7 +7239,7 @@
     "year": 2017,
     "country": "China",
     "purpose": "Military",
-    "count": 14
+    "count": 12
   },
   {
     "year": 2017,
@@ -7239,7 +7251,7 @@
     "year": 2017,
     "country": "EU",
     "purpose": "Civil",
-    "count": 6
+    "count": 4
   },
   {
     "year": 2017,
@@ -7257,13 +7269,19 @@
     "year": 2017,
     "country": "France",
     "purpose": "Commercial",
-    "count": 1
+    "count": 2
   },
   {
     "year": 2017,
     "country": "Germany",
     "purpose": "Academic",
     "count": 4
+  },
+  {
+    "year": 2017,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
   },
   {
     "year": 2017,
@@ -7544,6 +7562,12 @@
   {
     "year": 2017,
     "country": "United Kingdom",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "United Kingdom",
     "purpose": "Commercial",
     "count": 6
   },
@@ -7593,7 +7617,7 @@
     "year": 2018,
     "country": "Australia",
     "purpose": "Commercial",
-    "count": 5
+    "count": 4
   },
   {
     "year": 2018,
@@ -7645,6 +7669,12 @@
   },
   {
     "year": 2018,
+    "country": "CAST?",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2018,
     "country": "Canada",
     "purpose": "Commercial",
     "count": 5
@@ -7671,7 +7701,7 @@
     "year": 2018,
     "country": "China",
     "purpose": "Military",
-    "count": 40
+    "count": 38
   },
   {
     "year": 2018,
@@ -7719,7 +7749,7 @@
     "year": 2018,
     "country": "EU",
     "purpose": "Civil",
-    "count": 5
+    "count": 4
   },
   {
     "year": 2018,
@@ -7748,6 +7778,12 @@
   {
     "year": 2018,
     "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "France",
     "purpose": "Military",
     "count": 1
   },
@@ -7761,7 +7797,7 @@
     "year": 2018,
     "country": "Germany",
     "purpose": "Civil",
-    "count": 1
+    "count": 3
   },
   {
     "year": 2018,
@@ -8031,13 +8067,13 @@
     "year": 2018,
     "country": "United States",
     "purpose": "Civil",
-    "count": 16
+    "count": 14
   },
   {
     "year": 2018,
     "country": "United States",
     "purpose": "Commercial",
-    "count": 121
+    "count": 122
   },
   {
     "year": 2018,
@@ -8091,13 +8127,13 @@
     "year": 2019,
     "country": "China",
     "purpose": "Civil",
-    "count": 10
+    "count": 11
   },
   {
     "year": 2019,
     "country": "China",
     "purpose": "Commercial",
-    "count": 42
+    "count": 44
   },
   {
     "year": 2019,
@@ -8181,13 +8217,7 @@
     "year": 2019,
     "country": "Germany",
     "purpose": "Commercial",
-    "count": 6
-  },
-  {
-    "year": 2019,
-    "country": "Greece",
-    "purpose": "Civil + Commercial",
-    "count": 1
+    "count": 4
   },
   {
     "year": 2019,
@@ -8235,7 +8265,7 @@
     "year": 2019,
     "country": "Israel",
     "purpose": "Commercial",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2019,
@@ -8259,25 +8289,19 @@
     "year": 2019,
     "country": "Japan",
     "purpose": "Civil",
-    "count": 2
+    "count": 3
   },
   {
     "year": 2019,
     "country": "Japan",
     "purpose": "Commercial",
-    "count": 5
+    "count": 4
   },
   {
     "year": 2019,
     "country": "Lithuania",
     "purpose": "Commercial",
-    "count": 2
-  },
-  {
-    "year": 2019,
-    "country": "Luxembourg",
-    "purpose": "Commercial",
-    "count": 4
+    "count": 1
   },
   {
     "year": 2019,
@@ -8335,12 +8359,6 @@
   },
   {
     "year": 2019,
-    "country": "Rwanda",
-    "purpose": "Civil",
-    "count": 1
-  },
-  {
-    "year": 2019,
     "country": "Singapore",
     "purpose": "Academic",
     "count": 1
@@ -8354,12 +8372,6 @@
   {
     "year": 2019,
     "country": "Sri Lanka",
-    "purpose": "Civil",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "country": "Sudan",
     "purpose": "Civil",
     "count": 1
   },
@@ -8391,7 +8403,7 @@
     "year": 2019,
     "country": "United Kingdom",
     "purpose": "Commercial",
-    "count": 13
+    "count": 18
   },
   {
     "year": 2019,
@@ -8408,8 +8420,14 @@
   {
     "year": 2019,
     "country": "United States",
+    "purpose": "Civil + Commercial",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "United States",
     "purpose": "Commercial",
-    "count": 197
+    "count": 199
   },
   {
     "year": 2019,
@@ -8503,12 +8521,6 @@
   },
   {
     "year": 2020,
-    "country": "EU",
-    "purpose": "Civil",
-    "count": 1
-  },
-  {
-    "year": 2020,
     "country": "Estonia",
     "purpose": "Academic",
     "count": 1
@@ -8547,6 +8559,12 @@
     "year": 2020,
     "country": "Germany",
     "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Germany",
+    "purpose": "Civil",
     "count": 1
   },
   {
@@ -8619,19 +8637,13 @@
     "year": 2020,
     "country": "Lithuania",
     "purpose": "Commercial",
-    "count": 1
+    "count": 2
   },
   {
     "year": 2020,
     "country": "Luxembourg",
     "purpose": "Commercial",
-    "count": 7
-  },
-  {
-    "year": 2020,
-    "country": "Luxembourg",
-    "purpose": "Military",
-    "count": 1
+    "count": 4
   },
   {
     "year": 2020,
@@ -8727,7 +8739,13 @@
     "year": 2020,
     "country": "United Kingdom",
     "purpose": "Commercial",
-    "count": 105
+    "count": 107
+  },
+  {
+    "year": 2020,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 1
   },
   {
     "year": 2020,
@@ -8829,7 +8847,7 @@
     "year": 2021,
     "country": "China",
     "purpose": "Commercial",
-    "count": 33
+    "count": 35
   },
   {
     "year": 2021,
@@ -8889,7 +8907,7 @@
     "year": 2021,
     "country": "Germany",
     "purpose": "Commercial",
-    "count": 3
+    "count": 1
   },
   {
     "year": 2021,
@@ -8937,7 +8955,7 @@
     "year": 2021,
     "country": "Japan",
     "purpose": "Commercial",
-    "count": 14
+    "count": 13
   },
   {
     "year": 2021,
@@ -8949,13 +8967,13 @@
     "year": 2021,
     "country": "Lithuania",
     "purpose": "Commercial",
-    "count": 1
+    "count": 2
   },
   {
     "year": 2021,
     "country": "Luxembourg",
     "purpose": "Commercial",
-    "count": 12
+    "count": 5
   },
   {
     "year": 2021,
@@ -9153,7 +9171,7 @@
     "year": 2021,
     "country": "United Kingdom",
     "purpose": "Commercial",
-    "count": 288
+    "count": 295
   },
   {
     "year": 2021,
@@ -9213,12 +9231,6 @@
     "year": 2022,
     "country": "Australia",
     "purpose": "Commercial",
-    "count": 3
-  },
-  {
-    "year": 2022,
-    "country": "Bhutan",
-    "purpose": "Civil",
     "count": 1
   },
   {
@@ -9238,12 +9250,6 @@
     "country": "Brazil",
     "purpose": "Commercial",
     "count": 1
-  },
-  {
-    "year": 2022,
-    "country": "Brazil",
-    "purpose": "Military",
-    "count": 2
   },
   {
     "year": 2022,
@@ -9307,12 +9313,6 @@
   },
   {
     "year": 2022,
-    "country": "Czech Republic",
-    "purpose": "Commercial",
-    "count": 1
-  },
-  {
-    "year": 2022,
     "country": "EUMETSAT",
     "purpose": "Civil",
     "count": 1
@@ -9334,6 +9334,12 @@
     "country": "Finland",
     "purpose": "Commercial",
     "count": 3
+  },
+  {
+    "year": 2022,
+    "country": "Finland",
+    "purpose": "Military",
+    "count": 2
   },
   {
     "year": 2022,
@@ -9381,7 +9387,7 @@
     "year": 2022,
     "country": "India",
     "purpose": "Civil",
-    "count": 4
+    "count": 5
   },
   {
     "year": 2022,
@@ -9464,14 +9470,8 @@
   {
     "year": 2022,
     "country": "Luxembourg",
-    "purpose": "Academic",
-    "count": 1
-  },
-  {
-    "year": 2022,
-    "country": "Luxembourg",
     "purpose": "Commercial",
-    "count": 12
+    "count": 7
   },
   {
     "year": 2022,
@@ -9519,7 +9519,7 @@
     "year": 2022,
     "country": "Poland",
     "purpose": "Commercial",
-    "count": 5
+    "count": 6
   },
   {
     "year": 2022,
@@ -9562,6 +9562,12 @@
     "country": "Singapore",
     "purpose": "Military",
     "count": 2
+  },
+  {
+    "year": 2022,
+    "country": "Slovakia",
+    "purpose": "Commercial",
+    "count": 1
   },
   {
     "year": 2022,
@@ -9656,8 +9662,14 @@
   {
     "year": 2022,
     "country": "United Kingdom",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "United Kingdom",
     "purpose": "Commercial",
-    "count": 115
+    "count": 121
   },
   {
     "year": 2022,
@@ -9753,7 +9765,7 @@
     "year": 2023,
     "country": "Brazil",
     "purpose": "Commercial",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2023,
@@ -9823,12 +9835,6 @@
   },
   {
     "year": 2023,
-    "country": "Djibouti",
-    "purpose": "Civil",
-    "count": 1
-  },
-  {
-    "year": 2023,
     "country": "ESA",
     "purpose": "Civil",
     "count": 3
@@ -9861,13 +9867,13 @@
     "year": 2023,
     "country": "France",
     "purpose": "Civil",
-    "count": 2
+    "count": 3
   },
   {
     "year": 2023,
     "country": "France",
     "purpose": "Commercial",
-    "count": 7
+    "count": 8
   },
   {
     "year": 2023,
@@ -9957,7 +9963,7 @@
     "year": 2023,
     "country": "Israel",
     "purpose": "Commercial",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2023,
@@ -10016,20 +10022,20 @@
   {
     "year": 2023,
     "country": "Lithuania",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Lithuania",
     "purpose": "Commercial",
     "count": 3
   },
   {
     "year": 2023,
     "country": "Luxembourg",
-    "purpose": "Academic",
-    "count": 1
-  },
-  {
-    "year": 2023,
-    "country": "Luxembourg",
     "purpose": "Commercial",
-    "count": 16
+    "count": 14
   },
   {
     "year": 2023,
@@ -10042,12 +10048,6 @@
     "country": "Monaco",
     "purpose": "Commercial",
     "count": 1
-  },
-  {
-    "year": 2023,
-    "country": "Netherlands",
-    "purpose": "Civil",
-    "count": 2
   },
   {
     "year": 2023,
@@ -10232,8 +10232,14 @@
   {
     "year": 2023,
     "country": "United Kingdom",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "United Kingdom",
     "purpose": "Commercial",
-    "count": 150
+    "count": 156
   },
   {
     "year": 2023,
@@ -10251,7 +10257,7 @@
     "year": 2023,
     "country": "United States",
     "purpose": "Commercial",
-    "count": 2172
+    "count": 2169
   },
   {
     "year": 2023,
@@ -10288,12 +10294,6 @@
     "country": "Belgium",
     "purpose": "Commercial",
     "count": 4
-  },
-  {
-    "year": 2024,
-    "country": "Brazil",
-    "purpose": "Commercial",
-    "count": 2
   },
   {
     "year": 2024,
@@ -10351,12 +10351,6 @@
   },
   {
     "year": 2024,
-    "country": "Djibouti",
-    "purpose": "Civil",
-    "count": 1
-  },
-  {
-    "year": 2024,
     "country": "ESA",
     "purpose": "Civil",
     "count": 6
@@ -10365,7 +10359,7 @@
     "year": 2024,
     "country": "EU",
     "purpose": "Civil",
-    "count": 6
+    "count": 4
   },
   {
     "year": 2024,
@@ -10377,13 +10371,19 @@
     "year": 2024,
     "country": "Finland",
     "purpose": "Commercial",
-    "count": 4
+    "count": 7
   },
   {
     "year": 2024,
     "country": "France",
     "purpose": "Academic",
     "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 3
   },
   {
     "year": 2024,
@@ -10396,6 +10396,12 @@
     "country": "Germany",
     "purpose": "Academic",
     "count": 3
+  },
+  {
+    "year": 2024,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
   },
   {
     "year": 2024,
@@ -10497,7 +10503,7 @@
     "year": 2024,
     "country": "Luxembourg",
     "purpose": "Commercial",
-    "count": 7
+    "count": 3
   },
   {
     "year": 2024,
@@ -10516,12 +10522,6 @@
     "country": "Norway",
     "purpose": "Civil",
     "count": 1
-  },
-  {
-    "year": 2024,
-    "country": "Norway",
-    "purpose": "Commercial",
-    "count": 2
   },
   {
     "year": 2024,
@@ -10569,7 +10569,7 @@
     "year": 2024,
     "country": "Russia",
     "purpose": "Civil",
-    "count": 13
+    "count": 14
   },
   {
     "year": 2024,
@@ -10587,12 +10587,6 @@
     "year": 2024,
     "country": "Rwanda",
     "purpose": "Commercial",
-    "count": 1
-  },
-  {
-    "year": 2024,
-    "country": "Senegal",
-    "purpose": "Civil",
     "count": 1
   },
   {
@@ -10623,6 +10617,12 @@
     "year": 2024,
     "country": "Spain",
     "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Spain",
+    "purpose": "Civil",
     "count": 1
   },
   {
@@ -10676,14 +10676,8 @@
   {
     "year": 2024,
     "country": "United Kingdom",
-    "purpose": "Civil",
-    "count": 1
-  },
-  {
-    "year": 2024,
-    "country": "United Kingdom",
     "purpose": "Commercial",
-    "count": 30
+    "count": 40
   },
   {
     "year": 2024,
@@ -10701,7 +10695,7 @@
     "year": 2024,
     "country": "United States",
     "purpose": "Commercial",
-    "count": 2087
+    "count": 2082
   },
   {
     "year": 2024,
@@ -10714,12 +10708,6 @@
     "country": "Uruguay",
     "purpose": "Commercial",
     "count": 4
-  },
-  {
-    "year": 2024,
-    "country": "Zimbabwe",
-    "purpose": "Civil",
-    "count": 1
   },
   {
     "year": 2025,
@@ -10738,6 +10726,12 @@
     "country": "Azerbaijan",
     "purpose": "Academic",
     "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "BGN",
+    "purpose": "Commercial",
+    "count": 2
   },
   {
     "year": 2025,
@@ -10785,7 +10779,7 @@
     "year": 2025,
     "country": "China",
     "purpose": "Civil",
-    "count": 158
+    "count": 159
   },
   {
     "year": 2025,
@@ -10839,7 +10833,7 @@
     "year": 2025,
     "country": "EU",
     "purpose": "Civil",
-    "count": 4
+    "count": 2
   },
   {
     "year": 2025,
@@ -10875,13 +10869,13 @@
     "year": 2025,
     "country": "France",
     "purpose": "Civil",
-    "count": 6
+    "count": 7
   },
   {
     "year": 2025,
     "country": "France",
     "purpose": "Commercial",
-    "count": 18
+    "count": 19
   },
   {
     "year": 2025,
@@ -10899,7 +10893,7 @@
     "year": 2025,
     "country": "Germany",
     "purpose": "Civil",
-    "count": 1
+    "count": 2
   },
   {
     "year": 2025,
@@ -10981,12 +10975,6 @@
   },
   {
     "year": 2025,
-    "country": "Ireland",
-    "purpose": "Commercial",
-    "count": 1
-  },
-  {
-    "year": 2025,
     "country": "Israel",
     "purpose": "Academic",
     "count": 6
@@ -11025,7 +11013,7 @@
     "year": 2025,
     "country": "Japan",
     "purpose": "Academic",
-    "count": 10
+    "count": 11
   },
   {
     "year": 2025,
@@ -11042,6 +11030,12 @@
   {
     "year": 2025,
     "country": "Kuwait",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Lithuania",
     "purpose": "Commercial",
     "count": 1
   },
@@ -11065,18 +11059,6 @@
   },
   {
     "year": 2025,
-    "country": "Malaysia",
-    "purpose": "Civil",
-    "count": 1
-  },
-  {
-    "year": 2025,
-    "country": "Malaysia",
-    "purpose": "Commercial",
-    "count": 1
-  },
-  {
-    "year": 2025,
     "country": "Mexico",
     "purpose": "Academic",
     "count": 1
@@ -11091,6 +11073,12 @@
     "year": 2025,
     "country": "Nepal",
     "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Netherlands",
+    "purpose": "Civil",
     "count": 1
   },
   {
@@ -11197,12 +11185,6 @@
   },
   {
     "year": 2025,
-    "country": "Solomon Is.",
-    "purpose": "Academic",
-    "count": 1
-  },
-  {
-    "year": 2025,
     "country": "South Korea",
     "purpose": "Academic",
     "count": 4
@@ -11241,7 +11223,7 @@
     "year": 2025,
     "country": "Spain",
     "purpose": "Commercial",
-    "count": 8
+    "count": 11
   },
   {
     "year": 2025,
@@ -11253,7 +11235,7 @@
     "year": 2025,
     "country": "Switzerland",
     "purpose": "Commercial",
-    "count": 4
+    "count": 1
   },
   {
     "year": 2025,
@@ -11272,12 +11254,6 @@
     "country": "Taiwan",
     "purpose": "Commercial",
     "count": 4
-  },
-  {
-    "year": 2025,
-    "country": "Thailand",
-    "purpose": "Academic",
-    "count": 1
   },
   {
     "year": 2025,
@@ -11318,20 +11294,14 @@
   {
     "year": 2025,
     "country": "United Kingdom",
-    "purpose": "Civil",
-    "count": 1
-  },
-  {
-    "year": 2025,
-    "country": "United Kingdom",
     "purpose": "Commercial",
-    "count": 10
+    "count": 16
   },
   {
     "year": 2025,
     "country": "United States",
     "purpose": "Academic",
-    "count": 15
+    "count": 16
   },
   {
     "year": 2025,
@@ -11343,7 +11313,7 @@
     "year": 2025,
     "country": "United States",
     "purpose": "Commercial",
-    "count": 3523
+    "count": 3514
   },
   {
     "year": 2025,
@@ -11355,7 +11325,7 @@
     "year": 2025,
     "country": "Uruguay",
     "purpose": "Commercial",
-    "count": 4
+    "count": 5
   },
   {
     "year": 2026,
