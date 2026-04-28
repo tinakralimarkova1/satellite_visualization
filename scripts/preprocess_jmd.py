@@ -12,6 +12,7 @@ INPUT_ORGS_CSV = BASE_DIR / "data" / "JMD_orgs.csv"
 OUTPUT_JSON = BASE_DIR / "data" / "launches_by_year.json"
 OUTPUT_JSON_COUNTRY = BASE_DIR / "data" / "launches_by_year_country.json"
 OUTPUT_JSON_PURPOSE = BASE_DIR / "data" / "launches_by_year_purpose.json"
+OUTPUT_JSON_COUNTRY_PURPOSE = BASE_DIR / "data" / "launches_by_year_country_purpose.json"
 
 
 def clean_main_satcat(df: pd.DataFrame) -> pd.DataFrame:
@@ -232,6 +233,35 @@ def main() -> None:
         json.dump(output_purpose, f, indent=2)
 
     print(f"Wrote {len(output_purpose)} rows to {OUTPUT_JSON_PURPOSE}")
+
+    # ----------------------------
+    # 4) Launches per year per country per purpose
+    # ----------------------------
+    df_country_purpose = df.dropna(subset=["Year", "country_name"])
+
+    launches_by_country_purpose = (
+        df_country_purpose
+        .groupby(["Year", "country_name", "purpose"])
+        .size()
+        .reset_index(name="count")
+    )
+
+    launches_by_country_purpose["Year"] = launches_by_country_purpose["Year"].astype(int)
+
+    output_country_purpose = [
+        {
+            "year": int(row["Year"]),
+            "country": str(row["country_name"]),
+            "purpose": str(row["purpose"]),
+            "count": int(row["count"]),
+        }
+        for _, row in launches_by_country_purpose.iterrows()
+    ]
+
+    with open(OUTPUT_JSON_COUNTRY_PURPOSE, "w", encoding="utf-8") as f:
+        json.dump(output_country_purpose, f, indent=2)
+
+    print(f"Wrote {len(output_country_purpose)} rows to {OUTPUT_JSON_COUNTRY_PURPOSE}")
 
 
 if __name__ == "__main__":

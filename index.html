@@ -72,6 +72,33 @@
         </div>
         <div id="chart-launches-geo" class="chart"></div>
       </section>
+
+      <section class="chart-card composite-card">
+        <div class="card-header">
+          <h2>Country Launch Profiles</h2>
+          <p>Click countries on the map or add them below to compare launch timelines by purpose. Up to five countries can be shown at once.</p>
+        </div>
+        <div class="country-profiles">
+          <div id="chart-country-profiles-map" class="chart chart-map"></div>
+          <div id="country-profile-purpose-legend" class="country-profile-purpose-legend"></div>
+          <div id="country-profile-grid" class="country-profile-grid"></div>
+          <div id="country-profile-selected" class="country-profile-selected"></div>
+          <div class="country-profile-toolbar">
+            <div class="country-profile-add">
+              <label for="country-profile-search">Add a country</label>
+              <div class="country-profile-input-row">
+                <input id="country-profile-search" list="country-profile-options" placeholder="Type a country name" />
+                <button id="country-profile-add-button" type="button">Add</button>
+              </div>
+              <datalist id="country-profile-options"></datalist>
+            </div>
+            <div class="country-profile-meta">
+              <p id="country-profile-helper">Select up to 5 countries.</p>
+              <button id="country-profile-clear-button" type="button">Clear Selection</button>
+            </div>
+          </div>
+        </div>
+      </section>
       
     </main>
   </div>

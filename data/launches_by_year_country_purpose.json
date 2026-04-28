@@ -1,0 +1,11504 @@
+[
+  {
+    "year": 1957,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1958,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1958,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 1958,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1959,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1959,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 1959,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 7
+  },
+  {
+    "year": 1960,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1960,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 1960,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 13
+  },
+  {
+    "year": 1961,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 1961,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1961,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 11
+  },
+  {
+    "year": 1961,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 25
+  },
+  {
+    "year": 1962,
+    "country": "Canada",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1962,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 10
+  },
+  {
+    "year": 1962,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 10
+  },
+  {
+    "year": 1962,
+    "country": "United Kingdom",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1962,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1962,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 17
+  },
+  {
+    "year": 1962,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1962,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 41
+  },
+  {
+    "year": 1963,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 7
+  },
+  {
+    "year": 1963,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 10
+  },
+  {
+    "year": 1963,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 16
+  },
+  {
+    "year": 1963,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1963,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 41
+  },
+  {
+    "year": 1964,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1964,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 13
+  },
+  {
+    "year": 1964,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 22
+  },
+  {
+    "year": 1964,
+    "country": "United Kingdom",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1964,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 24
+  },
+  {
+    "year": 1964,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 47
+  },
+  {
+    "year": 1965,
+    "country": "Canada",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1965,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1965,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1965,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 13
+  },
+  {
+    "year": 1965,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 51
+  },
+  {
+    "year": 1965,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 1965,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 30
+  },
+  {
+    "year": 1965,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 66
+  },
+  {
+    "year": 1966,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1966,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1966,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 13
+  },
+  {
+    "year": 1966,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 31
+  },
+  {
+    "year": 1966,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 37
+  },
+  {
+    "year": 1966,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 62
+  },
+  {
+    "year": 1967,
+    "country": "Australia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1967,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1967,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1967,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1967,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 14
+  },
+  {
+    "year": 1967,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 52
+  },
+  {
+    "year": 1967,
+    "country": "United Kingdom",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1967,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 29
+  },
+  {
+    "year": 1967,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 57
+  },
+  {
+    "year": 1968,
+    "country": "ESRO",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1968,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1968,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 20
+  },
+  {
+    "year": 1968,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 56
+  },
+  {
+    "year": 1968,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 29
+  },
+  {
+    "year": 1968,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 39
+  },
+  {
+    "year": 1969,
+    "country": "Canada",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1969,
+    "country": "ESRO",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1969,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1969,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1969,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 12
+  },
+  {
+    "year": 1969,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 58
+  },
+  {
+    "year": 1969,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1969,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 31
+  },
+  {
+    "year": 1969,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 36
+  },
+  {
+    "year": 1970,
+    "country": "Australia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1970,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1970,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "NATO",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 21
+  },
+  {
+    "year": 1970,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 70
+  },
+  {
+    "year": 1970,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1970,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 10
+  },
+  {
+    "year": 1970,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 22
+  },
+  {
+    "year": 1971,
+    "country": "Canada",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1971,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1971,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1971,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1971,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1971,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1971,
+    "country": "NATO",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1971,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 19
+  },
+  {
+    "year": 1971,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 84
+  },
+  {
+    "year": 1971,
+    "country": "United Kingdom",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1971,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 20
+  },
+  {
+    "year": 1971,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 26
+  },
+  {
+    "year": 1972,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "ESRO",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1972,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1972,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 16
+  },
+  {
+    "year": 1972,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 81
+  },
+  {
+    "year": 1972,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 16
+  },
+  {
+    "year": 1972,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 17
+  },
+  {
+    "year": 1973,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1973,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1973,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 19
+  },
+  {
+    "year": 1973,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 96
+  },
+  {
+    "year": 1973,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 13
+  },
+  {
+    "year": 1973,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 14
+  },
+  {
+    "year": 1974,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1974,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1974,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1974,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1974,
+    "country": "Netherlands",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1974,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 15
+  },
+  {
+    "year": 1974,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 85
+  },
+  {
+    "year": 1974,
+    "country": "Spain",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1974,
+    "country": "United Kingdom",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1974,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 1974,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1974,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 1974,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1974,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 10
+  },
+  {
+    "year": 1975,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1975,
+    "country": "China",
+    "purpose": "Military",
+    "count": 3
+  },
+  {
+    "year": 1975,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1975,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 1975,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1975,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1975,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1975,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 20
+  },
+  {
+    "year": 1975,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 101
+  },
+  {
+    "year": 1975,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 17
+  },
+  {
+    "year": 1975,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1975,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 12
+  },
+  {
+    "year": 1976,
+    "country": "Canada",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1976,
+    "country": "China",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 1976,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1976,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1976,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1976,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1976,
+    "country": "NATO",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1976,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 14
+  },
+  {
+    "year": 1976,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 154
+  },
+  {
+    "year": 1976,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 1976,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 1976,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 18
+  },
+  {
+    "year": 1977,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1977,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1977,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1977,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1977,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1977,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 1977,
+    "country": "NATO",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1977,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 18
+  },
+  {
+    "year": 1977,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 135
+  },
+  {
+    "year": 1977,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 1977,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 15
+  },
+  {
+    "year": 1978,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1978,
+    "country": "China",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1978,
+    "country": "Czech Republic",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1978,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1978,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1978,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 1978,
+    "country": "NATO",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1978,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 24
+  },
+  {
+    "year": 1978,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 110
+  },
+  {
+    "year": 1978,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1978,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 16
+  },
+  {
+    "year": 1978,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1978,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 15
+  },
+  {
+    "year": 1979,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1979,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1979,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1979,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 36
+  },
+  {
+    "year": 1979,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 95
+  },
+  {
+    "year": 1979,
+    "country": "United Kingdom",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1979,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 1979,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1979,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 9
+  },
+  {
+    "year": 1980,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1980,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1980,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1980,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 28
+  },
+  {
+    "year": 1980,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 129
+  },
+  {
+    "year": 1980,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1980,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1980,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 12
+  },
+  {
+    "year": 1981,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1981,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 1981,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1981,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1981,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1981,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 7
+  },
+  {
+    "year": 1981,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 26
+  },
+  {
+    "year": 1981,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 117
+  },
+  {
+    "year": 1981,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1981,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 7
+  },
+  {
+    "year": 1981,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 1981,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 7
+  },
+  {
+    "year": 1982,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1982,
+    "country": "China",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1982,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1982,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1982,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1982,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 1982,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 25
+  },
+  {
+    "year": 1982,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 161
+  },
+  {
+    "year": 1982,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 1982,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 1982,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 9
+  },
+  {
+    "year": 1983,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1983,
+    "country": "China",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1983,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1983,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1983,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1983,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1983,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1983,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1983,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1983,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 30
+  },
+  {
+    "year": 1983,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 160
+  },
+  {
+    "year": 1983,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 8
+  },
+  {
+    "year": 1983,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 1983,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 16
+  },
+  {
+    "year": 1984,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1984,
+    "country": "China",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "EUTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1984,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1984,
+    "country": "NATO",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 25
+  },
+  {
+    "year": 1984,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 118
+  },
+  {
+    "year": 1984,
+    "country": "United Kingdom",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1984,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 11
+  },
+  {
+    "year": 1984,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 8
+  },
+  {
+    "year": 1984,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 15
+  },
+  {
+    "year": 1985,
+    "country": "ARABSAT",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1985,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1985,
+    "country": "Brazil",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1985,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1985,
+    "country": "China",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1985,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1985,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1985,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1985,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1985,
+    "country": "Mexico",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1985,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 26
+  },
+  {
+    "year": 1985,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 117
+  },
+  {
+    "year": 1985,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 13
+  },
+  {
+    "year": 1985,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 7
+  },
+  {
+    "year": 1985,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 11
+  },
+  {
+    "year": 1986,
+    "country": "Brazil",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1986,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1986,
+    "country": "China",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1986,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1986,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1986,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1986,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 22
+  },
+  {
+    "year": 1986,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 118
+  },
+  {
+    "year": 1986,
+    "country": "Sweden",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1986,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1986,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1986,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 7
+  },
+  {
+    "year": 1987,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1987,
+    "country": "China",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 1987,
+    "country": "EUTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1987,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1987,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1987,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1987,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 26
+  },
+  {
+    "year": 1987,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 92
+  },
+  {
+    "year": 1987,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1987,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 11
+  },
+  {
+    "year": 1988,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1988,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "China",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 1988,
+    "country": "EUMETSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "EUTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1988,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1988,
+    "country": "Israel",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1988,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 28
+  },
+  {
+    "year": 1988,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 137
+  },
+  {
+    "year": 1988,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1988,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 1988,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 1988,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 14
+  },
+  {
+    "year": 1989,
+    "country": "Czech Republic",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1989,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1989,
+    "country": "EUMETSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1989,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1989,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1989,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1989,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1989,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 23
+  },
+  {
+    "year": 1989,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 123
+  },
+  {
+    "year": 1989,
+    "country": "Sweden",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1989,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1989,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 9
+  },
+  {
+    "year": 1989,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 15
+  },
+  {
+    "year": 1990,
+    "country": "Argentina",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "Brazil",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1990,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "China",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "EUTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1990,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1990,
+    "country": "INMARSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1990,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "Israel",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 1990,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "Pakistan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 24
+  },
+  {
+    "year": 1990,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 122
+  },
+  {
+    "year": 1990,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 1990,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 1990,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1990,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 10
+  },
+  {
+    "year": 1990,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 1990,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 22
+  },
+  {
+    "year": 1991,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1991,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "Czech Republic",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "EUMETSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "EUTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1991,
+    "country": "France",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "INMARSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1991,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1991,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1991,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "NATO",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 25
+  },
+  {
+    "year": 1991,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 59
+  },
+  {
+    "year": 1991,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1991,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 11
+  },
+  {
+    "year": 1991,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 1991,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 21
+  },
+  {
+    "year": 1992,
+    "country": "ARABSAT",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "Canada",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "China",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 1992,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "EUTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1992,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "INMARSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1992,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1992,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1992,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 23
+  },
+  {
+    "year": 1992,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 57
+  },
+  {
+    "year": 1992,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "Sweden",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1992,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 12
+  },
+  {
+    "year": 1992,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 1992,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 12
+  },
+  {
+    "year": 1993,
+    "country": "Brazil",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "China",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "EUMETSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "France",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1993,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "Italy",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "Italy",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "Mexico",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "NATO",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "Portugal",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 16
+  },
+  {
+    "year": 1993,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 42
+  },
+  {
+    "year": 1993,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "Thailand",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1993,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 14
+  },
+  {
+    "year": 1993,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 7
+  },
+  {
+    "year": 1993,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 11
+  },
+  {
+    "year": 1994,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "Brazil",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1994,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "China",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1994,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1994,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1994,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1994,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "Mexico",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 18
+  },
+  {
+    "year": 1994,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 45
+  },
+  {
+    "year": 1994,
+    "country": "Thailand",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "Turkey",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1994,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 1994,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 19
+  },
+  {
+    "year": 1994,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 1994,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 13
+  },
+  {
+    "year": 1995,
+    "country": "Brazil",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "Canada",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "Czech Republic",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1995,
+    "country": "EUTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "France",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 1995,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1995,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1995,
+    "country": "Israel",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1995,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1995,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 14
+  },
+  {
+    "year": 1995,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 41
+  },
+  {
+    "year": 1995,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "Spain",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "Sweden",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "Ukraine",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 17
+  },
+  {
+    "year": 1995,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 11
+  },
+  {
+    "year": 1995,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 10
+  },
+  {
+    "year": 1996,
+    "country": "ARABSAT",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1996,
+    "country": "Argentina",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "China",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "Czech Republic",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "EUTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "INMARSAT",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1996,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1996,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1996,
+    "country": "Israel",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1996,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "Malaysia",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1996,
+    "country": "Mexico",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 11
+  },
+  {
+    "year": 1996,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 1996,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 13
+  },
+  {
+    "year": 1996,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "Turkey",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 19
+  },
+  {
+    "year": 1996,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 1996,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 15
+  },
+  {
+    "year": 1997,
+    "country": "Argentina",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1997,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 1997,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1997,
+    "country": "EUMETSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "EUTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1997,
+    "country": "INMARSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 1997,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1997,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1997,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 1997,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "Norway",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "Phillipines",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 12
+  },
+  {
+    "year": 1997,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 1997,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 10
+  },
+  {
+    "year": 1997,
+    "country": "Spain",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "Sweden",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "Thailand",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1997,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 16
+  },
+  {
+    "year": 1997,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 65
+  },
+  {
+    "year": 1997,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 7
+  },
+  {
+    "year": 1998,
+    "country": "Argentina",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "Australia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "Brazil",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1998,
+    "country": "Chile",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1998,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "EUTELSAT",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1998,
+    "country": "Egypt",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "France",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 1998,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "INMARSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "INTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1998,
+    "country": "Israel",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1998,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "Mexico",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "Norway",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 9
+  },
+  {
+    "year": 1998,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1998,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 16
+  },
+  {
+    "year": 1998,
+    "country": "Singapore",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "Sweden",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "Sweden",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "Thailand",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1998,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 16
+  },
+  {
+    "year": 1998,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 73
+  },
+  {
+    "year": 1998,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 8
+  },
+  {
+    "year": 1999,
+    "country": "ARABSAT",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "Brazil",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 1999,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "Denmark",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "EUTELSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "France",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 1999,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1999,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 1999,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "Italy",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 7
+  },
+  {
+    "year": 1999,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 1999,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 5
+  },
+  {
+    "year": 1999,
+    "country": "South Africa",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 1999,
+    "country": "Taiwan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 1999,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 16
+  },
+  {
+    "year": 1999,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 60
+  },
+  {
+    "year": 1999,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 7
+  },
+  {
+    "year": 2000,
+    "country": "Argentina",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Brazil",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "China",
+    "purpose": "Military",
+    "count": 4
+  },
+  {
+    "year": 2000,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2000,
+    "country": "EUTELSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2000,
+    "country": "EUTELSAT",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Egypt",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Israel",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2000,
+    "country": "Italy",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2000,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2000,
+    "country": "Malaysia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 11
+  },
+  {
+    "year": 2000,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2000,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 9
+  },
+  {
+    "year": 2000,
+    "country": "Saudi Arabia",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2000,
+    "country": "Spain",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "Sweden",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "UAE",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2000,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2000,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2000,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 6
+  },
+  {
+    "year": 2000,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 14
+  },
+  {
+    "year": 2000,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 19
+  },
+  {
+    "year": 2000,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 14
+  },
+  {
+    "year": 2001,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2001,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2001,
+    "country": "EUTELSAT",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "INTELSAT",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "India",
+    "purpose": "Civil + Military",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "Italy",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "Morocco",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "Pakistan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 15
+  },
+  {
+    "year": 2001,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2001,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 12
+  },
+  {
+    "year": 2001,
+    "country": "Sweden",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "Turkey",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2001,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 17
+  },
+  {
+    "year": 2001,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 7
+  },
+  {
+    "year": 2001,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 9
+  },
+  {
+    "year": 2002,
+    "country": "Algeria",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "Australia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2002,
+    "country": "China",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2002,
+    "country": "EUMETSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2002,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2002,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2002,
+    "country": "Israel",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2002,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2002,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2002,
+    "country": "Netherlands",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2002,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 8
+  },
+  {
+    "year": 2002,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 10
+  },
+  {
+    "year": 2002,
+    "country": "Saudi Arabia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2002,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 11
+  },
+  {
+    "year": 2002,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 18
+  },
+  {
+    "year": 2002,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2003,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "Canada",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "Canada",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2003,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2003,
+    "country": "China",
+    "purpose": "Civil + Military",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "China",
+    "purpose": "Military",
+    "count": 3
+  },
+  {
+    "year": 2003,
+    "country": "Czech Republic",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "Denmark",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2003,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2003,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "Greece",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2003,
+    "country": "Israel",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2003,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2003,
+    "country": "Japan",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2003,
+    "country": "Nigeria",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 8
+  },
+  {
+    "year": 2003,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2003,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 11
+  },
+  {
+    "year": 2003,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "Turkey",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "UAE",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "United Kingdom",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 9
+  },
+  {
+    "year": 2003,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 7
+  },
+  {
+    "year": 2003,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 12
+  },
+  {
+    "year": 2004,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2004,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2004,
+    "country": "China",
+    "purpose": "Military",
+    "count": 5
+  },
+  {
+    "year": 2004,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2004,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "France",
+    "purpose": "Military",
+    "count": 5
+  },
+  {
+    "year": 2004,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2004,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2004,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2004,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 11
+  },
+  {
+    "year": 2004,
+    "country": "Saudi Arabia",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2004,
+    "country": "Spain",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "Taiwan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "Ukraine",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2004,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2004,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2004,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 10
+  },
+  {
+    "year": 2004,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 5
+  },
+  {
+    "year": 2005,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2005,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "China",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2005,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2005,
+    "country": "EUMETSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "France",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "India",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "India",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "Iran",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2005,
+    "country": "Norway",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 8
+  },
+  {
+    "year": 2005,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2005,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 6
+  },
+  {
+    "year": 2005,
+    "country": "Thailand",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2005,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 2005,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 9
+  },
+  {
+    "year": 2005,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 8
+  },
+  {
+    "year": 2006,
+    "country": "ARABSAT",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2006,
+    "country": "China",
+    "purpose": "Military",
+    "count": 4
+  },
+  {
+    "year": 2006,
+    "country": "EUMETSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2006,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2006,
+    "country": "France",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "Germany",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "Israel",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2006,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 7
+  },
+  {
+    "year": 2006,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2006,
+    "country": "Japan",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "Kazakhstan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "Malaysia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "Mexico",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 7
+  },
+  {
+    "year": 2006,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 8
+  },
+  {
+    "year": 2006,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "South Korea",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "Spain",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "Taiwan",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2006,
+    "country": "Thailand",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2006,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 12
+  },
+  {
+    "year": 2006,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 2006,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 14
+  },
+  {
+    "year": 2007,
+    "country": "Argentina",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Canada",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2007,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "China",
+    "purpose": "Military",
+    "count": 4
+  },
+  {
+    "year": 2007,
+    "country": "Colombia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Egypt",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Germany",
+    "purpose": "Civil + Commercial",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Germany",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2007,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2007,
+    "country": "India",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Indonesia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Israel",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Italy",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2007,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2007,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Japan",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2007,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Nigeria",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "RASCOM",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 7
+  },
+  {
+    "year": 2007,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 11
+  },
+  {
+    "year": 2007,
+    "country": "Saudi Arabia",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2007,
+    "country": "Sweden",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2007,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2007,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 11
+  },
+  {
+    "year": 2007,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 17
+  },
+  {
+    "year": 2007,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 15
+  },
+  {
+    "year": 2008,
+    "country": "ARABSAT",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Bermuda",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Canada",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2008,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2008,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 10
+  },
+  {
+    "year": 2008,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "China",
+    "purpose": "Military",
+    "count": 4
+  },
+  {
+    "year": 2008,
+    "country": "Denmark",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2008,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2008,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2008,
+    "country": "Germany",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2008,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2008,
+    "country": "India",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Israel",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Israel",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Italy",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2008,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Netherlands",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Norway",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 7
+  },
+  {
+    "year": 2008,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 13
+  },
+  {
+    "year": 2008,
+    "country": "Thailand",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Turkey",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "UAE",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2008,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2008,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 13
+  },
+  {
+    "year": 2008,
+    "country": "United States",
+    "purpose": "Commercial + Military",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 4
+  },
+  {
+    "year": 2008,
+    "country": "Venezuela",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2008,
+    "country": "Vietnam",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Bermuda",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2009,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "China",
+    "purpose": "Military",
+    "count": 5
+  },
+  {
+    "year": 2009,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 2009,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2009,
+    "country": "France",
+    "purpose": "Military",
+    "count": 3
+  },
+  {
+    "year": 2009,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2009,
+    "country": "Germany",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "India",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "India",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Iran",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Italy",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2009,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 2009,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2009,
+    "country": "Japan",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Malaysia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Malaysia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Norway",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2009,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 14
+  },
+  {
+    "year": 2009,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2009,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 11
+  },
+  {
+    "year": 2009,
+    "country": "South Africa",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Spain",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Switzerland",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "Turkey",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "UAE",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2009,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2009,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 12
+  },
+  {
+    "year": 2009,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 9
+  },
+  {
+    "year": 2009,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 14
+  },
+  {
+    "year": 2010,
+    "country": "ARABSAT",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2010,
+    "country": "Algeria",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2010,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2010,
+    "country": "China",
+    "purpose": "Military",
+    "count": 13
+  },
+  {
+    "year": 2010,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "Egypt",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2010,
+    "country": "Germany",
+    "purpose": "Civil + Commercial",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "Germany",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "India",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "India",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "Israel",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "Italy",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2010,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2010,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2010,
+    "country": "Norway",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "RASCOM",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 9
+  },
+  {
+    "year": 2010,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 13
+  },
+  {
+    "year": 2010,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "South Korea",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "Sweden",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2010,
+    "country": "Switzerland",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2010,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 7
+  },
+  {
+    "year": 2010,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 16
+  },
+  {
+    "year": 2010,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 20
+  },
+  {
+    "year": 2011,
+    "country": "ARABSAT",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Argentina",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2011,
+    "country": "Chile",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 10
+  },
+  {
+    "year": 2011,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "China",
+    "purpose": "Military",
+    "count": 8
+  },
+  {
+    "year": 2011,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2011,
+    "country": "France",
+    "purpose": "Civil + Military",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2011,
+    "country": "France",
+    "purpose": "Military",
+    "count": 4
+  },
+  {
+    "year": 2011,
+    "country": "India",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2011,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2011,
+    "country": "India",
+    "purpose": "Civil + Military",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Iran",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Israel",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Japan",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2011,
+    "country": "Kazakhstan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2011,
+    "country": "Mauritius",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Nigeria",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2011,
+    "country": "Pakistan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 14
+  },
+  {
+    "year": 2011,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 10
+  },
+  {
+    "year": 2011,
+    "country": "Singapore",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Singapore",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Turkey",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "UAE",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "Ukraine",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2011,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 5
+  },
+  {
+    "year": 2011,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 8
+  },
+  {
+    "year": 2011,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 14
+  },
+  {
+    "year": 2011,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 11
+  },
+  {
+    "year": 2012,
+    "country": "Belarus",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2012,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 12
+  },
+  {
+    "year": 2012,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "China",
+    "purpose": "Military",
+    "count": 12
+  },
+  {
+    "year": 2012,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2012,
+    "country": "EUMETSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2012,
+    "country": "France",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "France",
+    "purpose": "Civil + Military",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2012,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Hungary",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2012,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Iran",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Italy",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2012,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2012,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2012,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2012,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2012,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2012,
+    "country": "Mexico",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "North Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Poland",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Romania",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 12
+  },
+  {
+    "year": 2012,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2012,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 5
+  },
+  {
+    "year": 2012,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Spain",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Sweden",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Turkey",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "UAE",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2012,
+    "country": "United Kingdom",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2012,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2012,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 10
+  },
+  {
+    "year": 2012,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 18
+  },
+  {
+    "year": 2012,
+    "country": "Venezuela",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Vietnam",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "Vietnam",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Argentina",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Argentina",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Austria",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "Azerbaijan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Bolivia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Canada",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Canada",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 11
+  },
+  {
+    "year": 2013,
+    "country": "China",
+    "purpose": "Military",
+    "count": 8
+  },
+  {
+    "year": 2013,
+    "country": "Denmark",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Denmark",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2013,
+    "country": "Ecuador",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "Estonia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 5
+  },
+  {
+    "year": 2013,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2013,
+    "country": "India",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Israel",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Italy",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Japan",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Mexico",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Netherlands",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "Netherlands",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Norway",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Pakistan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Peru",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "Poland",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Qatar",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2013,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 10
+  },
+  {
+    "year": 2013,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2013,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 13
+  },
+  {
+    "year": 2013,
+    "country": "Singapore",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "South Africa",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "South Korea",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2013,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2013,
+    "country": "Spain",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Spain",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Turkey",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "UAE",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "United Kingdom",
+    "purpose": "Civil + Commercial",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 8
+  },
+  {
+    "year": 2013,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 22
+  },
+  {
+    "year": 2013,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 11
+  },
+  {
+    "year": 2013,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 19
+  },
+  {
+    "year": 2013,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 35
+  },
+  {
+    "year": 2013,
+    "country": "Vietnam",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "Argentina",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Belgium",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2014,
+    "country": "Brazil",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Canada",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2014,
+    "country": "Canada",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 2014,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2014,
+    "country": "China",
+    "purpose": "Military",
+    "count": 15
+  },
+  {
+    "year": 2014,
+    "country": "Denmark",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "EU",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "Egypt",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "France",
+    "purpose": "Civil + Military",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2014,
+    "country": "Israel",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Israel",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Italy",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 18
+  },
+  {
+    "year": 2014,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2014,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Japan",
+    "purpose": "Commercial + Military",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Kazakhstan",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2014,
+    "country": "Lithuania",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "Malaysia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Norway",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Peru",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "Poland",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 13
+  },
+  {
+    "year": 2014,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 9
+  },
+  {
+    "year": 2014,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 12
+  },
+  {
+    "year": 2014,
+    "country": "Saudi Arabia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Singapore",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Singapore",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "South Africa",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Thailand",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Turkey",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Ukraine",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "United Kingdom",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 8
+  },
+  {
+    "year": 2014,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2014,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 8
+  },
+  {
+    "year": 2014,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 84
+  },
+  {
+    "year": 2014,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 15
+  },
+  {
+    "year": 2014,
+    "country": "Uruguay",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "ARABSAT",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Argentina",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Brazil",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2015,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2015,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 17
+  },
+  {
+    "year": 2015,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2015,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2015,
+    "country": "China",
+    "purpose": "Military",
+    "count": 12
+  },
+  {
+    "year": 2015,
+    "country": "Denmark",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Denmark",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "EU",
+    "purpose": "Civil",
+    "count": 7
+  },
+  {
+    "year": 2015,
+    "country": "EUMETSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2015,
+    "country": "India",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Indonesia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Iran",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Italy",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Japan",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2015,
+    "country": "Laos",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Mexico",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Mexico",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2015,
+    "country": "Monaco",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Norway",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Papua New Guinea",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 10
+  },
+  {
+    "year": 2015,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 2015,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 11
+  },
+  {
+    "year": 2015,
+    "country": "Singapore",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2015,
+    "country": "Singapore",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2015,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "Turkey",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "United Kingdom",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 2015,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 13
+  },
+  {
+    "year": 2015,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 9
+  },
+  {
+    "year": 2015,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 66
+  },
+  {
+    "year": 2015,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 26
+  },
+  {
+    "year": 2016,
+    "country": "Algeria",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2016,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Belarus",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Belgium",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Brazil",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Canada",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Canada",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2016,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 23
+  },
+  {
+    "year": 2016,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 7
+  },
+  {
+    "year": 2016,
+    "country": "China",
+    "purpose": "Military",
+    "count": 6
+  },
+  {
+    "year": 2016,
+    "country": "Denmark",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "EU",
+    "purpose": "Civil",
+    "count": 8
+  },
+  {
+    "year": 2016,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2016,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2016,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "India",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2016,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 7
+  },
+  {
+    "year": 2016,
+    "country": "India",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Indonesia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Israel",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Italy",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2016,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 9
+  },
+  {
+    "year": 2016,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2016,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2016,
+    "country": "Mexico",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "North Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Peru",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Phillipines",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2016,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 7
+  },
+  {
+    "year": 2016,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 4
+  },
+  {
+    "year": 2016,
+    "country": "Spain",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Thailand",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "Turkey",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 12
+  },
+  {
+    "year": 2016,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 66
+  },
+  {
+    "year": 2016,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 14
+  },
+  {
+    "year": 2016,
+    "country": "Uruguay",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "Algeria",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Angola",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Australia",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2017,
+    "country": "Austria",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "Bangladesh",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Brazil",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Bulgaria",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Canada",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Chile",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 5
+  },
+  {
+    "year": 2017,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 8
+  },
+  {
+    "year": 2017,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 9
+  },
+  {
+    "year": 2017,
+    "country": "China",
+    "purpose": "Military",
+    "count": 14
+  },
+  {
+    "year": 2017,
+    "country": "Czech Republic",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "EU",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2017,
+    "country": "Finland",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "France",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2017,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2017,
+    "country": "Ghana",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Greece",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "Greece",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "India",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2017,
+    "country": "India",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Ireland",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Israel",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "Israel",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Israel",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Italy",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "Italy",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Italy",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 2017,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2017,
+    "country": "Japan",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "Kazakhstan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Latvia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Lithuania",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Mongolia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Morocco",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Netherlands",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Nigeria",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Norway",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "Puerto Rico",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 5
+  },
+  {
+    "year": 2017,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 12
+  },
+  {
+    "year": 2017,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 7
+  },
+  {
+    "year": 2017,
+    "country": "Slovakia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "South Africa",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "South Korea",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "South Korea",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "Spain",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Sweden",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Taiwan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Taiwan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Turkey",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Turkey",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "UAE",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Ukraine",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "United Kingdom",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 2017,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 10
+  },
+  {
+    "year": 2017,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 8
+  },
+  {
+    "year": 2017,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 241
+  },
+  {
+    "year": 2017,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 21
+  },
+  {
+    "year": 2017,
+    "country": "Uruguay",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2017,
+    "country": "Venezuela",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Argentina",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2018,
+    "country": "Australia",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Azerbaijan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Bangladesh",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Belarus",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Bhutan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Brazil",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Bulgaria",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2018,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2018,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 19
+  },
+  {
+    "year": 2018,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 34
+  },
+  {
+    "year": 2018,
+    "country": "China",
+    "purpose": "Military",
+    "count": 40
+  },
+  {
+    "year": 2018,
+    "country": "Colombia",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Costa Rica",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Czech Republic",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Denmark",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Denmark",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Denmark",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2018,
+    "country": "EU",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 2018,
+    "country": "EUMETSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Finland",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Finland",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2018,
+    "country": "France",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "France",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 6
+  },
+  {
+    "year": 2018,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 2018,
+    "country": "India",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "India",
+    "purpose": "Military",
+    "count": 4
+  },
+  {
+    "year": 2018,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Italy",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 6
+  },
+  {
+    "year": 2018,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "Japan",
+    "purpose": "Commercial + Military",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Japan",
+    "purpose": "Military",
+    "count": 3
+  },
+  {
+    "year": 2018,
+    "country": "Jordan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Kazakhstan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Kazakhstan",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "Kenya",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 11
+  },
+  {
+    "year": 2018,
+    "country": "Malaysia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Malaysia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Morocco",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Netherlands",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "New Zealand",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "Pakistan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "Phillipines",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "Poland",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Qatar",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2018,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 14
+  },
+  {
+    "year": 2018,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 9
+  },
+  {
+    "year": 2018,
+    "country": "Saudi Arabia",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "South Africa",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "South Korea",
+    "purpose": "Academic",
+    "count": 8
+  },
+  {
+    "year": 2018,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2018,
+    "country": "Spain",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2018,
+    "country": "Spain",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Switzerland",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Thailand",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Turkey",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "UAE",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "UAE",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 10
+  },
+  {
+    "year": 2018,
+    "country": "United Kingdom",
+    "purpose": "Commercial + Civil",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "United Kingdom",
+    "purpose": "Commercial + Military",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 29
+  },
+  {
+    "year": 2018,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 16
+  },
+  {
+    "year": 2018,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 121
+  },
+  {
+    "year": 2018,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 31
+  },
+  {
+    "year": 2018,
+    "country": "Uruguay",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "ARABSAT",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Australia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Belgium",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Brazil",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Canada",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2019,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 10
+  },
+  {
+    "year": 2019,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 42
+  },
+  {
+    "year": 2019,
+    "country": "China",
+    "purpose": "Military",
+    "count": 18
+  },
+  {
+    "year": 2019,
+    "country": "Czech Republic",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2019,
+    "country": "Ecuador",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Egypt",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2019,
+    "country": "Egypt",
+    "purpose": "Civil + Military",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Estonia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Ethiopia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Finland",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "France",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2019,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2019,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 2019,
+    "country": "Greece",
+    "purpose": "Civil + Commercial",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Hungary",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Hungary",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "India",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 2019,
+    "country": "India",
+    "purpose": "Military",
+    "count": 3
+  },
+  {
+    "year": 2019,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Israel",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "Israel",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2019,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Italy",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 6
+  },
+  {
+    "year": 2019,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2019,
+    "country": "Lithuania",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2019,
+    "country": "Mexico",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Mexico",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Nepal",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Poland",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Poland",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2019,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 10
+  },
+  {
+    "year": 2019,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2019,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 13
+  },
+  {
+    "year": 2019,
+    "country": "Rwanda",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Singapore",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "Sri Lanka",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Sudan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Sweden",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Switzerland",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Taiwan",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2019,
+    "country": "Thailand",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 13
+  },
+  {
+    "year": 2019,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 25
+  },
+  {
+    "year": 2019,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 2019,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 197
+  },
+  {
+    "year": 2019,
+    "country": "United States",
+    "purpose": "Commercial + Military",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 38
+  },
+  {
+    "year": 2019,
+    "country": "Vietnam",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Argentina",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2020,
+    "country": "Australia",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Belgium",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Belgium",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Canada",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2020,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 7
+  },
+  {
+    "year": 2020,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 19
+  },
+  {
+    "year": 2020,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 24
+  },
+  {
+    "year": 2020,
+    "country": "China",
+    "purpose": "Military",
+    "count": 22
+  },
+  {
+    "year": 2020,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "EU",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Estonia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Ethiopia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Finland",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2020,
+    "country": "France",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2020,
+    "country": "France",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2020,
+    "country": "Guatemala",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2020,
+    "country": "Iran",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Israel",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Israel",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Israel",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Italy",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2020,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2020,
+    "country": "Japan",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2020,
+    "country": "Lithuania",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 7
+  },
+  {
+    "year": 2020,
+    "country": "Luxembourg",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Monaco",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "New Zealand",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "New Zealand",
+    "purpose": "Commercial",
+    "count": 7
+  },
+  {
+    "year": 2020,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2020,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 2020,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 8
+  },
+  {
+    "year": 2020,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 5
+  },
+  {
+    "year": 2020,
+    "country": "Slovenia",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2020,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "South Korea",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "Spain",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2020,
+    "country": "Thailand",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "UAE",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "UAE",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "UAE",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2020,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 105
+  },
+  {
+    "year": 2020,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2020,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2020,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 934
+  },
+  {
+    "year": 2020,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 22
+  },
+  {
+    "year": 2020,
+    "country": "Uruguay",
+    "purpose": "Commercial",
+    "count": 13
+  },
+  {
+    "year": 2021,
+    "country": "Argentina",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Australia",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2021,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2021,
+    "country": "Belgium",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Brazil",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Brazil",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Bulgaria",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 11
+  },
+  {
+    "year": 2021,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 8
+  },
+  {
+    "year": 2021,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 32
+  },
+  {
+    "year": 2021,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 33
+  },
+  {
+    "year": 2021,
+    "country": "China",
+    "purpose": "Military",
+    "count": 39
+  },
+  {
+    "year": 2021,
+    "country": "EU",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "Finland",
+    "purpose": "Commercial",
+    "count": 8
+  },
+  {
+    "year": 2021,
+    "country": "France",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "France",
+    "purpose": "Commercial + Military",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "France",
+    "purpose": "Military",
+    "count": 4
+  },
+  {
+    "year": 2021,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 6
+  },
+  {
+    "year": 2021,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2021,
+    "country": "Hungary",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "India",
+    "purpose": "Academic",
+    "count": 5
+  },
+  {
+    "year": 2021,
+    "country": "Israel",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2021,
+    "country": "Italy",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2021,
+    "country": "Italy",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 2021,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 8
+  },
+  {
+    "year": 2021,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 14
+  },
+  {
+    "year": 2021,
+    "country": "Kuwait",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Lithuania",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 12
+  },
+  {
+    "year": 2021,
+    "country": "Mauritius",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Mexico",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Mexico",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Myanmar",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Netherlands",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "Netherlands",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "New Zealand",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2021,
+    "country": "Norway",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Paraguay",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Phillipines",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2021,
+    "country": "Poland",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "Puerto Rico",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 10
+  },
+  {
+    "year": 2021,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2021,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 4
+  },
+  {
+    "year": 2021,
+    "country": "Saudi Arabia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Saudi Arabia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Slovakia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "South Korea",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Switzerland",
+    "purpose": "Commercial",
+    "count": 10
+  },
+  {
+    "year": 2021,
+    "country": "Taiwan",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "Thailand",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Thailand",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Tunisia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "Turkey",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2021,
+    "country": "UAE",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2021,
+    "country": "UAE",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "UAE",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "United Kingdom",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 288
+  },
+  {
+    "year": 2021,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 22
+  },
+  {
+    "year": 2021,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 12
+  },
+  {
+    "year": 2021,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 1164
+  },
+  {
+    "year": 2021,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 30
+  },
+  {
+    "year": 2021,
+    "country": "Uruguay",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2021,
+    "country": "Vietnam",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Angola",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Argentina",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Armenia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2022,
+    "country": "Bhutan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Brazil",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Brazil",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Brazil",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2022,
+    "country": "Bulgaria",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Canada",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2022,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 7
+  },
+  {
+    "year": 2022,
+    "country": "Chile",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2022,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2022,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 43
+  },
+  {
+    "year": 2022,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 97
+  },
+  {
+    "year": 2022,
+    "country": "China",
+    "purpose": "Military",
+    "count": 46
+  },
+  {
+    "year": 2022,
+    "country": "Czech Republic",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Czech Republic",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Czech Republic",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "EUMETSAT",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Egypt",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Finland",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Finland",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2022,
+    "country": "France",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2022,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 7
+  },
+  {
+    "year": 2022,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2022,
+    "country": "Germany",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "India",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2022,
+    "country": "India",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2022,
+    "country": "Indonesia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Iran",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Iran",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Israel",
+    "purpose": "Academic",
+    "count": 10
+  },
+  {
+    "year": 2022,
+    "country": "Israel",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Italy",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2022,
+    "country": "Italy",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 2022,
+    "country": "Italy",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 5
+  },
+  {
+    "year": 2022,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 2022,
+    "country": "Lithuania",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Luxembourg",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 12
+  },
+  {
+    "year": 2022,
+    "country": "Malaysia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Moldova",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Nepal",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Netherlands",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "New Zealand",
+    "purpose": "Commercial",
+    "count": 14
+  },
+  {
+    "year": 2022,
+    "country": "Norway",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2022,
+    "country": "Norway",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Poland",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2022,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 24
+  },
+  {
+    "year": 2022,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2022,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2022,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 16
+  },
+  {
+    "year": 2022,
+    "country": "Singapore",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Singapore",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Singapore",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2022,
+    "country": "Slovenia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "South Africa",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2022,
+    "country": "South Korea",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2022,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 5
+  },
+  {
+    "year": 2022,
+    "country": "South Korea",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Spain",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2022,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 9
+  },
+  {
+    "year": 2022,
+    "country": "Sweden",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Switzerland",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 2022,
+    "country": "Taiwan",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2022,
+    "country": "Turkey",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Turkey",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "UAE",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Uganda",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Ukraine",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 115
+  },
+  {
+    "year": 2022,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 16
+  },
+  {
+    "year": 2022,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 13
+  },
+  {
+    "year": 2022,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 1836
+  },
+  {
+    "year": 2022,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 41
+  },
+  {
+    "year": 2022,
+    "country": "Uruguay",
+    "purpose": "Commercial",
+    "count": 9
+  },
+  {
+    "year": 2022,
+    "country": "Zimbabwe",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "ARABSAT",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Argentina",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "Armenia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Australia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 10
+  },
+  {
+    "year": 2023,
+    "country": "Austria",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Belarus",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Belgium",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Bermuda",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Bulgaria",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Canada",
+    "purpose": "Academic",
+    "count": 10
+  },
+  {
+    "year": 2023,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 8
+  },
+  {
+    "year": 2023,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 8
+  },
+  {
+    "year": 2023,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 27
+  },
+  {
+    "year": 2023,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 134
+  },
+  {
+    "year": 2023,
+    "country": "China",
+    "purpose": "Military",
+    "count": 43
+  },
+  {
+    "year": 2023,
+    "country": "Colombia",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Czech Republic",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Denmark",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Denmark",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Djibouti",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "Egypt",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Egypt",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Finland",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 2023,
+    "country": "France",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 7
+  },
+  {
+    "year": 2023,
+    "country": "France",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 2023,
+    "country": "Germany",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Hungary",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Hungary",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "India",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2023,
+    "country": "India",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Iran",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Ireland",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Israel",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Israel",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Israel",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Italy",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Italy",
+    "purpose": "Commercial",
+    "count": 20
+  },
+  {
+    "year": 2023,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "Japan",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Kenya",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Kuwait",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Lithuania",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "Luxembourg",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 16
+  },
+  {
+    "year": 2023,
+    "country": "Malaysia",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Monaco",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Netherlands",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Netherlands",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "North Korea",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Norway",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Phillipines",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Poland",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Romania",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 21
+  },
+  {
+    "year": 2023,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 11
+  },
+  {
+    "year": 2023,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 25
+  },
+  {
+    "year": 2023,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 10
+  },
+  {
+    "year": 2023,
+    "country": "Singapore",
+    "purpose": "Academic",
+    "count": 5
+  },
+  {
+    "year": 2023,
+    "country": "Singapore",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2023,
+    "country": "Singapore",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Slovakia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2023,
+    "country": "South Korea",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2023,
+    "country": "South Korea",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Spain",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "Spain",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 8
+  },
+  {
+    "year": 2023,
+    "country": "Switzerland",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2023,
+    "country": "Taiwan",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2023,
+    "country": "Taiwan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Taiwan",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Thailand",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Turkey",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Turkey",
+    "purpose": "Commercial",
+    "count": 8
+  },
+  {
+    "year": 2023,
+    "country": "UAE",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "UAE",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2023,
+    "country": "Ukraine",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 150
+  },
+  {
+    "year": 2023,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 10
+  },
+  {
+    "year": 2023,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 7
+  },
+  {
+    "year": 2023,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 2172
+  },
+  {
+    "year": 2023,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 43
+  },
+  {
+    "year": 2023,
+    "country": "Uruguay",
+    "purpose": "Commercial",
+    "count": 13
+  },
+  {
+    "year": 2024,
+    "country": "Australia",
+    "purpose": "Academic",
+    "count": 6
+  },
+  {
+    "year": 2024,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "Australia",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Belgium",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2024,
+    "country": "Brazil",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "Canada",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2024,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Chile",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 6
+  },
+  {
+    "year": 2024,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 40
+  },
+  {
+    "year": 2024,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 176
+  },
+  {
+    "year": 2024,
+    "country": "China",
+    "purpose": "Military",
+    "count": 43
+  },
+  {
+    "year": 2024,
+    "country": "Croatia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Czech Republic",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Djibouti",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2024,
+    "country": "EU",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2024,
+    "country": "Egypt",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Finland",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2024,
+    "country": "France",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 20
+  },
+  {
+    "year": 2024,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2024,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "Hungary",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "India",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 8
+  },
+  {
+    "year": 2024,
+    "country": "India",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Indonesia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Iran",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2024,
+    "country": "Iran",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "Iran",
+    "purpose": "Military",
+    "count": 6
+  },
+  {
+    "year": 2024,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Italy",
+    "purpose": "Commercial",
+    "count": 10
+  },
+  {
+    "year": 2024,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 9
+  },
+  {
+    "year": 2024,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 11
+  },
+  {
+    "year": 2024,
+    "country": "Japan",
+    "purpose": "Military",
+    "count": 3
+  },
+  {
+    "year": 2024,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 7
+  },
+  {
+    "year": 2024,
+    "country": "Mongolia",
+    "purpose": "Commercial",
+    "count": 12
+  },
+  {
+    "year": 2024,
+    "country": "Morocco",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "Norway",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Norway",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "Oman",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Pakistan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Pakistan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Poland",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "Portugal",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Portugal",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 21
+  },
+  {
+    "year": 2024,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 13
+  },
+  {
+    "year": 2024,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 58
+  },
+  {
+    "year": 2024,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 7
+  },
+  {
+    "year": 2024,
+    "country": "Rwanda",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Senegal",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Slovakia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "South Korea",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "South Korea",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "Spain",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 2024,
+    "country": "Sweden",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Sweden",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Taiwan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Taiwan",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2024,
+    "country": "Taiwan",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Turkey",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2024,
+    "country": "UAE",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "United Kingdom",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 30
+  },
+  {
+    "year": 2024,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 16
+  },
+  {
+    "year": 2024,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 15
+  },
+  {
+    "year": 2024,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 2087
+  },
+  {
+    "year": 2024,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 126
+  },
+  {
+    "year": 2024,
+    "country": "Uruguay",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2024,
+    "country": "Zimbabwe",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Australia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Australia",
+    "purpose": "Commercial",
+    "count": 11
+  },
+  {
+    "year": 2025,
+    "country": "Azerbaijan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Bahrain",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Belarus",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "Belgium",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Botswana",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Bulgaria",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 2025,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 6
+  },
+  {
+    "year": 2025,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 158
+  },
+  {
+    "year": 2025,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 165
+  },
+  {
+    "year": 2025,
+    "country": "China",
+    "purpose": "Military",
+    "count": 43
+  },
+  {
+    "year": 2025,
+    "country": "Czech Republic",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Czech Republic",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Czech Republic",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Denmark",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Denmark",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "ESA",
+    "purpose": "Civil",
+    "count": 3
+  },
+  {
+    "year": 2025,
+    "country": "EU",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "EUMETSAT",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "Ecuador",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Egypt",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Finland",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Finland",
+    "purpose": "Commercial",
+    "count": 12
+  },
+  {
+    "year": 2025,
+    "country": "France",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2025,
+    "country": "France",
+    "purpose": "Commercial",
+    "count": 18
+  },
+  {
+    "year": 2025,
+    "country": "France",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Germany",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "Germany",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 16
+  },
+  {
+    "year": 2025,
+    "country": "Greece",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Greece",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2025,
+    "country": "Hungary",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Hungary",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "India",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "India",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "India",
+    "purpose": "Commercial",
+    "count": 8
+  },
+  {
+    "year": 2025,
+    "country": "India",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Indonesia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Indonesia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Iran",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "Iran",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "Ireland",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Israel",
+    "purpose": "Academic",
+    "count": 6
+  },
+  {
+    "year": 2025,
+    "country": "Israel",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Israel",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "Italy",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Italy",
+    "purpose": "Civil",
+    "count": 14
+  },
+  {
+    "year": 2025,
+    "country": "Italy",
+    "purpose": "Commercial",
+    "count": 16
+  },
+  {
+    "year": 2025,
+    "country": "Japan",
+    "purpose": "Academic",
+    "count": 10
+  },
+  {
+    "year": 2025,
+    "country": "Japan",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2025,
+    "country": "Japan",
+    "purpose": "Commercial",
+    "count": 18
+  },
+  {
+    "year": 2025,
+    "country": "Kuwait",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Luxembourg",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2025,
+    "country": "Malaysia",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Malaysia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Malaysia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Mexico",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Montenegro",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Nepal",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "New Zealand",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Norway",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Norway",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2025,
+    "country": "Pakistan",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Pakistan",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "Poland",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "Poland",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2025,
+    "country": "Portugal",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Portugal",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Qatar",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Russia",
+    "purpose": "Academic",
+    "count": 9
+  },
+  {
+    "year": 2025,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 11
+  },
+  {
+    "year": 2025,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 47
+  },
+  {
+    "year": 2025,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 19
+  },
+  {
+    "year": 2025,
+    "country": "Rwanda",
+    "purpose": "Commercial",
+    "count": 5
+  },
+  {
+    "year": 2025,
+    "country": "Saudi Arabia",
+    "purpose": "Civil",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "Singapore",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Solomon Is.",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "South Korea",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 6
+  },
+  {
+    "year": 2025,
+    "country": "South Korea",
+    "purpose": "Commercial",
+    "count": 11
+  },
+  {
+    "year": 2025,
+    "country": "South Korea",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "Spain",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "Spain",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 8
+  },
+  {
+    "year": 2025,
+    "country": "Spain",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "Switzerland",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "Taiwan",
+    "purpose": "Academic",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "Taiwan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Taiwan",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "Thailand",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Thailand",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Tunisia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Turkey",
+    "purpose": "Commercial",
+    "count": 22
+  },
+  {
+    "year": 2025,
+    "country": "UAE",
+    "purpose": "Academic",
+    "count": 3
+  },
+  {
+    "year": 2025,
+    "country": "UAE",
+    "purpose": "Civil",
+    "count": 4
+  },
+  {
+    "year": 2025,
+    "country": "UAE",
+    "purpose": "Commercial",
+    "count": 6
+  },
+  {
+    "year": 2025,
+    "country": "United Kingdom",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 10
+  },
+  {
+    "year": 2025,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 15
+  },
+  {
+    "year": 2025,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 17
+  },
+  {
+    "year": 2025,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 3523
+  },
+  {
+    "year": 2025,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 149
+  },
+  {
+    "year": 2025,
+    "country": "Uruguay",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2026,
+    "country": "Algeria",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2026,
+    "country": "Canada",
+    "purpose": "Commercial",
+    "count": 10
+  },
+  {
+    "year": 2026,
+    "country": "China",
+    "purpose": "Academic",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "China",
+    "purpose": "Civil",
+    "count": 19
+  },
+  {
+    "year": 2026,
+    "country": "China",
+    "purpose": "Commercial",
+    "count": 8
+  },
+  {
+    "year": 2026,
+    "country": "China",
+    "purpose": "Military",
+    "count": 2
+  },
+  {
+    "year": 2026,
+    "country": "Finland",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "Finland",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "Germany",
+    "purpose": "Commercial",
+    "count": 2
+  },
+  {
+    "year": 2026,
+    "country": "Iran",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "Italy",
+    "purpose": "Military",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "Luxembourg",
+    "purpose": "Commercial",
+    "count": 8
+  },
+  {
+    "year": 2026,
+    "country": "Pakistan",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "Russia",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "Russia",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "Russia",
+    "purpose": "Military",
+    "count": 9
+  },
+  {
+    "year": 2026,
+    "country": "South Korea",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "Spain",
+    "purpose": "Commercial",
+    "count": 3
+  },
+  {
+    "year": 2026,
+    "country": "Turkey",
+    "purpose": "Commercial",
+    "count": 4
+  },
+  {
+    "year": 2026,
+    "country": "United Kingdom",
+    "purpose": "Commercial",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "United States",
+    "purpose": "Academic",
+    "count": 2
+  },
+  {
+    "year": 2026,
+    "country": "United States",
+    "purpose": "Civil",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "country": "United States",
+    "purpose": "Commercial",
+    "count": 500
+  },
+  {
+    "year": 2026,
+    "country": "United States",
+    "purpose": "Military",
+    "count": 13
+  }
+]
