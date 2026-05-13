@@ -128,6 +128,12 @@
     color: var(--muted);
     font-size: 0.96rem;
   }
+
+  .card-header .purpose-note {
+    margin-top: 8px;
+    font-size: 0.88rem;
+    line-height: 1.4;
+  }
   
   .chart {
     width: 100%;

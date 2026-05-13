@@ -2,13 +2,19 @@ import { appState } from "./state.js";
 
 const MAX_SELECTED_COUNTRIES = 5;
 const DEFAULT_COUNTRY_PANELS = ["United States", "China", "Russia"];
-const PURPOSE_ORDER = ["Military", "Civil", "Commercial", "Academic", "Unknown"];
+const PURPOSE_ORDER = [
+  "Observation",
+  "Communication",
+  "Geolocation",
+  "Armamentation",
+  "All Other Categories"
+];
 const PURPOSE_COLORS = {
-  Academic: "#3b82f6",
-  Commercial: "#f97316",
-  Civil: "#22c55e",
-  Military: "#ef4444",
-  Unknown: "#94a3b8"
+  Observation: "#2563eb",
+  Communication: "#f97316",
+  Geolocation: "#16a34a",
+  Armamentation: "#dc2626",
+  "All Other Categories": "#64748b"
 };
 
 let countryPurposeData = [];

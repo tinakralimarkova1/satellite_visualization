@@ -1,1297 +1,1442 @@
 [
   {
     "year": 1957,
-    "purpose": "Civil",
+    "purpose": "All Other Categories",
     "count": 2
   },
   {
     "year": 1958,
-    "purpose": "Civil",
-    "count": 7
+    "purpose": "All Other Categories",
+    "count": 3
   },
   {
     "year": 1958,
-    "purpose": "Military",
+    "purpose": "Communication",
     "count": 1
   },
   {
-    "year": 1959,
-    "purpose": "Civil",
-    "count": 8
+    "year": 1958,
+    "purpose": "Observation",
+    "count": 4
   },
   {
     "year": 1959,
-    "purpose": "Military",
+    "purpose": "All Other Categories",
+    "count": 7
+  },
+  {
+    "year": 1959,
+    "purpose": "Observation",
+    "count": 8
+  },
+  {
+    "year": 1960,
+    "purpose": "All Other Categories",
     "count": 7
   },
   {
     "year": 1960,
-    "purpose": "Civil",
-    "count": 8
+    "purpose": "Communication",
+    "count": 2
   },
   {
     "year": 1960,
-    "purpose": "Military",
-    "count": 13
+    "purpose": "Geolocation",
+    "count": 2
+  },
+  {
+    "year": 1960,
+    "purpose": "Observation",
+    "count": 10
   },
   {
     "year": 1961,
-    "purpose": "Academic",
-    "count": 1
-  },
-  {
-    "year": 1961,
-    "purpose": "Civil",
+    "purpose": "All Other Categories",
     "count": 17
   },
   {
     "year": 1961,
-    "purpose": "Military",
-    "count": 25
+    "purpose": "Communication",
+    "count": 2
+  },
+  {
+    "year": 1961,
+    "purpose": "Geolocation",
+    "count": 3
+  },
+  {
+    "year": 1961,
+    "purpose": "Observation",
+    "count": 21
   },
   {
     "year": 1962,
-    "purpose": "Academic",
+    "purpose": "All Other Categories",
+    "count": 27
+  },
+  {
+    "year": 1962,
+    "purpose": "Communication",
+    "count": 4
+  },
+  {
+    "year": 1962,
+    "purpose": "Geolocation",
     "count": 1
   },
   {
     "year": 1962,
-    "purpose": "Civil",
-    "count": 29
-  },
-  {
-    "year": 1962,
-    "purpose": "Commercial",
-    "count": 1
-  },
-  {
-    "year": 1962,
-    "purpose": "Military",
-    "count": 51
+    "purpose": "Observation",
+    "count": 50
   },
   {
     "year": 1963,
-    "purpose": "Civil",
-    "count": 23
+    "purpose": "All Other Categories",
+    "count": 27
   },
   {
     "year": 1963,
-    "purpose": "Commercial",
-    "count": 1
+    "purpose": "Communication",
+    "count": 4
   },
   {
     "year": 1963,
-    "purpose": "Military",
-    "count": 51
+    "purpose": "Geolocation",
+    "count": 3
+  },
+  {
+    "year": 1963,
+    "purpose": "Observation",
+    "count": 41
   },
   {
     "year": 1964,
-    "purpose": "Civil",
-    "count": 39
+    "purpose": "All Other Categories",
+    "count": 27
   },
   {
     "year": 1964,
-    "purpose": "Military",
+    "purpose": "Communication",
+    "count": 9
+  },
+  {
+    "year": 1964,
+    "purpose": "Geolocation",
+    "count": 3
+  },
+  {
+    "year": 1964,
+    "purpose": "Observation",
     "count": 69
   },
   {
     "year": 1965,
-    "purpose": "Academic",
-    "count": 2
+    "purpose": "All Other Categories",
+    "count": 51
   },
   {
     "year": 1965,
-    "purpose": "Civil",
-    "count": 47
+    "purpose": "Communication",
+    "count": 31
   },
   {
     "year": 1965,
-    "purpose": "Military",
-    "count": 117
+    "purpose": "Geolocation",
+    "count": 4
+  },
+  {
+    "year": 1965,
+    "purpose": "Observation",
+    "count": 80
   },
   {
     "year": 1966,
-    "purpose": "Civil",
-    "count": 52
+    "purpose": "All Other Categories",
+    "count": 51
   },
   {
     "year": 1966,
-    "purpose": "Military",
-    "count": 93
-  },
-  {
-    "year": 1967,
-    "purpose": "Civil",
-    "count": 51
-  },
-  {
-    "year": 1967,
-    "purpose": "Military",
-    "count": 109
-  },
-  {
-    "year": 1968,
-    "purpose": "Civil",
-    "count": 53
-  },
-  {
-    "year": 1968,
-    "purpose": "Military",
-    "count": 95
-  },
-  {
-    "year": 1969,
-    "purpose": "Civil",
-    "count": 49
-  },
-  {
-    "year": 1969,
-    "purpose": "Military",
-    "count": 95
-  },
-  {
-    "year": 1970,
-    "purpose": "Academic",
-    "count": 1
-  },
-  {
-    "year": 1970,
-    "purpose": "Civil",
-    "count": 39
-  },
-  {
-    "year": 1970,
-    "purpose": "Military",
-    "count": 94
-  },
-  {
-    "year": 1971,
-    "purpose": "Civil",
-    "count": 50
-  },
-  {
-    "year": 1971,
-    "purpose": "Military",
-    "count": 111
-  },
-  {
-    "year": 1972,
-    "purpose": "Academic",
-    "count": 1
-  },
-  {
-    "year": 1972,
-    "purpose": "Civil",
-    "count": 40
-  },
-  {
-    "year": 1972,
-    "purpose": "Commercial",
-    "count": 1
-  },
-  {
-    "year": 1972,
-    "purpose": "Military",
-    "count": 98
-  },
-  {
-    "year": 1973,
-    "purpose": "Civil",
-    "count": 33
-  },
-  {
-    "year": 1973,
-    "purpose": "Commercial",
-    "count": 1
-  },
-  {
-    "year": 1973,
-    "purpose": "Military",
-    "count": 110
-  },
-  {
-    "year": 1974,
-    "purpose": "Academic",
-    "count": 1
-  },
-  {
-    "year": 1974,
-    "purpose": "Civil",
-    "count": 31
-  },
-  {
-    "year": 1974,
-    "purpose": "Commercial",
+    "purpose": "Armamentation",
     "count": 2
   },
   {
-    "year": 1974,
-    "purpose": "Military",
-    "count": 97
-  },
-  {
-    "year": 1975,
-    "purpose": "Civil",
-    "count": 49
-  },
-  {
-    "year": 1975,
-    "purpose": "Commercial",
-    "count": 2
-  },
-  {
-    "year": 1975,
-    "purpose": "Military",
-    "count": 116
-  },
-  {
-    "year": 1976,
-    "purpose": "Civil",
-    "count": 24
-  },
-  {
-    "year": 1976,
-    "purpose": "Commercial",
-    "count": 7
-  },
-  {
-    "year": 1976,
-    "purpose": "Military",
-    "count": 175
-  },
-  {
-    "year": 1977,
-    "purpose": "Civil",
-    "count": 33
-  },
-  {
-    "year": 1977,
-    "purpose": "Commercial",
-    "count": 1
-  },
-  {
-    "year": 1977,
-    "purpose": "Military",
-    "count": 151
-  },
-  {
-    "year": 1978,
-    "purpose": "Academic",
-    "count": 1
-  },
-  {
-    "year": 1978,
-    "purpose": "Civil",
-    "count": 49
-  },
-  {
-    "year": 1978,
-    "purpose": "Commercial",
-    "count": 2
-  },
-  {
-    "year": 1978,
-    "purpose": "Military",
-    "count": 127
-  },
-  {
-    "year": 1979,
-    "purpose": "Civil",
-    "count": 47
-  },
-  {
-    "year": 1979,
-    "purpose": "Commercial",
-    "count": 2
-  },
-  {
-    "year": 1979,
-    "purpose": "Military",
-    "count": 104
-  },
-  {
-    "year": 1980,
-    "purpose": "Civil",
-    "count": 35
-  },
-  {
-    "year": 1980,
-    "purpose": "Commercial",
-    "count": 1
-  },
-  {
-    "year": 1980,
-    "purpose": "Military",
-    "count": 141
-  },
-  {
-    "year": 1981,
-    "purpose": "Academic",
-    "count": 7
-  },
-  {
-    "year": 1981,
-    "purpose": "Civil",
-    "count": 48
-  },
-  {
-    "year": 1981,
-    "purpose": "Commercial",
-    "count": 4
-  },
-  {
-    "year": 1981,
-    "purpose": "Military",
-    "count": 124
-  },
-  {
-    "year": 1982,
-    "purpose": "Academic",
-    "count": 2
-  },
-  {
-    "year": 1982,
-    "purpose": "Civil",
-    "count": 33
-  },
-  {
-    "year": 1982,
-    "purpose": "Commercial",
-    "count": 7
-  },
-  {
-    "year": 1982,
-    "purpose": "Military",
-    "count": 171
-  },
-  {
-    "year": 1983,
-    "purpose": "Academic",
-    "count": 1
-  },
-  {
-    "year": 1983,
-    "purpose": "Civil",
-    "count": 47
-  },
-  {
-    "year": 1983,
-    "purpose": "Commercial",
-    "count": 8
-  },
-  {
-    "year": 1983,
-    "purpose": "Military",
-    "count": 177
-  },
-  {
-    "year": 1984,
-    "purpose": "Civil",
-    "count": 48
-  },
-  {
-    "year": 1984,
-    "purpose": "Commercial",
-    "count": 11
-  },
-  {
-    "year": 1984,
-    "purpose": "Military",
-    "count": 135
-  },
-  {
-    "year": 1985,
-    "purpose": "Civil",
-    "count": 49
-  },
-  {
-    "year": 1985,
-    "purpose": "Commercial",
+    "year": 1966,
+    "purpose": "Communication",
     "count": 12
   },
   {
-    "year": 1985,
-    "purpose": "Military",
-    "count": 129
-  },
-  {
-    "year": 1986,
-    "purpose": "Academic",
-    "count": 1
-  },
-  {
-    "year": 1986,
-    "purpose": "Civil",
-    "count": 32
-  },
-  {
-    "year": 1986,
-    "purpose": "Commercial",
-    "count": 2
-  },
-  {
-    "year": 1986,
-    "purpose": "Military",
-    "count": 126
-  },
-  {
-    "year": 1987,
-    "purpose": "Civil",
-    "count": 32
-  },
-  {
-    "year": 1987,
-    "purpose": "Commercial",
-    "count": 2
-  },
-  {
-    "year": 1987,
-    "purpose": "Military",
-    "count": 105
-  },
-  {
-    "year": 1988,
-    "purpose": "Academic",
-    "count": 1
-  },
-  {
-    "year": 1988,
-    "purpose": "Civil",
-    "count": 45
-  },
-  {
-    "year": 1988,
-    "purpose": "Commercial",
-    "count": 6
-  },
-  {
-    "year": 1988,
-    "purpose": "Military",
-    "count": 154
-  },
-  {
-    "year": 1989,
-    "purpose": "Civil",
-    "count": 42
-  },
-  {
-    "year": 1989,
-    "purpose": "Commercial",
+    "year": 1966,
+    "purpose": "Geolocation",
     "count": 4
   },
   {
-    "year": 1989,
-    "purpose": "Military",
-    "count": 138
+    "year": 1966,
+    "purpose": "Observation",
+    "count": 76
   },
   {
-    "year": 1990,
-    "purpose": "Academic",
-    "count": 4
+    "year": 1967,
+    "purpose": "All Other Categories",
+    "count": 41
   },
   {
-    "year": 1990,
-    "purpose": "Civil",
-    "count": 54
-  },
-  {
-    "year": 1990,
-    "purpose": "Commercial",
-    "count": 13
-  },
-  {
-    "year": 1990,
-    "purpose": "Military",
-    "count": 147
-  },
-  {
-    "year": 1991,
-    "purpose": "Academic",
-    "count": 2
-  },
-  {
-    "year": 1991,
-    "purpose": "Civil",
-    "count": 50
-  },
-  {
-    "year": 1991,
-    "purpose": "Commercial",
-    "count": 8
-  },
-  {
-    "year": 1991,
-    "purpose": "Military",
-    "count": 81
-  },
-  {
-    "year": 1992,
-    "purpose": "Civil",
-    "count": 50
-  },
-  {
-    "year": 1992,
-    "purpose": "Commercial",
-    "count": 10
-  },
-  {
-    "year": 1992,
-    "purpose": "Military",
-    "count": 71
-  },
-  {
-    "year": 1993,
-    "purpose": "Academic",
-    "count": 3
-  },
-  {
-    "year": 1993,
-    "purpose": "Civil",
-    "count": 40
-  },
-  {
-    "year": 1993,
-    "purpose": "Commercial",
-    "count": 12
-  },
-  {
-    "year": 1993,
-    "purpose": "Military",
-    "count": 55
-  },
-  {
-    "year": 1994,
-    "purpose": "Academic",
-    "count": 1
-  },
-  {
-    "year": 1994,
-    "purpose": "Civil",
-    "count": 51
-  },
-  {
-    "year": 1994,
-    "purpose": "Commercial",
-    "count": 11
-  },
-  {
-    "year": 1994,
-    "purpose": "Military",
-    "count": 61
-  },
-  {
-    "year": 1995,
-    "purpose": "Academic",
-    "count": 1
-  },
-  {
-    "year": 1995,
-    "purpose": "Civil",
-    "count": 51
-  },
-  {
-    "year": 1995,
-    "purpose": "Commercial",
-    "count": 15
-  },
-  {
-    "year": 1995,
-    "purpose": "Military",
-    "count": 53
-  },
-  {
-    "year": 1996,
-    "purpose": "Academic",
-    "count": 2
-  },
-  {
-    "year": 1996,
-    "purpose": "Civil",
-    "count": 46
-  },
-  {
-    "year": 1996,
-    "purpose": "Commercial",
-    "count": 22
-  },
-  {
-    "year": 1996,
-    "purpose": "Military",
-    "count": 29
-  },
-  {
-    "year": 1997,
-    "purpose": "Academic",
-    "count": 1
-  },
-  {
-    "year": 1997,
-    "purpose": "Civil",
-    "count": 50
-  },
-  {
-    "year": 1997,
-    "purpose": "Commercial",
-    "count": 83
-  },
-  {
-    "year": 1997,
-    "purpose": "Military",
-    "count": 17
-  },
-  {
-    "year": 1998,
-    "purpose": "Academic",
-    "count": 5
-  },
-  {
-    "year": 1998,
-    "purpose": "Civil",
-    "count": 44
-  },
-  {
-    "year": 1998,
-    "purpose": "Commercial",
-    "count": 83
-  },
-  {
-    "year": 1998,
-    "purpose": "Military",
-    "count": 25
-  },
-  {
-    "year": 1999,
-    "purpose": "Academic",
-    "count": 2
-  },
-  {
-    "year": 1999,
-    "purpose": "Civil",
-    "count": 40
-  },
-  {
-    "year": 1999,
-    "purpose": "Commercial",
-    "count": 70
-  },
-  {
-    "year": 1999,
-    "purpose": "Military",
-    "count": 15
-  },
-  {
-    "year": 2000,
-    "purpose": "Academic",
-    "count": 11
-  },
-  {
-    "year": 2000,
-    "purpose": "Civil",
-    "count": 42
-  },
-  {
-    "year": 2000,
-    "purpose": "Commercial",
-    "count": 36
-  },
-  {
-    "year": 2000,
-    "purpose": "Military",
-    "count": 29
-  },
-  {
-    "year": 2001,
-    "purpose": "Academic",
-    "count": 2
-  },
-  {
-    "year": 2001,
-    "purpose": "Civil",
-    "count": 43
-  },
-  {
-    "year": 2001,
-    "purpose": "Civil + Military",
-    "count": 1
-  },
-  {
-    "year": 2001,
-    "purpose": "Commercial",
-    "count": 17
-  },
-  {
-    "year": 2001,
-    "purpose": "Military",
-    "count": 23
-  },
-  {
-    "year": 2002,
-    "purpose": "Civil",
-    "count": 43
-  },
-  {
-    "year": 2002,
-    "purpose": "Commercial",
-    "count": 33
-  },
-  {
-    "year": 2002,
-    "purpose": "Military",
-    "count": 14
-  },
-  {
-    "year": 2003,
-    "purpose": "Academic",
-    "count": 6
-  },
-  {
-    "year": 2003,
-    "purpose": "Civil",
-    "count": 36
-  },
-  {
-    "year": 2003,
-    "purpose": "Civil + Military",
-    "count": 1
-  },
-  {
-    "year": 2003,
-    "purpose": "Commercial",
-    "count": 17
-  },
-  {
-    "year": 2003,
-    "purpose": "Military",
-    "count": 28
-  },
-  {
-    "year": 2004,
-    "purpose": "Academic",
-    "count": 2
-  },
-  {
-    "year": 2004,
-    "purpose": "Civil",
-    "count": 26
-  },
-  {
-    "year": 2004,
-    "purpose": "Commercial",
-    "count": 18
-  },
-  {
-    "year": 2004,
-    "purpose": "Military",
-    "count": 26
-  },
-  {
-    "year": 2005,
-    "purpose": "Academic",
-    "count": 5
-  },
-  {
-    "year": 2005,
-    "purpose": "Civil",
-    "count": 28
-  },
-  {
-    "year": 2005,
-    "purpose": "Commercial",
-    "count": 19
-  },
-  {
-    "year": 2005,
-    "purpose": "Military",
-    "count": 19
-  },
-  {
-    "year": 2006,
-    "purpose": "Academic",
-    "count": 2
-  },
-  {
-    "year": 2006,
-    "purpose": "Civil",
-    "count": 40
-  },
-  {
-    "year": 2006,
-    "purpose": "Commercial",
-    "count": 20
-  },
-  {
-    "year": 2006,
-    "purpose": "Military",
-    "count": 31
-  },
-  {
-    "year": 2007,
-    "purpose": "Academic",
-    "count": 5
-  },
-  {
-    "year": 2007,
-    "purpose": "Civil",
-    "count": 40
-  },
-  {
-    "year": 2007,
-    "purpose": "Civil + Commercial",
-    "count": 1
-  },
-  {
-    "year": 2007,
-    "purpose": "Commercial",
-    "count": 24
-  },
-  {
-    "year": 2007,
-    "purpose": "Military",
-    "count": 40
-  },
-  {
-    "year": 2008,
-    "purpose": "Academic",
-    "count": 7
-  },
-  {
-    "year": 2008,
-    "purpose": "Civil",
-    "count": 32
-  },
-  {
-    "year": 2008,
-    "purpose": "Commercial",
-    "count": 35
-  },
-  {
-    "year": 2008,
-    "purpose": "Commercial + Military",
-    "count": 1
-  },
-  {
-    "year": 2008,
-    "purpose": "Military",
-    "count": 27
-  },
-  {
-    "year": 2009,
-    "purpose": "Academic",
-    "count": 15
-  },
-  {
-    "year": 2009,
-    "purpose": "Civil",
-    "count": 42
-  },
-  {
-    "year": 2009,
-    "purpose": "Commercial",
-    "count": 30
-  },
-  {
-    "year": 2009,
-    "purpose": "Military",
-    "count": 37
-  },
-  {
-    "year": 2010,
-    "purpose": "Academic",
+    "year": 1967,
+    "purpose": "Armamentation",
     "count": 9
   },
   {
-    "year": 2010,
-    "purpose": "Civil",
+    "year": 1967,
+    "purpose": "Communication",
+    "count": 23
+  },
+  {
+    "year": 1967,
+    "purpose": "Geolocation",
+    "count": 6
+  },
+  {
+    "year": 1967,
+    "purpose": "Observation",
+    "count": 81
+  },
+  {
+    "year": 1968,
+    "purpose": "All Other Categories",
+    "count": 36
+  },
+  {
+    "year": 1968,
+    "purpose": "Armamentation",
+    "count": 6
+  },
+  {
+    "year": 1968,
+    "purpose": "Communication",
+    "count": 16
+  },
+  {
+    "year": 1968,
+    "purpose": "Geolocation",
+    "count": 2
+  },
+  {
+    "year": 1968,
+    "purpose": "Observation",
+    "count": 88
+  },
+  {
+    "year": 1969,
+    "purpose": "All Other Categories",
+    "count": 48
+  },
+  {
+    "year": 1969,
+    "purpose": "Armamentation",
+    "count": 3
+  },
+  {
+    "year": 1969,
+    "purpose": "Communication",
+    "count": 8
+  },
+  {
+    "year": 1969,
+    "purpose": "Geolocation",
+    "count": 3
+  },
+  {
+    "year": 1969,
+    "purpose": "Observation",
+    "count": 82
+  },
+  {
+    "year": 1970,
+    "purpose": "All Other Categories",
+    "count": 29
+  },
+  {
+    "year": 1970,
+    "purpose": "Armamentation",
+    "count": 6
+  },
+  {
+    "year": 1970,
+    "purpose": "Communication",
+    "count": 20
+  },
+  {
+    "year": 1970,
+    "purpose": "Geolocation",
+    "count": 4
+  },
+  {
+    "year": 1970,
+    "purpose": "Observation",
+    "count": 75
+  },
+  {
+    "year": 1971,
+    "purpose": "All Other Categories",
+    "count": 37
+  },
+  {
+    "year": 1971,
+    "purpose": "Armamentation",
+    "count": 7
+  },
+  {
+    "year": 1971,
+    "purpose": "Communication",
+    "count": 27
+  },
+  {
+    "year": 1971,
+    "purpose": "Geolocation",
+    "count": 2
+  },
+  {
+    "year": 1971,
+    "purpose": "Observation",
+    "count": 88
+  },
+  {
+    "year": 1972,
+    "purpose": "All Other Categories",
+    "count": 28
+  },
+  {
+    "year": 1972,
+    "purpose": "Armamentation",
+    "count": 1
+  },
+  {
+    "year": 1972,
+    "purpose": "Communication",
+    "count": 28
+  },
+  {
+    "year": 1972,
+    "purpose": "Geolocation",
+    "count": 4
+  },
+  {
+    "year": 1972,
+    "purpose": "Observation",
+    "count": 79
+  },
+  {
+    "year": 1973,
+    "purpose": "All Other Categories",
+    "count": 39
+  },
+  {
+    "year": 1973,
+    "purpose": "Communication",
+    "count": 37
+  },
+  {
+    "year": 1973,
+    "purpose": "Geolocation",
+    "count": 5
+  },
+  {
+    "year": 1973,
+    "purpose": "Observation",
+    "count": 63
+  },
+  {
+    "year": 1974,
+    "purpose": "All Other Categories",
+    "count": 32
+  },
+  {
+    "year": 1974,
+    "purpose": "Communication",
+    "count": 32
+  },
+  {
+    "year": 1974,
+    "purpose": "Geolocation",
+    "count": 5
+  },
+  {
+    "year": 1974,
+    "purpose": "Observation",
+    "count": 62
+  },
+  {
+    "year": 1975,
+    "purpose": "All Other Categories",
+    "count": 44
+  },
+  {
+    "year": 1975,
+    "purpose": "Communication",
+    "count": 44
+  },
+  {
+    "year": 1975,
+    "purpose": "Geolocation",
+    "count": 5
+  },
+  {
+    "year": 1975,
+    "purpose": "Observation",
+    "count": 74
+  },
+  {
+    "year": 1976,
+    "purpose": "All Other Categories",
+    "count": 35
+  },
+  {
+    "year": 1976,
+    "purpose": "Armamentation",
+    "count": 6
+  },
+  {
+    "year": 1976,
+    "purpose": "Communication",
+    "count": 52
+  },
+  {
+    "year": 1976,
+    "purpose": "Geolocation",
+    "count": 9
+  },
+  {
+    "year": 1976,
+    "purpose": "Observation",
+    "count": 104
+  },
+  {
+    "year": 1977,
+    "purpose": "All Other Categories",
+    "count": 38
+  },
+  {
+    "year": 1977,
+    "purpose": "Armamentation",
+    "count": 7
+  },
+  {
+    "year": 1977,
+    "purpose": "Communication",
+    "count": 26
+  },
+  {
+    "year": 1977,
+    "purpose": "Geolocation",
+    "count": 9
+  },
+  {
+    "year": 1977,
+    "purpose": "Observation",
+    "count": 105
+  },
+  {
+    "year": 1978,
+    "purpose": "All Other Categories",
+    "count": 43
+  },
+  {
+    "year": 1978,
+    "purpose": "Armamentation",
+    "count": 1
+  },
+  {
+    "year": 1978,
+    "purpose": "Communication",
+    "count": 57
+  },
+  {
+    "year": 1978,
+    "purpose": "Geolocation",
+    "count": 13
+  },
+  {
+    "year": 1978,
+    "purpose": "Observation",
+    "count": 65
+  },
+  {
+    "year": 1979,
+    "purpose": "All Other Categories",
+    "count": 28
+  },
+  {
+    "year": 1979,
+    "purpose": "Communication",
+    "count": 35
+  },
+  {
+    "year": 1979,
+    "purpose": "Geolocation",
+    "count": 6
+  },
+  {
+    "year": 1979,
+    "purpose": "Observation",
+    "count": 84
+  },
+  {
+    "year": 1980,
+    "purpose": "All Other Categories",
+    "count": 32
+  },
+  {
+    "year": 1980,
+    "purpose": "Armamentation",
+    "count": 2
+  },
+  {
+    "year": 1980,
+    "purpose": "Communication",
+    "count": 41
+  },
+  {
+    "year": 1980,
+    "purpose": "Geolocation",
+    "count": 8
+  },
+  {
+    "year": 1980,
+    "purpose": "Observation",
+    "count": 94
+  },
+  {
+    "year": 1981,
+    "purpose": "All Other Categories",
+    "count": 33
+  },
+  {
+    "year": 1981,
+    "purpose": "Armamentation",
+    "count": 3
+  },
+  {
+    "year": 1981,
+    "purpose": "Communication",
+    "count": 55
+  },
+  {
+    "year": 1981,
+    "purpose": "Geolocation",
+    "count": 6
+  },
+  {
+    "year": 1981,
+    "purpose": "Observation",
+    "count": 86
+  },
+  {
+    "year": 1982,
+    "purpose": "All Other Categories",
+    "count": 38
+  },
+  {
+    "year": 1982,
+    "purpose": "Armamentation",
+    "count": 2
+  },
+  {
+    "year": 1982,
+    "purpose": "Communication",
+    "count": 48
+  },
+  {
+    "year": 1982,
+    "purpose": "Geolocation",
+    "count": 9
+  },
+  {
+    "year": 1982,
+    "purpose": "Observation",
+    "count": 116
+  },
+  {
+    "year": 1983,
+    "purpose": "All Other Categories",
+    "count": 37
+  },
+  {
+    "year": 1983,
+    "purpose": "Communication",
+    "count": 47
+  },
+  {
+    "year": 1983,
+    "purpose": "Geolocation",
+    "count": 12
+  },
+  {
+    "year": 1983,
+    "purpose": "Observation",
+    "count": 137
+  },
+  {
+    "year": 1984,
+    "purpose": "All Other Categories",
+    "count": 46
+  },
+  {
+    "year": 1984,
+    "purpose": "Communication",
+    "count": 50
+  },
+  {
+    "year": 1984,
+    "purpose": "Geolocation",
+    "count": 16
+  },
+  {
+    "year": 1984,
+    "purpose": "Observation",
+    "count": 82
+  },
+  {
+    "year": 1985,
+    "purpose": "All Other Categories",
+    "count": 47
+  },
+  {
+    "year": 1985,
+    "purpose": "Armamentation",
+    "count": 3
+  },
+  {
+    "year": 1985,
+    "purpose": "Communication",
+    "count": 58
+  },
+  {
+    "year": 1985,
+    "purpose": "Geolocation",
+    "count": 12
+  },
+  {
+    "year": 1985,
+    "purpose": "Observation",
+    "count": 70
+  },
+  {
+    "year": 1986,
+    "purpose": "All Other Categories",
+    "count": 34
+  },
+  {
+    "year": 1986,
+    "purpose": "Communication",
+    "count": 47
+  },
+  {
+    "year": 1986,
+    "purpose": "Geolocation",
+    "count": 11
+  },
+  {
+    "year": 1986,
+    "purpose": "Observation",
+    "count": 69
+  },
+  {
+    "year": 1987,
+    "purpose": "All Other Categories",
+    "count": 38
+  },
+  {
+    "year": 1987,
+    "purpose": "Communication",
+    "count": 38
+  },
+  {
+    "year": 1987,
+    "purpose": "Geolocation",
+    "count": 14
+  },
+  {
+    "year": 1987,
+    "purpose": "Observation",
+    "count": 49
+  },
+  {
+    "year": 1988,
+    "purpose": "All Other Categories",
+    "count": 36
+  },
+  {
+    "year": 1988,
+    "purpose": "Communication",
+    "count": 46
+  },
+  {
+    "year": 1988,
+    "purpose": "Geolocation",
+    "count": 14
+  },
+  {
+    "year": 1988,
+    "purpose": "Observation",
+    "count": 110
+  },
+  {
+    "year": 1989,
+    "purpose": "All Other Categories",
+    "count": 27
+  },
+  {
+    "year": 1989,
+    "purpose": "Communication",
+    "count": 46
+  },
+  {
+    "year": 1989,
+    "purpose": "Geolocation",
+    "count": 14
+  },
+  {
+    "year": 1989,
+    "purpose": "Observation",
+    "count": 97
+  },
+  {
+    "year": 1990,
+    "purpose": "All Other Categories",
+    "count": 43
+  },
+  {
+    "year": 1990,
+    "purpose": "Communication",
+    "count": 67
+  },
+  {
+    "year": 1990,
+    "purpose": "Geolocation",
+    "count": 15
+  },
+  {
+    "year": 1990,
+    "purpose": "Observation",
+    "count": 93
+  },
+  {
+    "year": 1991,
+    "purpose": "All Other Categories",
+    "count": 28
+  },
+  {
+    "year": 1991,
+    "purpose": "Communication",
+    "count": 66
+  },
+  {
+    "year": 1991,
+    "purpose": "Geolocation",
+    "count": 10
+  },
+  {
+    "year": 1991,
+    "purpose": "Observation",
+    "count": 37
+  },
+  {
+    "year": 1992,
+    "purpose": "All Other Categories",
+    "count": 34
+  },
+  {
+    "year": 1992,
+    "purpose": "Communication",
+    "count": 50
+  },
+  {
+    "year": 1992,
+    "purpose": "Geolocation",
+    "count": 17
+  },
+  {
+    "year": 1992,
+    "purpose": "Observation",
+    "count": 30
+  },
+  {
+    "year": 1993,
+    "purpose": "All Other Categories",
+    "count": 27
+  },
+  {
+    "year": 1993,
+    "purpose": "Communication",
+    "count": 47
+  },
+  {
+    "year": 1993,
+    "purpose": "Geolocation",
+    "count": 13
+  },
+  {
+    "year": 1993,
+    "purpose": "Observation",
+    "count": 23
+  },
+  {
+    "year": 1994,
+    "purpose": "All Other Categories",
+    "count": 35
+  },
+  {
+    "year": 1994,
+    "purpose": "Communication",
+    "count": 44
+  },
+  {
+    "year": 1994,
+    "purpose": "Geolocation",
+    "count": 12
+  },
+  {
+    "year": 1994,
+    "purpose": "Observation",
+    "count": 33
+  },
+  {
+    "year": 1995,
+    "purpose": "All Other Categories",
+    "count": 26
+  },
+  {
+    "year": 1995,
+    "purpose": "Communication",
+    "count": 31
+  },
+  {
+    "year": 1995,
+    "purpose": "Geolocation",
+    "count": 13
+  },
+  {
+    "year": 1995,
+    "purpose": "Observation",
+    "count": 50
+  },
+  {
+    "year": 1996,
+    "purpose": "All Other Categories",
+    "count": 33
+  },
+  {
+    "year": 1996,
+    "purpose": "Communication",
+    "count": 41
+  },
+  {
+    "year": 1996,
+    "purpose": "Geolocation",
+    "count": 6
+  },
+  {
+    "year": 1996,
+    "purpose": "Observation",
+    "count": 19
+  },
+  {
+    "year": 1997,
+    "purpose": "All Other Categories",
+    "count": 28
+  },
+  {
+    "year": 1997,
+    "purpose": "Communication",
+    "count": 96
+  },
+  {
+    "year": 1997,
+    "purpose": "Geolocation",
+    "count": 4
+  },
+  {
+    "year": 1997,
+    "purpose": "Observation",
+    "count": 23
+  },
+  {
+    "year": 1998,
+    "purpose": "All Other Categories",
+    "count": 25
+  },
+  {
+    "year": 1998,
+    "purpose": "Communication",
+    "count": 113
+  },
+  {
+    "year": 1998,
+    "purpose": "Geolocation",
+    "count": 5
+  },
+  {
+    "year": 1998,
+    "purpose": "Observation",
+    "count": 14
+  },
+  {
+    "year": 1999,
+    "purpose": "All Other Categories",
+    "count": 15
+  },
+  {
+    "year": 1999,
+    "purpose": "Communication",
+    "count": 79
+  },
+  {
+    "year": 1999,
+    "purpose": "Geolocation",
+    "count": 2
+  },
+  {
+    "year": 1999,
+    "purpose": "Observation",
+    "count": 31
+  },
+  {
+    "year": 2000,
+    "purpose": "All Other Categories",
+    "count": 31
+  },
+  {
+    "year": 2000,
+    "purpose": "Communication",
+    "count": 48
+  },
+  {
+    "year": 2000,
+    "purpose": "Geolocation",
+    "count": 9
+  },
+  {
+    "year": 2000,
+    "purpose": "Observation",
+    "count": 30
+  },
+  {
+    "year": 2001,
+    "purpose": "All Other Categories",
+    "count": 30
+  },
+  {
+    "year": 2001,
+    "purpose": "Communication",
+    "count": 30
+  },
+  {
+    "year": 2001,
+    "purpose": "Geolocation",
+    "count": 6
+  },
+  {
+    "year": 2001,
+    "purpose": "Observation",
+    "count": 20
+  },
+  {
+    "year": 2002,
+    "purpose": "All Other Categories",
+    "count": 25
+  },
+  {
+    "year": 2002,
+    "purpose": "Communication",
+    "count": 38
+  },
+  {
+    "year": 2002,
+    "purpose": "Geolocation",
+    "count": 5
+  },
+  {
+    "year": 2002,
+    "purpose": "Observation",
+    "count": 22
+  },
+  {
+    "year": 2003,
+    "purpose": "All Other Categories",
+    "count": 26
+  },
+  {
+    "year": 2003,
+    "purpose": "Communication",
+    "count": 29
+  },
+  {
+    "year": 2003,
+    "purpose": "Geolocation",
+    "count": 8
+  },
+  {
+    "year": 2003,
+    "purpose": "Observation",
+    "count": 25
+  },
+  {
+    "year": 2004,
+    "purpose": "All Other Categories",
+    "count": 21
+  },
+  {
+    "year": 2004,
+    "purpose": "Communication",
+    "count": 26
+  },
+  {
+    "year": 2004,
+    "purpose": "Geolocation",
+    "count": 7
+  },
+  {
+    "year": 2004,
+    "purpose": "Observation",
+    "count": 18
+  },
+  {
+    "year": 2005,
+    "purpose": "All Other Categories",
+    "count": 22
+  },
+  {
+    "year": 2005,
+    "purpose": "Communication",
+    "count": 27
+  },
+  {
+    "year": 2005,
+    "purpose": "Geolocation",
+    "count": 6
+  },
+  {
+    "year": 2005,
+    "purpose": "Observation",
+    "count": 16
+  },
+  {
+    "year": 2006,
+    "purpose": "All Other Categories",
+    "count": 24
+  },
+  {
+    "year": 2006,
+    "purpose": "Communication",
+    "count": 29
+  },
+  {
+    "year": 2006,
+    "purpose": "Geolocation",
+    "count": 5
+  },
+  {
+    "year": 2006,
+    "purpose": "Observation",
+    "count": 35
+  },
+  {
+    "year": 2007,
+    "purpose": "All Other Categories",
+    "count": 37
+  },
+  {
+    "year": 2007,
+    "purpose": "Communication",
+    "count": 36
+  },
+  {
+    "year": 2007,
+    "purpose": "Geolocation",
+    "count": 11
+  },
+  {
+    "year": 2007,
+    "purpose": "Observation",
+    "count": 26
+  },
+  {
+    "year": 2008,
+    "purpose": "All Other Categories",
+    "count": 26
+  },
+  {
+    "year": 2008,
+    "purpose": "Communication",
+    "count": 40
+  },
+  {
+    "year": 2008,
+    "purpose": "Geolocation",
+    "count": 8
+  },
+  {
+    "year": 2008,
+    "purpose": "Observation",
+    "count": 28
+  },
+  {
+    "year": 2009,
+    "purpose": "All Other Categories",
+    "count": 47
+  },
+  {
+    "year": 2009,
+    "purpose": "Communication",
+    "count": 36
+  },
+  {
+    "year": 2009,
+    "purpose": "Geolocation",
+    "count": 7
+  },
+  {
+    "year": 2009,
+    "purpose": "Observation",
     "count": 34
   },
   {
     "year": 2010,
-    "purpose": "Civil + Commercial",
-    "count": 1
-  },
-  {
-    "year": 2010,
-    "purpose": "Commercial",
-    "count": 28
-  },
-  {
-    "year": 2010,
-    "purpose": "Military",
+    "purpose": "All Other Categories",
     "count": 50
   },
   {
-    "year": 2011,
-    "purpose": "Academic",
-    "count": 8
+    "year": 2010,
+    "purpose": "Communication",
+    "count": 39
+  },
+  {
+    "year": 2010,
+    "purpose": "Geolocation",
+    "count": 14
+  },
+  {
+    "year": 2010,
+    "purpose": "Observation",
+    "count": 19
   },
   {
     "year": 2011,
-    "purpose": "Civil",
-    "count": 50
+    "purpose": "All Other Categories",
+    "count": 37
   },
   {
     "year": 2011,
-    "purpose": "Civil + Military",
-    "count": 2
+    "purpose": "Communication",
+    "count": 47
   },
   {
     "year": 2011,
-    "purpose": "Commercial",
+    "purpose": "Geolocation",
+    "count": 12
+  },
+  {
+    "year": 2011,
+    "purpose": "Observation",
     "count": 32
   },
   {
-    "year": 2011,
-    "purpose": "Military",
-    "count": 36
+    "year": 2012,
+    "purpose": "All Other Categories",
+    "count": 55
   },
   {
     "year": 2012,
-    "purpose": "Academic",
-    "count": 18
+    "purpose": "Communication",
+    "count": 43
   },
   {
     "year": 2012,
-    "purpose": "Civil",
-    "count": 48
+    "purpose": "Geolocation",
+    "count": 9
   },
   {
     "year": 2012,
-    "purpose": "Civil + Military",
-    "count": 1
-  },
-  {
-    "year": 2012,
-    "purpose": "Commercial",
-    "count": 31
-  },
-  {
-    "year": 2012,
-    "purpose": "Military",
-    "count": 37
+    "purpose": "Observation",
+    "count": 28
   },
   {
     "year": 2013,
-    "purpose": "Academic",
-    "count": 48
+    "purpose": "All Other Categories",
+    "count": 97
   },
   {
     "year": 2013,
-    "purpose": "Civil",
-    "count": 59
-  },
-  {
-    "year": 2013,
-    "purpose": "Civil + Commercial",
-    "count": 1
-  },
-  {
-    "year": 2013,
-    "purpose": "Commercial",
-    "count": 42
-  },
-  {
-    "year": 2013,
-    "purpose": "Military",
+    "purpose": "Communication",
     "count": 60
   },
   {
-    "year": 2014,
-    "purpose": "Academic",
-    "count": 41
+    "year": 2013,
+    "purpose": "Geolocation",
+    "count": 3
   },
   {
-    "year": 2014,
-    "purpose": "Civil",
+    "year": 2013,
+    "purpose": "Observation",
     "count": 50
   },
   {
     "year": 2014,
-    "purpose": "Civil + Military",
-    "count": 1
+    "purpose": "All Other Categories",
+    "count": 73
   },
   {
     "year": 2014,
-    "purpose": "Commercial",
-    "count": 117
+    "purpose": "Communication",
+    "count": 61
   },
   {
     "year": 2014,
-    "purpose": "Commercial + Military",
-    "count": 1
+    "purpose": "Geolocation",
+    "count": 11
   },
   {
     "year": 2014,
-    "purpose": "Military",
-    "count": 45
+    "purpose": "Observation",
+    "count": 110
   },
   {
     "year": 2015,
-    "purpose": "Academic",
-    "count": 37
+    "purpose": "All Other Categories",
+    "count": 57
   },
   {
     "year": 2015,
-    "purpose": "Civil",
-    "count": 43
+    "purpose": "Communication",
+    "count": 70
   },
   {
     "year": 2015,
-    "purpose": "Commercial",
-    "count": 99
+    "purpose": "Geolocation",
+    "count": 14
   },
   {
     "year": 2015,
-    "purpose": "Military",
-    "count": 53
-  },
-  {
-    "year": 2016,
-    "purpose": "Academic",
-    "count": 28
-  },
-  {
-    "year": 2016,
-    "purpose": "Civil",
-    "count": 71
-  },
-  {
-    "year": 2016,
-    "purpose": "Commercial",
-    "count": 88
-  },
-  {
-    "year": 2016,
-    "purpose": "Military",
-    "count": 29
-  },
-  {
-    "year": 2017,
-    "purpose": "Academic",
-    "count": 62
-  },
-  {
-    "year": 2017,
-    "purpose": "Civil",
-    "count": 54
-  },
-  {
-    "year": 2017,
-    "purpose": "Commercial",
-    "count": 278
-  },
-  {
-    "year": 2017,
-    "purpose": "Military",
-    "count": 49
-  },
-  {
-    "year": 2018,
-    "purpose": "Academic",
-    "count": 72
-  },
-  {
-    "year": 2018,
-    "purpose": "Civil",
-    "count": 81
-  },
-  {
-    "year": 2018,
-    "purpose": "Commercial",
-    "count": 213
-  },
-  {
-    "year": 2018,
-    "purpose": "Commercial + Civil",
-    "count": 1
-  },
-  {
-    "year": 2018,
-    "purpose": "Commercial + Military",
-    "count": 2
-  },
-  {
-    "year": 2018,
-    "purpose": "Military",
-    "count": 93
-  },
-  {
-    "year": 2019,
-    "purpose": "Academic",
-    "count": 56
-  },
-  {
-    "year": 2019,
-    "purpose": "Civil",
-    "count": 56
-  },
-  {
-    "year": 2019,
-    "purpose": "Civil + Commercial",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "purpose": "Civil + Military",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "purpose": "Commercial",
-    "count": 289
-  },
-  {
-    "year": 2019,
-    "purpose": "Commercial + Military",
-    "count": 1
-  },
-  {
-    "year": 2019,
-    "purpose": "Military",
-    "count": 74
-  },
-  {
-    "year": 2020,
-    "purpose": "Academic",
-    "count": 29
-  },
-  {
-    "year": 2020,
-    "purpose": "Civil",
-    "count": 38
-  },
-  {
-    "year": 2020,
-    "purpose": "Commercial",
-    "count": 1123
-  },
-  {
-    "year": 2020,
-    "purpose": "Military",
-    "count": 59
-  },
-  {
-    "year": 2021,
-    "purpose": "Academic",
-    "count": 79
-  },
-  {
-    "year": 2021,
-    "purpose": "Civil",
-    "count": 69
-  },
-  {
-    "year": 2021,
-    "purpose": "Commercial",
-    "count": 1585
-  },
-  {
-    "year": 2021,
-    "purpose": "Commercial + Military",
-    "count": 2
-  },
-  {
-    "year": 2021,
-    "purpose": "Military",
-    "count": 80
-  },
-  {
-    "year": 2022,
-    "purpose": "Academic",
-    "count": 92
-  },
-  {
-    "year": 2022,
-    "purpose": "Civil",
-    "count": 87
-  },
-  {
-    "year": 2022,
-    "purpose": "Commercial",
-    "count": 2159
-  },
-  {
-    "year": 2022,
-    "purpose": "Military",
-    "count": 111
-  },
-  {
-    "year": 2023,
-    "purpose": "Academic",
-    "count": 85
-  },
-  {
-    "year": 2023,
-    "purpose": "Civil",
-    "count": 80
-  },
-  {
-    "year": 2023,
-    "purpose": "Commercial",
-    "count": 2628
-  },
-  {
-    "year": 2023,
-    "purpose": "Military",
-    "count": 109
-  },
-  {
-    "year": 2024,
-    "purpose": "Academic",
-    "count": 75
-  },
-  {
-    "year": 2024,
-    "purpose": "Civil",
-    "count": 106
-  },
-  {
-    "year": 2024,
-    "purpose": "Commercial",
-    "count": 2459
-  },
-  {
-    "year": 2024,
-    "purpose": "Military",
-    "count": 189
-  },
-  {
-    "year": 2025,
-    "purpose": "Academic",
+    "purpose": "Observation",
     "count": 91
   },
   {
-    "year": 2025,
-    "purpose": "Civil",
-    "count": 248
+    "year": 2016,
+    "purpose": "All Other Categories",
+    "count": 54
   },
   {
-    "year": 2025,
-    "purpose": "Commercial",
-    "count": 3942
+    "year": 2016,
+    "purpose": "Communication",
+    "count": 49
   },
   {
-    "year": 2025,
-    "purpose": "Military",
+    "year": 2016,
+    "purpose": "Geolocation",
+    "count": 15
+  },
+  {
+    "year": 2016,
+    "purpose": "Observation",
+    "count": 98
+  },
+  {
+    "year": 2017,
+    "purpose": "All Other Categories",
+    "count": 86
+  },
+  {
+    "year": 2017,
+    "purpose": "Communication",
+    "count": 120
+  },
+  {
+    "year": 2017,
+    "purpose": "Geolocation",
+    "count": 11
+  },
+  {
+    "year": 2017,
+    "purpose": "Observation",
+    "count": 226
+  },
+  {
+    "year": 2018,
+    "purpose": "All Other Categories",
+    "count": 153
+  },
+  {
+    "year": 2018,
+    "purpose": "Communication",
+    "count": 136
+  },
+  {
+    "year": 2018,
+    "purpose": "Geolocation",
+    "count": 28
+  },
+  {
+    "year": 2018,
+    "purpose": "Observation",
+    "count": 145
+  },
+  {
+    "year": 2019,
+    "purpose": "All Other Categories",
+    "count": 132
+  },
+  {
+    "year": 2019,
+    "purpose": "Communication",
+    "count": 215
+  },
+  {
+    "year": 2019,
+    "purpose": "Geolocation",
+    "count": 13
+  },
+  {
+    "year": 2019,
+    "purpose": "Observation",
+    "count": 118
+  },
+  {
+    "year": 2020,
+    "purpose": "All Other Categories",
+    "count": 86
+  },
+  {
+    "year": 2020,
+    "purpose": "Communication",
+    "count": 1032
+  },
+  {
+    "year": 2020,
+    "purpose": "Geolocation",
+    "count": 6
+  },
+  {
+    "year": 2020,
+    "purpose": "Observation",
+    "count": 125
+  },
+  {
+    "year": 2021,
+    "purpose": "All Other Categories",
+    "count": 197
+  },
+  {
+    "year": 2021,
+    "purpose": "Communication",
+    "count": 1452
+  },
+  {
+    "year": 2021,
+    "purpose": "Geolocation",
+    "count": 4
+  },
+  {
+    "year": 2021,
+    "purpose": "Observation",
+    "count": 162
+  },
+  {
+    "year": 2022,
+    "purpose": "All Other Categories",
+    "count": 222
+  },
+  {
+    "year": 2022,
+    "purpose": "Communication",
+    "count": 1990
+  },
+  {
+    "year": 2022,
+    "purpose": "Geolocation",
+    "count": 16
+  },
+  {
+    "year": 2022,
+    "purpose": "Observation",
     "count": 221
   },
   {
-    "year": 2026,
-    "purpose": "Academic",
-    "count": 3
+    "year": 2023,
+    "purpose": "All Other Categories",
+    "count": 234
   },
   {
-    "year": 2026,
-    "purpose": "Civil",
-    "count": 23
+    "year": 2023,
+    "purpose": "Communication",
+    "count": 2330
   },
   {
-    "year": 2026,
-    "purpose": "Commercial",
-    "count": 539
+    "year": 2023,
+    "purpose": "Geolocation",
+    "count": 8
   },
   {
-    "year": 2026,
-    "purpose": "Military",
+    "year": 2023,
+    "purpose": "Observation",
+    "count": 330
+  },
+  {
+    "year": 2024,
+    "purpose": "All Other Categories",
+    "count": 195
+  },
+  {
+    "year": 2024,
+    "purpose": "Communication",
+    "count": 2248
+  },
+  {
+    "year": 2024,
+    "purpose": "Geolocation",
     "count": 28
+  },
+  {
+    "year": 2024,
+    "purpose": "Observation",
+    "count": 358
+  },
+  {
+    "year": 2025,
+    "purpose": "All Other Categories",
+    "count": 257
+  },
+  {
+    "year": 2025,
+    "purpose": "Communication",
+    "count": 3740
+  },
+  {
+    "year": 2025,
+    "purpose": "Geolocation",
+    "count": 57
+  },
+  {
+    "year": 2025,
+    "purpose": "Observation",
+    "count": 448
+  },
+  {
+    "year": 2026,
+    "purpose": "All Other Categories",
+    "count": 12
+  },
+  {
+    "year": 2026,
+    "purpose": "Communication",
+    "count": 537
+  },
+  {
+    "year": 2026,
+    "purpose": "Geolocation",
+    "count": 1
+  },
+  {
+    "year": 2026,
+    "purpose": "Observation",
+    "count": 43
   }
 ]

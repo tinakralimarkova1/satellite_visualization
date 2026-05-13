@@ -2,14 +2,20 @@ import { appState } from "./state.js";
 
 let purposeYearData = [];
 
-const purposeOrder = ["Academic", "Commercial", "Civil", "Military", "Unknown"];
+const purposeOrder = [
+  "Observation",
+  "Communication",
+  "Geolocation",
+  "Armamentation",
+  "All Other Categories"
+];
 
 const purposeColors = {
-  Academic: "#1f77b4",
-  Commercial: "#ff7f0e",
-  Civil: "#2ca02c",
-  Military: "#d62728",
-  Unknown: "#7f7f7f"
+  Observation: "#2563eb",
+  Communication: "#f97316",
+  Geolocation: "#16a34a",
+  Armamentation: "#dc2626",
+  "All Other Categories": "#64748b"
 };
 
 export async function renderPurposeStackedChart() {

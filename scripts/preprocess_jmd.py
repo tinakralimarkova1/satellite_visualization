@@ -149,30 +149,35 @@ def resolve_country_state_code(
     return default_state_code
 
 
-def map_class_label(class_value: str) -> str:
-    class_map = {
-        "A": "Academic",
-        "B": "Commercial",
-        "C": "Civil",
-        "D": "Military",
-    }
+PURPOSE_CATEGORY_RULES = [
+    ("Armamentation", {"WEAPON", "TARG"}),
+    ("Geolocation", {"NAV"}),
+    ("Communication", {"COM"}),
+    ("Observation", {"IMG", "IMG-R", "MET", "MET-RO", "EOSCI", "AST", "SCI", "GEOD", "CAL"}),
+]
 
-    if pd.isna(class_value):
-        return "Unknown"
 
-    value = str(class_value).strip()
+def parse_category_codes(category_value: str) -> set[str]:
+    if pd.isna(category_value):
+        return set()
 
-    # Exact single-letter match
-    if value in class_map:
-        return class_map[value]
+    category_codes = set()
+    for part in str(category_value).split("/"):
+        code = part.strip().replace("*", "").replace("?", "")
+        if code and code != "-":
+            category_codes.add(code)
 
-    # Handle combined classes like CD, BD, CB, etc.
-    labels = []
-    for ch in value:
-        if ch in class_map and class_map[ch] not in labels:
-            labels.append(class_map[ch])
+    return category_codes
 
-    return " + ".join(labels) if labels else "Unknown"
+
+def map_purpose_category(category_value: str) -> str:
+    category_codes = parse_category_codes(category_value)
+
+    for purpose, matching_codes in PURPOSE_CATEGORY_RULES:
+        if category_codes & matching_codes:
+            return purpose
+
+    return "All Other Categories"
 
 
 def main() -> None:
@@ -267,10 +272,10 @@ def main() -> None:
     # ----------------------------
     # 3) Launches per year per purpose
     # Join JMD_satcat -> psatcat on #JCAT
-    # Use psatcat.Class instead of orgs database
+    # Reclassify psatcat.Category into custom purpose buckets.
     # ----------------------------
 
-    df["purpose"] = df["Class"].apply(map_class_label)
+    df["purpose"] = df["Category"].apply(map_purpose_category)
 
     df_purpose = df.dropna(subset=["Year"])
 
