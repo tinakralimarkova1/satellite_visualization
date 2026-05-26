@@ -157,6 +157,18 @@
   },
   {
     "year": 1963,
+    "country": "AFSSD?",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 1963,
+    "country": "AFSSD?",
+    "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 1963,
     "country": "Russia",
     "purpose": "All Other Categories",
     "count": 9
@@ -171,7 +183,7 @@
     "year": 1963,
     "country": "United States",
     "purpose": "All Other Categories",
-    "count": 18
+    "count": 17
   },
   {
     "year": 1963,
@@ -189,7 +201,7 @@
     "year": 1963,
     "country": "United States",
     "purpose": "Observation",
-    "count": 33
+    "count": 32
   },
   {
     "year": 1964,
@@ -457,9 +469,15 @@
   },
   {
     "year": 1968,
+    "country": "ESA",
+    "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 1968,
     "country": "ESRO",
     "purpose": "Observation",
-    "count": 3
+    "count": 2
   },
   {
     "year": 1968,
@@ -967,14 +985,14 @@
   },
   {
     "year": 1974,
-    "country": "France",
-    "purpose": "Communication",
+    "country": "Germany",
+    "purpose": "All Other Categories",
     "count": 1
   },
   {
     "year": 1974,
     "country": "Germany",
-    "purpose": "All Other Categories",
+    "purpose": "Communication",
     "count": 1
   },
   {
@@ -1449,7 +1467,7 @@
     "year": 1978,
     "country": "Russia",
     "purpose": "All Other Categories",
-    "count": 31
+    "count": 32
   },
   {
     "year": 1978,
@@ -1498,12 +1516,6 @@
     "country": "United States",
     "purpose": "Observation",
     "count": 12
-  },
-  {
-    "year": 1978,
-    "country": "VNIEM?",
-    "purpose": "All Other Categories",
-    "count": 1
   },
   {
     "year": 1979,
@@ -2695,6 +2707,12 @@
   },
   {
     "year": 1990,
+    "country": "HK",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 1990,
     "country": "INMARSAT",
     "purpose": "Communication",
     "count": 1
@@ -2775,7 +2793,7 @@
     "year": 1990,
     "country": "United Kingdom",
     "purpose": "Communication",
-    "count": 6
+    "count": 5
   },
   {
     "year": 1990,
@@ -3307,6 +3325,12 @@
   },
   {
     "year": 1994,
+    "country": "HK",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 1994,
     "country": "INTELSAT",
     "purpose": "Communication",
     "count": 2
@@ -3363,7 +3387,7 @@
     "year": 1994,
     "country": "Russia",
     "purpose": "Observation",
-    "count": 13
+    "count": 15
   },
   {
     "year": 1994,
@@ -3379,21 +3403,9 @@
   },
   {
     "year": 1994,
-    "country": "Ukraine",
-    "purpose": "Observation",
-    "count": 2
-  },
-  {
-    "year": 1994,
     "country": "United Kingdom",
     "purpose": "All Other Categories",
     "count": 2
-  },
-  {
-    "year": 1994,
-    "country": "United Kingdom",
-    "purpose": "Communication",
-    "count": 1
   },
   {
     "year": 1994,
@@ -3471,6 +3483,12 @@
     "year": 1995,
     "country": "Germany",
     "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 1995,
+    "country": "HK",
+    "purpose": "Communication",
     "count": 1
   },
   {
@@ -3571,12 +3589,6 @@
   },
   {
     "year": 1995,
-    "country": "United Kingdom",
-    "purpose": "Communication",
-    "count": 1
-  },
-  {
-    "year": 1995,
     "country": "United States",
     "purpose": "All Other Categories",
     "count": 11
@@ -3645,6 +3657,12 @@
     "year": 1996,
     "country": "Germany",
     "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 1996,
+    "country": "HK",
+    "purpose": "Communication",
     "count": 1
   },
   {
@@ -3763,12 +3781,6 @@
   },
   {
     "year": 1996,
-    "country": "United Kingdom",
-    "purpose": "Communication",
-    "count": 1
-  },
-  {
-    "year": 1996,
     "country": "United States",
     "purpose": "All Other Categories",
     "count": 22
@@ -3801,7 +3813,7 @@
     "year": 1997,
     "country": "China",
     "purpose": "Communication",
-    "count": 5
+    "count": 3
   },
   {
     "year": 1997,
@@ -3837,6 +3849,12 @@
     "year": 1997,
     "country": "Germany",
     "purpose": "Observation",
+    "count": 2
+  },
+  {
+    "year": 1997,
+    "country": "HK",
+    "purpose": "Communication",
     "count": 2
   },
   {
@@ -3999,7 +4017,7 @@
     "year": 1998,
     "country": "China",
     "purpose": "Communication",
-    "count": 1
+    "count": 2
   },
   {
     "year": 1998,
@@ -4023,7 +4041,7 @@
     "year": 1998,
     "country": "France",
     "purpose": "Communication",
-    "count": 2
+    "count": 1
   },
   {
     "year": 1998,
@@ -4184,12 +4202,6 @@
   {
     "year": 1999,
     "country": "China",
-    "purpose": "Communication",
-    "count": 1
-  },
-  {
-    "year": 1999,
-    "country": "China",
     "purpose": "Observation",
     "count": 4
   },
@@ -4228,6 +4240,12 @@
     "country": "Germany",
     "purpose": "Observation",
     "count": 2
+  },
+  {
+    "year": 1999,
+    "country": "HK",
+    "purpose": "Communication",
+    "count": 1
   },
   {
     "year": 1999,
@@ -4287,7 +4305,7 @@
     "year": 1999,
     "country": "Russia",
     "purpose": "Observation",
-    "count": 3
+    "count": 4
   },
   {
     "year": 1999,
@@ -4310,12 +4328,6 @@
   {
     "year": 1999,
     "country": "Taiwan",
-    "purpose": "Observation",
-    "count": 1
-  },
-  {
-    "year": 1999,
-    "country": "Ukraine",
     "purpose": "Observation",
     "count": 1
   },
@@ -4581,7 +4593,7 @@
     "year": 2001,
     "country": "France",
     "purpose": "Communication",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2001,
@@ -4645,12 +4657,6 @@
   },
   {
     "year": 2001,
-    "country": "OSCD?",
-    "purpose": "Communication",
-    "count": 1
-  },
-  {
-    "year": 2001,
     "country": "Pakistan",
     "purpose": "Observation",
     "count": 1
@@ -4687,15 +4693,15 @@
   },
   {
     "year": 2001,
-    "country": "Ukraine",
-    "purpose": "Observation",
+    "country": "Turkey",
+    "purpose": "Communication",
     "count": 1
   },
   {
     "year": 2001,
     "country": "United Kingdom",
     "purpose": "Communication",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2001,
@@ -4707,7 +4713,7 @@
     "year": 2001,
     "country": "United States",
     "purpose": "Communication",
-    "count": 8
+    "count": 10
   },
   {
     "year": 2001,
@@ -4719,7 +4725,7 @@
     "year": 2001,
     "country": "United States",
     "purpose": "Observation",
-    "count": 8
+    "count": 9
   },
   {
     "year": 2002,
@@ -4923,7 +4929,7 @@
     "year": 2003,
     "country": "China",
     "purpose": "Communication",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2003,
@@ -4964,6 +4970,12 @@
   {
     "year": 2003,
     "country": "Greece",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2003,
+    "country": "HK",
     "purpose": "Communication",
     "count": 1
   },
@@ -5085,7 +5097,7 @@
     "year": 2004,
     "country": "Brazil",
     "purpose": "Communication",
-    "count": 1
+    "count": 2
   },
   {
     "year": 2004,
@@ -5131,12 +5143,6 @@
   },
   {
     "year": 2004,
-    "country": "Germany",
-    "purpose": "Communication",
-    "count": 1
-  },
-  {
-    "year": 2004,
     "country": "India",
     "purpose": "Communication",
     "count": 1
@@ -5151,7 +5157,7 @@
     "year": 2004,
     "country": "Japan",
     "purpose": "Communication",
-    "count": 1
+    "count": 2
   },
   {
     "year": 2004,
@@ -5217,7 +5223,7 @@
     "year": 2004,
     "country": "United States",
     "purpose": "Communication",
-    "count": 12
+    "count": 11
   },
   {
     "year": 2004,
@@ -5242,12 +5248,6 @@
     "country": "China",
     "purpose": "All Other Categories",
     "count": 3
-  },
-  {
-    "year": 2005,
-    "country": "China",
-    "purpose": "Communication",
-    "count": 1
   },
   {
     "year": 2005,
@@ -5282,6 +5282,12 @@
   {
     "year": 2005,
     "country": "Germany",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2005,
+    "country": "HK",
     "purpose": "Communication",
     "count": 1
   },
@@ -5461,7 +5467,7 @@
   },
   {
     "year": 2006,
-    "country": "Israel",
+    "country": "IMAGT?",
     "purpose": "Observation",
     "count": 1
   },
@@ -5659,12 +5665,6 @@
   },
   {
     "year": 2007,
-    "country": "France",
-    "purpose": "Communication",
-    "count": 1
-  },
-  {
-    "year": 2007,
     "country": "Germany",
     "purpose": "Observation",
     "count": 3
@@ -5732,6 +5732,12 @@
   {
     "year": 2007,
     "country": "Nigeria",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2007,
+    "country": "RASCOM",
     "purpose": "Communication",
     "count": 1
   },
@@ -5827,6 +5833,12 @@
   },
   {
     "year": 2008,
+    "country": "CMSEO?",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2008,
     "country": "Canada",
     "purpose": "All Other Categories",
     "count": 1
@@ -5841,7 +5853,7 @@
     "year": 2008,
     "country": "China",
     "purpose": "All Other Categories",
-    "count": 5
+    "count": 4
   },
   {
     "year": 2008,
@@ -6049,6 +6061,12 @@
   },
   {
     "year": 2009,
+    "country": "Brazil",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2009,
     "country": "Canada",
     "purpose": "Communication",
     "count": 2
@@ -6063,7 +6081,7 @@
     "year": 2009,
     "country": "China",
     "purpose": "Communication",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2009,
@@ -6099,7 +6117,7 @@
     "year": 2009,
     "country": "France",
     "purpose": "Communication",
-    "count": 4
+    "count": 3
   },
   {
     "year": 2009,
@@ -6116,6 +6134,12 @@
   {
     "year": 2009,
     "country": "Germany",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "HK",
     "purpose": "Communication",
     "count": 1
   },
@@ -6177,6 +6201,12 @@
     "year": 2009,
     "country": "Malaysia",
     "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 2009,
+    "country": "NROC?",
+    "purpose": "All Other Categories",
     "count": 1
   },
   {
@@ -6249,7 +6279,7 @@
     "year": 2009,
     "country": "United Kingdom",
     "purpose": "Communication",
-    "count": 1
+    "count": 2
   },
   {
     "year": 2009,
@@ -6261,13 +6291,13 @@
     "year": 2009,
     "country": "United States",
     "purpose": "All Other Categories",
-    "count": 20
+    "count": 19
   },
   {
     "year": 2009,
     "country": "United States",
     "purpose": "Communication",
-    "count": 10
+    "count": 9
   },
   {
     "year": 2009,
@@ -6333,7 +6363,7 @@
     "year": 2010,
     "country": "France",
     "purpose": "Communication",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2010,
@@ -6404,6 +6434,12 @@
   {
     "year": 2010,
     "country": "Norway",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2010,
+    "country": "RASCOM",
     "purpose": "Communication",
     "count": 1
   },
@@ -6505,12 +6541,6 @@
   },
   {
     "year": 2011,
-    "country": "Canada",
-    "purpose": "Communication",
-    "count": 2
-  },
-  {
-    "year": 2011,
     "country": "Chile",
     "purpose": "Observation",
     "count": 1
@@ -6525,7 +6555,7 @@
     "year": 2011,
     "country": "China",
     "purpose": "Communication",
-    "count": 5
+    "count": 4
   },
   {
     "year": 2011,
@@ -6567,6 +6597,12 @@
     "year": 2011,
     "country": "France",
     "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 2011,
+    "country": "HK",
+    "purpose": "Communication",
     "count": 1
   },
   {
@@ -6729,7 +6765,7 @@
     "year": 2011,
     "country": "United States",
     "purpose": "Communication",
-    "count": 16
+    "count": 18
   },
   {
     "year": 2011,
@@ -6771,7 +6807,7 @@
     "year": 2012,
     "country": "China",
     "purpose": "Communication",
-    "count": 4
+    "count": 3
   },
   {
     "year": 2012,
@@ -6825,6 +6861,12 @@
     "year": 2012,
     "country": "Germany",
     "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2012,
+    "country": "HK",
+    "purpose": "Communication",
     "count": 1
   },
   {
@@ -6943,6 +6985,12 @@
   },
   {
     "year": 2012,
+    "country": "Sweden",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2012,
     "country": "Turkey",
     "purpose": "Observation",
     "count": 1
@@ -6969,7 +7017,7 @@
     "year": 2012,
     "country": "United States",
     "purpose": "Communication",
-    "count": 14
+    "count": 13
   },
   {
     "year": 2012,
@@ -7011,7 +7059,7 @@
     "year": 2013,
     "country": "Austria",
     "purpose": "Observation",
-    "count": 1
+    "count": 2
   },
   {
     "year": 2013,
@@ -7022,6 +7070,12 @@
   {
     "year": 2013,
     "country": "Bolivia",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Brazil",
     "purpose": "Communication",
     "count": 1
   },
@@ -7041,13 +7095,13 @@
     "year": 2013,
     "country": "Canada",
     "purpose": "Observation",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2013,
     "country": "China",
     "purpose": "All Other Categories",
-    "count": 12
+    "count": 11
   },
   {
     "year": 2013,
@@ -7095,7 +7149,7 @@
     "year": 2013,
     "country": "France",
     "purpose": "Communication",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2013,
@@ -7189,6 +7243,12 @@
   },
   {
     "year": 2013,
+    "country": "PVO?",
+    "purpose": "Observation",
+    "count": 2
+  },
+  {
+    "year": 2013,
     "country": "Pakistan",
     "purpose": "All Other Categories",
     "count": 1
@@ -7203,6 +7263,12 @@
     "year": 2013,
     "country": "Poland",
     "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 2013,
+    "country": "Qatar",
+    "purpose": "Communication",
     "count": 1
   },
   {
@@ -7227,7 +7293,7 @@
     "year": 2013,
     "country": "Russia",
     "purpose": "Observation",
-    "count": 5
+    "count": 2
   },
   {
     "year": 2013,
@@ -7261,6 +7327,12 @@
   },
   {
     "year": 2013,
+    "country": "TSSKBP?",
+    "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 2013,
     "country": "Turkey",
     "purpose": "All Other Categories",
     "count": 1
@@ -7281,7 +7353,7 @@
     "year": 2013,
     "country": "United Kingdom",
     "purpose": "Communication",
-    "count": 7
+    "count": 8
   },
   {
     "year": 2013,
@@ -7293,7 +7365,7 @@
     "year": 2013,
     "country": "United States",
     "purpose": "Communication",
-    "count": 27
+    "count": 25
   },
   {
     "year": 2013,
@@ -7320,6 +7392,12 @@
     "count": 1
   },
   {
+    "year": 2013,
+    "country": "ZZWYZ?",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
     "year": 2014,
     "country": "Argentina",
     "purpose": "Communication",
@@ -7340,8 +7418,20 @@
   {
     "year": 2014,
     "country": "Belgium",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "Belgium",
     "purpose": "Observation",
     "count": 2
+  },
+  {
+    "year": 2014,
+    "country": "Brazil",
+    "purpose": "Communication",
+    "count": 1
   },
   {
     "year": 2014,
@@ -7359,7 +7449,7 @@
     "year": 2014,
     "country": "Canada",
     "purpose": "Observation",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2014,
@@ -7371,13 +7461,19 @@
     "year": 2014,
     "country": "China",
     "purpose": "Communication",
-    "count": 5
+    "count": 2
   },
   {
     "year": 2014,
     "country": "China",
     "purpose": "Observation",
     "count": 9
+  },
+  {
+    "year": 2014,
+    "country": "DND?",
+    "purpose": "Observation",
+    "count": 1
   },
   {
     "year": 2014,
@@ -7426,6 +7522,12 @@
     "country": "Germany",
     "purpose": "Communication",
     "count": 1
+  },
+  {
+    "year": 2014,
+    "country": "HK",
+    "purpose": "Communication",
+    "count": 3
   },
   {
     "year": 2014,
@@ -7507,6 +7609,12 @@
   },
   {
     "year": 2014,
+    "country": "NROC?",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2014,
     "country": "Norway",
     "purpose": "Communication",
     "count": 1
@@ -7551,7 +7659,7 @@
     "year": 2014,
     "country": "Russia",
     "purpose": "Observation",
-    "count": 5
+    "count": 4
   },
   {
     "year": 2014,
@@ -7579,8 +7687,8 @@
   },
   {
     "year": 2014,
-    "country": "Taiwan",
-    "purpose": "All Other Categories",
+    "country": "TSSKBP?",
+    "purpose": "Observation",
     "count": 1
   },
   {
@@ -7617,13 +7725,13 @@
     "year": 2014,
     "country": "United States",
     "purpose": "All Other Categories",
-    "count": 22
+    "count": 21
   },
   {
     "year": 2014,
     "country": "United States",
     "purpose": "Communication",
-    "count": 17
+    "count": 16
   },
   {
     "year": 2014,
@@ -7642,6 +7750,12 @@
     "country": "Uruguay",
     "purpose": "Communication",
     "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "AFRL?",
+    "purpose": "Observation",
+    "count": 3
   },
   {
     "year": 2015,
@@ -7689,7 +7803,7 @@
     "year": 2015,
     "country": "China",
     "purpose": "Communication",
-    "count": 13
+    "count": 11
   },
   {
     "year": 2015,
@@ -7723,6 +7837,12 @@
   },
   {
     "year": 2015,
+    "country": "EU",
+    "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 2015,
     "country": "EUMETSAT",
     "purpose": "Observation",
     "count": 1
@@ -7731,12 +7851,12 @@
     "year": 2015,
     "country": "France",
     "purpose": "Communication",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2015,
-    "country": "Germany",
-    "purpose": "Observation",
+    "country": "HK",
+    "purpose": "Communication",
     "count": 1
   },
   {
@@ -7789,14 +7909,32 @@
   },
   {
     "year": 2015,
+    "country": "Laos",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2015,
     "country": "Mexico",
     "purpose": "Communication",
-    "count": 2
+    "count": 3
+  },
+  {
+    "year": 2015,
+    "country": "Monaco",
+    "purpose": "Communication",
+    "count": 1
   },
   {
     "year": 2015,
     "country": "Norway",
     "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2015,
+    "country": "PVO?",
+    "purpose": "Observation",
     "count": 1
   },
   {
@@ -7821,7 +7959,7 @@
     "year": 2015,
     "country": "Russia",
     "purpose": "Observation",
-    "count": 6
+    "count": 4
   },
   {
     "year": 2015,
@@ -7875,7 +8013,7 @@
     "year": 2015,
     "country": "United States",
     "purpose": "Communication",
-    "count": 26
+    "count": 25
   },
   {
     "year": 2015,
@@ -7887,7 +8025,13 @@
     "year": 2015,
     "country": "United States",
     "purpose": "Observation",
-    "count": 56
+    "count": 53
+  },
+  {
+    "year": 2015,
+    "country": "VVKOV?",
+    "purpose": "Observation",
+    "count": 1
   },
   {
     "year": 2016,
@@ -7933,6 +8077,18 @@
   },
   {
     "year": 2016,
+    "country": "CAST?",
+    "purpose": "All Other Categories",
+    "count": 4
+  },
+  {
+    "year": 2016,
+    "country": "CMSEO?",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2016,
     "country": "Canada",
     "purpose": "All Other Categories",
     "count": 1
@@ -7953,13 +8109,13 @@
     "year": 2016,
     "country": "China",
     "purpose": "All Other Categories",
-    "count": 19
+    "count": 14
   },
   {
     "year": 2016,
     "country": "China",
     "purpose": "Communication",
-    "count": 4
+    "count": 3
   },
   {
     "year": 2016,
@@ -7993,6 +8149,12 @@
   },
   {
     "year": 2016,
+    "country": "EU",
+    "purpose": "Observation",
+    "count": 2
+  },
+  {
+    "year": 2016,
     "country": "France",
     "purpose": "Communication",
     "count": 2
@@ -8001,7 +8163,7 @@
     "year": 2016,
     "country": "France",
     "purpose": "Observation",
-    "count": 4
+    "count": 2
   },
   {
     "year": 2016,
@@ -8013,6 +8175,12 @@
     "year": 2016,
     "country": "Germany",
     "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "HK",
+    "purpose": "Communication",
     "count": 1
   },
   {
@@ -8115,11 +8283,17 @@
     "year": 2016,
     "country": "Russia",
     "purpose": "Observation",
-    "count": 5
+    "count": 4
   },
   {
     "year": 2016,
     "country": "Spain",
+    "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 2016,
+    "country": "TSSKBP?",
     "purpose": "Observation",
     "count": 1
   },
@@ -8173,6 +8347,12 @@
   },
   {
     "year": 2017,
+    "country": "AFSMC?",
+    "purpose": "All Other Categories",
+    "count": 3
+  },
+  {
+    "year": 2017,
     "country": "Algeria",
     "purpose": "Communication",
     "count": 1
@@ -8209,6 +8389,12 @@
   },
   {
     "year": 2017,
+    "country": "BGN",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2017,
     "country": "Bangladesh",
     "purpose": "All Other Categories",
     "count": 1
@@ -8217,19 +8403,7 @@
     "year": 2017,
     "country": "Brazil",
     "purpose": "Communication",
-    "count": 1
-  },
-  {
-    "year": 2017,
-    "country": "Bulgaria",
-    "purpose": "Communication",
-    "count": 1
-  },
-  {
-    "year": 2017,
-    "country": "CAST?",
-    "purpose": "Observation",
-    "count": 2
+    "count": 3
   },
   {
     "year": 2017,
@@ -8253,7 +8427,7 @@
     "year": 2017,
     "country": "China",
     "purpose": "Communication",
-    "count": 5
+    "count": 4
   },
   {
     "year": 2017,
@@ -8265,7 +8439,7 @@
     "year": 2017,
     "country": "China",
     "purpose": "Observation",
-    "count": 12
+    "count": 14
   },
   {
     "year": 2017,
@@ -8281,6 +8455,12 @@
   },
   {
     "year": 2017,
+    "country": "EU",
+    "purpose": "Observation",
+    "count": 2
+  },
+  {
+    "year": 2017,
     "country": "Finland",
     "purpose": "Observation",
     "count": 2
@@ -8289,7 +8469,7 @@
     "year": 2017,
     "country": "France",
     "purpose": "Communication",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2017,
@@ -8307,7 +8487,7 @@
     "year": 2017,
     "country": "Germany",
     "purpose": "Observation",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2017,
@@ -8326,6 +8506,12 @@
     "country": "Greece",
     "purpose": "Observation",
     "count": 2
+  },
+  {
+    "year": 2017,
+    "country": "HK",
+    "purpose": "Communication",
+    "count": 1
   },
   {
     "year": 2017,
@@ -8571,19 +8757,19 @@
     "year": 2017,
     "country": "United Kingdom",
     "purpose": "Observation",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2017,
     "country": "United States",
     "purpose": "All Other Categories",
-    "count": 31
+    "count": 28
   },
   {
     "year": 2017,
     "country": "United States",
     "purpose": "Communication",
-    "count": 87
+    "count": 86
   },
   {
     "year": 2017,
@@ -8612,8 +8798,14 @@
   {
     "year": 2018,
     "country": "Australia",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "Australia",
     "purpose": "Communication",
-    "count": 4
+    "count": 5
   },
   {
     "year": 2018,
@@ -8624,6 +8816,12 @@
   {
     "year": 2018,
     "country": "Azerbaijan",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2018,
+    "country": "BGN",
     "purpose": "Communication",
     "count": 1
   },
@@ -8659,18 +8857,6 @@
   },
   {
     "year": 2018,
-    "country": "Bulgaria",
-    "purpose": "Communication",
-    "count": 1
-  },
-  {
-    "year": 2018,
-    "country": "CAST?",
-    "purpose": "Observation",
-    "count": 2
-  },
-  {
-    "year": 2018,
     "country": "Canada",
     "purpose": "Communication",
     "count": 5
@@ -8685,7 +8871,7 @@
     "year": 2018,
     "country": "China",
     "purpose": "Communication",
-    "count": 17
+    "count": 15
   },
   {
     "year": 2018,
@@ -8697,7 +8883,7 @@
     "year": 2018,
     "country": "China",
     "purpose": "Observation",
-    "count": 32
+    "count": 34
   },
   {
     "year": 2018,
@@ -8755,6 +8941,12 @@
   },
   {
     "year": 2018,
+    "country": "EU",
+    "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 2018,
     "country": "EUMETSAT",
     "purpose": "Observation",
     "count": 1
@@ -8781,7 +8973,7 @@
     "year": 2018,
     "country": "France",
     "purpose": "Observation",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2018,
@@ -8797,9 +8989,9 @@
   },
   {
     "year": 2018,
-    "country": "Germany",
-    "purpose": "Observation",
-    "count": 2
+    "country": "HK",
+    "purpose": "Communication",
+    "count": 1
   },
   {
     "year": 2018,
@@ -9057,7 +9249,7 @@
     "year": 2018,
     "country": "United States",
     "purpose": "All Other Categories",
-    "count": 63
+    "count": 62
   },
   {
     "year": 2018,
@@ -9075,7 +9267,7 @@
     "year": 2018,
     "country": "United States",
     "purpose": "Observation",
-    "count": 70
+    "count": 72
   },
   {
     "year": 2018,
@@ -9117,13 +9309,13 @@
     "year": 2019,
     "country": "China",
     "purpose": "All Other Categories",
-    "count": 15
+    "count": 14
   },
   {
     "year": 2019,
     "country": "China",
     "purpose": "Communication",
-    "count": 17
+    "count": 15
   },
   {
     "year": 2019,
@@ -9229,6 +9421,18 @@
   },
   {
     "year": 2019,
+    "country": "Germany",
+    "purpose": "Communication",
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "Greece",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2019,
     "country": "Hungary",
     "purpose": "All Other Categories",
     "count": 2
@@ -9261,7 +9465,7 @@
     "year": 2019,
     "country": "Israel",
     "purpose": "All Other Categories",
-    "count": 1
+    "count": 2
   },
   {
     "year": 2019,
@@ -9285,7 +9489,13 @@
     "year": 2019,
     "country": "Japan",
     "purpose": "All Other Categories",
-    "count": 12
+    "count": 11
+  },
+  {
+    "year": 2019,
+    "country": "Japan",
+    "purpose": "Communication",
+    "count": 1
   },
   {
     "year": 2019,
@@ -9297,7 +9507,13 @@
     "year": 2019,
     "country": "Lithuania",
     "purpose": "Communication",
-    "count": 1
+    "count": 2
+  },
+  {
+    "year": 2019,
+    "country": "Luxembourg",
+    "purpose": "Communication",
+    "count": 4
   },
   {
     "year": 2019,
@@ -9319,6 +9535,12 @@
   },
   {
     "year": 2019,
+    "country": "PVO?",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2019,
     "country": "Poland",
     "purpose": "All Other Categories",
     "count": 1
@@ -9333,7 +9555,7 @@
     "year": 2019,
     "country": "Russia",
     "purpose": "All Other Categories",
-    "count": 18
+    "count": 17
   },
   {
     "year": 2019,
@@ -9352,6 +9574,12 @@
     "country": "Russia",
     "purpose": "Observation",
     "count": 4
+  },
+  {
+    "year": 2019,
+    "country": "Rwanda",
+    "purpose": "All Other Categories",
+    "count": 1
   },
   {
     "year": 2019,
@@ -9374,6 +9602,12 @@
   {
     "year": 2019,
     "country": "Sri Lanka",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2019,
+    "country": "Sudan",
     "purpose": "All Other Categories",
     "count": 1
   },
@@ -9405,13 +9639,13 @@
     "year": 2019,
     "country": "United Kingdom",
     "purpose": "All Other Categories",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2019,
     "country": "United Kingdom",
     "purpose": "Communication",
-    "count": 15
+    "count": 11
   },
   {
     "year": 2019,
@@ -9423,7 +9657,7 @@
     "year": 2019,
     "country": "United States",
     "purpose": "Communication",
-    "count": 161
+    "count": 158
   },
   {
     "year": 2019,
@@ -9517,6 +9751,12 @@
   },
   {
     "year": 2020,
+    "country": "EU",
+    "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 2020,
     "country": "Estonia",
     "purpose": "Observation",
     "count": 1
@@ -9556,12 +9796,6 @@
     "country": "Germany",
     "purpose": "All Other Categories",
     "count": 5
-  },
-  {
-    "year": 2020,
-    "country": "Germany",
-    "purpose": "Observation",
-    "count": 1
   },
   {
     "year": 2020,
@@ -9631,14 +9865,14 @@
   },
   {
     "year": 2020,
-    "country": "Lithuania",
-    "purpose": "Communication",
-    "count": 1
+    "country": "Luxembourg",
+    "purpose": "All Other Categories",
+    "count": 4
   },
   {
     "year": 2020,
     "country": "Luxembourg",
-    "purpose": "All Other Categories",
+    "purpose": "Communication",
     "count": 4
   },
   {
@@ -9733,15 +9967,21 @@
   },
   {
     "year": 2020,
+    "country": "USAFA?",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2020,
     "country": "United Kingdom",
     "purpose": "Communication",
-    "count": 108
+    "count": 105
   },
   {
     "year": 2020,
     "country": "United States",
     "purpose": "All Other Categories",
-    "count": 29
+    "count": 28
   },
   {
     "year": 2020,
@@ -9787,6 +10027,12 @@
   },
   {
     "year": 2021,
+    "country": "BGN",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2021,
     "country": "Belgium",
     "purpose": "All Other Categories",
     "count": 1
@@ -9802,12 +10048,6 @@
     "country": "Brazil",
     "purpose": "Observation",
     "count": 2
-  },
-  {
-    "year": 2021,
-    "country": "Bulgaria",
-    "purpose": "All Other Categories",
-    "count": 1
   },
   {
     "year": 2021,
@@ -9831,13 +10071,13 @@
     "year": 2021,
     "country": "China",
     "purpose": "Communication",
-    "count": 19
+    "count": 17
   },
   {
     "year": 2021,
     "country": "China",
     "purpose": "Observation",
-    "count": 41
+    "count": 38
   },
   {
     "year": 2021,
@@ -9885,13 +10125,19 @@
     "year": 2021,
     "country": "Germany",
     "purpose": "Communication",
-    "count": 1
+    "count": 3
   },
   {
     "year": 2021,
     "country": "Germany",
     "purpose": "Observation",
     "count": 1
+  },
+  {
+    "year": 2021,
+    "country": "HK",
+    "purpose": "Observation",
+    "count": 3
   },
   {
     "year": 2021,
@@ -9951,7 +10197,7 @@
     "year": 2021,
     "country": "Japan",
     "purpose": "All Other Categories",
-    "count": 13
+    "count": 14
   },
   {
     "year": 2021,
@@ -9975,19 +10221,19 @@
     "year": 2021,
     "country": "Lithuania",
     "purpose": "All Other Categories",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2021,
     "country": "Luxembourg",
     "purpose": "All Other Categories",
-    "count": 4
+    "count": 5
   },
   {
     "year": 2021,
     "country": "Luxembourg",
     "purpose": "Communication",
-    "count": 1
+    "count": 7
   },
   {
     "year": 2021,
@@ -10161,13 +10407,13 @@
     "year": 2021,
     "country": "United Kingdom",
     "purpose": "All Other Categories",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2021,
     "country": "United Kingdom",
     "purpose": "Communication",
-    "count": 293
+    "count": 287
   },
   {
     "year": 2021,
@@ -10227,6 +10473,24 @@
     "year": 2022,
     "country": "Australia",
     "purpose": "Communication",
+    "count": 3
+  },
+  {
+    "year": 2022,
+    "country": "Austria",
+    "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "BGN",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "Bhutan",
+    "purpose": "All Other Categories",
     "count": 1
   },
   {
@@ -10237,8 +10501,20 @@
   },
   {
     "year": 2022,
-    "country": "Bulgaria",
+    "country": "Brazil",
+    "purpose": "Observation",
+    "count": 2
+  },
+  {
+    "year": 2022,
+    "country": "CAS?",
     "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "CHFEN?",
+    "purpose": "Observation",
     "count": 1
   },
   {
@@ -10269,7 +10545,7 @@
     "year": 2022,
     "country": "China",
     "purpose": "All Other Categories",
-    "count": 63
+    "count": 62
   },
   {
     "year": 2022,
@@ -10287,7 +10563,7 @@
     "year": 2022,
     "country": "China",
     "purpose": "Observation",
-    "count": 94
+    "count": 91
   },
   {
     "year": 2022,
@@ -10323,7 +10599,7 @@
     "year": 2022,
     "country": "Finland",
     "purpose": "Observation",
-    "count": 4
+    "count": 2
   },
   {
     "year": 2022,
@@ -10357,6 +10633,12 @@
   },
   {
     "year": 2022,
+    "country": "HK",
+    "purpose": "Observation",
+    "count": 2
+  },
+  {
+    "year": 2022,
     "country": "India",
     "purpose": "All Other Categories",
     "count": 3
@@ -10372,12 +10654,6 @@
     "country": "India",
     "purpose": "Observation",
     "count": 5
-  },
-  {
-    "year": 2022,
-    "country": "Indonesia",
-    "purpose": "All Other Categories",
-    "count": 1
   },
   {
     "year": 2022,
@@ -10455,7 +10731,13 @@
     "year": 2022,
     "country": "Luxembourg",
     "purpose": "Communication",
-    "count": 3
+    "count": 7
+  },
+  {
+    "year": 2022,
+    "country": "Luxembourg",
+    "purpose": "Observation",
+    "count": 1
   },
   {
     "year": 2022,
@@ -10515,7 +10797,7 @@
     "year": 2022,
     "country": "Poland",
     "purpose": "All Other Categories",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2022,
@@ -10664,14 +10946,20 @@
   {
     "year": 2022,
     "country": "United Kingdom",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2022,
+    "country": "United Kingdom",
     "purpose": "Communication",
-    "count": 118
+    "count": 112
   },
   {
     "year": 2022,
     "country": "United Kingdom",
     "purpose": "Observation",
-    "count": 4
+    "count": 2
   },
   {
     "year": 2022,
@@ -10742,8 +11030,20 @@
   {
     "year": 2023,
     "country": "Austria",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Austria",
     "purpose": "Observation",
     "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "BGN",
+    "purpose": "All Other Categories",
+    "count": 2
   },
   {
     "year": 2023,
@@ -10766,14 +11066,14 @@
   {
     "year": 2023,
     "country": "Brazil",
-    "purpose": "Observation",
+    "purpose": "Communication",
     "count": 1
   },
   {
     "year": 2023,
-    "country": "Bulgaria",
-    "purpose": "All Other Categories",
-    "count": 2
+    "country": "Brazil",
+    "purpose": "Observation",
+    "count": 1
   },
   {
     "year": 2023,
@@ -10837,6 +11137,12 @@
   },
   {
     "year": 2023,
+    "country": "Djibouti",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2023,
     "country": "ESA",
     "purpose": "All Other Categories",
     "count": 1
@@ -10863,13 +11169,13 @@
     "year": 2023,
     "country": "France",
     "purpose": "All Other Categories",
-    "count": 9
+    "count": 8
   },
   {
     "year": 2023,
     "country": "France",
     "purpose": "Communication",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2023,
@@ -10946,8 +11252,14 @@
   {
     "year": 2023,
     "country": "Israel",
+    "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2023,
+    "country": "Israel",
     "purpose": "Observation",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2023,
@@ -10995,7 +11307,7 @@
     "year": 2023,
     "country": "Lithuania",
     "purpose": "All Other Categories",
-    "count": 5
+    "count": 3
   },
   {
     "year": 2023,
@@ -11007,7 +11319,7 @@
     "year": 2023,
     "country": "Luxembourg",
     "purpose": "Communication",
-    "count": 10
+    "count": 12
   },
   {
     "year": 2023,
@@ -11023,9 +11335,15 @@
   },
   {
     "year": 2023,
+    "country": "Neth. Antilles",
+    "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 2023,
     "country": "Netherlands",
     "purpose": "All Other Categories",
-    "count": 2
+    "count": 4
   },
   {
     "year": 2023,
@@ -11205,19 +11523,19 @@
     "year": 2023,
     "country": "United Kingdom",
     "purpose": "All Other Categories",
-    "count": 2
+    "count": 3
   },
   {
     "year": 2023,
     "country": "United Kingdom",
     "purpose": "Communication",
-    "count": 146
+    "count": 142
   },
   {
     "year": 2023,
     "country": "United Kingdom",
     "purpose": "Observation",
-    "count": 9
+    "count": 8
   },
   {
     "year": 2023,
@@ -11241,13 +11559,7 @@
     "year": 2023,
     "country": "United States",
     "purpose": "Observation",
-    "count": 104
-  },
-  {
-    "year": 2023,
-    "country": "Uruguay",
-    "purpose": "All Other Categories",
-    "count": 1
+    "count": 105
   },
   {
     "year": 2023,
@@ -11281,6 +11593,12 @@
   },
   {
     "year": 2024,
+    "country": "Brazil",
+    "purpose": "Observation",
+    "count": 2
+  },
+  {
+    "year": 2024,
     "country": "Canada",
     "purpose": "All Other Categories",
     "count": 2
@@ -11307,7 +11625,7 @@
     "year": 2024,
     "country": "China",
     "purpose": "Communication",
-    "count": 113
+    "count": 111
   },
   {
     "year": 2024,
@@ -11335,6 +11653,12 @@
   },
   {
     "year": 2024,
+    "country": "Djibouti",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2024,
     "country": "ESA",
     "purpose": "All Other Categories",
     "count": 2
@@ -11353,6 +11677,12 @@
   },
   {
     "year": 2024,
+    "country": "EU",
+    "purpose": "Observation",
+    "count": 2
+  },
+  {
+    "year": 2024,
     "country": "Egypt",
     "purpose": "Observation",
     "count": 1
@@ -11361,25 +11691,19 @@
     "year": 2024,
     "country": "Finland",
     "purpose": "Observation",
-    "count": 7
+    "count": 4
   },
   {
     "year": 2024,
     "country": "France",
     "purpose": "All Other Categories",
-    "count": 7
+    "count": 5
   },
   {
     "year": 2024,
     "country": "France",
     "purpose": "Communication",
     "count": 16
-  },
-  {
-    "year": 2024,
-    "country": "France",
-    "purpose": "Observation",
-    "count": 1
   },
   {
     "year": 2024,
@@ -11395,9 +11719,9 @@
   },
   {
     "year": 2024,
-    "country": "Germany",
-    "purpose": "Observation",
-    "count": 1
+    "country": "HONGQ?",
+    "purpose": "Communication",
+    "count": 2
   },
   {
     "year": 2024,
@@ -11481,7 +11805,7 @@
     "year": 2024,
     "country": "Luxembourg",
     "purpose": "Communication",
-    "count": 3
+    "count": 7
   },
   {
     "year": 2024,
@@ -11500,6 +11824,12 @@
     "country": "Morocco",
     "purpose": "Observation",
     "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Norway",
+    "purpose": "Communication",
+    "count": 2
   },
   {
     "year": 2024,
@@ -11565,12 +11895,18 @@
     "year": 2024,
     "country": "Russia",
     "purpose": "Observation",
-    "count": 23
+    "count": 20
   },
   {
     "year": 2024,
     "country": "Rwanda",
     "purpose": "Communication",
+    "count": 1
+  },
+  {
+    "year": 2024,
+    "country": "Senegal",
+    "purpose": "All Other Categories",
     "count": 1
   },
   {
@@ -11595,7 +11931,7 @@
     "year": 2024,
     "country": "Spain",
     "purpose": "All Other Categories",
-    "count": 2
+    "count": 1
   },
   {
     "year": 2024,
@@ -11613,6 +11949,12 @@
     "year": 2024,
     "country": "Sweden",
     "purpose": "Communication",
+    "count": 2
+  },
+  {
+    "year": 2024,
+    "country": "TSSKBP?",
+    "purpose": "Observation",
     "count": 2
   },
   {
@@ -11649,13 +11991,13 @@
     "year": 2024,
     "country": "United Kingdom",
     "purpose": "All Other Categories",
-    "count": 5
+    "count": 2
   },
   {
     "year": 2024,
     "country": "United Kingdom",
     "purpose": "Communication",
-    "count": 33
+    "count": 30
   },
   {
     "year": 2024,
@@ -11667,13 +12009,13 @@
     "year": 2024,
     "country": "United States",
     "purpose": "All Other Categories",
-    "count": 80
+    "count": 84
   },
   {
     "year": 2024,
     "country": "United States",
     "purpose": "Communication",
-    "count": 1982
+    "count": 1979
   },
   {
     "year": 2024,
@@ -11685,13 +12027,25 @@
     "year": 2024,
     "country": "United States",
     "purpose": "Observation",
-    "count": 176
+    "count": 177
   },
   {
     "year": 2024,
     "country": "Uruguay",
     "purpose": "Observation",
     "count": 4
+  },
+  {
+    "year": 2024,
+    "country": "Zimbabwe",
+    "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "AFRL?",
+    "purpose": "All Other Categories",
+    "count": 1
   },
   {
     "year": 2025,
@@ -11720,8 +12074,8 @@
   {
     "year": 2025,
     "country": "BGN",
-    "purpose": "Communication",
-    "count": 2
+    "purpose": "Observation",
+    "count": 1
   },
   {
     "year": 2025,
@@ -11749,21 +12103,27 @@
   },
   {
     "year": 2025,
-    "country": "Bulgaria",
+    "country": "CASC?",
+    "purpose": "All Other Categories",
+    "count": 3
+  },
+  {
+    "year": 2025,
+    "country": "CASC?",
     "purpose": "Observation",
-    "count": 1
+    "count": 2
   },
   {
     "year": 2025,
     "country": "Canada",
     "purpose": "Observation",
-    "count": 6
+    "count": 5
   },
   {
     "year": 2025,
     "country": "China",
     "purpose": "All Other Categories",
-    "count": 56
+    "count": 53
   },
   {
     "year": 2025,
@@ -11781,7 +12141,7 @@
     "year": 2025,
     "country": "China",
     "purpose": "Observation",
-    "count": 74
+    "count": 71
   },
   {
     "year": 2025,
@@ -11793,6 +12153,12 @@
     "year": 2025,
     "country": "Czech Republic",
     "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "DARPA2?",
+    "purpose": "Communication",
     "count": 1
   },
   {
@@ -11817,6 +12183,12 @@
     "year": 2025,
     "country": "EU",
     "purpose": "Geolocation",
+    "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "EU",
+    "purpose": "Observation",
     "count": 2
   },
   {
@@ -11853,7 +12225,7 @@
     "year": 2025,
     "country": "France",
     "purpose": "All Other Categories",
-    "count": 9
+    "count": 7
   },
   {
     "year": 2025,
@@ -11883,7 +12255,7 @@
     "year": 2025,
     "country": "Germany",
     "purpose": "Observation",
-    "count": 15
+    "count": 14
   },
   {
     "year": 2025,
@@ -11919,13 +12291,13 @@
     "year": 2025,
     "country": "India",
     "purpose": "All Other Categories",
-    "count": 1
+    "count": 2
   },
   {
     "year": 2025,
     "country": "India",
     "purpose": "Communication",
-    "count": 3
+    "count": 2
   },
   {
     "year": 2025,
@@ -11959,6 +12331,12 @@
   },
   {
     "year": 2025,
+    "country": "Ireland",
+    "purpose": "Observation",
+    "count": 1
+  },
+  {
+    "year": 2025,
     "country": "Israel",
     "purpose": "Communication",
     "count": 7
@@ -11985,7 +12363,7 @@
     "year": 2025,
     "country": "Japan",
     "purpose": "All Other Categories",
-    "count": 21
+    "count": 18
   },
   {
     "year": 2025,
@@ -12013,12 +12391,6 @@
   },
   {
     "year": 2025,
-    "country": "Lithuania",
-    "purpose": "Observation",
-    "count": 1
-  },
-  {
-    "year": 2025,
     "country": "Luxembourg",
     "purpose": "All Other Categories",
     "count": 2
@@ -12028,12 +12400,24 @@
     "country": "Luxembourg",
     "purpose": "Observation",
     "count": 2
+  },
+  {
+    "year": 2025,
+    "country": "MEIHUA",
+    "purpose": "Observation",
+    "count": 1
   },
   {
     "year": 2025,
     "country": "Malaysia",
     "purpose": "All Other Categories",
     "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Malaysia",
+    "purpose": "Observation",
+    "count": 2
   },
   {
     "year": 2025,
@@ -12050,12 +12434,6 @@
   {
     "year": 2025,
     "country": "Nepal",
-    "purpose": "All Other Categories",
-    "count": 1
-  },
-  {
-    "year": 2025,
-    "country": "Netherlands",
     "purpose": "All Other Categories",
     "count": 1
   },
@@ -12139,12 +12517,6 @@
   },
   {
     "year": 2025,
-    "country": "Rwanda",
-    "purpose": "Communication",
-    "count": 5
-  },
-  {
-    "year": 2025,
     "country": "Saudi Arabia",
     "purpose": "All Other Categories",
     "count": 2
@@ -12153,6 +12525,12 @@
     "year": 2025,
     "country": "Singapore",
     "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Solomon Is.",
+    "purpose": "Communication",
     "count": 1
   },
   {
@@ -12176,14 +12554,8 @@
   {
     "year": 2025,
     "country": "Spain",
-    "purpose": "All Other Categories",
-    "count": 1
-  },
-  {
-    "year": 2025,
-    "country": "Spain",
     "purpose": "Communication",
-    "count": 15
+    "count": 13
   },
   {
     "year": 2025,
@@ -12194,14 +12566,26 @@
   {
     "year": 2025,
     "country": "Switzerland",
+    "purpose": "All Other Categories",
+    "count": 1
+  },
+  {
+    "year": 2025,
+    "country": "Switzerland",
     "purpose": "Communication",
+    "count": 3
+  },
+  {
+    "year": 2025,
+    "country": "TELTN?",
+    "purpose": "All Other Categories",
     "count": 1
   },
   {
     "year": 2025,
     "country": "Taiwan",
     "purpose": "All Other Categories",
-    "count": 6
+    "count": 8
   },
   {
     "year": 2025,
@@ -12218,13 +12602,13 @@
   {
     "year": 2025,
     "country": "Thailand",
-    "purpose": "Communication",
+    "purpose": "All Other Categories",
     "count": 1
   },
   {
     "year": 2025,
-    "country": "Tunisia",
-    "purpose": "All Other Categories",
+    "country": "Thailand",
+    "purpose": "Communication",
     "count": 1
   },
   {
@@ -12273,25 +12657,25 @@
     "year": 2025,
     "country": "United Kingdom",
     "purpose": "Communication",
-    "count": 8
+    "count": 4
   },
   {
     "year": 2025,
     "country": "United Kingdom",
     "purpose": "Observation",
-    "count": 5
+    "count": 4
   },
   {
     "year": 2025,
     "country": "United States",
     "purpose": "All Other Categories",
-    "count": 63
+    "count": 65
   },
   {
     "year": 2025,
     "country": "United States",
     "purpose": "Communication",
-    "count": 3421
+    "count": 3431
   },
   {
     "year": 2025,
@@ -12308,14 +12692,8 @@
   {
     "year": 2025,
     "country": "Uruguay",
-    "purpose": "All Other Categories",
-    "count": 1
-  },
-  {
-    "year": 2025,
-    "country": "Uruguay",
     "purpose": "Observation",
-    "count": 4
+    "count": 3
   },
   {
     "year": 2026,

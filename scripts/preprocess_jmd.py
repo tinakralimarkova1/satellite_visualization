@@ -121,32 +121,18 @@ def parse_org_codes(value: str) -> list[str]:
 def resolve_country_state_code(
     state_value: str,
     owner_value: str,
-    manufacturer_value: str,
     code_to_state_code: dict[str, str],
 ) -> str:
-    default_state_code = normalize_state_code(
+    owner_codes = parse_org_codes(owner_value)
+    if owner_codes:
+        first_owner_code = owner_codes[0]
+        return normalize_state_code(
+            code_to_state_code.get(first_owner_code, first_owner_code)
+        )
+
+    return normalize_state_code(
         code_to_state_code.get(str(state_value).strip(), str(state_value).strip())
     )
-
-    owner_states = {
-        normalize_state_code(code_to_state_code.get(code, code))
-        for code in parse_org_codes(owner_value)
-    }
-    owner_states = {state for state in owner_states if state}
-
-    if len(owner_states) <= 1:
-        return default_state_code
-
-    manufacturer_states = [
-        normalize_state_code(code_to_state_code.get(code, code))
-        for code in parse_org_codes(manufacturer_value)
-    ]
-    manufacturer_states = [state for state in manufacturer_states if state]
-
-    if len(set(manufacturer_states)) == 1:
-        return manufacturer_states[0]
-
-    return default_state_code
 
 
 PURPOSE_CATEGORY_RULES = [
@@ -201,15 +187,13 @@ def main() -> None:
     df = df.merge(psatcat_df, how="inner", on="#JCAT")
 
 
-    # Attribute cross-country multi-owner payloads to the manufacturer country.
+    # Attribute payloads to the first listed owner country.
     df["State"] = df["State"].astype(str).str.strip()
     df["Owner"] = df["Owner"].astype(str).str.strip()
-    df["Manufacturer"] = df["Manufacturer"].astype(str).str.strip()
     df["country_state_code"] = df.apply(
         lambda row: resolve_country_state_code(
             state_value=row["State"],
             owner_value=row["Owner"],
-            manufacturer_value=row["Manufacturer"],
             code_to_state_code=code_to_state_code,
         ),
         axis=1,
