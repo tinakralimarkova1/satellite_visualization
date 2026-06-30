@@ -4,6 +4,7 @@ let countryYearData = [];
 let countryColorMap = {};
 let allCountries = [];
 
+const TOP_COUNTRY_COUNT = 8;
 const OTHER_LABEL = "Other";
 const OTHER_COLOR = "#9ca3af";
 const COUNTRY_MAP = {
@@ -106,8 +107,8 @@ export async function initializeCountryFilter() {
 
   generateColorMap(allCountries);
 
-  // default = top 8 only
-  const defaultCountries = allCountries.slice(0, 8);
+  // Default to the eight countries with the highest all-time launch totals.
+  const defaultCountries = allCountries.slice(0, TOP_COUNTRY_COUNT);
   appState.selectedCountries = [...defaultCountries];
 
   if (controlsContainer) {
@@ -237,7 +238,7 @@ export async function renderCountryStackedChart() {
     });
   });
 
-  // Other trace = all unselected countries combined
+  // Combine every country outside the selected top eight into one series.
   const unselectedCountries = allCountries.filter(
     country => !selectedCountries.includes(country)
   );

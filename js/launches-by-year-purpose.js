@@ -44,7 +44,9 @@ export async function renderPurposeStackedChart() {
 
   const purposes = purposeOrder.filter(purpose => purposesInData.includes(purpose));
 
-  const traces = purposes.map(purpose => {
+  // Plotly stacks the first trace at the bottom. Reverse the traces so the
+  // stack reads top-to-bottom in the same order as the country-profile graph.
+  const traces = [...purposes].reverse().map(purpose => {
     const purposeRows = filtered.filter(row => row.purpose === purpose);
     const countMap = new Map(purposeRows.map(row => [row.year, row.count]));
 
@@ -87,7 +89,8 @@ export async function renderPurposeStackedChart() {
       },
       legend: {
         orientation: "h",
-        y: 1.12
+        y: 1.12,
+        traceorder: "reversed"
       }
     },
     {
