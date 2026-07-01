@@ -1,4 +1,4 @@
-import { appState } from "./state.js";
+import { appState } from "./state.js?v=20260701";
 
 export async function renderLaunchesChart() {
   const chartEl = document.getElementById("chart-launches");
@@ -27,11 +27,11 @@ export async function renderLaunchesChart() {
         x: years,
         y: counts,
         type: "bar",
-        hovertemplate: "Year: %{x}<br>Launches: %{y}<extra></extra>"
+        hovertemplate: "Year: %{x}<br>Satellites launched: %{y}<extra></extra>"
       }
     ],
     {
-      title: "Number of Satellite Launches per Year - JMD",
+      title: "Satellites Launched per Year",
       paper_bgcolor: "white",
       plot_bgcolor: "white",
       margin: { t: 50, r: 20, b: 60, l: 60 },
@@ -45,7 +45,7 @@ export async function renderLaunchesChart() {
         gridcolor: "#e5e7eb"
       },
       yaxis: {
-        title: "Number of Launches",
+        title: "Satellites Launched",
         gridcolor: "#e5e7eb"
       }
     },
@@ -54,7 +54,7 @@ export async function renderLaunchesChart() {
       displaylogo: false,
       toImageButtonOptions: {
         format: "png",
-        filename: "launches_by_year_jmd",
+        filename: "satellites_launched_by_year",
         scale: 2
       }
     }

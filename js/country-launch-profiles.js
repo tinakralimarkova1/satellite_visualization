@@ -1,4 +1,4 @@
-import { appState } from "./state.js";
+import { appState } from "./state.js?v=20260701";
 
 const MAX_SELECTED_COUNTRIES = 5;
 const DEFAULT_COUNTRY_PANELS = ["United States", "China", "Russia"];
@@ -242,9 +242,9 @@ function buildMapTrace(filteredData) {
       }
     },
     colorbar: {
-      title: "Launches"
+      title: "Satellites"
     },
-    hovertemplate: "Country: %{text}<br>Launches: %{z}<extra></extra>"
+    hovertemplate: "Owner country: %{text}<br>Satellites launched: %{z}<extra></extra>"
   };
 }
 
@@ -262,7 +262,7 @@ async function renderMap(filteredData) {
     chartEl,
     [mapTrace],
     {
-      title: `Launches by Country (${minYear}–${maxYear})`,
+      title: `Satellites Launched by Owner Country (${minYear}–${maxYear})`,
       paper_bgcolor: "white",
       plot_bgcolor: "white",
       margin: { t: 56, r: 24, b: 12, l: 24 },
@@ -287,7 +287,7 @@ async function renderMap(filteredData) {
       displaylogo: false,
       toImageButtonOptions: {
         format: "png",
-        filename: "country_launch_profiles_map",
+        filename: "owner_country_satellite_profiles_map",
         scale: 2
       }
     }
@@ -350,7 +350,7 @@ function buildCountryChartLayout(country, selectionCount) {
       gridcolor: "#eef2ff"
     },
     yaxis: {
-      title: selectionCount === 1 ? "Launches" : "",
+      title: selectionCount === 1 ? "Satellites Launched" : "",
       tickfont: {
         size: selectionCount === 1 ? 11 : 9
       },
@@ -407,7 +407,7 @@ async function renderCountryPanels(filteredData) {
         marker: {
           color: PURPOSE_COLORS[purpose] || "#94a3b8"
         },
-        hovertemplate: `Country: ${country}<br>Year: %{x}<br>Purpose: ${purpose}<br>Launches: %{y}<extra></extra>`
+        hovertemplate: `Owner country: ${country}<br>Year: %{x}<br>Purpose: ${purpose}<br>Satellites launched: %{y}<extra></extra>`
       };
     });
 
@@ -421,7 +421,7 @@ async function renderCountryPanels(filteredData) {
         modeBarButtonsToRemove: ["lasso2d", "select2d"],
         toImageButtonOptions: {
           format: "png",
-          filename: `${country.toLowerCase().replace(/[^a-z0-9]+/g, "_")}_launch_profile`,
+          filename: `${country.toLowerCase().replace(/[^a-z0-9]+/g, "_")}_satellite_profile`,
           scale: 2
         }
       }

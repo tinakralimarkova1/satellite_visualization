@@ -1,4 +1,4 @@
-import { appState } from "./state.js";
+import { appState } from "./state.js?v=20260701";
 
 let geoData = [];
 
@@ -61,14 +61,14 @@ export async function renderGeoLaunchMap() {
           }
         },
         colorbar: {
-          title: "Launches"
+          title: "Satellites"
         },
         hovertemplate:
-          "Country: %{text}<br>Launches: %{z}<extra></extra>"
+          "Owner country: %{text}<br>Satellites launched: %{z}<extra></extra>"
       }
     ],
     {
-      title: `Satellite Launches by Country (${minYear}–${maxYear})`,
+      title: `Satellites Launched by Owner Country (${minYear}–${maxYear})`,
       paper_bgcolor: "white",
       plot_bgcolor: "white",
       margin: { t: 56, r: 24, b: 12, l: 24 },
@@ -93,7 +93,7 @@ export async function renderGeoLaunchMap() {
       displaylogo: false,
       toImageButtonOptions: {
         format: "png",
-        filename: "launches_by_country_map",
+        filename: "satellites_by_owner_country_map",
         scale: 2
       }
     }

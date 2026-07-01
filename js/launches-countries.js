@@ -1,4 +1,4 @@
-import { appState } from "./state.js";
+import { appState } from "./state.js?v=20260701";
 
 let countryYearData = [];
 let countryColorMap = {};
@@ -7,6 +7,16 @@ let allCountries = [];
 const TOP_COUNTRY_COUNT = 8;
 const OTHER_LABEL = "Other";
 const OTHER_COLOR = "#9ca3af";
+const COUNTRY_COLORS = {
+  "United States": "#2563eb",
+  Russia: "#dc2626",
+  China: "#eab308",
+  "United Kingdom": "#7c3aed",
+  Japan: "#db2777",
+  France: "#0891b2",
+  India: "#f97316",
+  Germany: "#334155"
+};
 const COUNTRY_MAP = {
   US: "United States",
   PRC: "China",
@@ -32,14 +42,16 @@ function normalizeCountry(code) {
 
 function generateColorMap(countries) {
   const palette = [
-    "#1f77b4", "#ff7f0e", "#2ca02c", "#d62728",
-    "#9467bd", "#8c564b", "#e377c2", "#7f7f7f",
-    "#bcbd22", "#17becf", "#393b79", "#637939"
+    "#059669", "#4f46e5", "#c2410c", "#0d9488",
+    "#9333ea", "#65a30d", "#be123c", "#0284c7"
   ];
 
-  countries.forEach((country, index) => {
+  let fallbackIndex = 0;
+
+  countries.forEach(country => {
     if (!countryColorMap[country]) {
-      countryColorMap[country] = palette[index % palette.length];
+      countryColorMap[country] = COUNTRY_COLORS[country]
+        || palette[fallbackIndex++ % palette.length];
     }
   });
 
@@ -234,7 +246,7 @@ export async function renderCountryStackedChart() {
         color: countryColorMap[country]
       },
       hovertemplate:
-        "Year: %{x}<br>Country: " + country + "<br>Launches: %{y}<extra></extra>"
+        "Year: %{x}<br>Owner country: " + country + "<br>Satellites launched: %{y}<extra></extra>"
     });
   });
 
@@ -266,7 +278,7 @@ export async function renderCountryStackedChart() {
         color: OTHER_COLOR
       },
       hovertemplate:
-        "Year: %{x}<br>Country: Other<br>Launches: %{y}<extra></extra>"
+        "Year: %{x}<br>Owner country: Other<br>Satellites launched: %{y}<extra></extra>"
     });
   }
 
@@ -274,7 +286,7 @@ export async function renderCountryStackedChart() {
     chartEl,
     traces,
     {
-      title: "Satellite Launches by Country Over Time",
+      title: "Satellites Launched by Owner Country Over Time",
       barmode: "stack",
       paper_bgcolor: "white",
       plot_bgcolor: "white",
@@ -289,12 +301,13 @@ export async function renderCountryStackedChart() {
         gridcolor: "#e5e7eb"
       },
       yaxis: {
-        title: "Number of Launches",
+        title: "Satellites Launched",
         gridcolor: "#e5e7eb"
       },
       legend: {
         orientation: "h",
-        y: 1.12
+        y: 1.12,
+        traceorder: "normal"
       }
     },
     {
@@ -302,7 +315,7 @@ export async function renderCountryStackedChart() {
       displaylogo: false,
       toImageButtonOptions: {
         format: "png",
-        filename: "launches_by_country_stacked",
+        filename: "satellites_launched_by_owner_country",
         scale: 2
       }
     }

@@ -47,6 +47,43 @@
     color: var(--muted);
     max-width: 700px;
   }
+
+  .methodology-card {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: minmax(240px, 0.7fr) minmax(0, 1.8fr);
+    gap: 24px;
+    padding: 20px 22px;
+    margin-bottom: 24px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+  }
+
+  .methodology-card h2 {
+    margin: 0 0 10px;
+    font-size: 1.1rem;
+  }
+
+  .methodology-card p {
+    margin: 0 0 8px;
+    color: var(--muted);
+    font-size: 0.9rem;
+    line-height: 1.45;
+  }
+
+  .methodology-card p:last-child {
+    margin-bottom: 0;
+  }
+
+  .methodology-card strong {
+    color: var(--text);
+  }
+
+  .purpose-definitions p {
+    margin-bottom: 5px;
+  }
   
   .filters {
     margin-bottom: 24px;
@@ -172,6 +209,12 @@
   
     .chart {
       height: 420px;
+    }
+
+    .methodology-card {
+      grid-template-columns: 1fr;
+      gap: 14px;
+      padding: 18px;
     }
   }
 

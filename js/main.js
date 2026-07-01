@@ -1,12 +1,12 @@
-import { appState } from "./state.js";
-import { renderLaunchesChart } from "./launches.js";
-import { initializeCountryFilter, renderCountryStackedChart } from "./launches-countries.js";
-import { renderPurposeStackedChart } from "./launches-by-year-purpose.js";
-import { renderGeoLaunchMap } from "./launches-geo.js";
+import { appState } from "./state.js?v=20260701";
+import { renderLaunchesChart } from "./launches.js?v=20260701";
+import { initializeCountryFilter, renderCountryStackedChart } from "./launches-countries.js?v=20260701";
+import { renderPurposeStackedChart } from "./launches-by-year-purpose.js?v=20260701";
+import { renderGeoLaunchMap } from "./launches-geo.js?v=20260701";
 import {
   initializeCountryLaunchProfiles,
   renderCountryLaunchProfiles
-} from "./country-launch-profiles.js";
+} from "./country-launch-profiles.js?v=20260701";
 
 
 function initializeYearSlider() {

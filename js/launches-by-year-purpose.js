@@ -1,4 +1,4 @@
-import { appState } from "./state.js";
+import { appState } from "./state.js?v=20260701";
 
 let purposeYearData = [];
 
@@ -61,7 +61,7 @@ export async function renderPurposeStackedChart() {
       hovertemplate:
         "Year: %{x}<br>Purpose: " +
         purpose +
-        "<br>Launches: %{y}<extra></extra>"
+        "<br>Satellites launched: %{y}<extra></extra>"
     };
   });
 
@@ -69,7 +69,7 @@ export async function renderPurposeStackedChart() {
     chartEl,
     traces,
     {
-      title: "Satellite Launches by Purpose Over Time",
+      title: "Satellites Launched by Purpose Over Time",
       barmode: "stack",
       paper_bgcolor: "white",
       plot_bgcolor: "white",
@@ -84,7 +84,7 @@ export async function renderPurposeStackedChart() {
         gridcolor: "#e5e7eb"
       },
       yaxis: {
-        title: "Number of Launches",
+        title: "Satellites Launched",
         gridcolor: "#e5e7eb"
       },
       legend: {
@@ -98,7 +98,7 @@ export async function renderPurposeStackedChart() {
       displaylogo: false,
       toImageButtonOptions: {
         format: "png",
-        filename: "launches_by_purpose_stacked",
+        filename: "satellites_launched_by_purpose",
         scale: 2
       }
     }

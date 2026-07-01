@@ -5,14 +5,36 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Satellite Data Visualizations</title>
   <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css?v=20260701" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nouislider@15.8.1/dist/nouislider.min.css" />
 </head>
 <body>
   <div class="page">
     <header class="hero">
       <h1>Satellite Data Visualizations</h1>
+      <p>Satellites launched worldwide from 1957 through February 22, 2026.</p>
     </header>
+
+    <section class="methodology-card" aria-labelledby="methodology-title">
+      <div class="methodology-heading">
+        <h2 id="methodology-title">Source &amp; methodology</h2>
+        <p><strong>Source:</strong> Jonathan McDowell satellite catalog</p>
+        <p><strong>Data updated:</strong> February 22, 2026.</p>
+      </div>
+      <div class="methodology-details">
+        <p><strong>What is counted:</strong> Each cataloged satellite or payload is counted as one satellite launched.</p>
+        <p><strong>Country assignment:</strong> Satellites are assigned to the country of the first listed owner. When owner information is unavailable, the catalog’s state field is used.</p>
+        <p><strong>USSR/Russia and multinational ownership:</strong> Soviet Union records are combined with Russia. For missions with multiple owners, the satellite is assigned only to the first listed owner.</p>
+        <div class="purpose-definitions">
+          <p><strong>Purpose categories:</strong></p>
+          <p><strong>Observation:</strong> Imaging, radar imaging, meteorology, Earth and space science, astronomy, geodesy, and calibration.</p>
+          <p><strong>Communication:</strong> Communications satellites.</p>
+          <p><strong>Geolocation:</strong> Navigation satellites.</p>
+          <p><strong>Armamentation:</strong> Weapons and targets.</p>
+          <p><strong>All Other Categories:</strong> All remaining or uncategorized purposes.</p>
+        </div>
+      </div>
+    </section>
 
     <aside class="filters">
       <div class="filter-card">
@@ -43,16 +65,16 @@
     <main class="content">
       <section class="chart-card">
         <div class="card-header">
-          <h2>Launches Over Time</h2>
-          <p>Total number of launches by year.</p>
+          <h2>Satellites Launched Over Time</h2>
+          <p>Total number of satellites launched by year.</p>
         </div>
         <div id="chart-launches" class="chart"></div>
       </section>
 
       <section class="chart-card">
         <div class="card-header">
-          <h2>Launches by Purpose</h2>
-          <p>Stacked launch totals by year and satellite purpose.</p>
+          <h2>Satellites Launched by Purpose</h2>
+          <p>Stacked satellite totals by launch year and purpose.</p>
           <p class="purpose-note">All Other Categories includes technology demonstrations, human spaceflight, signals intelligence, early warning, infrastructure, microgravity, biology, reentry vehicles, education, planetary/deep-space missions, miscellaneous missions, and uncategorized payloads.</p>
         </div>
         <div id="chart-purpose" class="chart"></div>
@@ -60,24 +82,25 @@
 
       <section class="chart-card">
         <div class="card-header">
-          <h2>Launches by Country Over Time</h2>
-          <p>Stacked bar chart of yearly launches by selected countries.</p>
+          <h2>Satellites Launched by Owner Country Over Time</h2>
+          <p>Stacked yearly totals by the satellite’s assigned owner country.</p>
+          <p class="purpose-note">The countries shown are the eight owner countries with the most satellites launched. All remaining countries are combined as Other.</p>
         </div>
         <div id="chart-launches-countries" class="chart"></div>
       </section>
 
       <section class="chart-card">
         <div class="card-header">
-          <h2>Geographical Distribution of Launches</h2>
-          <p>Total launches by country within the selected year range.</p>
+          <h2>Geographical Distribution by Owner Country</h2>
+          <p>Total satellites launched by assigned owner country within the selected year range.</p>
         </div>
         <div id="chart-launches-geo" class="chart"></div>
       </section>
 
       <section class="chart-card composite-card">
         <div class="card-header">
-          <h2>Country Launch Profiles</h2>
-          <p>Click countries on the map or add them below to compare launch timelines by purpose. Up to five countries can be shown at once.</p>
+          <h2>Owner Country Satellite Profiles</h2>
+          <p>Click countries on the map or add them below to compare satellites launched over time by purpose. Up to five countries can be shown at once.</p>
         </div>
         <div class="country-profiles">
           <div id="chart-country-profiles-map" class="chart chart-map"></div>
@@ -104,6 +127,6 @@
     </main>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/nouislider@15.8.1/dist/nouislider.min.js"></script>
-  <script type="module" src="./js/main.js"></script>
+  <script type="module" src="./js/main.js?v=20260701"></script>
 </body>
 </html>
